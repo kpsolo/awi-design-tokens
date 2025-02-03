@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0829dce514bdafde80cdd5e3fb814e658510cc80",
+    "name": "MG",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Maggico": "enabled"
+    },
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "aa8dde92d80bfad62c1c7085a3838f1438fb5766",
+    "name": "AWI",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Awintura": "enabled"
+    },
+    "$figmaVariableReferences": {}
+  }
+]

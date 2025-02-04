@@ -2299,6 +2299,62 @@
         "value": "{size.300}",
         "type": "sizing"
       }
+    },
+    "padding-right": {
+      "sm": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "joint": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      }
+    },
+    "padding-left": {
+      "sm": {
+        "value": "{spacining.300}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "joint": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      }
+    },
+    "gap": {
+      "default": {
+        "value": "{spacining.200}",
+        "type": "spacing"
+      },
+      "phone": {
+        "value": "{spacining.50}",
+        "type": "spacing"
+      }
+    },
+    "label-gap-bottom": {
+      "value": "{spacining.200}",
+      "type": "spacing"
+    },
+    "additional-text-gap": {
+      "top": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      },
+      "between-elements": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      },
+      "inside-horisontal": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      }
     }
   }
 }

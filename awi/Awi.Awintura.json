@@ -333,7 +333,7 @@
       },
       "disabled": {
         "value": {
-          "color": "{contextual.input.border-color.validation}",
+          "color": "{contextual.input.border-color.disabled}",
           "width": "{border-width.025}",
           "style": "solid"
         },
@@ -476,7 +476,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.default}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "hover": {
@@ -514,7 +514,7 @@
     },
     "input": {
       "label": {
-        "value": "{semantic.text.static.default}",
+        "value": "{semantic.text.static.primary}",
         "type": "color"
       },
       "placeholder": {
@@ -523,7 +523,7 @@
           "type": "color"
         },
         "filled": {
-          "value": "{semantic.text.static.default}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         }
       },
@@ -1035,7 +1035,7 @@
         "type": "color"
       },
       "400": {
-        "value": "#A9936A",
+        "value": "#A29172",
         "type": "color"
       },
       "500": {
@@ -1622,7 +1622,7 @@
     },
     "icon": {
       "static": {
-        "default": {
+        "primary": {
           "value": "{core.brand-60.800}",
           "type": "color"
         },
@@ -1642,7 +1642,7 @@
           "value": "{core.brand-30.300}",
           "type": "color"
         },
-        "default": {
+        "primary": {
           "value": "{core.brand-30.200}",
           "type": "color"
         },
@@ -1656,7 +1656,7 @@
         }
       },
       "brand": {
-        "default": {
+        "primary": {
           "value": "{core.brand-10.500}",
           "type": "color"
         },
@@ -1674,7 +1674,7 @@
         }
       },
       "disabled": {
-        "default": {
+        "primary": {
           "value": "{core.grey.a30}",
           "type": "color"
         },
@@ -1692,7 +1692,7 @@
         }
       },
       "static": {
-        "default": {
+        "primary": {
           "value": "{core.brand-60.800}",
           "type": "color"
         },
@@ -1701,7 +1701,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-60.400}",
           "type": "color"
         }
       },

@@ -93,6 +93,38 @@
         "value": "{spacining.200}",
         "type": "spacing"
       }
+    },
+    "icon": {
+      "size": {
+        "sm": {
+          "value": "{size.400}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{size.600}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{size.800}",
+          "type": "sizing"
+        }
+      }
+    },
+    "icon-only-type": {
+      "size": {
+        "sm": {
+          "value": "{size.400}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{size.600}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{size.800}",
+          "type": "sizing"
+        }
+      }
     }
   },
   "border-radius": {
@@ -2363,6 +2395,16 @@
       },
       "inside-horisontal": {
         "value": "{spacining.100}",
+        "type": "spacing"
+      }
+    },
+    "textarea": {
+      "padding-horizontal": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacining.300}",
         "type": "spacing"
       }
     }

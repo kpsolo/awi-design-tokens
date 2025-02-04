@@ -52,20 +52,6 @@
         "type": "sizing"
       }
     },
-    "border-radius": {
-      "sm": {
-        "value": "{border-radius.200}",
-        "type": "borderRadius"
-      },
-      "md": {
-        "value": "{border-radius.300}",
-        "type": "borderRadius"
-      },
-      "lg": {
-        "value": "{border-radius.300}",
-        "type": "borderRadius"
-      }
-    },
     "gap": {
       "sm": {
         "value": "{spacining.0}",
@@ -106,6 +92,52 @@
       "lg": {
         "value": "{spacining.200}",
         "type": "spacing"
+      }
+    }
+  },
+  "border-radius": {
+    "100": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "300": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "400": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "button": {
+      "sm": {
+        "value": "{border-radius.200}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{border-radius.300}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{border-radius.300}",
+        "type": "borderRadius"
+      }
+    },
+    "full": {
+      "value": "9999",
+      "type": "borderRadius"
+    },
+    "input": {
+      "sm": {
+        "value": "{border-radius.200}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{border-radius.300}",
+        "type": "borderRadius"
       }
     }
   },
@@ -233,7 +265,7 @@
       },
       "hover": {
         "value": {
-          "color": "{contextual.input.border-color.filled}",
+          "color": "{contextual.input.border-color.hover}",
           "width": "{border-width.025}",
           "style": "solid"
         },
@@ -2081,28 +2113,6 @@
     "90": {
       "value": "0.9",
       "type": "opacity"
-    }
-  },
-  "border-radius": {
-    "100": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "200": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "300": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "400": {
-      "value": "16",
-      "type": "borderRadius"
-    },
-    "full": {
-      "value": "9999",
-      "type": "borderRadius"
     }
   },
   "blur": {

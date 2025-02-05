@@ -1032,6 +1032,20 @@
           }
         }
       }
+    },
+    "dropdown-menu": {
+      "item": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.brand-10.a10}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
@@ -1771,6 +1785,10 @@
       },
       "a30": {
         "value": "rgba(254, 182, 0, 0.3)",
+        "type": "color"
+      },
+      "a10": {
+        "value": "rgba(254, 182, 0, 0.1)",
         "type": "color"
       },
       "a40": {

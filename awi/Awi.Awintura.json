@@ -949,17 +949,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(130deg, #FFCA2B 0%, #CC6F2D 105.21%)",
+            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) -5.21%, rgba(204, 111, 45, 0.50) 105.21%)",
             "type": "color"
           }
         },
         "check": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.gradients.4}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.gradients.4}",
             "type": "color"
           },
           "validation": {
@@ -967,13 +967,13 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) -5.21%, rgba(204, 111, 45, 0.50) 105.21%)",
             "type": "color"
           }
         },
         "bullet": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "hover": {

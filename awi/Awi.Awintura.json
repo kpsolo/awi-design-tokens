@@ -2447,6 +2447,10 @@
       "phone": {
         "value": "{spacining.50}",
         "type": "spacing"
+      },
+      "between-tags": {
+        "value": "{spacining.100}",
+        "type": "spacing"
       }
     },
     "label-gap-bottom": {

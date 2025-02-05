@@ -333,6 +333,40 @@
         },
         "type": "border"
       }
+    },
+    "selection-controls": {
+      "default": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.default}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "hover": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.hover}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "validation": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.validation}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "disabled": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.disabled}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -959,7 +993,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.gradients.4}",
+            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.40) -5.21%, rgba(204, 111, 45, 0.40) 105.21%)",
             "type": "color"
           },
           "validation": {

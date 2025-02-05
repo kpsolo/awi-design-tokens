@@ -128,49 +128,55 @@
     }
   },
   "border-radius": {
-    "100": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "200": {
-      "value": "8",
-      "type": "borderRadius"
-    },
-    "300": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "400": {
-      "value": "16",
-      "type": "borderRadius"
+    "core": {
+      "100": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "300": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "400": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "9999",
+        "type": "borderRadius"
+      }
     },
     "button": {
       "sm": {
-        "value": "{border-radius.200}",
+        "value": "{border-radius.core.200}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.300}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{border-radius.300}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
-    },
-    "full": {
-      "value": "9999",
-      "type": "borderRadius"
     },
     "input": {
       "sm": {
-        "value": "{border-radius.200}",
+        "value": "{border-radius.core.200}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.300}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
+    },
+    "tag": {
+      "value": "{border-radius.core.100}",
+      "type": "borderRadius"
     }
   },
   "border": {
@@ -883,6 +889,20 @@
             "type": "color"
           }
         }
+      }
+    },
+    "tag": {
+      "text": {
+        "value": "{semantic.text.static.primary}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{core.brand-30.50}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{core.brand-60.500}",
+        "type": "color"
       }
     }
   },
@@ -2456,6 +2476,28 @@
         "value": "{spacining.300}",
         "type": "spacing"
       }
+    }
+  },
+  "tag": {
+    "gap": {
+      "value": "{spacining.100}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{spacining.100}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{spacining.200}",
+      "type": "spacing"
+    },
+    "height": {
+      "value": "{size.300}",
+      "type": "sizing"
+    },
+    "icon-size": {
+      "value": "{size.200}",
+      "type": "sizing"
     }
   }
 }

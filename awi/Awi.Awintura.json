@@ -1043,7 +1043,15 @@
           "selected": {
             "value": "{core.brand-10.a10}",
             "type": "color"
+          },
+          "hover": {
+            "value": "rgba(234, 230, 225, 0.50)",
+            "type": "color"
           }
+        },
+        "selected-indicator": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
         }
       }
     }

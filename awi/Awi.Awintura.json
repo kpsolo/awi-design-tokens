@@ -177,6 +177,14 @@
     "tag": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
+    },
+    "radio-button": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
+    "checkbox": {
+      "value": "{border-radius.core.100}",
+      "type": "borderRadius"
     }
   },
   "border": {
@@ -987,7 +995,7 @@
             "type": "color"
           }
         },
-        "check": {
+        "bullet": {
           "default": {
             "value": "{semantic.gradients.4}",
             "type": "color"
@@ -1005,7 +1013,7 @@
             "type": "color"
           }
         },
-        "bullet": {
+        "check": {
           "default": {
             "value": "{core.brand-10.600}",
             "type": "color"
@@ -2627,6 +2635,12 @@
     "icon-size": {
       "value": "{size.200}",
       "type": "sizing"
+    }
+  },
+  "selection-controls": {
+    "gap": {
+      "value": "{spacining.100}",
+      "type": "spacing"
     }
   }
 }

@@ -364,11 +364,6 @@
       "contextual.button.secondary.border-color.hover": "68fe69d9d8617208a127a1e812fe39352e39efa3",
       "contextual.button.secondary.border-color.active": "7a0085c5ff868b53f13892d6e437fe5bebe81d0b",
       "contextual.button.secondary.border-color.disabled": "6c6e7f3240e26a2567ed01e9dee021d7617b6cf7",
-      "contextual.input.label": "d72df9aeca99f7e735d0d424d9c02c394e9a8f30",
-      "contextual.input.placeholder.default": "cbfa23a61f05e4735b542c74a1b0e1740659b288",
-      "contextual.input.placeholder.filled": "30a666aa3c3d9d97b075319dbb0511c12eb9af0e",
-      "contextual.input.helper-text": "d994ba0accdd230ce70ea638e3e211a085260c21",
-      "contextual.input.validation-text": "2fce1f86667db65212c204fdb2b3c4b6d36c63f6",
       "contextual.input.fill.primary.default": "1f53c5b649217265b583743f378e3b88c77aa08c",
       "contextual.input.fill.primary.filled": "39e7ef7141b1db34627fe47aca0270adba120849",
       "contextual.input.fill.primary.hover": "f208b5521cc670bf462b675de6aa60b4912dc8b2",
@@ -645,7 +640,12 @@
       "input.label-gap-bottom": "11fb285ac7178b3e1d5ab2376bd3abb46d85dd0f",
       "input.additional-text-gap.top": "96ed897e1dfc52bd719c878a4b06fd67717d072c",
       "input.additional-text-gap.between-elements": "247d77ca2ef8f195e6a6302f21bf6e05611565b4",
-      "input.additional-text-gap.inside-horisontal": "3dbe1e1dc5abdfb2875b8ee507dba69b4ec05d22"
+      "input.additional-text-gap.inside-horisontal": "3dbe1e1dc5abdfb2875b8ee507dba69b4ec05d22",
+      "contextual.input.text.label": "d72df9aeca99f7e735d0d424d9c02c394e9a8f30",
+      "contextual.input.text.placeholder.default": "cbfa23a61f05e4735b542c74a1b0e1740659b288",
+      "contextual.input.text.placeholder.filled": "30a666aa3c3d9d97b075319dbb0511c12eb9af0e",
+      "contextual.input.text.helper-text": "d994ba0accdd230ce70ea638e3e211a085260c21",
+      "contextual.input.text.validation-text": "2fce1f86667db65212c204fdb2b3c4b6d36c63f6"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

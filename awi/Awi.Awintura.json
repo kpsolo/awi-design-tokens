@@ -737,27 +737,44 @@
       }
     },
     "input": {
-      "label": {
-        "value": "{semantic.text.static.primary}",
-        "type": "color"
-      },
-      "placeholder": {
-        "default": {
-          "value": "{semantic.text.static.tertiary}",
-          "type": "color"
-        },
-        "filled": {
+      "text": {
+        "label": {
           "value": "{semantic.text.static.primary}",
           "type": "color"
+        },
+        "placeholder": {
+          "default": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color"
+          },
+          "invert": {
+            "default": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
+            },
+            "filled": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            }
+          },
+          "filled": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        },
+        "helper-text": {
+          "value": "{semantic.text.static.secondary}",
+          "type": "color"
+        },
+        "validation-text": {
+          "value": "{semantic.text.danger.default}",
+          "type": "color"
+        },
+        "action-right": {
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "clear"
         }
-      },
-      "helper-text": {
-        "value": "{semantic.text.static.secondary}",
-        "type": "color"
-      },
-      "validation-text": {
-        "value": "{semantic.text.danger.default}",
-        "type": "color"
       },
       "fill": {
         "primary": {
@@ -851,6 +868,20 @@
         "tertiary": {
           "value": "{semantic.icon.static.tertiary}",
           "type": "color"
+        },
+        "invert": {
+          "primary": {
+            "value": "{semantic.icon.default.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          }
         }
       }
     }
@@ -1872,6 +1903,20 @@
           "value": "{core.brand-30.600}",
           "type": "color"
         }
+      },
+      "default": {
+        "primary": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-60.a70}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
+        }
       }
     },
     "text": {
@@ -2325,6 +2370,10 @@
     "height": {
       "sm": {
         "value": "{size.400}",
+        "type": "sizing"
+      },
+      "xs": {
+        "value": "{size.300}",
         "type": "sizing"
       },
       "md": {

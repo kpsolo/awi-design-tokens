@@ -2066,52 +2066,52 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "linear-gradient(180deg, #FFF 0%, #FFF6EA 100%)",
+        "value": "#2F2859",
         "type": "color",
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(154deg, #FBF4E0 8.4%, #E7CF85 91.6%)",
+        "value": "linear-gradient(180deg, rgba(119, 107, 190, 0.40) 0%, rgba(23, 16, 66, 0.40) 100%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(0deg, #F5C45C 0%, #FFE457 100%)",
+        "value": "linear-gradient(318deg, #03192C -1.7%, #32356A 40.54%, #484288 64.83%, #D22EDC 107.71%)",
         "type": "color",
-        "description": "gradient. yellow 500"
+        "description": "gradient. brown 700"
       },
       "4": {
-        "value": "linear-gradient(130deg, #FFCA2B 0%, #CC6F2D 105.21%)",
+        "value": "linear-gradient(180deg, rgba(156, 110, 247, 0.48) 0%, rgba(156, 110, 247, 0.00) 100%)",
         "type": "color",
-        "description": "gradients.orange 500"
+        "description": "gradients.border 1"
       },
       "5": {
-        "value": "linear-gradient(180deg, #EBB849 0%, #CE611B 100%)",
+        "value": "linear-gradient(319deg, #03192C 0%, rgba(119, 105, 239, 0.43) 56%, #D22EDC 100%)",
         "type": "color",
-        "description": "gradients.orange 600"
+        "description": "gradients.border 2"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(245, 190, 61, 0.00) 0%, #F3BC3F 100%), linear-gradient(180deg, #FED234 0%, rgba(243, 192, 73, 0.00) 100%)",
+        "value": "linear-gradient(319deg, #8651F0 5.49%, #7968EF 35.98%, #7769EF 40%, #D22EDC 100%)",
         "type": "color",
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "linear-gradient(180deg, #8D837B 0%, #645045 100%)",
+        "value": "linear-gradient(0deg, rgba(192, 192, 255, 0.12) 0%, rgba(192, 192, 255, 0.12) 100%), rgba(28, 5, 240, 0.20)",
         "type": "color",
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "linear-gradient(180deg, #4B433C 0%, #372B23 100%)",
+        "value": "linear-gradient(180deg, #413973 0%, #140E39 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
+        "value": "linear-gradient(0deg, rgba(192, 192, 255, 0.12) 0%, rgba(192, 192, 255, 0.12) 100%), rgba(28, 5, 240, 0.20)",
         "type": "color",
         "description": "gradients.Brown 600"
       },
       "10": {
-        "value": "linear-gradient(180deg, #83E2D5 0%, #27A594 100%)",
+        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 66.67%, rgba(23, 16, 66, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Emerald 600"
       },
@@ -2121,29 +2121,29 @@
         "description": "gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(216, 155, 0, 0.40) 0%, rgba(204, 147, 0, 0.00) 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Radial"
       }
     },
     "background": {
       "1": {
-        "value": "#1C1548",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "basic.sand 900"
       },
       "2": {
-        "value": "#252339",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "basic.replaceable.sand 1100"
       },
       "3": {
-        "value": "#2F2859",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "gradient.yellow 50"
       },
       "4": {
-        "value": "#060423",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "gradient.Black 600"
       },

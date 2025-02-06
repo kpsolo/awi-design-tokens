@@ -195,7 +195,7 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
-      "date-number": {
+      "item": {
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
       }
@@ -391,10 +391,10 @@
       }
     },
     "datepicker": {
-      "date-number": {
+      "item": {
         "default": {
           "value": {
-            "color": "{contextual.datepicker.date-number.border.default}",
+            "color": "{contextual.datepicker.item.border.default}",
             "width": "{depth.025}",
             "style": "solid"
           },
@@ -402,7 +402,7 @@
         },
         "disabled": {
           "value": {
-            "color": "{contextual.datepicker.date-number.border.disabled}",
+            "color": "{contextual.datepicker.item.border.disabled}",
             "width": "{depth.025}",
             "style": "solid"
           },
@@ -410,7 +410,15 @@
         },
         "today": {
           "value": {
-            "color": "{contextual.datepicker.date-number.border.today}",
+            "color": "{contextual.datepicker.item.border.today}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{contextual.datepicker.item.border.hover}",
             "width": "{depth.025}",
             "style": "solid"
           },
@@ -418,7 +426,7 @@
         },
         "selected": {
           "value": {
-            "color": "{contextual.datepicker.date-number.border.selected}",
+            "color": "{contextual.datepicker.item.border.selected}",
             "width": "{depth.025}",
             "style": "solid"
           },
@@ -1125,16 +1133,28 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "ovelray-fill": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 50%)",
+        "type": "color"
+      },
+      "scroll-fill": {
+        "value": "{core.brand-30.600}",
+        "type": "color"
       }
     },
     "datepicker": {
-      "date-number": {
+      "item": {
         "text": {
           "default": {
             "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "today": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "hover": {
             "value": "{semantic.text.static.primary}",
             "type": "color"
           },
@@ -1153,11 +1173,15 @@
             "type": "color"
           },
           "today": {
-            "value": "{contextual.datepicker.date-number.fill.default}",
+            "value": "{contextual.datepicker.item.fill.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.datepicker.item.fill.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{contextual.datepicker.date-number.fill.default}",
+            "value": "{contextual.datepicker.item.fill.default}",
             "type": "color"
           },
           "selected": {
@@ -1168,6 +1192,10 @@
         "border": {
           "default": {
             "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "today": {
@@ -2888,6 +2916,16 @@
       "size": {
         "value": "{size.400}",
         "type": "sizing"
+      }
+    },
+    "months": {
+      "padding-horizontal": {
+        "value": "{spacining.200}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacining.400}",
+        "type": "spacing"
       }
     }
   }

@@ -1758,6 +1758,14 @@
       "900": {
         "value": "{core.white.a0}",
         "type": "color"
+      },
+      "a15": {
+        "value": "rgba(156, 110, 247, 0.15)",
+        "type": "color"
+      },
+      "a25": {
+        "value": "rgba(156, 110, 247, 0.25)",
+        "type": "color"
       }
     },
     "validation": {

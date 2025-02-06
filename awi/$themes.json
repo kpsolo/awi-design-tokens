@@ -341,8 +341,7 @@
       "shadow.tooltip": "S:fa91164442c2010baab7ef29f2a46eaba90c7ef2,"
     },
     "selectedTokenSets": {
-      "Awi.Awintura": "enabled",
-      "Awi.Maggico": "disabled"
+      "Awi.Awintura": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "9198ee23f16871304520f1d821b0f3b223f9923b",

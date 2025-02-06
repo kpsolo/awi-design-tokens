@@ -677,6 +677,10 @@
     "datepicker": {
       "value": "{shadow.drop.small}",
       "type": "boxShadow"
+    },
+    "tooltip": {
+      "value": "{shadow.drop.game-item}",
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1220,6 +1224,16 @@
       },
       "fill": {
         "value": "{core.white.a100}",
+        "type": "color"
+      }
+    },
+    "tooltip": {
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{core.brand-60.800}",
         "type": "color"
       }
     }
@@ -2925,6 +2939,28 @@
       },
       "padding-vertical": {
         "value": "{spacining.400}",
+        "type": "spacing"
+      }
+    }
+  },
+  "tooltip": {
+    "sm": {
+      "padding-horizontal": {
+        "value": "{spacining.300}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacining.200}",
+        "type": "spacing"
+      }
+    },
+    "md": {
+      "padding-horizontal": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacining.300}",
         "type": "spacing"
       }
     }

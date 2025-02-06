@@ -335,7 +335,8 @@
       "contextual.selection-controls.controls.bullet.validation": "S:77ad72f89a75258a8d0bdae1d032ca093b1f6439,",
       "contextual.selection-controls.controls.bullet.disabled": "S:8452834550e2f445be0f5bcd034ca2a5f36fc258,",
       "shadow.dropdown menu": "S:0ec2c6a92bfdb7d4e957c9e2dcb26296c9b09c68,",
-      "shadow.datepicker": "S:cf73c3566089f8a75bc997f6c4cdc91374e78a7f,"
+      "shadow.datepicker": "S:cf73c3566089f8a75bc997f6c4cdc91374e78a7f,",
+      "shadow.tooltip": "S:fa91164442c2010baab7ef29f2a46eaba90c7ef2,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"
@@ -383,6 +384,7 @@
       "border-radius.checkbox": "255d93e00b39ca6ff0659d8775fd2db38c059599",
       "border-radius.dropdown-menu": "fdc5a618b8db9fd5a16070c5f3d4efc7a1a06333",
       "border-radius.datepicker.all": "58921d64c54a390b8aa78d91494ab8b03cbd7094",
+      "border-radius.datepicker.item": "0598e851905204dadeebda032c2d7161cb5b03a4",
       "contextual.button.primary.fill.hover": "5fa4384fffc42ce92ac33d021e4e31c3eb9a5a8d",
       "contextual.button.primary.fill.active": "e32999318ea97046f8d27eb0446c777f4e1a6f5d",
       "contextual.button.primary.text.default": "abbc1bc79ce1fe28a2dbb2f321fdbc7c5993747f",
@@ -772,7 +774,14 @@
       "datepicker.gap": "1405be764ea06498a45e2e166c3ffbf28da70a7d",
       "datepicker.selects.gap": "7c8488d4581570709cf843c15fbf602d1a22d4e9",
       "datepicker.date.size": "6cb24ca3a2072cd7943a65a8eb451a0aa3cc4fa2",
-      "border-radius.datepicker.item": "0598e851905204dadeebda032c2d7161cb5b03a4"
+      "datepicker.months.padding-horizontal": "5d4fbc73a458b6a2a64a4da8e23ec551a2b8cfb0",
+      "datepicker.months.padding-vertical": "3fed36f081ee2377f9ba42b4169c031e6f105be5",
+      "contextual.tooltip.fill": "7ed0d6538423037f0377ea81695d4e303c39dfd9",
+      "contextual.tooltip.text": "e13ac4c4cbaac765ec46f7102f2230f63b01ef07",
+      "tooltip.sm.padding-horizontal": "7404263402a9fd9286ca0e2ab9dadbc967604623",
+      "tooltip.sm.padding-vertical": "fcf2fdab3358736bbf6ca51b114932be884f6393",
+      "tooltip.md.padding-horizontal": "c32825d38aa2534b1863ac6b38fd862b343c1efb",
+      "tooltip.md.padding-vertical": "cd9e44a60d88cceaefb20ccae718603500406faf"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

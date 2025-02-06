@@ -1695,63 +1695,63 @@
         "description": "replacement.sand 300 (15%)\n"
       },
       "a30": {
-        "value": "rgba(89, 59, 3, 0.30)",
+        "value": "rgba(28, 21, 72, 0.30)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(230, 220, 200, 0.40)",
+        "value": "rgba(28, 21, 72, 0.40)",
         "type": "color"
       },
       "a50": {
-        "value": "rgba(230, 220, 200, 0.50)",
+        "value": "rgba(28, 21, 72, 0.50)",
         "type": "color"
       },
       "a70": {
-        "value": "rgba(230, 220, 200, 0.70)",
+        "value": "rgba(28, 21, 72, 0.70)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(250, 236, 209, 0.25)",
+        "value": "rgba(28, 21, 72, 0.25)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
       }
     },
     "brand-30": {
       "50": {
-        "value": "#EAE6E1",
+        "value": "#F2F0FF",
         "type": "color",
-        "description": "basic.sand 50"
+        "description": "basic.replasement.sand 200"
       },
       "100": {
-        "value": "#E2DCD5",
+        "value": "#E9DEFF",
         "type": "color",
-        "description": "basic.sand 100"
+        "description": "amber 800"
       },
       "200": {
-        "value": "#E6DCC8",
+        "value": "#D7C5FC",
         "type": "color",
-        "description": "basic.sand 200"
+        "description": "amber 700"
       },
       "300": {
-        "value": "#FAECD1",
-        "type": "color",
-        "description": "basic.sand 300"
+        "value": "{core.white.a0}",
+        "type": "color"
       },
       "400": {
-        "value": "#E7D7B8",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "500": {
-        "value": "#D2C09D",
-        "type": "color"
+        "value": "#9C6EF7",
+        "type": "color",
+        "description": "amber 500"
       },
       "600": {
-        "value": "#C7BFB5",
+        "value": "#8651F0",
         "type": "color",
-        "description": "basic.sand 400"
+        "description": "amber 600"
       },
       "700": {
-        "value": "#C9B388",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "800": {

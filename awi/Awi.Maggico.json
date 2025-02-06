@@ -762,7 +762,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
@@ -774,25 +774,25 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.disabled.on-brand-secondary}",
+            "value": "{semantic.text.disabled.primary}",
             "type": "color"
           }
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.tertiary.default}",
+            "value": "{semantic.border.default.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.tertiary.hover}",
+            "value": "{semantic.border.default.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.tertiary.active}",
+            "value": "{semantic.border.default.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.tertiary.disabled}",
+            "value": "{semantic.border.default.disabled}",
             "type": "color"
           }
         }
@@ -808,11 +808,11 @@
             "type": "color"
           },
           "active": {
-            "value": "button.secondary.fill.hover",
+            "value": "{contextual.button.secondary.fill.hover}",
             "type": "color"
           },
           "disabled": {
-            "value": "button.secondary.fill.default",
+            "value": "{contextual.button.secondary.fill.default}",
             "type": "color"
           }
         },
@@ -1965,7 +1965,7 @@
         "type": "color"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "#C2CC36",
         "type": "color",
         "description": "Primary.Amber 800"
       },
@@ -2152,19 +2152,19 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{semantic.gradients.3}",
-            "type": "color"
-          },
-          "hover": {
             "value": "{core.brand-10.400}",
             "type": "color"
           },
+          "hover": {
+            "value": "#F5FF69",
+            "type": "color"
+          },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(0deg, rgba(245, 196, 92, 0.32) 0%, rgba(255, 228, 87, 0.32) 100%)",
+            "value": "{core.brand-10.a30}",
             "type": "color"
           }
         },
@@ -2188,19 +2188,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.tertiary.hover}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 246, 234, 0.32) 100%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -2297,7 +2297,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "secondary": {
@@ -2315,7 +2315,7 @@
           "type": "color"
         },
         "on-brand": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "on-brand-secondary": {
@@ -2329,7 +2329,7 @@
       },
       "disabled": {
         "primary": {
-          "value": "{core.grey.a30}",
+          "value": "{core.grey.400}",
           "type": "color"
         },
         "brand": {
@@ -2446,6 +2446,24 @@
         },
         "disabled": {
           "value": "{core.brand-30.600}",
+          "type": "color"
+        }
+      },
+      "default": {
+        "default": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.grey.400}",
           "type": "color"
         }
       }

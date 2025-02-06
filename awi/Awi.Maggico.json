@@ -1978,23 +1978,23 @@
         "description": "Primary.Amber 800"
       },
       "a5": {
-        "value": "rgba(254, 182, 0, 0.05)",
+        "value": "rgba(255, 255, 0, 0.05)",
         "type": "color"
       },
       "a30": {
-        "value": "rgba(254, 182, 0, 0.3)",
+        "value": "rgba(255, 255, 0, 0.3)",
         "type": "color"
       },
       "a10": {
-        "value": "rgba(254, 182, 0, 0.1)",
+        "value": "rgba(255, 255, 0, 0.1)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(254, 182, 0, 0.4)",
+        "value": "rgba(255, 255, 0, 0.4)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(254, 182, 0, 0.6)",
+        "value": "rgba(255, 255, 0, 0.6)",
         "type": "color"
       }
     },

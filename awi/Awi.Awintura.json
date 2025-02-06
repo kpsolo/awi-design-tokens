@@ -189,6 +189,16 @@
     "dropdown-menu": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
+    },
+    "datepicker": {
+      "all": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      },
+      "date-number": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -378,6 +388,42 @@
           "style": "solid"
         },
         "type": "border"
+      }
+    },
+    "datepicker": {
+      "date-number": {
+        "default": {
+          "value": {
+            "color": "{contextual.datepicker.date-number.border.default}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "disabled": {
+          "value": {
+            "color": "{contextual.datepicker.date-number.border.disabled}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "today": {
+          "value": {
+            "color": "{contextual.datepicker.date-number.border.today}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "selected": {
+          "value": {
+            "color": "{contextual.datepicker.date-number.border.selected}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       }
     }
   },
@@ -618,6 +664,10 @@
     },
     "dropdown menu": {
       "value": "{shadow.drop.up}",
+      "type": "boxShadow"
+    },
+    "datepicker": {
+      "value": "{shadow.drop.small}",
       "type": "boxShadow"
     }
   },
@@ -1071,6 +1121,74 @@
             "type": "color"
           }
         }
+      }
+    },
+    "datepicker": {
+      "date-number": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "today": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.text.disabled.on-brand-secondary}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "today": {
+            "value": "{contextual.datepicker.date-number.fill.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{contextual.datepicker.date-number.fill.default}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "today": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        }
+      },
+      "week-day": {
+        "text": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     }
   },
@@ -2732,6 +2850,40 @@
       "padding-vertical": {
         "value": "{spacining.200}",
         "type": "spacing"
+      }
+    }
+  },
+  "datepicker": {
+    "weeks": {
+      "gap": {
+        "value": "{spacining.0}",
+        "type": "spacing"
+      },
+      "item": {
+        "gap": {
+          "value": "{spacining.0}",
+          "type": "spacing"
+        }
+      }
+    },
+    "padding": {
+      "value": "{spacining.400}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacining.200}",
+      "type": "spacing"
+    },
+    "selects": {
+      "gap": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      }
+    },
+    "date": {
+      "size": {
+        "value": "{size.400}",
+        "type": "sizing"
       }
     }
   }

@@ -1447,7 +1447,7 @@
   "LG M": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-6}",
       "lineHeight": "{lg}",
       "letterSpacing": "{letter-spacing.2}"
@@ -1457,7 +1457,7 @@
   "XL": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-7}",
       "lineHeight": "{xl}",
       "letterSpacing": "{letter-spacing.2}"
@@ -1467,7 +1467,7 @@
   "XL M": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-7}",
       "lineHeight": "{xl}",
       "letterSpacing": "{letter-spacing.2}"
@@ -1477,7 +1477,7 @@
   "XL B": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-7}",
       "lineHeight": "{xl}",
       "letterSpacing": "{letter-spacing.2}"
@@ -1487,7 +1487,7 @@
   "XXL M": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-8}",
       "lineHeight": "{xxl}",
       "letterSpacing": "{letter-spacing.2}"
@@ -1497,7 +1497,7 @@
   "XXL B": {
     "value": {
       "fontFamily": "{accent}",
-      "fontWeight": "{Regular}",
+      "fontWeight": "{Expanded}",
       "fontSize": "{scale-8}",
       "lineHeight": "{xxl}",
       "letterSpacing": "{letter-spacing.2}"
@@ -2972,5 +2972,14 @@
         "type": "spacing"
       }
     }
+  },
+  "LG B": {
+    "value": {
+      "fontFamily": "{accent}",
+      "fontWeight": "{Expanded}",
+      "fontSize": "{scale-6}",
+      "lineHeight": "{lg}"
+    },
+    "type": "typography"
   }
 }

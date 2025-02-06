@@ -185,6 +185,10 @@
     "checkbox": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
+    },
+    "dropdown-menu": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
     }
   },
   "border": {
@@ -583,7 +587,7 @@
           "blur": "{depth.400}",
           "spread": "{depth.0}",
           "color": "rgba(45, 37, 25, 0.30)",
-          "type": "innerShadow"
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       },
@@ -594,7 +598,7 @@
           "blur": "{blur.400}",
           "spread": "{depth.0}",
           "color": "#211D14",
-          "type": "innerShadow"
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
@@ -611,6 +615,10 @@
         },
         "type": "boxShadow"
       }
+    },
+    "dropdown menu": {
+      "value": "{shadow.drop.up}",
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1052,6 +1060,16 @@
         "selected-indicator": {
           "value": "{core.brand-10.600}",
           "type": "color"
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color"
+          }
         }
       }
     }
@@ -2667,6 +2685,54 @@
     "gap": {
       "value": "{spacining.100}",
       "type": "spacing"
+    }
+  },
+  "dropdown-menu": {
+    "item": {
+      "min-height": {
+        "lg": {
+          "value": "{size.600}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "36",
+          "type": "sizing"
+        }
+      },
+      "padding-left": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{spacining.300}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacining.200}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacining.100}",
+        "type": "spacing"
+      }
+    },
+    "padding-vertical": {
+      "value": "{spacining.200}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacining.200}",
+      "type": "spacing"
+    },
+    "search": {
+      "padding-horizontal": {
+        "value": "{spacining.400}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacining.200}",
+        "type": "spacing"
+      }
     }
   }
 }

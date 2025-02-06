@@ -1799,12 +1799,12 @@
           "description": "Secondary.red 500"
         },
         "500": {
-          "value": "#FE4C25",
+          "value": "#FD337C",
           "type": "color",
           "description": "Secondary.red 500"
         },
         "600": {
-          "value": "#CB3D1E",
+          "value": "#FD337C",
           "type": "color",
           "description": "Secondary.red 600"
         },
@@ -1932,13 +1932,11 @@
     "brand-10": {
       "50": {
         "value": "{core.white.a0}",
-        "type": "color",
-        "description": "Primary.Amber 800"
+        "type": "color"
       },
       "100": {
-        "value": "#FAECD1",
-        "type": "color",
-        "description": "Primary.Amber 800"
+        "value": "{core.white.a0}",
+        "type": "color"
       },
       "200": {
         "value": "{core.white.a0}",
@@ -1951,19 +1949,18 @@
         "description": "Primary.Amber 800"
       },
       "400": {
-        "value": "#FDDC59",
+        "value": "#F2FF44",
         "type": "color",
-        "description": "Primary.Amber 800"
+        "description": "yellow 500"
       },
       "500": {
-        "value": "#FEB600",
+        "value": "#FFFF00",
         "type": "color",
-        "description": "Primary.amber 500, Primary.amber 700"
+        "description": "yellow 300"
       },
       "600": {
-        "value": "#E58900",
-        "type": "color",
-        "description": "Primary.amber 600"
+        "value": "{core.white.a0}",
+        "type": "color"
       },
       "700": {
         "value": "{core.white.a0}",
@@ -2040,12 +2037,12 @@
         "description": "Secondary.red 500"
       },
       "500": {
-        "value": "#FE4C25",
+        "value": "#FD337C",
         "type": "color",
         "description": "Secondary.red 500"
       },
       "600": {
-        "value": "#CB3D1E",
+        "value": "#FD337C",
         "type": "color",
         "description": "Secondary.red 600"
       },

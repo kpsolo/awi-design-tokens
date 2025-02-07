@@ -759,11 +759,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.tertiary.text.default}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.tertiary.text.hover}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
@@ -773,19 +773,19 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.default.default}",
+            "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.default.hover}",
+            "value": "{semantic.border.brand.tertiary.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.default.active}",
+            "value": "{semantic.border.brand.tertiary.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.default.disabled}",
+            "value": "{semantic.border.brand.tertiary.disabled}",
             "type": "color"
           }
         }
@@ -2395,19 +2395,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         }

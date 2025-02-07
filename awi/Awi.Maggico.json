@@ -1447,7 +1447,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Regular}",
-        "fontSize": "{scale-6}",
+        "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
       "type": "typography"

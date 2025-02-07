@@ -633,7 +633,7 @@
           "y": "{depth.-200}",
           "blur": "{depth.400}",
           "spread": "{depth.0}",
-          "color": "rgba(45, 37, 25, 0.30)",
+          "color": "rgba(6, 4, 35, 0.30)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1124,43 +1124,43 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(234, 230, 225, 0.50)",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         },
         "selected-indicator": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.600}",
           "type": "color"
         },
         "text": {
           "primary": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "secondary": {
-            "value": "{semantic.text.static.tertiary}",
+            "value": "{semantic.text.default.tertiary}",
             "type": "color"
           }
         }
       },
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.slate-1}",
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 50%)",
+        "value": "linear-gradient(180deg, rgba(29, 26, 50, 0.00) 0%, #1D1A32 50%)",
         "type": "color"
       },
       "scroll-fill": {
-        "value": "{core.brand-30.600}",
+        "value": "{core.grey.400}",
         "type": "color"
       }
     },

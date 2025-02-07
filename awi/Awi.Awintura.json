@@ -54,43 +54,43 @@
     },
     "gap": {
       "sm": {
-        "value": "{spacining.0}",
+        "value": "{spacing.0}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacining.0}",
+        "value": "{spacing.0}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacining.0}",
+        "value": "{spacing.0}",
         "type": "spacing"
       }
     },
     "padding-horizontal": {
       "sm": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       }
     },
     "text-padding-horizontal": {
       "sm": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       }
     },
@@ -913,53 +913,53 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{semantic.background.static.primary.default}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "filled": {
-            "value": "{semantic.background.static.primary.filled}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.static.primary.hover}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.static.primary.active}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           },
           "validation": {
-            "value": "{semantic.background.static.primary.validation}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.static.primary.disabled}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{semantic.background.static.secondary.default}",
+            "value": "{semantic.background.slate-2}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.static.secondary.hover}",
+            "value": "{contextual.input.fill.secondary.default}",
             "type": "color"
           },
           "filled": {
-            "value": "{semantic.background.static.secondary.hover}",
+            "value": "{contextual.input.fill.secondary.default}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.static.secondary.active}",
+            "value": "{contextual.input.fill.secondary.default}",
             "type": "color"
           },
           "validation": {
-            "value": "{semantic.background.static.secondary.validation}",
+            "value": "{contextual.input.fill.secondary.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.static.secondary.disabled}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }
@@ -2171,6 +2171,16 @@
         "type": "color",
         "description": "gradient.Black 600"
       },
+      "slate-1": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "description": "text input 1"
+      },
+      "slate-2": {
+        "value": "{core.brand-10.100}",
+        "type": "color",
+        "description": "text input 2"
+      },
       "brand": {
         "primary": {
           "default": {
@@ -2226,60 +2236,6 @@
             "type": "color"
           }
         }
-      },
-      "static": {
-        "primary": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "filled": {
-            "value": "{semantic.background.static.primary.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.background.static.primary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.background.static.primary.hover}",
-            "type": "color"
-          },
-          "validation": {
-            "value": "{semantic.background.static.primary.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{core.brand-30.100}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "default": {
-            "value": "{core.brand-10.100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.background.static.secondary.default}",
-            "type": "color"
-          },
-          "filled": {
-            "value": "{semantic.background.static.secondary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.background.static.secondary.hover}",
-            "type": "color"
-          },
-          "validation": {
-            "value": "{semantic.background.static.secondary.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{core.brand-30.600}",
-            "type": "color"
-          }
-        }
       }
     },
     "icon": {
@@ -2311,6 +2267,10 @@
           "type": "color"
         },
         "tertiary": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
+        },
+        "disabled": {
           "value": "{core.brand-60.a50}",
           "type": "color"
         }
@@ -2499,7 +2459,7 @@
       }
     }
   },
-  "spacining": {
+  "spacing": {
     "0": {
       "value": "0",
       "type": "spacing"
@@ -2812,86 +2772,86 @@
     },
     "padding-right": {
       "sm": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "joint": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "padding-left": {
       "sm": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "joint": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "gap": {
       "default": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "phone": {
-        "value": "{spacining.50}",
+        "value": "{spacing.50}",
         "type": "spacing"
       },
       "between-tags": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "label-gap-bottom": {
-      "value": "{spacining.200}",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "additional-text-gap": {
       "top": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       },
       "between-elements": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       },
       "inside-horisontal": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "textarea": {
       "padding-horizontal": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "padding-vertical": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       }
     }
   },
   "tag": {
     "gap": {
-      "value": "{spacining.100}",
+      "value": "{spacing.100}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{spacining.100}",
+      "value": "{spacing.100}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{spacining.200}",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "height": {
@@ -2905,7 +2865,7 @@
   },
   "selection-controls": {
     "gap": {
-      "value": "{spacining.100}",
+      "value": "{spacing.100}",
       "type": "spacing"
     }
   },
@@ -2922,37 +2882,37 @@
         }
       },
       "padding-left": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "padding-right": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "gap": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "gap-text": {
-        "value": "{spacining.100}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "padding-vertical": {
-      "value": "{spacining.200}",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "gap": {
-      "value": "{spacining.200}",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "search": {
       "padding-horizontal": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "padding-vertical": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       }
     }
@@ -2960,27 +2920,27 @@
   "datepicker": {
     "weeks": {
       "gap": {
-        "value": "{spacining.0}",
+        "value": "{spacing.0}",
         "type": "spacing"
       },
       "item": {
         "gap": {
-          "value": "{spacining.0}",
+          "value": "{spacing.0}",
           "type": "spacing"
         }
       }
     },
     "padding": {
-      "value": "{spacining.400}",
+      "value": "{spacing.400}",
       "type": "spacing"
     },
     "gap": {
-      "value": "{spacining.200}",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "selects": {
       "gap": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       }
     },
@@ -2992,11 +2952,11 @@
     },
     "months": {
       "padding-horizontal": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "padding-vertical": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       }
     }
@@ -3004,21 +2964,21 @@
   "tooltip": {
     "sm": {
       "padding-horizontal": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "padding-vertical": {
-        "value": "{spacining.200}",
+        "value": "{spacing.200}",
         "type": "spacing"
       }
     },
     "md": {
       "padding-horizontal": {
-        "value": "{spacining.400}",
+        "value": "{spacing.400}",
         "type": "spacing"
       },
       "padding-vertical": {
-        "value": "{spacining.300}",
+        "value": "{spacing.300}",
         "type": "spacing"
       }
     }

@@ -857,11 +857,21 @@
     "input": {
       "text": {
         "label": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
         },
         "placeholder": {
           "default": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color"
+          },
+          "disabled": {
             "value": "{semantic.text.static.tertiary}",
             "type": "color"
           },

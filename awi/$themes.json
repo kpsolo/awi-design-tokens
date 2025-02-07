@@ -417,7 +417,6 @@
       "contextual.button.secondary.border-color.hover": "6b9296cc5f38a30d1125c1d9a99bea89673fb5ce",
       "contextual.button.secondary.border-color.active": "e967eb0afefdc2cbd16e09a6580a1e5958d8dc55",
       "contextual.button.secondary.border-color.disabled": "b83566df9a9b976175148bbab29bda5dab3e8c47",
-      "contextual.input.text.label": "80ed3eaaaf204a51ae8a6e9f69df86a25e748b01",
       "contextual.input.text.placeholder.default": "8b4abf27cc50fdc0b3af135f12aace897872d39a",
       "contextual.input.text.placeholder.invert.default": "ec2c945f7cacde9e0a443531ddbacfe8531ca5d0",
       "contextual.input.text.placeholder.invert.filled": "3c710db4ce7bbca95d09fd21b3fd61b84827684f",
@@ -783,7 +782,8 @@
       "tooltip.sm.padding-horizontal": "7404263402a9fd9286ca0e2ab9dadbc967604623",
       "tooltip.sm.padding-vertical": "fcf2fdab3358736bbf6ca51b114932be884f6393",
       "tooltip.md.padding-horizontal": "c32825d38aa2534b1863ac6b38fd862b343c1efb",
-      "tooltip.md.padding-vertical": "cd9e44a60d88cceaefb20ccae718603500406faf"
+      "tooltip.md.padding-vertical": "cd9e44a60d88cceaefb20ccae718603500406faf",
+      "contextual.input.text.label.default": "80ed3eaaaf204a51ae8a6e9f69df86a25e748b01"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

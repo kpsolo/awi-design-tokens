@@ -870,7 +870,7 @@
               "type": "color"
             },
             "filled": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
@@ -898,7 +898,7 @@
           "type": "color"
         },
         "action-right": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.grey.400}",
           "type": "color",
           "description": "clear"
         }
@@ -1022,15 +1022,15 @@
     },
     "tag": {
       "text": {
-        "value": "{semantic.text.static.primary}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "background": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-30.a15}",
         "type": "color"
       },
       "icon": {
-        "value": "{core.brand-60.500}",
+        "value": "{semantic.icon.default.tertiary}",
         "type": "color"
       }
     },

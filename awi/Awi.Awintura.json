@@ -1055,15 +1055,15 @@
       "controls": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "validation": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "disabled": {
@@ -1131,7 +1131,7 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "selected": {
@@ -1159,7 +1159,7 @@
         }
       },
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.slate-1}",
         "type": "color"
       },
       "ovelray-fill": {
@@ -1247,7 +1247,7 @@
         }
       },
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.slate-1}",
         "type": "color"
       }
     },

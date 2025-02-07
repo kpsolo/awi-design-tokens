@@ -1782,11 +1782,11 @@
         "type": "color"
       },
       "a15": {
-        "value": "rgba(156, 110, 247, 0.15)",
+        "value": "rgba(215, 197, 252, 0.15)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(156, 110, 247, 0.25)",
+        "value": "rgba(215, 197, 252, 0.25)",
         "type": "color"
       }
     },
@@ -2251,7 +2251,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-10.100}",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           },
           "hover": {
@@ -2271,7 +2271,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           }
         }

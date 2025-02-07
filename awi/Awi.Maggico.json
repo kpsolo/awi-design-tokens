@@ -1037,40 +1037,40 @@
     "selection-controls": {
       "label": {
         "default": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{semantic.text.disabled.on-brand-secondary}",
+          "value": "{semantic.text.disabled.secondary}",
           "type": "color"
         }
       },
       "controls": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.selection-controls.controls.fill.default}",
             "type": "color"
           },
           "validation": {
-            "value": "{core.white.a100}",
+            "value": "{contextual.selection-controls.controls.fill.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "rgba(29, 26, 50, 0.50)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "validation": {
@@ -1078,17 +1078,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) -5.21%, rgba(204, 111, 45, 0.50) 105.21%)",
+            "value": "rgba(134, 132, 145, 0.50)",
             "type": "color"
           }
         },
         "bullet": {
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.40) -5.21%, rgba(204, 111, 45, 0.40) 105.21%)",
+            "value": "rgba(156, 110, 247, 0.50)",
             "type": "color"
           },
           "validation": {
@@ -1096,17 +1096,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) -5.21%, rgba(204, 111, 45, 0.50) 105.21%)",
+            "value": "rgba(134, 132, 145, 0.50)",
             "type": "color"
           }
         },
         "check": {
           "default": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(229, 137, 0, 0.40)",
+            "value": "rgba(156, 110, 247, 0.50)",
             "type": "color"
           },
           "validation": {
@@ -1114,7 +1114,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "rgba(229, 137, 0, 0.50)",
+            "value": "rgba(134, 132, 145, 0.50)",
             "type": "color"
           }
         }

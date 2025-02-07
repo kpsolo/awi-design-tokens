@@ -421,7 +421,6 @@
       "contextual.input.text.placeholder.invert.default": "ec2c945f7cacde9e0a443531ddbacfe8531ca5d0",
       "contextual.input.text.placeholder.invert.filled": "3c710db4ce7bbca95d09fd21b3fd61b84827684f",
       "contextual.input.text.placeholder.filled": "9042bad260465b1cbbb16d93e3a2a01964a852c1",
-      "contextual.input.text.helper-text": "354506ad49f5574aa567c1b7c6d37fc96af14651",
       "contextual.input.text.validation-text": "199d6b1f9e68d16e907a3516c2c6102a0b6ed453",
       "contextual.input.text.action-right": "3919ae55833e8a08da8207dff30b9377d1204a18",
       "contextual.input.fill.primary.default": "7b1ce2a2b0a1bd686cd86a10cc8ce0a9ad3522db",
@@ -783,7 +782,8 @@
       "tooltip.sm.padding-vertical": "fcf2fdab3358736bbf6ca51b114932be884f6393",
       "tooltip.md.padding-horizontal": "c32825d38aa2534b1863ac6b38fd862b343c1efb",
       "tooltip.md.padding-vertical": "cd9e44a60d88cceaefb20ccae718603500406faf",
-      "contextual.input.text.label.default": "80ed3eaaaf204a51ae8a6e9f69df86a25e748b01"
+      "contextual.input.text.label.default": "80ed3eaaaf204a51ae8a6e9f69df86a25e748b01",
+      "contextual.input.text.helper-text.default": "354506ad49f5574aa567c1b7c6d37fc96af14651"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

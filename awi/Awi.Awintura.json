@@ -891,8 +891,14 @@
           }
         },
         "helper-text": {
-          "value": "{semantic.text.static.secondary}",
-          "type": "color"
+          "default": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          }
         },
         "validation-text": {
           "value": "{semantic.text.danger.default}",
@@ -1010,6 +1016,14 @@
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           }
+        },
+        "disabled-primary": {
+          "value": "{semantic.icon.static.primary}",
+          "type": "color"
+        },
+        "disabled-tertiary": {
+          "value": "{semantic.icon.static.tertiary}",
+          "type": "color"
         }
       }
     },
@@ -2281,6 +2295,10 @@
         "tertiary": {
           "value": "{core.brand-30.600}",
           "type": "color"
+        },
+        "disabled": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
         }
       },
       "default": {
@@ -2350,6 +2368,10 @@
         },
         "on-brand-secondary": {
           "value": "{core.brand-60.a30}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.grey.600}",
           "type": "color"
         }
       },

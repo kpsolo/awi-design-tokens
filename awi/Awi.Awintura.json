@@ -685,7 +685,7 @@
           },
           {
             "x": "{depth.0}",
-            "y": "{depth.-025}",
+            "y": "{depth.m025}",
             "blur": "{depth.0}",
             "spread": "{depth.0}",
             "color": "rgba(255, 255, 255, 0.30)",
@@ -697,7 +697,7 @@
       "up": {
         "value": {
           "x": "{depth.0}",
-          "y": "{depth.-200}",
+          "y": "{depth.m200}",
           "blur": "{depth.400}",
           "spread": "{depth.0}",
           "color": "rgba(45, 37, 25, 0.30)",
@@ -2663,23 +2663,23 @@
       "value": "160",
       "type": "spacing"
     },
-    "-100": {
+    "m100": {
       "value": "-4",
       "type": "spacing"
     },
-    "-200": {
+    "m200": {
       "value": "-8",
       "type": "spacing"
     },
-    "-300": {
+    "m300": {
       "value": "-12",
       "type": "spacing"
     },
-    "-400": {
+    "m400": {
       "value": "-16",
       "type": "spacing"
     },
-    "-600": {
+    "m600": {
       "value": "-24",
       "type": "spacing"
     }
@@ -2789,27 +2789,27 @@
       "value": "1px",
       "type": "dimension"
     },
-    "-025": {
+    "m025": {
       "value": "-1px",
       "type": "dimension"
     },
-    "-100": {
+    "m100": {
       "value": "-4px",
       "type": "dimension"
     },
-    "-200": {
+    "m200": {
       "value": "-8px",
       "type": "dimension"
     },
-    "-400": {
+    "m400": {
       "value": "-16px",
       "type": "dimension"
     },
-    "-800": {
+    "m800": {
       "value": "-32px",
       "type": "dimension"
     },
-    "-1200": {
+    "m1200": {
       "value": "-48px",
       "type": "dimension"
     }

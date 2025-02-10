@@ -1389,6 +1389,14 @@
         "value": "{core.white.a25}",
         "type": "color"
       }
+    },
+    "overlay": {
+      "value": "rgba(7, 7, 3, 0.50)",
+      "type": "color"
+    },
+    "divider": {
+      "value": "{core.brand-30.600}",
+      "type": "color"
     }
   },
   "scale-1": {
@@ -2715,6 +2723,10 @@
     }
   },
   "blur": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    },
     "50": {
       "value": "2px",
       "type": "dimension"
@@ -2737,6 +2749,10 @@
     },
     "800": {
       "value": "32px",
+      "type": "dimension"
+    },
+    "overlay": {
+      "value": "{blur.0}",
       "type": "dimension"
     }
   },

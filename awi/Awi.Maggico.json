@@ -1363,6 +1363,10 @@
       "value": "{core.grey.700}",
       "type": "color"
     },
+    "overlay": {
+      "value": "rgba(13, 10, 35, 0.25)",
+      "type": "color"
+    },
     "status-icon": {
       "success": {
         "fill": {
@@ -2707,6 +2711,10 @@
     }
   },
   "blur": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    },
     "50": {
       "value": "2px",
       "type": "dimension"
@@ -2729,6 +2737,10 @@
     },
     "800": {
       "value": "32px",
+      "type": "dimension"
+    },
+    "overlay": {
+      "value": "{blur.100}",
       "type": "dimension"
     }
   },

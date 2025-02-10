@@ -129,6 +129,10 @@
   },
   "border-radius": {
     "core": {
+      "0": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "100": {
         "value": "4",
         "type": "borderRadius"
@@ -198,6 +202,44 @@
       "item": {
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
+      }
+    },
+    "popup": {
+      "mobile": {
+        "top-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "top-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-left": {
+          "value": "{border-radius.core.0}",
+          "type": "borderRadius"
+        },
+        "bottom-right": {
+          "value": "{border-radius.core.0}",
+          "type": "borderRadius"
+        }
+      },
+      "desktop": {
+        "top-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "top-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        }
       }
     }
   },
@@ -698,6 +740,17 @@
     },
     "tooltip": {
       "value": "{shadow.drop.game-item}",
+      "type": "boxShadow"
+    },
+    "pupop": {
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{depth.0}",
+        "spread": "{depth.0}",
+        "color": "{core.white.a0}",
+        "type": "innerShadow"
+      },
       "type": "boxShadow"
     }
   },
@@ -3034,6 +3087,14 @@
       "padding-vertical": {
         "value": "{spacing.300}",
         "type": "spacing"
+      }
+    }
+  },
+  "popup": {
+    "bottom": {
+      "min-height": {
+        "value": "{size.800}",
+        "type": "sizing"
       }
     }
   }

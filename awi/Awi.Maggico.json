@@ -129,6 +129,10 @@
   },
   "border-radius": {
     "core": {
+      "0": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "100": {
         "value": "4",
         "type": "borderRadius"
@@ -198,6 +202,44 @@
       "item": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
+      }
+    },
+    "popup": {
+      "mobile": {
+        "top-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-left": {
+          "value": "{border-radius.core.0}",
+          "type": "borderRadius"
+        },
+        "bottom-right": {
+          "value": "{border-radius.core.0}",
+          "type": "borderRadius"
+        },
+        "top-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        }
+      },
+      "desktop": {
+        "top-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-left": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "bottom-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        },
+        "top-right": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        }
       }
     }
   },
@@ -432,6 +474,24 @@
           },
           "type": "border"
         }
+      }
+    },
+    "popup": {
+      "general": {
+        "value": {
+          "color": "{core.white.a25}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "bottom-top": {
+        "value": {
+          "color": "{contextual.divider}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
       }
     }
   },
@@ -3014,6 +3074,25 @@
       "padding-vertical": {
         "value": "{spacing.300}",
         "type": "spacing"
+      }
+    }
+  },
+  "pupop": {
+    "value": {
+      "x": "{depth.0}",
+      "y": "{depth.0}",
+      "blur": "{depth.400}",
+      "spread": "{depth.0}",
+      "color": "rgba(156, 110, 247, 0.56)",
+      "type": "innerShadow"
+    },
+    "type": "boxShadow"
+  },
+  "popup": {
+    "bottom": {
+      "min-height": {
+        "value": "{size.800}",
+        "type": "sizing"
       }
     }
   }

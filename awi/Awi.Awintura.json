@@ -1339,6 +1339,10 @@
         "value": "{core.brand-30.50}",
         "type": "color"
       },
+      "close-icon-fill": {
+        "value": "{core.brand-30.300}",
+        "type": "color"
+      },
       "bottom": {
         "fill": {
           "value": "{core.brand-30.100}",

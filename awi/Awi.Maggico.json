@@ -934,6 +934,10 @@
           "value": "{core.brand-30.100}",
           "type": "color"
         }
+      },
+      "close-icon-fill": {
+        "value": "{core.white.a90}",
+        "type": "color"
       }
     },
     "input": {
@@ -1753,6 +1757,11 @@
       },
       "a60": {
         "value": "rgba(255, 255, 255, 0.60)",
+        "type": "color",
+        "description": "replaceble.white 80%"
+      },
+      "a90": {
+        "value": "rgba(255, 255, 255, 0.90)",
         "type": "color",
         "description": "replaceble.white 80%"
       },

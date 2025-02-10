@@ -1361,6 +1361,16 @@
         "value": "{core.brand-30.50}",
         "type": "color"
       },
+      "text": {
+        "heading": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "content": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        }
+      },
       "close-icon-fill": {
         "value": "{core.brand-30.300}",
         "type": "color"

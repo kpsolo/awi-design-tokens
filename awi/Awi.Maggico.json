@@ -938,6 +938,16 @@
       "close-icon-fill": {
         "value": "{core.white.a90}",
         "type": "color"
+      },
+      "text": {
+        "heading": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "content": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
       }
     },
     "input": {
@@ -2404,7 +2414,7 @@
     "text": {
       "default": {
         "heading": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "primary": {

@@ -469,7 +469,6 @@
       "contextual.dropdown-menu.item.text.primary": "8b23e090c6243319664e9e2546cbdfb6b370a818",
       "contextual.dropdown-menu.item.text.secondary": "5e3474e5a3693e49c45efd9cc1b113a2c9f9c13b",
       "contextual.dropdown-menu.fill": "239f9963011835424ca036a8165c62522ef73e6e",
-      "contextual.dropdown-menu.scroll-fill": "ef9a56cdfd8d303c9f99c16a9f0ef8f8454ccaff",
       "contextual.datepicker.item.text.default": "b2eb1eda8861532abf773b388d93cb5f80beeaf3",
       "contextual.datepicker.item.text.today": "f9308475a94cf553791ebdb3e35e2da84eef0236",
       "contextual.datepicker.item.text.hover": "e8d8c02ab280f64ae523d13052acab6be9be55fd",
@@ -783,7 +782,8 @@
       "spacing.-200": "45023a5881e2b651c60f7f0b1c0af52450ce8006",
       "spacing.-300": "fe6884e486908ffe00e16e3fe400f7e01b47c508",
       "spacing.-400": "23e665af43d0301559e89f16c62e4cbdad5f088e",
-      "spacing.-600": "f7d8ca563c23f7e118d75bf5144214390a1b8021"
+      "spacing.-600": "f7d8ca563c23f7e118d75bf5144214390a1b8021",
+      "contextual.scroll.fill": "ef9a56cdfd8d303c9f99c16a9f0ef8f8454ccaff"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

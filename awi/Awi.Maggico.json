@@ -856,6 +856,26 @@
         }
       }
     },
+    "popup": {
+      "fill": {
+        "value": "{core.grey.900}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a25}",
+        "type": "color"
+      },
+      "bottom": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        }
+      }
+    },
     "input": {
       "text": {
         "label": {
@@ -1264,6 +1284,10 @@
         "value": "{core.grey.900}",
         "type": "color"
       }
+    },
+    "divider": {
+      "value": "{core.grey.700}",
+      "type": "color"
     }
   },
   "scale-1": {

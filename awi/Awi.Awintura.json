@@ -433,6 +433,24 @@
           "type": "border"
         }
       }
+    },
+    "popup": {
+      "general": {
+        "value": {
+          "color": "{contextual.popup.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "bottom-top": {
+        "value": {
+          "color": "{contextual.popup.bottom.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -1260,6 +1278,26 @@
       },
       "text": {
         "value": "{core.brand-60.800}",
+        "type": "color"
+      }
+    },
+    "popup": {
+      "fill": {
+        "value": "{core.brand-30.50}",
+        "type": "color"
+      },
+      "bottom": {
+        "fill": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "value": "{core.white.a25}",
         "type": "color"
       }
     }

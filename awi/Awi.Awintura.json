@@ -1244,6 +1244,28 @@
         "type": "color"
       }
     },
+    "status-icon": {
+      "success": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(0, 229, 147, 0.12) 0%, rgba(0, 229, 147, 0.00) 100%)",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.validation.success.500}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "icon": {
+          "value": "{core.validation.danger.500}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(254, 76, 37, 0.12) 0%, rgba(254, 76, 37, 0.00) 100%)",
+          "type": "color"
+        }
+      }
+    },
     "datepicker": {
       "item": {
         "text": {

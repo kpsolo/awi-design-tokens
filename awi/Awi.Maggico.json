@@ -1352,6 +1352,28 @@
     "divider": {
       "value": "{core.grey.700}",
       "type": "color"
+    },
+    "status-icon": {
+      "success": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(0, 229, 147, 0.12) 0%, rgba(0, 229, 147, 0.00) 100%)",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.validation.success.500}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(253, 51, 124, 0.12) 0%, rgba(253, 51, 124, 0.00) 100%)",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.validation.danger.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

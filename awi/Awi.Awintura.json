@@ -1417,11 +1417,25 @@
             "value": "{core.brand-10.500}",
             "type": "color"
           }
+        }
+      },
+      "heading": {
+        "value": "{core.brand-30.50}",
+        "type": "color"
+      },
+      "text": {
+        "secondary": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
         },
-        "heading": {
+        "primary": {
           "value": "{core.brand-30.50}",
           "type": "color"
         }
+      },
+      "text-overlay": {
+        "value": "linear-gradient(180deg, rgba(27, 24, 19, 0.00) 0%, #1B1813 100%)",
+        "type": "color"
       }
     }
   },

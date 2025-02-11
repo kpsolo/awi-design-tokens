@@ -949,11 +949,25 @@
             "value": "{core.brand-30.500}",
             "type": "color"
           }
+        }
+      },
+      "heading": {
+        "value": "{semantic.text.default.heading}",
+        "type": "color"
+      },
+      "text": {
+        "primary": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
         },
-        "heading": {
-          "value": "{semantic.text.default.heading}",
+        "secondary": {
+          "value": "{core.grey.400}",
           "type": "color"
         }
+      },
+      "text-overlay": {
+        "value": "linear-gradient(180deg, rgba(13, 6, 39, 0.00) 0%, #0D0627 100%)",
+        "type": "color"
       }
     },
     "popup": {

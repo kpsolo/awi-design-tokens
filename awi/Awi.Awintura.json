@@ -1404,8 +1404,14 @@
         "type": "color"
       },
       "elipse": {
-        "value": "rgba(156, 110, 247, 0.50)",
+        "value": "{core.white.a0}",
         "type": "color"
+      },
+      "block-links": {
+        "link": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        }
       }
     }
   },

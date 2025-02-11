@@ -938,6 +938,12 @@
           "value": "rgba(156, 110, 247, 0.50)",
           "type": "color"
         }
+      },
+      "block-links": {
+        "link": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
       }
     },
     "popup": {

@@ -968,6 +968,22 @@
       "text-overlay": {
         "value": "linear-gradient(180deg, rgba(13, 6, 39, 0.00) 0%, #0D0627 100%)",
         "type": "color"
+      },
+      "social": {
+        "icon": {
+          "hover": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.300}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
       }
     },
     "popup": {

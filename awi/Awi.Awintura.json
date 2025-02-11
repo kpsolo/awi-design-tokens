@@ -1407,6 +1407,22 @@
         "value": "{core.white.a0}",
         "type": "color"
       },
+      "social": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        },
+        "icon": {
+          "hover": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          }
+        }
+      },
       "block-links": {
         "link": {
           "default": {

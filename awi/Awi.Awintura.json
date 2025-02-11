@@ -1409,7 +1409,17 @@
       },
       "block-links": {
         "link": {
-          "value": "{core.grey.50}",
+          "default": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "heading": {
+          "value": "{core.brand-30.50}",
           "type": "color"
         }
       }

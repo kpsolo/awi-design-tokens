@@ -941,7 +941,17 @@
       },
       "block-links": {
         "link": {
-          "value": "{semantic.text.default.primary}",
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "heading": {
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       }

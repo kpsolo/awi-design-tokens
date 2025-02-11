@@ -1397,6 +1397,16 @@
     "divider": {
       "value": "{core.brand-30.600}",
       "type": "color"
+    },
+    "footer": {
+      "fill": {
+        "value": "{core.grey.900}",
+        "type": "color"
+      },
+      "elipse": {
+        "value": "rgba(156, 110, 247, 0.50)",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

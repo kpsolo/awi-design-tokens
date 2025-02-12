@@ -2964,6 +2964,12 @@
       "type": "sizing"
     }
   },
+  "footer-content": {
+    "max-width": {
+      "value": "1320px",
+      "type": "sizing"
+    }
+  },
   "input": {
     "height": {
       "sm": {

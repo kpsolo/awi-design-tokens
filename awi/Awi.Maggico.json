@@ -1578,7 +1578,17 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(24, 18, 0, 0.73) 0%, rgba(23, 18, 1, 0.75) 25%, rgba(22, 17, 1, 0.61) 46.35%, rgba(28, 22, 4, 0.27) 76.04%, rgba(28, 22, 4, 0.11) 89.06%, rgba(28, 22, 4, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(37, 35, 57, 0.73) 0%, rgba(37, 35, 57, 0.75) 25%, rgba(37, 35, 57, 0.61) 46.35%, rgba(37, 35, 57, 0.27) 76.04%, rgba(37, 35, 57, 0.11) 89.06%, rgba(37, 35, 57, 0.00) 100%)",
+          "type": "color"
+        },
+        "top-up": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -1999,6 +2009,11 @@
         "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "replaceble.white 80%"
+      },
+      "a15": {
+        "value": "rgba(255, 255, 255, 0.15)",
+        "type": "color",
+        "description": "\n"
       }
     },
     "brand-60": {

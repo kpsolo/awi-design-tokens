@@ -1215,6 +1215,16 @@
         "fill": {
           "value": "linear-gradient(180deg, rgba(24, 18, 0, 0.73) 0%, rgba(23, 18, 1, 0.75) 25%, rgba(22, 17, 1, 0.61) 46.35%, rgba(28, 22, 4, 0.27) 76.04%, rgba(28, 22, 4, 0.11) 89.06%, rgba(28, 22, 4, 0.00) 100%)",
           "type": "color"
+        },
+        "top-up": {
+          "fill": {
+            "value": "{core.white.a15}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "value": "{core.white.a100}",
+          "type": "color"
         }
       },
       "notification": {
@@ -1995,6 +2005,11 @@
         "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
         "description": "replaceble.white 8%\n"
+      },
+      "a15": {
+        "value": "rgba(255, 255, 255, 0.15)",
+        "type": "color",
+        "description": "\n"
       },
       "a25": {
         "value": "rgba(255, 255, 255, 0.25)",

@@ -241,6 +241,12 @@
           "type": "borderRadius"
         }
       }
+    },
+    "header": {
+      "mobile-top-up": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {

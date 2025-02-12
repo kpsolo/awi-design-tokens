@@ -630,6 +630,40 @@
         }
       }
     },
+    "header": {
+      "notification": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.025}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "rgba(57, 38, 2, 0.20)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "menu-item-desktop-active": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "rgba(253, 114, 44, 0.60)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "rgba(253, 187, 44, 0.60)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "input": {
       "default": {
         "value": "{shadow.drop.small}",

@@ -509,6 +509,20 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "header": {
+      "desktop": {
+        "special-menu-item": {
+          "hover": {
+            "value": {
+              "color": "{contextual.header.desktop.special-menu-item.border.hover}",
+              "width": "{depth.025}",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        }
+      }
     }
   },
   "shadow": {
@@ -1470,6 +1484,64 @@
           "type": "color"
         }
       }
+    },
+    "header": {
+      "desktop": {
+        "menu-item": {
+          "hover": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          }
+        },
+        "special-menu-item": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
+          "border": {
+            "default": {
+              "value": "{core.brand-30.a25}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(107deg, #8651F0 24.79%, #7968EF 41.82%, #7769EF 44.06%, #D22EDC 77.58%)",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.grey.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-30.50}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "notification": {
+        "fill1": {
+          "value": "{core.red.500}",
+          "type": "color"
+        },
+        "fill2": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
@@ -2240,6 +2312,10 @@
       },
       "a60": {
         "value": "rgba(255, 255, 0, 0.6)",
+        "type": "color"
+      },
+      "a50": {
+        "value": "rgba(254, 182, 0, 0.5)",
         "type": "color"
       }
     },
@@ -3235,6 +3311,14 @@
     "max-width": {
       "value": "1320px",
       "type": "sizing"
+    }
+  },
+  "header": {
+    "desctop": {
+      "menu-items": {
+        "value": "{text.button-large}",
+        "type": "typography"
+      }
     }
   }
 }

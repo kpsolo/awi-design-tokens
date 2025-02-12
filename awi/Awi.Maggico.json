@@ -1579,63 +1579,63 @@
     }
   },
   "scale-1": {
-    "value": "11",
+    "value": "11px",
     "type": "fontSizes"
   },
   "scale-2": {
-    "value": "12",
+    "value": "12px",
     "type": "fontSizes"
   },
   "scale-3": {
-    "value": "14",
+    "value": "14px",
     "type": "fontSizes"
   },
   "scale-4": {
-    "value": "16",
+    "value": "16px",
     "type": "fontSizes"
   },
   "scale-5": {
-    "value": "18",
+    "value": "18px",
     "type": "fontSizes"
   },
   "scale-6": {
-    "value": "20",
+    "value": "20px",
     "type": "fontSizes"
   },
   "scale-7": {
-    "value": "24",
+    "value": "24px",
     "type": "fontSizes"
   },
   "scale-8": {
-    "value": "30",
+    "value": "30px",
     "type": "fontSizes"
   },
   "xs": {
-    "value": "16",
+    "value": "16px",
     "type": "lineHeights"
   },
   "sm": {
-    "value": "16",
+    "value": "16px",
     "type": "lineHeights"
   },
   "md": {
-    "value": "18",
+    "value": "18px",
     "type": "lineHeights"
   },
   "ml": {
-    "value": "20",
+    "value": "20px",
     "type": "lineHeights"
   },
   "lg": {
-    "value": "24",
+    "value": "24px",
     "type": "lineHeights"
   },
   "xl": {
-    "value": "26",
+    "value": "26px",
     "type": "lineHeights"
   },
   "xxl": {
-    "value": "32",
+    "value": "32px",
     "type": "lineHeights"
   },
   "text-decoration": {

@@ -501,6 +501,14 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "devider2": {
+      "value": {
+        "color": "{contextual.divider2}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {
@@ -1431,6 +1439,10 @@
     },
     "divider": {
       "value": "{core.grey.700}",
+      "type": "color"
+    },
+    "divider2": {
+      "value": "{core.brand-30.a15}",
       "type": "color"
     },
     "overlay": {

@@ -1453,6 +1453,10 @@
         "value": "linear-gradient(180deg, rgba(27, 24, 19, 0.00) 0%, #1B1813 100%)",
         "type": "color"
       }
+    },
+    "divider2": {
+      "value": "{core.brand-30.a15}",
+      "type": "color"
     }
   },
   "scale-1": {

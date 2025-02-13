@@ -1670,6 +1670,38 @@
           "value": "{core.validation.danger.600}",
           "type": "color"
         }
+      },
+      "item": {
+        "text": {
+          "default": {
+            "value": "{core.brand-60.a60}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "icon-left": {
+          "value": "{core.brand-60.a60}",
+          "type": "color"
+        },
+        "notification": {
+          "text": {
+            "value": "{core.brand-60.a60}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-60.a60}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "active": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
+        }
       }
     }
   },

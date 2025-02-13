@@ -1477,6 +1477,38 @@
           "value": "{core.brand-60.a60}",
           "type": "color"
         }
+      },
+      "item": {
+        "text": {
+          "default": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "icon-left": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        },
+        "fill": {
+          "active": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
+        },
+        "notification": {
+          "text": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          }
+        }
       }
     },
     "status-icon": {

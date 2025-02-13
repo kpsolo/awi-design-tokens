@@ -1648,6 +1648,28 @@
           "value": "rgba(198, 10, 248, 0.35)",
           "type": "color"
         }
+      },
+      "fill": {
+        "value": "rgba(51, 233, 198, 0.35)",
+        "type": "color"
+      },
+      "text": {
+        "primary": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.brand-60.a80}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        }
       }
     }
   },
@@ -2143,6 +2165,10 @@
         "value": "rgba(28, 21, 72, 0.25)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
+      },
+      "a80": {
+        "value": "rgba(230, 220, 200, 0.80)",
+        "type": "color"
       }
     },
     "brand-30": {

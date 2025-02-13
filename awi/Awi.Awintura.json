@@ -828,6 +828,39 @@
         "type": "innerShadow"
       },
       "type": "boxShadow"
+    },
+    "menu": {
+      "banner": {
+        "text-accent": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "rgba(0, 153, 153, 0.80)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "rgba(0, 153, 153, 0.80)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "#026969",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -1392,6 +1425,24 @@
       "fill": {
         "value": "{core.brand-30.600}",
         "type": "color"
+      }
+    },
+    "menu": {
+      "banner": {
+        "text-accent": {
+          "fill": {
+            "value": "rgba(1, 82, 60, 0.40)",
+            "type": "color"
+          },
+          "border": {
+            "value": "#5CEDD1",
+            "type": "color"
+          }
+        },
+        "elipse-bg": {
+          "value": "rgba(51, 233, 198, 0.35)",
+          "type": "color"
+        }
       }
     },
     "status-icon": {

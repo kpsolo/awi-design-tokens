@@ -1493,6 +1493,16 @@
           "value": "{core.brand-30.200}",
           "type": "color"
         },
+        "new": {
+          "fill": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          }
+        },
         "fill": {
           "active": {
             "value": "{core.white.a8}",

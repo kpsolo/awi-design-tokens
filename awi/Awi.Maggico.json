@@ -2135,6 +2135,11 @@
         "value": "rgba(255, 255, 255, 0.15)",
         "type": "color",
         "description": "\n"
+      },
+      "a5": {
+        "value": "rgba(255, 255, 255, 0.05)",
+        "type": "color",
+        "description": "replaceble.white 8%\n"
       }
     },
     "brand-60": {

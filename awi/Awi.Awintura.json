@@ -1505,7 +1505,7 @@
         },
         "fill": {
           "active": {
-            "value": "{core.white.a8}",
+            "value": "{core.white.a5}",
             "type": "color"
           }
         },
@@ -2136,6 +2136,11 @@
       },
       "a8": {
         "value": "rgba(255, 255, 255, 0.08)",
+        "type": "color",
+        "description": "replaceble.white 8%\n"
+      },
+      "a5": {
+        "value": "rgba(255, 255, 255, 0.05)",
         "type": "color",
         "description": "replaceble.white 8%\n"
       },

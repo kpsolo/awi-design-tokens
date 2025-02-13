@@ -92,6 +92,14 @@
       "lg": {
         "value": "{spacing.200}",
         "type": "spacing"
+      },
+      "text-only": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "text-icons": {
+        "value": "{spacing.200}",
+        "type": "spacing"
       }
     },
     "icon": {

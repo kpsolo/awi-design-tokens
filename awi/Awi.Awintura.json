@@ -255,6 +255,14 @@
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
       }
+    },
+    "menu": {
+      "item": {
+        "new": {
+          "value": "{border-radius.core.100}",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "border": {
@@ -1288,7 +1296,7 @@
       },
       "notification": {
         "fill1": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         },
         "fill2": {
@@ -1602,13 +1610,13 @@
           "type": "color"
         },
         "icon": {
-          "value": "{core.validation.success.500}",
+          "value": "{core.validation.success.a20}",
           "type": "color"
         }
       },
       "error": {
         "icon": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         },
         "fill": {
@@ -2953,7 +2961,7 @@
       },
       "danger": {
         "default": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         }
       }
@@ -3033,7 +3041,7 @@
           "type": "color"
         },
         "validation": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         },
         "disabled": {

@@ -247,6 +247,14 @@
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
+    },
+    "menu": {
+      "item": {
+        "new": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "border": {
@@ -1555,7 +1563,7 @@
           "type": "color"
         },
         "icon": {
-          "value": "{core.validation.success.500}",
+          "value": "{core.validation.success.a20}",
           "type": "color"
         }
       },
@@ -1565,7 +1573,7 @@
           "type": "color"
         },
         "icon": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         }
       }
@@ -1762,38 +1770,42 @@
         },
         "inform": {
           "fill": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.800}",
             "type": "color"
           }
         },
         "indicator": {
           "success": {
-            "value": "{core.grey.a20}",
-            "type": "color"
-          },
-          "success-copy": {
             "value": "{core.validation.success.a20}",
             "type": "color"
           },
+          "error": {
+            "value": "{core.validation.danger.a20}",
+            "type": "color"
+          },
           "progress": {
-            "value": "{core.brand-30.300}",
+            "value": "{semantic.gradients.7}",
             "type": "color"
           }
         }
       },
       "balance-number": {
         "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, #E58900 0deg, rgba(229, 137, 0, 0.00) 0.035999999090563506deg, #E58900 360deg)",
+          "value": "conic-gradient(from 90deg at 50% 50%, #8651F0 0deg, rgba(119, 105, 239, 0.00) 0.035999999090563506deg, #D22EDC 360deg)",
           "type": "color"
         },
         "indicator-start": {
-          "value": "{core.brand-10.600}",
+          "value": "#D22EDC",
           "type": "color"
         }
+      },
+      "icon": {
+        "value": "{core.brand-30.50}",
+        "type": "color"
       }
     }
   },
@@ -2414,6 +2426,10 @@
           "value": "{core.white.a0}",
           "type": "color",
           "description": "Secondary.red 500"
+        },
+        "a20": {
+          "value": "rgba(253, 51, 124, 0.20)",
+          "type": "color"
         }
       },
       "success": {
@@ -2443,7 +2459,7 @@
           "description": "Primary.emerald 500"
         },
         "500": {
-          "value": "#00e593",
+          "value": "#00E593",
           "type": "color",
           "description": "Primary.emerald 500"
         },
@@ -2466,6 +2482,10 @@
           "value": "{core.white.a0}",
           "type": "color",
           "description": "Primary.emerald 500"
+        },
+        "a20": {
+          "value": "rgba(0, 229, 147, 0.20)",
+          "type": "color"
         }
       },
       "warning": {
@@ -2923,7 +2943,7 @@
       },
       "danger": {
         "default": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         }
       }
@@ -3003,7 +3023,7 @@
           "type": "color"
         },
         "validation": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         },
         "disabled": {

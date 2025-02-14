@@ -550,7 +550,6 @@
       "core.validation.danger.200": "77371182220a6811b0dcfc4016874ba6cf313cbe",
       "core.validation.danger.300": "c498f1ee72b3810872680ba5e07e86a5930c8dcf",
       "core.validation.danger.400": "5df1eb2cc614ad90838e445ed519f39b2470332d",
-      "core.validation.danger.500": "49255b8b001cb6b550ebf745ec7ff81c833c978a",
       "core.validation.danger.600": "aeaf27d2ce82c0d7fa1fd4fde441eef920daa3af",
       "core.validation.danger.700": "f331b538769e3e838d51f96ea82aa766e191070f",
       "core.validation.danger.800": "41d6eba0625e421c40fd1de8b188430858c29ad6",
@@ -560,7 +559,6 @@
       "core.validation.success.200": "1b78adc678430384b883d143f0e9b5ab9c1fe9ac",
       "core.validation.success.300": "b9c6c7900a5aff1c2419b2a6e8747844a8684f95",
       "core.validation.success.400": "501c368f00b039b6d1e5399bcfac783a6489ecc3",
-      "core.validation.success.500": "6fc98637dc523f4eef35d2ed31e13a2e0065742f",
       "core.validation.success.600": "e2f63d048141bd561f19c38f270941eb5eb1fcb4",
       "core.validation.success.700": "a466c823dbeb6d82a3828aa8eb6d0dfe0c19093d",
       "core.validation.success.800": "be769801ae1a35400de843e3588d4c31b204352e",
@@ -783,7 +781,9 @@
       "depth.m200": "ab90a71503df61908b8abbb05a9501d8404912d6",
       "depth.m400": "0cd3bf059387b7c1a718a7a669408e6a51191302",
       "depth.m800": "4c508798988ec580f416393d45c66d6ac7d78b37",
-      "depth.m1200": "11e438512ba14a2432576a7f8eb769a2b73a9113"
+      "depth.m1200": "11e438512ba14a2432576a7f8eb769a2b73a9113",
+      "core.validation.success.a20": "6fc98637dc523f4eef35d2ed31e13a2e0065742f",
+      "core.validation.danger.a20": "49255b8b001cb6b550ebf745ec7ff81c833c978a"
     },
     "$figmaCollectionId": "VariableCollectionId:27849:188100",
     "$figmaModeId": "27849:1"

@@ -1690,16 +1690,16 @@
       "item": {
         "text": {
           "default": {
-            "value": "{core.brand-60.a60}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "hover-active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
         "icon-left": {
-          "value": "{core.brand-60.a60}",
+          "value": "{core.brand-30.50}",
           "type": "color"
         },
         "notification": {
@@ -1739,7 +1739,11 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.brand-30.200}",
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
           "type": "color"
         },
         "text": {

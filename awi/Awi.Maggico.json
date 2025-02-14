@@ -1755,8 +1755,8 @@
           "type": "color"
         },
         "text": {
-          "primary": {
-            "value": "{core.brand-60.800}",
+          "error": {
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "secondary": {
@@ -1765,7 +1765,7 @@
           }
         },
         "devider": {
-          "value": "{core.grey.a20}",
+          "value": "{core.white.a15}",
           "type": "color"
         },
         "inform": {

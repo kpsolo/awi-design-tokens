@@ -543,6 +543,18 @@
           }
         }
       }
+    },
+    "menu": {
+      "quick-pay": {
+        "devider": {
+          "value": {
+            "color": "{contextual.menu.quick-pay.devider}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      }
     }
   },
   "shadow": {
@@ -1478,6 +1490,10 @@
           "type": "color"
         }
       },
+      "devider": {
+        "value": "{core.brand-60.a25}",
+        "type": "color"
+      },
       "item": {
         "text": {
           "default": {
@@ -1488,10 +1504,6 @@
             "value": "{core.brand-10.500}",
             "type": "color"
           }
-        },
-        "icon-left": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
         },
         "new": {
           "fill": {
@@ -1519,6 +1531,54 @@
             "type": "color"
           }
         }
+      },
+      "icon": {
+        "value": "{core.brand-30.200}",
+        "type": "color"
+      },
+      "quick-pay": {
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        },
+        "text": {
+          "error": {
+            "value": "{core.red.600}",
+            "type": "color"
+          }
+        },
+        "devider": {
+          "value": "{core.grey.a20}",
+          "type": "color"
+        },
+        "indicator": {
+          "success": {
+            "value": "{core.validation.success.a20}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.a20}",
+            "type": "color"
+          },
+          "progress": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          }
+        },
+        "inform": {
+          "fill": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          }
+        }
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, rgba(7, 7, 3, 0.00) 50.42%, #070703 100%)",
+        "type": "color"
       }
     },
     "status-icon": {
@@ -2349,6 +2409,11 @@
           "value": "{core.white.a0}",
           "type": "color",
           "description": "Secondary.red 500"
+        },
+        "a20": {
+          "value": "rgba(254, 76, 37, 0.20)",
+          "type": "color",
+          "description": "Secondary.red 500"
         }
       },
       "success": {
@@ -2401,6 +2466,11 @@
           "value": "{core.white.a0}",
           "type": "color",
           "description": "Primary.emerald 500"
+        },
+        "a20": {
+          "value": "rgba(0, 229, 147, 0.20)",
+          "type": "color",
+          "description": "Primary.emerald 500 20%"
         }
       },
       "warning": {

@@ -529,6 +529,18 @@
           }
         }
       }
+    },
+    "menu": {
+      "quick-pay": {
+        "devider": {
+          "value": {
+            "color": "{contextual.menu.quick-pay.devider}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      }
     }
   },
   "shadow": {
@@ -1709,6 +1721,58 @@
           },
           "text": {
             "value": "{core.brand-60.900}",
+            "type": "color"
+          }
+        }
+      },
+      "devider": {
+        "value": "{core.brand-60.a25}",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, rgba(7, 7, 3, 0.00) 50.42%, #070703 100%)",
+        "type": "color"
+      },
+      "quick-pay": {
+        "fill": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        },
+        "text": {
+          "primary": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          }
+        },
+        "devider": {
+          "value": "{core.grey.a20}",
+          "type": "color"
+        },
+        "inform": {
+          "fill": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          }
+        },
+        "indicator": {
+          "success": {
+            "value": "{core.grey.a20}",
+            "type": "color"
+          },
+          "success-copy": {
+            "value": "{core.validation.success.a20}",
+            "type": "color"
+          },
+          "progress": {
+            "value": "{core.brand-30.300}",
             "type": "color"
           }
         }

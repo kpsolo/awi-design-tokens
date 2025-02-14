@@ -1581,7 +1581,7 @@
         }
       },
       "overlay": {
-        "value": "linear-gradient(180deg, rgba(7, 7, 3, 0.00) 50.42%, #070703 100%)",
+        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50.42%, #1C1548 100%)",
         "type": "color"
       }
     },

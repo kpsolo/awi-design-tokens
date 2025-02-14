@@ -2356,6 +2356,14 @@
       "a25": {
         "value": "rgba(250, 236, 209, 0.25)",
         "type": "color"
+      },
+      "a80": {
+        "value": "rgba(215, 197, 252, 0.8)",
+        "type": "color"
+      },
+      "a60": {
+        "value": "rgba(215, 197, 252, 0.6)",
+        "type": "color"
       }
     },
     "validation": {

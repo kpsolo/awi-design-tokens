@@ -2228,6 +2228,11 @@
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
       },
+      "a90": {
+        "value": "rgba(255, 255, 255, 0.9)",
+        "type": "color",
+        "description": "\n"
+      },
       "a60": {
         "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
@@ -2372,11 +2377,11 @@
         "type": "color"
       },
       "a80": {
-        "value": "rgba(215, 197, 252, 0.8)",
+        "value": "rgba(250, 236, 209, 0.8)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(215, 197, 252, 0.6)",
+        "value": "rgba(250, 236, 209, 0.6)",
         "type": "color"
       }
     },

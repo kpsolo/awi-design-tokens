@@ -255,6 +255,10 @@
           "type": "borderRadius"
         }
       }
+    },
+    "popover": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
     }
   },
   "border": {
@@ -881,6 +885,10 @@
           "type": "boxShadow"
         }
       }
+    },
+    "popover": {
+      "value": "shadow.drop.modal",
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1051,6 +1059,26 @@
             "value": "{semantic.border.brand.secondary.disabled}",
             "type": "color"
           }
+        }
+      }
+    },
+    "popover": {
+      "fill": {
+        "value": "{core.brand-30.300}",
+        "type": "color"
+      },
+      "close": {
+        "value": "{core.brand-60.400}",
+        "type": "color"
+      },
+      "text": {
+        "primary": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.static.secondary}",
+          "type": "color"
         }
       }
     },

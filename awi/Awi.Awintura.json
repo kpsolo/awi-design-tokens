@@ -887,7 +887,7 @@
       }
     },
     "popover": {
-      "value": "shadow.drop.modal",
+      "value": "{shadow.drop.large}",
       "type": "boxShadow"
     }
   },
@@ -1065,6 +1065,10 @@
     "popover": {
       "fill": {
         "value": "{core.brand-30.300}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "close": {

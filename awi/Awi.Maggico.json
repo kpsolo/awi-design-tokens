@@ -883,7 +883,7 @@
       "type": "boxShadow"
     },
     "popover": {
-      "value": "shadow.drop.modal",
+      "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     }
   },

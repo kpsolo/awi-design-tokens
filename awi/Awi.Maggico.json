@@ -1672,7 +1672,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "linear-gradient(107deg, #8651F0 24.79%, #7968EF 41.82%, #7769EF 44.06%, #D22EDC 77.58%)",
+              "value": "linear-gradient(107deg, #8651F0 25%, #7968EF 42%, #7769EF 44%, #D22EDC 78%)",
               "type": "color"
             }
           },
@@ -1704,7 +1704,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(37, 35, 57, 0.73) 0%, rgba(37, 35, 57, 0.75) 25%, rgba(37, 35, 57, 0.61) 46.35%, rgba(37, 35, 57, 0.27) 76.04%, rgba(37, 35, 57, 0.11) 89.06%, rgba(37, 35, 57, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(37, 35, 57, 0.73) 0%, rgba(37, 35, 57, 0.75) 25%, rgba(37, 35, 57, 0.61) 46%, rgba(37, 35, 57, 0.27) 76%, rgba(37, 35, 57, 0.11) 89%, rgba(37, 35, 57, 0.00) 100%)",
           "type": "color"
         },
         "top-up": {
@@ -1809,7 +1809,7 @@
         "type": "color"
       },
       "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50.42%, #1C1548 100%)",
+        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
         "type": "color"
       },
       "quick-pay": {
@@ -1862,7 +1862,7 @@
       },
       "balance-number": {
         "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, #8651F0 0deg, rgba(119, 105, 239, 0.00) 0.035999999090563506deg, #D22EDC 360deg)",
+          "value": "conic-gradient(from 90deg at 50% 50%, #8651F0 0deg, rgba(119, 105, 239, 0.00) 0deg, #D22EDC 360deg)",
           "type": "color"
         },
         "indicator-start": {
@@ -2815,7 +2815,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(318deg, #03192C -1.7%, #32356A 40.54%, #484288 64.83%, #D22EDC 107.71%)",
+        "value": "linear-gradient(318deg, #03192C -2%, #32356A 40%, #484288 65%, #D22EDC 108%)",
         "type": "color",
         "description": "gradient. brown 700"
       },
@@ -2830,7 +2830,7 @@
         "description": "gradients.border 2"
       },
       "6": {
-        "value": "linear-gradient(319deg, #8651F0 5.49%, #7968EF 35.98%, #7769EF 40%, #D22EDC 100%)",
+        "value": "linear-gradient(319deg, #8651F0 5%, #7968EF 36%, #7769EF 40%, #D22EDC 100%)",
         "type": "color",
         "description": "gradients.Border button"
       },
@@ -2850,7 +2850,7 @@
         "description": "gradients.Brown 600"
       },
       "10": {
-        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 66.67%, rgba(23, 16, 66, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 67%, rgba(23, 16, 66, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Emerald 600"
       },

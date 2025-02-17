@@ -202,7 +202,7 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
-    "popover": {
+    "notification": {
       "value": "{border-radius.core.400}",
       "type": "borderRadius"
     },

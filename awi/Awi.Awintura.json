@@ -256,7 +256,7 @@
         }
       }
     },
-    "popover": {
+    "notification": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     }

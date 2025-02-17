@@ -1642,7 +1642,7 @@
       },
       "balance-number": {
         "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, #E58900 0deg, rgba(229, 137, 0, 0.00) 0.035999999090563506deg, #E58900 360deg)",
+          "value": "conic-gradient(from 90deg at 50% 50%, #E58900 0deg, rgba(229, 137, 0, 0.00) 0deg, #E58900 360deg)",
           "type": "color"
         },
         "indicator-start": {
@@ -1699,7 +1699,7 @@
         }
       },
       "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50.42%, #1C1548 100%)",
+        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
         "type": "color"
       }
     },
@@ -2810,7 +2810,7 @@
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(154deg, #FBF4E0 8.4%, #E7CF85 91.6%)",
+        "value": "linear-gradient(154deg, #FBF4E0 8%, #E7CF85 92%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },
@@ -2845,7 +2845,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
+        "value": "linear-gradient(180deg, #595045 0%, #55483A 33%, #413428 100%)",
         "type": "color",
         "description": "gradients.Brown 600"
       },

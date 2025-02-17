@@ -1062,7 +1062,7 @@
         }
       }
     },
-    "popover": {
+    "notifications": {
       "fill": {
         "value": "{core.brand-30.300}",
         "type": "color"

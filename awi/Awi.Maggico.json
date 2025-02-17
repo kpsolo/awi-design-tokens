@@ -1827,7 +1827,7 @@
         "type": "color"
       }
     },
-    "popover": {
+    "notifications": {
       "fill": {
         "value": "{semantic.gradients.3}",
         "type": "color"

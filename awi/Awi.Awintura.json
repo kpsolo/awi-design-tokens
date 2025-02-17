@@ -3468,7 +3468,7 @@
       "type": "sizing"
     }
   },
-  "footer-content": {
+  "content": {
     "max-width": {
       "value": "1320px",
       "type": "sizing"

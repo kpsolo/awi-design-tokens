@@ -593,6 +593,16 @@
         },
         "type": "border"
       }
+    },
+    "notification": {
+      "divider": {
+        "value": {
+          "color": "{contextual.notifications.devider}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -924,7 +934,7 @@
       "value": "{shadow.drop.large}",
       "type": "boxShadow"
     },
-    "toast": {
+    "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
     }
@@ -1146,6 +1156,10 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "devider": {
+        "value": "rgba(57, 38, 2, 0.10)",
+        "type": "color"
       }
     },
     "input": {

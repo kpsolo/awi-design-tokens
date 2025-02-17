@@ -536,6 +536,16 @@
       },
       "type": "border"
     },
+    "notification": {
+      "divider": {
+        "value": {
+          "color": "{contextual.notifications.devider}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
     "header": {
       "desktop": {
         "special-menu-item": {
@@ -928,7 +938,7 @@
       "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     },
-    "toast": {
+    "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
     }
@@ -1904,6 +1914,10 @@
       },
       "border": {
         "value": "{core.white.a25}",
+        "type": "color"
+      },
+      "devider": {
+        "value": "{core.white.a8}",
         "type": "color"
       },
       "text": {

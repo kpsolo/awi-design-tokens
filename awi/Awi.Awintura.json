@@ -559,6 +559,40 @@
           "type": "border"
         }
       }
+    },
+    "toast": {
+      "success": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.success}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "error": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.error}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "warning": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.warning}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "info": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.info}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -889,6 +923,10 @@
     "popover": {
       "value": "{shadow.drop.large}",
       "type": "boxShadow"
+    },
+    "toast": {
+      "value": "{shadow.drop.medium}",
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1082,6 +1120,30 @@
         },
         "secondary": {
           "value": "{semantic.text.static.secondary}",
+          "type": "color"
+        }
+      },
+      "toast": {
+        "type-color": {
+          "success": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "info": {
+            "value": "#2196F3",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -3649,6 +3711,14 @@
       "menu-items": {
         "value": "{heading.ml}",
         "type": "typography"
+      }
+    }
+  },
+  "notification": {
+    "button": {
+      "text-padding-horizontal": {
+        "value": "{spacing.0}",
+        "type": "spacing"
       }
     }
   }

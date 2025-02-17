@@ -127,6 +127,14 @@
       }
     }
   },
+  "notification": {
+    "button": {
+      "text-padding-horizontal": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      }
+    }
+  },
   "border-radius": {
     "core": {
       "0": {
@@ -553,6 +561,40 @@
           "type": "border"
         }
       }
+    },
+    "toast": {
+      "success": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.success}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "error": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.error}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "warning": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.warning}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "info": {
+        "value": {
+          "color": "{contextual.notifications.toast.type-color.info}",
+          "width": "{depth.50}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -884,6 +926,10 @@
     },
     "popover": {
       "value": "{shadow.drop.modal}",
+      "type": "boxShadow"
+    },
+    "toast": {
+      "value": "{shadow.drop.medium}",
       "type": "boxShadow"
     }
   },
@@ -1831,6 +1877,30 @@
       "fill": {
         "value": "{semantic.gradients.3}",
         "type": "color"
+      },
+      "toast": {
+        "type-color": {
+          "success": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        }
       },
       "border": {
         "value": "{core.white.a25}",

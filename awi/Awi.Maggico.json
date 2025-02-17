@@ -127,14 +127,6 @@
       }
     }
   },
-  "notification": {
-    "button": {
-      "text-padding-horizontal": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      }
-    }
-  },
   "border-radius": {
     "core": {
       "0": {

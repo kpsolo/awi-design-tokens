@@ -3727,13 +3727,5 @@
         "type": "typography"
       }
     }
-  },
-  "notification": {
-    "button": {
-      "text-padding-horizontal": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      }
-    }
   }
 }

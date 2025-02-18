@@ -611,6 +611,14 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "footer": {
+      "value": {
+        "color": "{contextual.footer.border}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {

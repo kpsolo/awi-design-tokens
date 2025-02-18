@@ -1927,7 +1927,7 @@
         "type": "color"
       }
     },
-    "game": {
+    "thumb-games ": {
       "label": {
         "fill": {
           "value": "{semantic.gradients.6}",

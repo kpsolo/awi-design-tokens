@@ -603,6 +603,14 @@
         },
         "type": "border"
       }
+    },
+    "devider2": {
+      "value": {
+        "color": "{core.white.a0}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {

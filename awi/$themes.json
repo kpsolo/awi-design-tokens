@@ -1542,8 +1542,8 @@
       "tooltip.md.padding-horizontal": "3f5f400e27baabb4d71cdfac73266c735e1a693d",
       "tooltip.md.padding-vertical": "f655c6c988dc4fc30ae77eab39db623a9b96008b",
       "popup.bottom.min-height": "69eb2cab436c96c7da994aeb78336924bb9329b8",
-      "contextual.footer.elipse": "c7d6b59c714c8c857ac4821a0ca32b5a31b472ef",
-      "content.max-width": "5cd9081cba489c349189752e5735750a1e91f08f"
+      "content.max-width": "5cd9081cba489c349189752e5735750a1e91f08f",
+      "contextual.footer.elipse.fill": "c7d6b59c714c8c857ac4821a0ca32b5a31b472ef"
     },
     "$figmaCollectionId": "VariableCollectionId:13:19544",
     "$figmaModeId": "13:0"

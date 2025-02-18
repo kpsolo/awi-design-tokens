@@ -1863,8 +1863,10 @@
         "type": "color"
       },
       "elipse": {
-        "value": "{core.white.a0}",
-        "type": "color"
+        "fill": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
       },
       "social": {
         "fill": {

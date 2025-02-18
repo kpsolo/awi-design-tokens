@@ -1943,6 +1943,44 @@
           "value": "{semantic.gradients.10}",
           "type": "color"
         }
+      },
+      "empty": {
+        "fill": {
+          "value": "{semantic.gradients.8}",
+          "type": "color"
+        }
+      },
+      "show-more": {
+        "fill": {
+          "value": "{semantic.gradients.7}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "demo": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 79.69%, rgba(23, 16, 66, 0.35) 100%)",
+        "type": "color"
       }
     }
   },

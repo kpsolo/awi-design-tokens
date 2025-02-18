@@ -1955,6 +1955,44 @@
           "value": "linear-gradient(180deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
           "type": "color"
         }
+      },
+      "empty": {
+        "fill": {
+          "value": "{semantic.gradients.8}",
+          "type": "color"
+        }
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, #291C01 0%, rgba(57, 38, 2, 0.60) 79.69%, rgba(45, 30, 1, 0.35) 100%)",
+        "type": "color"
+      },
+      "show-more": {
+        "fill": {
+          "value": "{core.brand-60.a25}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "demo": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     }
   },

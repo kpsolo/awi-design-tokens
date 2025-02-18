@@ -1870,6 +1870,10 @@
         "value": "{core.grey.900}",
         "type": "color"
       },
+      "border": {
+        "value": "{core.white.a0}",
+        "type": "color"
+      },
       "elipse": {
         "fill": {
           "value": "{core.white.a0}",

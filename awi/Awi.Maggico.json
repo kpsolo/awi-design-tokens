@@ -1926,6 +1926,14 @@
         "value": "{core.white.a50}",
         "type": "color"
       }
+    },
+    "game": {
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.6}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
@@ -3726,6 +3734,18 @@
         "value": "{text.button-large}",
         "type": "typography"
       }
+    }
+  },
+  "games": {
+    "labels": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Medium}",
+        "fontSize": "9px",
+        "lineHeight": "9px",
+        "letterSpacing": "3%"
+      },
+      "type": "typography"
     }
   }
 }

@@ -1916,6 +1916,14 @@
     "divider2": {
       "value": "{core.brand-30.a15}",
       "type": "color"
+    },
+    "game": {
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
@@ -3726,6 +3734,18 @@
         "value": "{heading.ml}",
         "type": "typography"
       }
+    }
+  },
+  "games": {
+    "labels": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Medium}",
+        "fontSize": "9px",
+        "lineHeight": "9px",
+        "letterSpacing": "3%"
+      },
+      "type": "typography"
     }
   }
 }

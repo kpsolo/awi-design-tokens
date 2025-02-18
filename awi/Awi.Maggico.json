@@ -1937,6 +1937,12 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "label-providers": {
+        "fill": {
+          "value": "{semantic.gradients.10}",
+          "type": "color"
+        }
       }
     }
   },

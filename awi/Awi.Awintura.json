@@ -1929,6 +1929,12 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "label-providers": {
+        "fill": {
+          "value": "linear-gradient(180deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
+          "type": "color"
+        }
       }
     }
   },

@@ -606,7 +606,7 @@
     },
     "devider2": {
       "value": {
-        "color": "{core.white.a0}",
+        "color": "{contextual.divider2}",
         "width": "{depth.025}",
         "style": "solid"
       },

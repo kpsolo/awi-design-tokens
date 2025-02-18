@@ -1932,6 +1932,10 @@
         "fill": {
           "value": "{semantic.gradients.6}",
           "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
         }
       }
     }
@@ -3740,7 +3744,7 @@
     "labels": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Semibold}",
         "fontSize": "9px",
         "lineHeight": "9px",
         "letterSpacing": "3%"

@@ -1922,7 +1922,11 @@
     "game": {
       "label": {
         "fill": {
-          "value": "{semantic.gradients.3}",
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }

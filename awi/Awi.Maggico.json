@@ -952,14 +952,7 @@
       }
     },
     "pupop": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{depth.400}",
-        "spread": "{depth.0}",
-        "color": "rgba(156, 110, 247, 0.56)",
-        "type": "innerShadow"
-      },
+      "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     },
     "popover": {

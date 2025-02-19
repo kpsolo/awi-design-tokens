@@ -633,6 +633,16 @@
           "type": "border"
         }
       }
+    },
+    "nav-menu": {
+      "item": {
+        "value": {
+          "color": "{contextual.nav-menu.item.border}",
+          "width": "3px",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {

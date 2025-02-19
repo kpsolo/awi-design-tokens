@@ -259,6 +259,16 @@
           "type": "borderRadius"
         }
       }
+    },
+    "nav-bar": {
+      "general": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -971,6 +981,27 @@
     },
     "notification": {
       "value": "{shadow.drop.medium}",
+      "type": "boxShadow"
+    },
+    "nav-bar": {
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.200}",
+          "blur": "{blur.200}",
+          "spread": "{depth.0}",
+          "color": "rgba(9, 10, 11, 0.05)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{depth.0}",
+          "y": "{depth.025}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "rgba(255, 255, 255, 0.30)",
+          "type": "innerShadow"
+        }
+      ],
       "type": "boxShadow"
     }
   },
@@ -2117,6 +2148,16 @@
         "border": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "radial-gradient(57% 28% at 50% 100%, rgba(156, 110, 247, 0.70) 0%, rgba(156, 110, 247, 0.69) 7%, rgba(156, 110, 247, 0.68) 13%, rgba(156, 110, 247, 0.64) 20%, rgba(156, 110, 247, 0.60) 27%, rgba(156, 110, 247, 0.54) 33%, rgba(156, 110, 247, 0.47) 40%, rgba(156, 110, 247, 0.39) 47%, rgba(156, 110, 247, 0.31) 53%, rgba(156, 110, 247, 0.23) 60%, rgba(156, 110, 247, 0.16) 67%, rgba(156, 110, 247, 0.10) 73%, rgba(156, 110, 247, 0.06) 80%, rgba(156, 110, 247, 0.03) 87%, rgba(156, 110, 247, 0.01) 93%, rgba(156, 110, 247, 0.00) 100%)",
+            "type": "color"
+          }
         }
       },
       "button": {
@@ -3534,6 +3575,10 @@
     },
     "overlay": {
       "value": "{blur.100}",
+      "type": "dimension"
+    },
+    "nav-bar": {
+      "value": "40px",
       "type": "dimension"
     }
   },

@@ -259,6 +259,16 @@
     "notification": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
+    },
+    "nav-bar": {
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -992,6 +1002,27 @@
     "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
+    },
+    "nav-bar": {
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.200}",
+          "blur": "{blur.200}",
+          "spread": "{depth.0}",
+          "color": "rgba(9, 10, 11, 0.05)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "{depth.0}",
+          "y": "{depth.025}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "rgba(255, 255, 255, 0.30)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1639,6 +1670,16 @@
         "border": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "button": {
@@ -1648,7 +1689,7 @@
             "type": "color"
           },
           "hover-active": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         },
@@ -3555,6 +3596,10 @@
       "type": "dimension"
     },
     "overlay": {
+      "value": "{blur.0}",
+      "type": "dimension"
+    },
+    "nav-bar": {
       "value": "{blur.0}",
       "type": "dimension"
     }

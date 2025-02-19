@@ -1600,6 +1600,54 @@
         "type": "color"
       }
     },
+    "nav-menu": {
+      "fill": {
+        "value": "{semantic.gradients.9}",
+        "type": "color"
+      },
+      "item": {
+        "text": {
+          "default": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "button": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
+      }
+    },
     "menu": {
       "banner": {
         "text-accent": {
@@ -2667,6 +2715,10 @@
       },
       "a50": {
         "value": "rgba(250, 236, 209, 0.5)",
+        "type": "color"
+      },
+      "a8": {
+        "value": "rgba(215, 197, 252, 0.08)",
         "type": "color"
       }
     },

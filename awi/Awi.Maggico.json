@@ -1003,6 +1003,48 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "tab-bar": {
+      "item": {
+        "active": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "#E028FD",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.200}",
+              "spread": "{depth.0}",
+              "color": "#E028FD",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "12px",
+              "spread": "{depth.0}",
+              "color": "#E028FD",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "12px",
+              "spread": "{depth.0}",
+              "color": "#B3A9F6",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "0px 0px 4px 0px #E028FD"
+        }
+      }
     }
   },
   "contextual": {
@@ -4030,6 +4072,12 @@
     "padding-bottom": {
       "value": "14px",
       "type": "spacing"
+    },
+    "tab-memu-main": {
+      "gap": {
+        "value": "{spacing.100}",
+        "type": "spacing"
+      }
     }
   },
   "header": {

@@ -136,6 +136,12 @@
       "value": "{spacing.150}",
       "type": "spacing"
     },
+    "tab-memu-main": {
+      "gap": {
+        "value": "{spacing.m100}",
+        "type": "spacing"
+      }
+    },
     "padding-bottom": {
       "value": "14px",
       "type": "spacing"
@@ -963,6 +969,24 @@
     "dropdown menu": {
       "value": "{shadow.drop.up}",
       "type": "boxShadow"
+    },
+    "tab-bar": {
+      "item": {
+        "active": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.0}",
+              "spread": "{depth.0}",
+              "color": "{core.white.a0}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "0px 0px 4px 0px #E028FD"
+        }
+      }
     },
     "datepicker": {
       "value": "{shadow.drop.small}",
@@ -2243,7 +2267,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{semantic.gradients.3}",
           "type": "color"
         }
       }

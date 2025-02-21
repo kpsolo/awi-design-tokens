@@ -4018,6 +4018,20 @@
       "type": "sizing"
     }
   },
+  "tab-bar": {
+    "main-icon": {
+      "value": "{size.800}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "14px",
+      "type": "spacing"
+    }
+  },
   "header": {
     "desctop": {
       "menu-items": {

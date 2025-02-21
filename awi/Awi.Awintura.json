@@ -127,6 +127,20 @@
       }
     }
   },
+  "tab-bar": {
+    "main-icon": {
+      "value": "{size.600}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "{spacing.150}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "14px",
+      "type": "spacing"
+    }
+  },
   "border-radius": {
     "core": {
       "0": {
@@ -3806,6 +3820,13 @@
     "max-width": {
       "value": "1320px",
       "type": "sizing"
+    },
+    "tab-bar": {
+      "main-icon": {
+        "value": "{size.600}",
+        "type": "sizing",
+        "description": "Tab menu_main"
+      }
     }
   },
   "input": {

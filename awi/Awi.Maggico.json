@@ -2176,6 +2176,42 @@
           "type": "color"
         }
       }
+    },
+    "tab-bar": {
+      "fill": {
+        "value": "linear-gradient(180deg, rgba(78, 61, 203, 0.95) 2%, rgba(43, 33, 99, 0.95) 67%, rgba(13, 10, 35, 0.95) 100%)",
+        "type": "color"
+      },
+      "text": {
+        "default": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.validation.danger.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
@@ -2697,12 +2733,12 @@
         "description": "amber 800"
       },
       "200": {
-        "value": "#D7C5FC",
+        "value": "#C7ADFC",
         "type": "color",
         "description": "amber 700"
       },
       "300": {
-        "value": "{core.white.a0}",
+        "value": "#C7C3FB",
         "type": "color"
       },
       "400": {

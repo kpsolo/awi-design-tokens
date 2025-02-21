@@ -2188,6 +2188,42 @@
           "type": "color"
         }
       }
+    },
+    "tab-bar": {
+      "fill": {
+        "value": "linear-gradient(180deg, rgba(65, 56, 48, 0.40) 0%, rgba(28, 25, 24, 0.40) 100%)",
+        "type": "color"
+      },
+      "text": {
+        "default": {
+          "value": "{core.white.a80}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.validation.danger.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core.white.a80}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
@@ -2610,6 +2646,11 @@
       },
       "a90": {
         "value": "rgba(255, 255, 255, 0.9)",
+        "type": "color",
+        "description": "\n"
+      },
+      "a80": {
+        "value": "rgba(255, 255, 255, 0.8)",
         "type": "color",
         "description": "\n"
       },

@@ -955,7 +955,16 @@
       "type": "boxShadow"
     },
     "tooltip": {
-      "value": "{shadow.drop.game-item}",
+      "value": [
+        {
+          "x": "0px",
+          "y": "{depth.50}",
+          "blur": "{blur.200}",
+          "spread": "0px",
+          "color": "rgba(0, 0, 0, 0.20)",
+          "type": "dropShadow"
+        }
+      ],
       "type": "boxShadow"
     },
     "pupop": {

@@ -3396,7 +3396,7 @@
       },
       "danger": {
         "default": {
-          "value": "{core.validation.danger.a20}",
+          "value": "{core.validation.danger.500}",
           "type": "color"
         }
       }
@@ -3476,7 +3476,7 @@
           "type": "color"
         },
         "validation": {
-          "value": "{core.validation.danger.a20}",
+          "value": "{core.validation.danger.500}",
           "type": "color"
         },
         "disabled": {

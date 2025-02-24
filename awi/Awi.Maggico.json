@@ -4080,7 +4080,7 @@
       "type": "sizing"
     },
     "padding-top": {
-      "value": "10px",
+      "value": "{spacing.200}",
       "type": "spacing"
     },
     "padding-bottom": {

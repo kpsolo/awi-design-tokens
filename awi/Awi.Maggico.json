@@ -1711,6 +1711,10 @@
       "fill": {
         "value": "{semantic.background.slate-1}",
         "type": "color"
+      },
+      "bottom-fill": {
+        "value": "{core.white.a8}",
+        "type": "color"
       }
     },
     "tooltip": {

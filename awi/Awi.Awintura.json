@@ -1994,6 +1994,10 @@
       "fill": {
         "value": "{semantic.background.slate-1}",
         "type": "color"
+      },
+      "bottom-fill": {
+        "value": "{core.brand-10.100}",
+        "type": "color"
       }
     },
     "tooltip": {

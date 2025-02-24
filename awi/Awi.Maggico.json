@@ -1920,6 +1920,16 @@
           }
         }
       },
+      "status": {
+        "fill": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "progress": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
       "devider": {
         "value": "{core.brand-60.a25}",
         "type": "color"

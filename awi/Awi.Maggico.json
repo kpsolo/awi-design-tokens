@@ -29,7 +29,7 @@
     "xs": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -38,7 +38,7 @@
     "xs-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -47,7 +47,7 @@
     "xs-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -56,7 +56,7 @@
     "sm": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
@@ -65,7 +65,7 @@
     "sm-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
@@ -74,7 +74,7 @@
     "md": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -83,7 +83,7 @@
     "md-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -92,7 +92,7 @@
     "md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -101,7 +101,7 @@
     "ml": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -110,7 +110,7 @@
     "ml-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -119,7 +119,7 @@
     "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -128,7 +128,7 @@
     "lg": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
@@ -137,7 +137,7 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
@@ -146,7 +146,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -155,7 +155,7 @@
     "button-small": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -164,7 +164,7 @@
     "link-sm": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}",
         "textDecoration": "{text-decoration.underline}"
@@ -174,7 +174,7 @@
     "link-md": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{text.normal}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}",
         "textDecoration": "{text-decoration.underline}"

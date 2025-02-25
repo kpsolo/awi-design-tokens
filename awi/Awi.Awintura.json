@@ -2409,7 +2409,7 @@
     "xs-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -2454,7 +2454,7 @@
     "md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -2481,7 +2481,7 @@
     "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -2499,7 +2499,7 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
@@ -2508,7 +2508,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },

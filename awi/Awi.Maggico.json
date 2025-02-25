@@ -1631,6 +1631,16 @@
       "fill": {
         "value": "{core.grey.400}",
         "type": "color"
+      },
+      "scroll-horizontal": {
+        "fill": {
+          "value": "{core.white.a25}",
+          "type": "color"
+        },
+        "dot": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
       }
     },
     "datepicker": {

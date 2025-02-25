@@ -1682,6 +1682,16 @@
       "fill": {
         "value": "{core.brand-30.600}",
         "type": "color"
+      },
+      "scroll-horizontal": {
+        "fill": {
+          "value": "{core.brand-30.a25}",
+          "type": "color"
+        },
+        "dot": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "nav-menu": {

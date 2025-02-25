@@ -2081,6 +2081,12 @@
           "value": "{semantic.gradients.7}",
           "type": "color"
         },
+        "smaller": {
+          "fill": {
+            "value": "{semantic.gradients.7}",
+            "type": "color"
+          }
+        },
         "border": {
           "value": "{core.brand-30.500}",
           "type": "color"
@@ -2256,6 +2262,26 @@
         "text": {
           "value": "{core.white.a100}",
           "type": "color"
+        }
+      }
+    },
+    "homepage": {
+      "collection": {
+        "dot-slider": {
+          "fill": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          },
+          "dot": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "background-card": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          }
         }
       }
     }

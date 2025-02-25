@@ -2229,6 +2229,12 @@
         "text": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        },
+        "smaller": {
+          "fill": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       },
       "text": {
@@ -2268,6 +2274,24 @@
         },
         "text": {
           "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
+    "homepage": {
+      "collection": {
+        "dot-slider": {
+          "fill": {
+            "value": "{core.brand-30.a25}",
+            "type": "color"
+          },
+          "dot": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "value": "{core.white.a25}",
           "type": "color"
         }
       }

@@ -128,29 +128,9 @@
     }
   },
   "tab-bar": {
-    "main-icon": {
-      "value": "{size.600}",
-      "type": "sizing"
-    },
     "padding-top": {
       "value": "{spacing.100}",
       "type": "spacing"
-    },
-    "item-main": {
-      "gap": {
-        "value": "{spacing.m100}",
-        "type": "spacing"
-      },
-      "height": {
-        "value": "42px",
-        "type": "sizing"
-      },
-      "bottom": {
-        "y": {
-          "value": "-34px",
-          "type": "dimension"
-        }
-      }
     },
     "item": {
       "gap": {

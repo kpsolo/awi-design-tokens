@@ -3665,26 +3665,6 @@
     }
   },
   "tab-bar": {
-    "item-main": {
-      "bottom": {
-        "y": {
-          "value": "-42px",
-          "type": "dimension"
-        }
-      },
-      "height": {
-        "value": "44px",
-        "type": "sizing"
-      },
-      "gap": {
-        "value": "{spacing.100}",
-        "type": "spacing"
-      }
-    },
-    "main-icon": {
-      "value": "{size.800}",
-      "type": "sizing"
-    },
     "padding-top": {
       "value": "{spacing.300}",
       "type": "spacing"

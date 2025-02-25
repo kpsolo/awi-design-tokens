@@ -3734,6 +3734,12 @@
         "value": "{spacing.0}",
         "type": "spacing"
       }
+    },
+    "item-main": {
+      "gap": {
+        "value": "4px",
+        "type": "spacing"
+      }
     }
   },
   "depth": {

@@ -138,6 +138,12 @@
         "type": "spacing"
       }
     },
+    "item-main": {
+      "gap": {
+        "value": "-4px",
+        "type": "spacing"
+      }
+    },
     "padding-bottom": {
       "value": "14px",
       "type": "spacing"

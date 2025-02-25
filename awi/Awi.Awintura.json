@@ -2218,17 +2218,19 @@
         "type": "color"
       },
       "show-more": {
-        "fill": {
-          "value": "{core.brand-60.a25}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+        "normal": {
+          "fill": {
+            "value": "{core.brand-60.a25}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         },
         "smaller": {
           "fill": {
@@ -2300,6 +2302,16 @@
         },
         "background": {
           "value": "{core.white.a25}",
+          "type": "color"
+        },
+        "item": {
+          "title": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "value": "{core.brand-30.300}",
           "type": "color"
         }
       }
@@ -4162,14 +4174,14 @@
   "homepage": {
     "collection": {
       "title": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Medium}",
-          "fontSize": "9px",
-          "lineHeight": "9px",
-          "letterSpacing": "3%"
+        "mob": {
+          "value": "{heading.xl-stronger}",
+          "type": "typography"
         },
-        "type": "typography"
+        "web": {
+          "value": "{heading.xxl-stronger}",
+          "type": "typography"
+        }
       }
     }
   }

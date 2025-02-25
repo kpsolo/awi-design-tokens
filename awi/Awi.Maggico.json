@@ -2077,9 +2077,19 @@
         }
       },
       "show-more": {
-        "fill": {
-          "value": "{semantic.gradients.7}",
-          "type": "color"
+        "normal": {
+          "fill": {
+            "value": "{semantic.gradients.7}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         },
         "smaller": {
           "fill": {
@@ -2094,14 +2104,6 @@
             "value": "{core.white.a100}",
             "type": "color"
           }
-        },
-        "border": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
         }
       },
       "text": {
@@ -2110,7 +2112,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-30.200}",
           "type": "color"
         },
         "demo": {
@@ -2290,6 +2292,16 @@
             "value": "{core.white.a25}",
             "type": "color"
           }
+        },
+        "item": {
+          "title": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "value": "{core.white.a100}",
+          "type": "color"
         }
       }
     }
@@ -4137,14 +4149,14 @@
   "homepage": {
     "collection": {
       "title": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Medium}",
-          "fontSize": "9px",
-          "lineHeight": "9px",
-          "letterSpacing": "3%"
+        "mob": {
+          "value": "{heading.lg-stronger}",
+          "type": "typography"
         },
-        "type": "typography"
+        "web": {
+          "value": "{heading.lg-stronger}",
+          "type": "typography"
+        }
       }
     }
   }

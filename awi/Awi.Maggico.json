@@ -2248,16 +2248,6 @@
           "type": "color"
         }
       },
-      "icon": {
-        "default": {
-          "value": "{core.brand-30.300}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
       "badge": {
         "fill": {
           "value": "{core.validation.danger.500}",
@@ -3674,6 +3664,42 @@
       "type": "dimension"
     }
   },
+  "tab-bar": {
+    "item-main": {
+      "bottom": {
+        "y": {
+          "value": "-42px",
+          "type": "dimension"
+        }
+      },
+      "height": {
+        "value": "44px",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{spacing.100}",
+        "type": "spacing"
+      }
+    },
+    "main-icon": {
+      "value": "{size.800}",
+      "type": "sizing"
+    },
+    "padding-top": {
+      "value": "{spacing.300}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "14px",
+      "type": "spacing"
+    },
+    "item": {
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      }
+    }
+  },
   "depth": {
     "0": {
       "value": "0px",
@@ -4072,26 +4098,6 @@
     "max-width": {
       "value": "1320px",
       "type": "sizing"
-    }
-  },
-  "tab-bar": {
-    "main-icon": {
-      "value": "{size.800}",
-      "type": "sizing"
-    },
-    "padding-top": {
-      "value": "{spacing.200}",
-      "type": "spacing"
-    },
-    "padding-bottom": {
-      "value": "14px",
-      "type": "spacing"
-    },
-    "tab-memu-main": {
-      "gap": {
-        "value": "{spacing.100}",
-        "type": "spacing"
-      }
     }
   },
   "header": {

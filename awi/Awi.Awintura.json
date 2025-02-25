@@ -133,12 +133,28 @@
       "type": "sizing"
     },
     "padding-top": {
-      "value": "{spacing.150}",
+      "value": "{spacing.100}",
       "type": "spacing"
     },
-    "tab-memu-main": {
+    "item-main": {
       "gap": {
         "value": "{spacing.m100}",
+        "type": "spacing"
+      },
+      "height": {
+        "value": "42px",
+        "type": "sizing"
+      },
+      "bottom": {
+        "y": {
+          "value": "-34px",
+          "type": "dimension"
+        }
+      }
+    },
+    "item": {
+      "gap": {
+        "value": "-2px",
         "type": "spacing"
       }
     },
@@ -2272,16 +2288,6 @@
         },
         "text": {
           "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{core.white.a80}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.gradients.3}",
           "type": "color"
         }
       }

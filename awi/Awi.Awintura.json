@@ -1044,6 +1044,32 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "tabs": {
+      "lottery-tournament": {
+        "item": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "1px",
+              "spread": "0px",
+              "color": "{core.white.a8}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.100}",
+              "blur": "{blur.200}",
+              "spread": "0",
+              "color": "rgba(45, 39, 25, 0.40)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "contextual.tabs.lottery-tournament.item"
+        }
+      }
     }
   },
   "contextual": {
@@ -2124,24 +2150,26 @@
         "type": "color"
       },
       "lottery-tournament": {
-        "fill": {
-          "default": {
-            "value": "{core.brand-60.900}",
-            "type": "color"
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.grey.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-60.900}",
+              "type": "color"
+            }
           },
-          "active": {
-            "value": "{core.brand-60.900}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "default": {
-            "value": "{core.brand-60.900}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-60.900}",
-            "type": "color"
+          "text": {
+            "default": {
+              "value": "{core.brand-30.a60}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
           }
         }
       },

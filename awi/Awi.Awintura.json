@@ -5,7 +5,7 @@
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Mystery Mobile Expanded",
+    "value": "Mystery Mobile 400",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },

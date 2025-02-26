@@ -2569,7 +2569,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{md}"
+        "lineHeight": "{md}",
+        "letterSpacing": "0%",
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography"
     },
@@ -2578,7 +2580,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2587,7 +2591,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Semibold}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2596,7 +2602,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Regular}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}"
+        "lineHeight": "{xl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2605,7 +2613,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}"
+        "lineHeight": "{xl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2614,7 +2624,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}"
+        "lineHeight": "{xl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2623,7 +2635,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}"
+        "lineHeight": "{xxl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
       },
       "type": "typography"
     },
@@ -2632,7 +2646,9 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}"
+        "lineHeight": "{xxl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     }

@@ -2123,6 +2123,28 @@
         "value": "{core.brand-30.a15}",
         "type": "color"
       },
+      "lottery-tournament": {
+        "fill": {
+          "default": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          }
+        }
+      },
       "item": {
         "text": {
           "default": {

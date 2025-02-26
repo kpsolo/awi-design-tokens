@@ -2351,6 +2351,16 @@
           "type": "color"
         }
       },
+      "title&show-all": {
+        "text": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        }
+      },
       "winning-now": {
         "background": {
           "value": "{core.brand-60.900}",

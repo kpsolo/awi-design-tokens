@@ -2530,6 +2530,16 @@
           "value": "{core.brand-60.500}",
           "type": "color"
         }
+      },
+      "title&show-all": {
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        }
       }
     }
   },

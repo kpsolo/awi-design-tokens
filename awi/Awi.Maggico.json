@@ -1214,6 +1214,12 @@
           "description": "0px 0px 4px 0px #E028FD"
         }
       }
+    },
+    "homepage": {
+      "collections": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {

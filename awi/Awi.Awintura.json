@@ -1014,6 +1014,12 @@
       "value": "{shadow.drop.large}",
       "type": "boxShadow"
     },
+    "homepage": {
+      "collections": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      }
+    },
     "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"

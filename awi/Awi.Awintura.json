@@ -2350,6 +2350,12 @@
           "value": "{core.brand-30.300}",
           "type": "color"
         }
+      },
+      "winning-now": {
+        "background": {
+          "value": "{core.brand-60.900}",
+          "type": "color"
+        }
       }
     }
   },

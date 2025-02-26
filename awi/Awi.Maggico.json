@@ -2328,7 +2328,7 @@
         }
       },
       "overlay": {
-        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 79.69%, rgba(23, 16, 66, 0.35) 100%)",
+        "value": "linear-gradient(0deg, #171042 0%, rgba(23, 16, 66, 0.60) 79.69%, rgba(23, 16, 66, 0.35) 100%)",
         "type": "color"
       }
     },
@@ -3337,7 +3337,7 @@
         "description": "gradients.Brown 600"
       },
       "10": {
-        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 67%, rgba(23, 16, 66, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #171042 0%, rgba(23, 16, 66, 0.60) 67%, rgba(23, 16, 66, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Emerald 600"
       },

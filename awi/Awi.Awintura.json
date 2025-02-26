@@ -2272,19 +2272,11 @@
     },
     "homepage": {
       "collection": {
-        "dot-slider": {
-          "fill": {
-            "value": "{core.brand-30.a25}",
-            "type": "color"
-          },
-          "dot": {
-            "value": "{core.brand-10.500}",
+        "background": {
+          "background-card": {
+            "value": "linear-gradient(90deg, #2D532C 0%, #395128 11.11%, #424E25 22.22%, #494B24 33.33%, #504925 44.44%, #544627 55.56%, #58442A 66.67%, #5A422E 77.78%, #5B4033 88.89%, #5A3F37 100%)",
             "type": "color"
           }
-        },
-        "background": {
-          "value": "{core.white.a25}",
-          "type": "color"
         },
         "item": {
           "title": {

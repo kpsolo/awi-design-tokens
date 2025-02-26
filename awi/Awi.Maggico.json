@@ -2456,19 +2456,9 @@
     },
     "homepage": {
       "collection": {
-        "dot-slider": {
-          "fill": {
-            "value": "{core.white.a25}",
-            "type": "color"
-          },
-          "dot": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
         "background": {
           "background-card": {
-            "value": "{core.white.a25}",
+            "value": "radial-gradient(68.83% 75.33% at 96.7% 2.92%, rgba(210, 46, 220, 0.15) 0%, rgba(156, 110, 247, 0.15) 100%), #140E39",
             "type": "color"
           }
         },

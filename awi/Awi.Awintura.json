@@ -1658,8 +1658,14 @@
     },
     "scroll": {
       "fill": {
-        "value": "{core.brand-30.600}",
-        "type": "color"
+        "default": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "{core.white.a25}",
+          "type": "color"
+        }
       },
       "scroll-horizontal": {
         "fill": {

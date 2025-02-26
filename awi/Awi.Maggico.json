@@ -1804,8 +1804,14 @@
     },
     "scroll": {
       "fill": {
-        "value": "{core.grey.400}",
-        "type": "color"
+        "default": {
+          "value": "{core.grey.400}",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        }
       },
       "scroll-horizontal": {
         "fill": {
@@ -2738,6 +2744,11 @@
       },
       "a25": {
         "value": "rgba(255, 255, 255, 0.25)",
+        "type": "color",
+        "description": "replaceble.sand 300 (25%)\n"
+      },
+      "a20": {
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
       },

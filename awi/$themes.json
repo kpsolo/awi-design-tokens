@@ -247,7 +247,6 @@
       "contextual.dropdown-menu.item.text.primary": "29372e76d9ffb1a68b6e3a6d962413b25eb02492",
       "contextual.dropdown-menu.item.text.secondary": "d76db8c60e64240e9ede3df33acf0e13f4c6fbb3",
       "contextual.dropdown-menu.fill": "92e5b63c83143a46700fdeedb3f8c0a4a2b496c9",
-      "contextual.scroll.fill": "e5bfd036e245af51453d88b671588ecfe37e21ff",
       "contextual.menu.banner.text-accent.fill": "40743aa6d16afef1540a7f027c8ebb0cb5dc6742",
       "contextual.menu.banner.text-accent.border": "f8feadbcbc3d86f25c42d16aaf1c01cf4c84edd6",
       "contextual.menu.banner.elipse-bg": "ac26befcdc7af3cb633f776e20c2d168a73c0d92",
@@ -630,7 +629,8 @@
       "contextual.footer.elipse.fill": "e129582a864dfa9e38d052f23aecffdd5d739bbf",
       "contextual.menu.item.icon-left": "877e4059540ab46863ae80dc6e249a7ba12eb60d",
       "contextual.menu.quick-pay.text.secondary": "3333d048446635b09c201117b2aa6d25c9c73820",
-      "content.max-width": "ba591f7cc9722113b37ea28be2e006f349607346"
+      "content.max-width": "ba591f7cc9722113b37ea28be2e006f349607346",
+      "contextual.scroll.fill.default": "e5bfd036e245af51453d88b671588ecfe37e21ff"
     },
     "$figmaCollectionId": "VariableCollectionId:12:617343",
     "$figmaModeId": "12:0"
@@ -1163,7 +1163,6 @@
       "contextual.dropdown-menu.item.text.primary": "cfc69eee90b7f32e42c898bec55cb279620cea24",
       "contextual.dropdown-menu.item.text.secondary": "5b710ab836fbbedb65f53d8c305c5dda2edec2ca",
       "contextual.dropdown-menu.fill": "7796f85fd289368c2440128330a2ddbd6d1fe7e3",
-      "contextual.scroll.fill": "2f508e6d11de7753f8f5fa9114775eae231fb9f3",
       "contextual.datepicker.item.text.default": "8887ce6d3abaea7fd427b3c9feb712e574c4a5b0",
       "contextual.datepicker.item.text.today": "c9a976cca433e2408fe9ca7fad082d7818e8d076",
       "contextual.datepicker.item.text.hover": "54873b9b5459f0771fdd7e998b9a56c1face3106",
@@ -1543,7 +1542,8 @@
       "tooltip.md.padding-vertical": "f655c6c988dc4fc30ae77eab39db623a9b96008b",
       "popup.bottom.min-height": "69eb2cab436c96c7da994aeb78336924bb9329b8",
       "content.max-width": "5cd9081cba489c349189752e5735750a1e91f08f",
-      "contextual.footer.elipse.fill": "c7d6b59c714c8c857ac4821a0ca32b5a31b472ef"
+      "contextual.footer.elipse.fill": "c7d6b59c714c8c857ac4821a0ca32b5a31b472ef",
+      "contextual.scroll.fill.default": "2f508e6d11de7753f8f5fa9114775eae231fb9f3"
     },
     "$figmaCollectionId": "VariableCollectionId:13:19544",
     "$figmaModeId": "13:0"

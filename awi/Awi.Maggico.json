@@ -2529,6 +2529,16 @@
         "background": {
           "value": "{core.brand-60.500}",
           "type": "color"
+        },
+        "card": {
+          "text": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "text-body": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          }
         }
       },
       "title&show-all": {

@@ -2365,6 +2365,16 @@
         "background": {
           "value": "{core.brand-60.900}",
           "type": "color"
+        },
+        "card": {
+          "text": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "text-body": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          }
         }
       }
     }

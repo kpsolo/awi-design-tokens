@@ -2550,6 +2550,28 @@
           "value": "{core.brand-30.200}",
           "type": "color"
         }
+      },
+      "slider": {
+        "payment-block": {
+          "text": {
+            "text-primary": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "text-secondary": {
+              "value": "{core.grey.300}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "element": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
       }
     }
   },

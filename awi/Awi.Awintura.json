@@ -2351,6 +2351,28 @@
           "type": "color"
         }
       },
+      "slider": {
+        "payment-block": {
+          "text": {
+            "text-primary": {
+              "value": "{core.brand-60.800}",
+              "type": "color"
+            },
+            "text-secondary": {
+              "value": "{core.brand-60.500}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "element": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          }
+        }
+      },
       "title&show-all": {
         "text": {
           "value": "{core.brand-30.300}",
@@ -2372,7 +2394,7 @@
             "type": "color"
           },
           "text-body": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         }

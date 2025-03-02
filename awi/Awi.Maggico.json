@@ -1235,6 +1235,12 @@
       "collections": {
         "value": "{shadow.drop.small}",
         "type": "boxShadow"
+      },
+      "slider": {
+        "payment-block": {
+          "value": "{shadow.drop.small}",
+          "type": "boxShadow"
+        }
       }
     }
   },

@@ -2361,11 +2361,11 @@
         "payment-block": {
           "text": {
             "text-primary": {
-              "value": "{core.brand-60.800}",
+              "value": "{semantic.text.static.primary}",
               "type": "color"
             },
             "text-secondary": {
-              "value": "{core.brand-60.500}",
+              "value": "{semantic.text.static.secondary}",
               "type": "color"
             }
           },

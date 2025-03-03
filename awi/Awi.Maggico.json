@@ -2561,11 +2561,11 @@
         "payment-block": {
           "text": {
             "text-primary": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "text-secondary": {
-              "value": "{core.grey.300}",
+              "value": "{semantic.text.default.tertiary}",
               "type": "color"
             }
           },

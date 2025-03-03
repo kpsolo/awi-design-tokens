@@ -1152,8 +1152,8 @@
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
     },
-    "tabs": {
-      "lottery-tournament": {
+    "lottery-tournament": {
+      "tabs": {
         "item": {
           "value": {
             "x": "{depth.0}",
@@ -1165,6 +1165,42 @@
           },
           "type": "boxShadow",
           "description": "contextual.tabs.lottery-tournament.item"
+        }
+      },
+      "players-prizes": {
+        "gold": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.200}",
+            "spread": "0px",
+            "color": "{core.brand-10.500}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow",
+          "description": "contextual.lottery-tournament.players-prizes"
+        },
+        "silver": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.200}",
+            "spread": "0px",
+            "color": "{core.additionals.silver}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "bronze": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.200}",
+            "spread": "0px",
+            "color": "{core.additionals.bronze}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
         }
       }
     },
@@ -2402,8 +2438,10 @@
             "type": "color"
           }
         }
-      },
-      "lottery-tournament": {
+      }
+    },
+    "lottery-tournament": {
+      "tabs": {
         "item": {
           "fill": {
             "default": {
@@ -2424,6 +2462,30 @@
               "value": "{core.white.a100}",
               "type": "color"
             }
+          }
+        }
+      },
+      "players-prizes": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        },
+        "text-heading": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "text-type": {
+          "gold": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "silver": {
+            "value": "{core.additionals.silver}",
+            "type": "color"
+          },
+          "bronze": {
+            "value": "{core.additionals.bronze}",
+            "type": "color"
           }
         }
       }

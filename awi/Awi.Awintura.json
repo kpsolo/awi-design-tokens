@@ -2264,7 +2264,7 @@
         },
         "text-type": {
           "gold": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "silver": {
@@ -3323,7 +3323,7 @@
     },
     "additionals": {
       "silver": {
-        "value": "#8D96AE",
+        "value": "#A4AEC8",
         "type": "color",
         "description": "basic.silver"
       },

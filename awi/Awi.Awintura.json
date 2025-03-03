@@ -659,6 +659,16 @@
           "style": "solid"
         },
         "type": "border"
+      },
+      "mobile": {
+        "tab": {
+          "value": {
+            "color": "{contextual.nav-menu.item.border}",
+            "width": "2px",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       }
     },
     "footer": {
@@ -1803,6 +1813,48 @@
           "content": {
             "value": "{core.brand-30.300}",
             "type": "color"
+          }
+        },
+        "mobile": {
+          "tab": {
+            "fill": {
+              "active": {
+                "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
+                "type": "color"
+              },
+              "active-border": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              },
+              "active-gradient": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "default-gradient": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              }
+            },
+            "text": {
+              "active": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.brand-30.300}",
+                "type": "color"
+              }
+            },
+            "icon": {
+              "icon-active": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              },
+              "icon-default": {
+                "value": "{core.brand-30.200}",
+                "type": "color"
+              }
+            }
           }
         }
       },

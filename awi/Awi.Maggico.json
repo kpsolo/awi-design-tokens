@@ -4301,6 +4301,28 @@
         "web": {
           "value": "{heading.xxl-stronger}",
           "type": "typography"
+        },
+        "padding-left": {
+          "value": "{spacing.800}",
+          "type": "spacing"
+        }
+      },
+      "padding-top": {
+        "value": "40px",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.m400}",
+        "type": "spacing"
+      },
+      "collections-wrap": {
+        "gap": {
+          "value": "{spacing.400}",
+          "type": "spacing"
         }
       }
     }

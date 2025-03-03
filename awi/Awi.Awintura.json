@@ -4223,6 +4223,42 @@
       }
     }
   },
+  "homepage": {
+    "collection": {
+      "padding-top": {
+        "value": "{spacing.1200}",
+        "type": "spacing"
+      },
+      "title": {
+        "padding-left": {
+          "value": "{spacing.1200}",
+          "type": "spacing"
+        },
+        "mob": {
+          "value": "{heading.xl-stronger}",
+          "type": "typography"
+        },
+        "web": {
+          "value": "{heading.xxl-stronger}",
+          "type": "typography"
+        }
+      },
+      "collections-wrap": {
+        "gap": {
+          "value": "28px",
+          "type": "spacing"
+        }
+      },
+      "padding-bottom": {
+        "value": "53px",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      }
+    }
+  },
   "tooltip": {
     "sm": {
       "padding-horizontal": {
@@ -4271,20 +4307,6 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
-    }
-  },
-  "homepage": {
-    "collection": {
-      "title": {
-        "mob": {
-          "value": "{heading.xl-stronger}",
-          "type": "typography"
-        },
-        "web": {
-          "value": "{heading.xxl-stronger}",
-          "type": "typography"
-        }
-      }
     }
   }
 }

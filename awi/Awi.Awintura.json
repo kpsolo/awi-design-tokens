@@ -839,7 +839,7 @@
           "y": "{depth.0}",
           "blur": "{blur.400}",
           "spread": "{depth.0}",
-          "color": "rgba(156, 110, 247, 0.56)",
+          "color": "rgba(98, 73, 0, 0.56)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -973,7 +973,7 @@
       ],
       "type": "boxShadow"
     },
-    "pupop": {
+    "popup": {
       "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     },

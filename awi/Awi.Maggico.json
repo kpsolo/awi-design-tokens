@@ -1140,7 +1140,7 @@
         }
       }
     },
-    "pupop": {
+    "popup": {
       "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     },

@@ -2494,17 +2494,91 @@
         }
       }
     },
-    "nav-menu": {
-      "fill": {
-        "value": "{semantic.gradients.9}",
-        "type": "color"
+    "homepage": {
+      "nav-menu": {
+        "fill": {
+          "value": "{semantic.gradients.9}",
+          "type": "color"
+        },
+        "item": {
+          "text": {
+            "default": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            }
+          }
+        }
       },
-      "item": {
-        "text": {
-          "default": {
+      "collection": {
+        "background": {
+          "background-card": {
+            "value": "radial-gradient(68.83% 75.33% at 96.7% 2.92%, rgba(210, 46, 220, 0.15) 0%, rgba(156, 110, 247, 0.15) 100%), #140E39",
+            "type": "color"
+          }
+        },
+        "item": {
+          "title": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        },
+        "title": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "winning-now": {
+        "background": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        },
+        "card": {
+          "text": {
             "value": "{core.white.a100}",
             "type": "color"
           },
+          "text-body": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          }
+        }
+      },
+      "title&show-all": {
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        }
+      },
+      "slider": {
+        "payment-block": {
+          "text": {
+            "text-primary": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "text-secondary": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
+            }
+          },
+          "background": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "element": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "nav-menu": {
+      "item": {
+        "text": {
           "hover-active": {
             "value": "{core.brand-10.500}",
             "type": "color"
@@ -2575,74 +2649,6 @@
         "text": {
           "value": "{core.white.a100}",
           "type": "color"
-        }
-      }
-    },
-    "homepage": {
-      "collection": {
-        "background": {
-          "background-card": {
-            "value": "radial-gradient(68.83% 75.33% at 96.7% 2.92%, rgba(210, 46, 220, 0.15) 0%, rgba(156, 110, 247, 0.15) 100%), #140E39",
-            "type": "color"
-          }
-        },
-        "item": {
-          "title": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
-        "title": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "winning-now": {
-        "background": {
-          "value": "{core.brand-60.500}",
-          "type": "color"
-        },
-        "card": {
-          "text": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "text-body": {
-            "value": "{core.grey.100}",
-            "type": "color"
-          }
-        }
-      },
-      "title&show-all": {
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
-        }
-      },
-      "slider": {
-        "payment-block": {
-          "text": {
-            "text-primary": {
-              "value": "{semantic.text.default.heading}",
-              "type": "color"
-            },
-            "text-secondary": {
-              "value": "{semantic.text.default.tertiary}",
-              "type": "color"
-            }
-          },
-          "background": {
-            "value": "{core.brand-60.500}",
-            "type": "color"
-          },
-          "element": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
         }
       }
     }

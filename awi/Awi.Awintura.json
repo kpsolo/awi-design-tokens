@@ -1762,7 +1762,47 @@
             "default": {
               "value": "{core.brand-30.300}",
               "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
             }
+          },
+          "icon": {
+            "default": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          },
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          }
+        },
+        "button": {
+          "fill": {
+            "default": {
+              "value": "{core.white.a8}",
+              "type": "color"
+            },
+            "hover-active": {
+              "value": "{core.brand-60.a15}",
+              "type": "color"
+            }
+          },
+          "content": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
           }
         }
       },
@@ -1835,50 +1875,8 @@
     },
     "nav-menu": {
       "item": {
-        "text": {
-          "hover-active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "default": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          },
-          "hover-active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
-        },
         "border": {
           "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "fill": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "hover-active": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          }
-        }
-      },
-      "button": {
-        "fill": {
-          "default": {
-            "value": "{core.white.a8}",
-            "type": "color"
-          },
-          "hover-active": {
-            "value": "{core.brand-60.a15}",
-            "type": "color"
-          }
-        },
-        "content": {
-          "value": "{core.brand-30.300}",
           "type": "color"
         }
       }

@@ -2463,6 +2463,10 @@
               "type": "color"
             }
           }
+        },
+        "fill": {
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "type": "color"
         }
       },
       "players-prizes": {

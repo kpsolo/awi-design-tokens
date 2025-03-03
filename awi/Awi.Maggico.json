@@ -4299,7 +4299,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg-stronger}",
+          "value": "{heading.xxl-stronger}",
           "type": "typography"
         }
       }

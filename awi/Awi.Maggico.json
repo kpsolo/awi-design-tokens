@@ -1287,6 +1287,17 @@
           "value": "{shadow.drop.small}",
           "type": "boxShadow"
         }
+      },
+      "nav-menu": {
+        "value": {
+          "x": "0px",
+          "y": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "color": "rgba(255,255,255,0.3)",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
       }
     }
   },

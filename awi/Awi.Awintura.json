@@ -283,10 +283,6 @@
         }
       }
     },
-    "notification": {
-      "value": "{border-radius.core.300}",
-      "type": "borderRadius"
-    },
     "nav-bar": {
       "general": {
         "value": "{border-radius.core.300}",

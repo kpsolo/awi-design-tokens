@@ -1348,7 +1348,6 @@
       "blur.400": "bca85eaa6156408c3b6771617e56906a899f5016",
       "blur.800": "27dcf4a8c4920aaee82ee93dd205ccfdee1372c8",
       "blur.overlay": "93cd1233ab9bb9305585b372606109fc64b2d421",
-      "blur.nav-bar": "f5baf9b2aa122bc54023bb7a640684452fe2d497",
       "tab-bar.padding-top": "491a5c36dca0866253a8997a98e3e48d916fc051",
       "tab-bar.padding-bottom": "c15ba76f0b2e12c0c513f3b7120e5be5233759c3",
       "tab-bar.item.gap": "ed47b1498a3c733122741fbe139b9b2192ef6f8f",
@@ -1441,7 +1440,8 @@
       "homepage.collection.padding-bottom": "a57870f655144aa93aa5846486907e313fe48ac0",
       "homepage.collection.gap": "eac9605f12f340e6a286400b6e6410acd753568e",
       "homepage.collection.collections-wrap.gap": "d97582e8e3e67c6eeb825e218761bfc08a171162",
-      "content.tab-bar.main-icon": "02f491d1369b2fe915a8611f327ac529f7e7a455"
+      "content.tab-bar.main-icon": "02f491d1369b2fe915a8611f327ac529f7e7a455",
+      "blur.nav-menu": "f5baf9b2aa122bc54023bb7a640684452fe2d497"
     },
     "$figmaCollectionId": "VariableCollectionId:13:19544",
     "$figmaModeId": "13:0"

@@ -1214,26 +1214,38 @@
         }
       }
     },
-    "nav-bar": {
-      "value": [
-        {
-          "x": "{depth.0}",
-          "y": "{depth.200}",
-          "blur": "{blur.200}",
-          "spread": "{depth.0}",
-          "color": "rgba(9, 10, 11, 0.05)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "{depth.0}",
-          "y": "{depth.025}",
-          "blur": "{blur.0}",
-          "spread": "{depth.0}",
-          "color": "rgba(255, 255, 255, 0.30)",
-          "type": "innerShadow"
+    "homepage": {
+      "nav-menu": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.200}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "rgba(9, 10, 11, 0.05)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "rgba(255, 255, 255, 0.30)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "collections": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      },
+      "slider": {
+        "payment-block": {
+          "value": "{shadow.drop.small}",
+          "type": "boxShadow"
         }
-      ],
-      "type": "boxShadow"
+      }
     },
     "tab-bar": {
       "item": {
@@ -1275,29 +1287,6 @@
           "type": "boxShadow",
           "description": "0px 0px 4px 0px #E028FD"
         }
-      }
-    },
-    "homepage": {
-      "collections": {
-        "value": "{shadow.drop.small}",
-        "type": "boxShadow"
-      },
-      "slider": {
-        "payment-block": {
-          "value": "{shadow.drop.small}",
-          "type": "boxShadow"
-        }
-      },
-      "nav-menu": {
-        "value": {
-          "x": "0px",
-          "y": "1px",
-          "blur": "0px",
-          "spread": "0px",
-          "color": "rgba(255,255,255,0.3)",
-          "type": "innerShadow"
-        },
-        "type": "boxShadow"
       }
     }
   },
@@ -2615,11 +2604,11 @@
               }
             },
             "icon": {
-              "icon-active": {
+              "active": {
                 "value": "{core.brand-10.500}",
                 "type": "color"
               },
-              "icon-default": {
+              "default": {
                 "value": "{core.brand-30.200}",
                 "type": "color"
               }
@@ -4022,7 +4011,7 @@
       "value": "{blur.100}",
       "type": "dimension"
     },
-    "nav-bar": {
+    "nav-menu": {
       "value": "40px",
       "type": "dimension"
     }

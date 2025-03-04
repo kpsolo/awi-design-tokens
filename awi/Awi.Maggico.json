@@ -4511,5 +4511,31 @@
         }
       }
     }
+  },
+  "lottery-tournament": {
+    "tiket": {
+      "old-price": {
+        "md": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.normal}",
+            "fontSize": "{scale-3}",
+            "lineHeight": "{ml}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "10px",
+            "lineHeight": "{sm}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        }
+      }
+    }
   }
 }

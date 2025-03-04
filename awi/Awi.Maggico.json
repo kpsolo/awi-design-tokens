@@ -2539,6 +2539,13 @@
             "description": "Tiket"
           }
         }
+      },
+      "zero-block": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(93, 63, 148, 0.00) 0%, rgba(93, 63, 148, 0.55) 100%), #1C1548",
+          "type": "color",
+          "description": "zero block"
+        }
       }
     },
     "homepage": {

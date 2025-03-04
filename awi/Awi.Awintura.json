@@ -2457,6 +2457,13 @@
           }
         }
       },
+      "zero-block": {
+        "fill": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "zero block"
+        }
+      },
       "tabs": {
         "item": {
           "fill": {

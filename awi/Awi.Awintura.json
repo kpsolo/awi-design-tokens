@@ -1816,6 +1816,22 @@
           }
         },
         "mobile": {
+          "button": {
+            "fill": {
+              "default-copy": {
+                "value": "{core.white.a8}",
+                "type": "color"
+              },
+              "hover-active-copy": {
+                "value": "{core.brand-60.a15}",
+                "type": "color"
+              }
+            },
+            "content-copy": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            }
+          },
           "tab": {
             "fill": {
               "active": {

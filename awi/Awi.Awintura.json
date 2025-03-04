@@ -659,7 +659,7 @@
       "mobile": {
         "tab": {
           "value": {
-            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "color": "{contextual.homepage.nav-menu.mobile.tab.border.active}",
             "width": "2px",
             "style": "solid"
           },
@@ -1818,16 +1818,10 @@
           }
         },
         "mobile": {
-          "button": {
+          "providers": {
             "fill": {
-              "default": {
-                "value": "{contextual.homepage.nav-menu.fill}",
-                "type": "color"
-              },
-              "hover-active": {
-                "value": "{core.brand-60.a15}",
-                "type": "color"
-              }
+              "value": "{contextual.homepage.nav-menu.fill}",
+              "type": "color"
             },
             "content": {
               "value": "{core.brand-30.300}",
@@ -4403,6 +4397,14 @@
       "gap": {
         "value": "{spacing.0}",
         "type": "spacing"
+      }
+    },
+    "nav-menu": {
+      "mobile": {
+        "tab": {
+          "value": "{text.sm-strong}",
+          "type": "typography"
+        }
       }
     }
   },

@@ -816,7 +816,7 @@
     "nav-menu": {
       "item": {
         "value": {
-          "color": "{contextual.nav-menu.item.border}",
+          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
           "width": "3px",
           "style": "solid"
         },
@@ -825,7 +825,7 @@
       "mobile": {
         "tab": {
           "value": {
-            "color": "{contextual.nav-menu.item.border}",
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
             "width": "1px",
             "style": "solid"
           },
@@ -2540,6 +2540,12 @@
               "value": "radial-gradient(57% 28% at 50% 100%, rgba(156, 110, 247, 0.70) 0%, rgba(156, 110, 247, 0.69) 7%, rgba(156, 110, 247, 0.68) 13%, rgba(156, 110, 247, 0.64) 20%, rgba(156, 110, 247, 0.60) 27%, rgba(156, 110, 247, 0.54) 33%, rgba(156, 110, 247, 0.47) 40%, rgba(156, 110, 247, 0.39) 47%, rgba(156, 110, 247, 0.31) 53%, rgba(156, 110, 247, 0.23) 60%, rgba(156, 110, 247, 0.16) 67%, rgba(156, 110, 247, 0.10) 73%, rgba(156, 110, 247, 0.06) 80%, rgba(156, 110, 247, 0.03) 87%, rgba(156, 110, 247, 0.01) 93%, rgba(156, 110, 247, 0.00) 100%)",
               "type": "color"
             }
+          },
+          "border": {
+            "border-active-state": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
           }
         },
         "mobile": {
@@ -2685,14 +2691,12 @@
             "value": "{core.white.a100}",
             "type": "color"
           }
-        }
-      }
-    },
-    "nav-menu": {
-      "item": {
-        "border": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+        },
+        "text": {
+          "main-text": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     },

@@ -1834,17 +1834,17 @@
               "value": "{contextual.homepage.nav-menu.fill}",
               "type": "color"
             },
-            "content": {
+            "text": {
               "value": "{core.brand-30.300}",
               "type": "color"
             }
           },
           "tab": {
+            "fill": {
+              "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
+              "type": "color"
+            },
             "background": {
-              "fill-active": {
-                "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
-                "type": "color"
-              },
               "highlight": {
                 "active": {
                   "value": "{core.white.a0}",
@@ -1932,10 +1932,6 @@
         }
       },
       "title&show-all": {
-        "text": {
-          "value": "{core.brand-30.300}",
-          "type": "color"
-        },
         "icon": {
           "value": "{core.brand-10.600}",
           "type": "color"

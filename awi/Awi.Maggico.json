@@ -2513,6 +2513,32 @@
             "type": "color"
           }
         }
+      },
+      "tiket": {
+        "text": {
+          "primary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "label": {
+          "fill": {
+            "value": "{core.brand-30.200}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "text": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
       }
     },
     "homepage": {
@@ -3728,7 +3754,7 @@
       },
       "static": {
         "primary": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.500}",
           "type": "color"
         },
         "secondary": {

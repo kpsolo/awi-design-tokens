@@ -2431,6 +2431,32 @@
           }
         }
       },
+      "tiket": {
+        "text": {
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "label": {
+          "fill": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "text": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
       "tabs": {
         "item": {
           "fill": {

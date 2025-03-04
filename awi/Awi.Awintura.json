@@ -1818,36 +1818,40 @@
         "mobile": {
           "button": {
             "fill": {
-              "default-copy": {
-                "value": "{core.white.a8}",
+              "default": {
+                "value": "{contextual.homepage.nav-menu.fill}",
                 "type": "color"
               },
-              "hover-active-copy": {
+              "hover-active": {
                 "value": "{core.brand-60.a15}",
                 "type": "color"
               }
             },
-            "content-copy": {
+            "content": {
               "value": "{core.brand-30.300}",
               "type": "color"
             }
           },
           "tab": {
-            "fill": {
-              "active": {
+            "background": {
+              "fill-active": {
                 "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
                 "type": "color"
               },
-              "active-border": {
+              "highlight": {
+                "active": {
+                  "value": "{core.white.a0}",
+                  "type": "color"
+                },
+                "default": {
+                  "value": "{core.white.a0}",
+                  "type": "color"
+                }
+              }
+            },
+            "border": {
+              "active": {
                 "value": "{core.brand-10.500}",
-                "type": "color"
-              },
-              "active-gradient": {
-                "value": "{core.white.a0}",
-                "type": "color"
-              },
-              "default-gradient": {
-                "value": "{core.white.a0}",
                 "type": "color"
               }
             },

@@ -1440,8 +1440,8 @@
       "homepage.collection.collections-wrap.gap": "d97582e8e3e67c6eeb825e218761bfc08a171162",
       "content.tab-bar.main-icon": "02f491d1369b2fe915a8611f327ac529f7e7a455",
       "blur.nav-menu": "f5baf9b2aa122bc54023bb7a640684452fe2d497",
-      "border-radius.nav-menu.general": "3e412c6fb8481e6e8177510bed825be8da9f9c8e",
-      "border-radius.nav-menu.button": "eb0a8bcee1138809b649314bdb857cbb0d9834ec"
+      "border-radius.homepage.nav-menu.general": "3e412c6fb8481e6e8177510bed825be8da9f9c8e",
+      "border-radius.homepage.nav-menu.button": "eb0a8bcee1138809b649314bdb857cbb0d9834ec"
     },
     "$figmaCollectionId": "VariableCollectionId:13:19544",
     "$figmaModeId": "13:0"

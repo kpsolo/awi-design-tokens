@@ -283,14 +283,16 @@
         }
       }
     },
-    "nav-menu": {
-      "general": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius"
-      },
-      "button": {
-        "value": "{border-radius.core.200}",
-        "type": "borderRadius"
+    "homepage": {
+      "nav-menu": {
+        "general": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius"
+        },
+        "button": {
+          "value": "{border-radius.core.200}",
+          "type": "borderRadius"
+        }
       }
     }
   },
@@ -1833,16 +1835,14 @@
               "value": "linear-gradient(180deg, #595045 0%, #55483A 33.16%, #413428 100%)",
               "type": "color"
             },
-            "background": {
-              "highlight": {
-                "active": {
-                  "value": "{core.white.a0}",
-                  "type": "color"
-                },
-                "default": {
-                  "value": "{core.white.a0}",
-                  "type": "color"
-                }
+            "highlight": {
+              "active": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color"
               }
             },
             "border": {

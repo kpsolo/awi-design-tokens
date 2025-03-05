@@ -429,7 +429,7 @@
         }
       }
     },
-    "nav-bar": {
+    "nav-menu": {
       "general": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"

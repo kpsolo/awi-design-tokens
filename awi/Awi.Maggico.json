@@ -3773,6 +3773,20 @@
         }
       }
     },
+    "link": {
+      "default": {
+        "value": "{semantic.text.default.primary}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{core.brand-30.500}",
+        "type": "color"
+      },
+      "modal": {
+        "value": "{semantic.text.default.primary}",
+        "type": "color"
+      }
+    },
     "border": {
       "brand": {
         "primary": {

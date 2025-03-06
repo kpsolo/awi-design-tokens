@@ -3874,6 +3874,20 @@
           "type": "color"
         }
       }
+    },
+    "link": {
+      "default": {
+        "value": "{semantic.text.default.primary}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{core.brand-10.500}",
+        "type": "color"
+      },
+      "modal": {
+        "value": "{semantic.text.static.primary}",
+        "type": "color"
+      }
     }
   },
   "spacing": {

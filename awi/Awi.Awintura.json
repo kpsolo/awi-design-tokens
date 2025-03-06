@@ -283,14 +283,16 @@
         }
       }
     },
-    "nav-menu": {
-      "general": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius"
-      },
-      "button": {
-        "value": "{border-radius.core.200}",
-        "type": "borderRadius"
+    "homepage": {
+      "nav-menu": {
+        "general": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius"
+        },
+        "button": {
+          "value": "{border-radius.core.200}",
+          "type": "borderRadius"
+        }
       }
     }
   },
@@ -4035,9 +4037,11 @@
       "value": "{blur.0}",
       "type": "dimension"
     },
-    "nav-menu": {
-      "value": "{blur.0}",
-      "type": "dimension"
+    "homepage": {
+      "nav-menu": {
+        "value": "{blur.0}",
+        "type": "dimension"
+      }
     }
   },
   "depth": {

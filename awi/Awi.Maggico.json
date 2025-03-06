@@ -823,23 +823,25 @@
         }
       }
     },
-    "nav-menu": {
-      "item": {
-        "value": {
-          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
-          "width": "3px",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "mobile": {
-        "tab": {
+    "homepage": {
+      "nav-menu": {
+        "item": {
           "value": {
-            "color": "{contextual.homepage.nav-menu.mobile.tab.border.active}",
-            "width": "1px",
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "3px",
             "style": "solid"
           },
           "type": "border"
+        },
+        "mobile": {
+          "tab": {
+            "value": {
+              "color": "{contextual.homepage.nav-menu.mobile.tab.border.active}",
+              "width": "1px",
+              "style": "solid"
+            },
+            "type": "border"
+          }
         }
       }
     }
@@ -4035,9 +4037,11 @@
       "value": "{blur.100}",
       "type": "dimension"
     },
-    "nav-menu": {
-      "value": "40px",
-      "type": "dimension"
+    "homepage": {
+      "nav-menu": {
+        "value": "40px",
+        "type": "dimension"
+      }
     }
   },
   "tab-bar": {

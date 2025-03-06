@@ -429,16 +429,14 @@
         }
       }
     },
-    "homepage": {
-      "nav-menu": {
-        "general": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        },
-        "button": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        }
+    "nav-menu": {
+      "general": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
       }
     }
   },

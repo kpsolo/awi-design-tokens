@@ -2821,6 +2821,16 @@
       },
       "type": "typography"
     },
+    "link-md-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-3}",
+        "lineHeight": "{ml}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography"
+    },
     "normal": {
       "value": "{Regular}",
       "type": "fontWeights"

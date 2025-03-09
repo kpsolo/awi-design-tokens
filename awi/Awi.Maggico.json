@@ -439,14 +439,16 @@
         }
       }
     },
-    "nav-menu": {
-      "general": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      },
-      "button": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
+    "homepage": {
+      "nav-menu": {
+        "general": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        },
+        "button": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
       }
     }
   },

@@ -2224,8 +2224,17 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
+          },
+          "primary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color",
+            "description": "\n\n"
           }
         },
         "devider": {

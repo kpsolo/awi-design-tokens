@@ -2053,6 +2053,19 @@
           "error": {
             "value": "{core.red.600}",
             "type": "color"
+          },
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color",
+            "description": "\n\n"
           }
         },
         "devider": {

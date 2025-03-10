@@ -838,7 +838,7 @@
         "mobile": {
           "tab": {
             "value": {
-              "color": "{contextual.homepage.nav-menu.mobile.tab.border.active}",
+              "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
               "width": "1px",
               "style": "solid"
             },

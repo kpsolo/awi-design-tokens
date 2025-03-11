@@ -1302,6 +1302,12 @@
           "description": "0px 0px 4px 0px #E028FD"
         }
       }
+    },
+    "bonus": {
+      "Slade": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -2751,7 +2757,7 @@
     "deals": {
       "progress": {
         "fill": {
-          "value": "rgba(156, 110, 247, 0.15);",
+          "value": "#423774",
           "type": "color"
         },
         "step": {
@@ -2760,7 +2766,7 @@
         },
         "border": {
           "fill": {
-            "value": "linear-gradient(180deg, rgba(119, 107, 190, 0.40) 0%, rgba(23, 16, 66, 0.40) 100%)",
+            "value": "linear-gradient(180deg, #6256AF 0%, #261F56 100%)",
             "type": "color"
           }
         }
@@ -3664,9 +3670,8 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.brand-10.100}",
-        "type": "color",
-        "description": "text input 2"
+        "value": "linear-gradient(0deg, rgba(192, 192, 255, 0.12) 0%, rgba(192, 192, 255, 0.12) 100%), rgba(28, 5, 240, 0.20)",
+        "type": "color"
       }
     },
     "icon": {
@@ -3947,6 +3952,12 @@
         },
         "disabled": {
           "value": "{core.grey.400}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "element": {
+          "value": "linear-gradient(131deg, #D22EDC 0%, rgba(119, 105, 239, 0.43) 48.91%, #03192C 95.5%)",
           "type": "color"
         }
       }

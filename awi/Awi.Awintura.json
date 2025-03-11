@@ -1060,6 +1060,12 @@
         "type": "boxShadow"
       }
     },
+    "bonus": {
+      "Slade": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      }
+    },
     "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
@@ -3608,9 +3614,9 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.brand-10.100}",
+        "value": "rgba(250, 236, 209, 0.25)",
         "type": "color",
-        "description": "text input 2"
+        "description": "should be used as a surface color for text, labels"
       },
       "brand": {
         "primary": {
@@ -3842,6 +3848,12 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        }
+      },
+      "active": {
+        "element": {
+          "value": "linear-gradient(311deg, #534928 0%, rgba(232, 177, 82, 0.43) 46.5%, #F59300 95.5%)",
+          "type": "color"
         }
       },
       "static": {

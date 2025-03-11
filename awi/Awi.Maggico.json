@@ -3763,7 +3763,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
@@ -3773,7 +3773,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
@@ -3789,11 +3789,31 @@
       },
       "footer-link": {
         "default": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "show-all": {
+        "default": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "btn-link": {
+        "default": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       }

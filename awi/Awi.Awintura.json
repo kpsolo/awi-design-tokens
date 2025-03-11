@@ -3860,16 +3860,44 @@
     },
     "link": {
       "default": {
-        "value": "{semantic.text.default.primary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       },
       "accent": {
-        "value": "{core.brand-10.500}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       },
       "modal": {
-        "value": "{semantic.text.static.primary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        }
+      },
+      "footer-link": {
+        "default": {
+          "value": "{core.brand-30.50}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },
@@ -4519,6 +4547,36 @@
           },
           "type": "typography"
         }
+      }
+    }
+  },
+  "link": {
+    "default": {
+      "value": "{text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "hover": {
+      "value": "{text-decoration.underline}",
+      "type": "textDecoration"
+    },
+    "show-all": {
+      "hover": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "default": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      }
+    },
+    "demo": {
+      "hover": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "default": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
       }
     }
   }

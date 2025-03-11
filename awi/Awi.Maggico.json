@@ -3758,16 +3758,44 @@
     },
     "link": {
       "default": {
-        "value": "{semantic.text.default.primary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
       },
       "accent": {
-        "value": "{core.brand-30.500}",
-        "type": "color"
+        "default": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       },
       "modal": {
-        "value": "{semantic.text.default.primary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
+      },
+      "footer-link": {
+        "default": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
       }
     },
     "border": {
@@ -4534,6 +4562,36 @@
           },
           "type": "typography"
         }
+      }
+    }
+  },
+  "link": {
+    "hover": {
+      "value": "{text-decoration.underline}",
+      "type": "textDecoration"
+    },
+    "default": {
+      "value": "{text-decoration.none}",
+      "type": "textDecoration"
+    },
+    "show-all": {
+      "hover": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "default": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      }
+    },
+    "demo": {
+      "hover": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "default": {
+        "value": "{text-decoration.underline}",
+        "type": "textDecoration"
       }
     }
   }

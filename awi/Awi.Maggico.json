@@ -3662,6 +3662,11 @@
         "value": "{core.brand-30.a15}",
         "type": "color",
         "description": "text input 2"
+      },
+      "slate-on-card": {
+        "value": "{core.brand-10.100}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "icon": {

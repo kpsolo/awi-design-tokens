@@ -2760,7 +2760,7 @@
         },
         "border": {
           "fill": {
-            "value": "rgba(156, 110, 247, 0.15)",
+            "value": "linear-gradient(180deg, rgba(119, 107, 190, 0.40) 0%, rgba(23, 16, 66, 0.40) 100%)",
             "type": "color"
           }
         }

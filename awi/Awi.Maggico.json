@@ -2747,6 +2747,24 @@
           "type": "color"
         }
       }
+    },
+    "deals": {
+      "progress": {
+        "fill": {
+          "value": "rgba(156, 110, 247, 0.15);",
+          "type": "color"
+        },
+        "step": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
+        },
+        "border": {
+          "fill": {
+            "value": "rgba(156, 110, 247, 0.15)",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

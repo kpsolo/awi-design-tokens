@@ -1759,6 +1759,24 @@
         }
       }
     },
+    "deals": {
+      "progress": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "border": {
+          "fill": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "homepage": {
       "nav-menu": {
         "fill": {

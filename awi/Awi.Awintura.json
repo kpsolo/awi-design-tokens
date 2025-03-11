@@ -2081,6 +2081,14 @@
         "progress": {
           "value": "{semantic.gradients.5}",
           "type": "color"
+        },
+        "progress-start": {
+          "value": "#EBB849",
+          "type": "color"
+        },
+        "progress-end": {
+          "value": "#CE611B",
+          "type": "color"
         }
       }
     },

@@ -2201,6 +2201,14 @@
         "progress": {
           "value": "{core.brand-30.500}",
           "type": "color"
+        },
+        "progress-start": {
+          "value": "{contextual.menu.status.progress}",
+          "type": "color"
+        },
+        "progress-end": {
+          "value": "{contextual.menu.status.progress}",
+          "type": "color"
         }
       },
       "devider": {

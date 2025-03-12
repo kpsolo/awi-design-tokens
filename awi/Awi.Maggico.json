@@ -1879,6 +1879,12 @@
             "value": "{semantic.text.default.tertiary}",
             "type": "color"
           }
+        },
+        "icon": {
+          "active": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          }
         }
       },
       "fill": {

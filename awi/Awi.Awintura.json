@@ -1719,6 +1719,12 @@
             "type": "color"
           }
         },
+        "icon": {
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
         "selected-indicator": {
           "value": "{core.brand-10.600}",
           "type": "color"

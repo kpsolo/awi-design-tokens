@@ -2000,10 +2000,6 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
-      },
-      "text": {
-        "value": "{core.grey.900}",
-        "type": "color"
       }
     },
     "divider": {

@@ -2020,6 +2020,10 @@
             "value": "{semantic.gradients.4}",
             "type": "color"
           }
+        },
+        "icon-left": {
+          "value": "{core.brand-30.200}",
+          "type": "color"
         }
       },
       "balance-number": {
@@ -2225,10 +2229,6 @@
     "tooltip": {
       "fill": {
         "value": "{core.white.a100}",
-        "type": "color"
-      },
-      "text": {
-        "value": "{core.brand-60.800}",
         "type": "color"
       }
     },

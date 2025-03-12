@@ -2769,7 +2769,7 @@
       },
       "more": {
         "text": {
-          "value": "#D7C5FC",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       }

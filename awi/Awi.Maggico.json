@@ -2766,6 +2766,12 @@
             "type": "color"
           }
         }
+      },
+      "more": {
+        "text": {
+          "value": "#D7C5FC",
+          "type": "color"
+        }
       }
     }
   },

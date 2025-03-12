@@ -1781,6 +1781,12 @@
             "type": "color"
           }
         }
+      },
+      "more": {
+        "text": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     },
     "homepage": {

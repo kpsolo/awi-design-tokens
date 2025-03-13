@@ -2528,7 +2528,7 @@
           "type": "color"
         },
         "fill-light": {
-          "value": "{semantic.gradients.1}",
+          "value": "linear-gradient(180deg, #FBF4ED 0%, #EBE2DC 100%)",
           "type": "color"
         }
       },

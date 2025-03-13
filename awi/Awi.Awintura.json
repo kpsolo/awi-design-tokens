@@ -2526,6 +2526,10 @@
         "fill": {
           "value": "{semantic.gradients.8}",
           "type": "color"
+        },
+        "fill-light": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
         }
       },
       "overlay": {

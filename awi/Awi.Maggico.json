@@ -2789,40 +2789,20 @@
       }
     },
     "filter&sort": {
-      "fill": {
-        "default": {
-          "value": "{semantic.gradients.1}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.gradients.1}",
-          "type": "color"
-        }
-      },
-      "content": {
-        "default": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "sorting": {
+      "hidden": {
+        "fill": {
           "default": {
-            "value": "{core.grey.300}",
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "default": {
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
@@ -2830,13 +2810,35 @@
             "type": "color"
           }
         },
-        "default": {
-          "value": "{core.white.a100}",
-          "type": "color"
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
         },
-        "active": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
+        "icon": {
+          "sorting": {
+            "default": {
+              "value": "{core.grey.300}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
+            }
+          },
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
         }
       }
     }

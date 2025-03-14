@@ -2249,6 +2249,10 @@
         "value": "{core.brand-30.50}",
         "type": "color"
       },
+      "overlay": {
+        "value": "rgba(234, 230, 225, 0.60)",
+        "type": "color"
+      },
       "text": {
         "heading": {
           "value": "{semantic.text.static.primary}",

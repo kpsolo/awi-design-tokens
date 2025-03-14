@@ -1575,6 +1575,10 @@
           "value": "{semantic.text.default.primary}",
           "type": "color"
         }
+      },
+      "overlay": {
+        "value": "rgba(13, 10, 35, 0.60)",
+        "type": "color"
       }
     },
     "input": {

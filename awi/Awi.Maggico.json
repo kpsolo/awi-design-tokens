@@ -2818,6 +2818,18 @@
           "value": "{core.brand-10.500}",
           "type": "color"
         }
+      },
+      "icon": {
+        "sorting": {
+          "default": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          }
+        }
       }
     }
   },

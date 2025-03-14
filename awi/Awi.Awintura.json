@@ -1794,17 +1794,27 @@
       },
       "icon": {
         "default": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{semantic.gradients.4}",
           "type": "color"
+        },
+        "sorting": {
+          "default": {
+            "value": "{core.brand-30.700}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       },
       "border": {
         "default": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.white.a0}",
           "type": "color"
         },
         "active": {

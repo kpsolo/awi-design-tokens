@@ -2787,6 +2787,38 @@
           "type": "color"
         }
       }
+    },
+    "filter&sort": {
+      "fill": {
+        "default": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "content": {
+        "default": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

@@ -1771,6 +1771,48 @@
         }
       }
     },
+    "filter&sort": {
+      "fill": {
+        "default": {
+          "value": "{semantic.gradients.9}",
+          "type": "color"
+        },
+        "active": {
+          "value": "linear-gradient(180deg, rgba(141, 131, 123, 0.50) 0%, rgba(100, 80, 69, 0.50) 100%)",
+          "type": "color"
+        }
+      },
+      "content": {
+        "default": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      }
+    },
     "deals": {
       "progress": {
         "fill": {

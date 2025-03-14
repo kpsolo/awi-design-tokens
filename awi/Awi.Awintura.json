@@ -1131,6 +1131,27 @@
           "type": "boxShadow"
         }
       }
+    },
+    "filter&sorting": {
+      "value": [
+        {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "rgba(98, 73, 0, 0.10)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0px",
+          "y": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "color": "rgba(255, 255, 255, 0.30)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   },
   "contextual": {

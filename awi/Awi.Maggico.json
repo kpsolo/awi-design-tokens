@@ -2776,7 +2776,7 @@
         },
         "border": {
           "fill": {
-            "value": "linear-gradient(180deg, #6256AF 0%, #261F56 100%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }

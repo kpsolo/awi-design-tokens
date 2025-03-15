@@ -3832,6 +3832,10 @@
           "value": "{core.brand-10.500}",
           "type": "color"
         },
+        "secondary": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
         "on-brand": {
           "value": "{core.brand-60.900}",
           "type": "color"

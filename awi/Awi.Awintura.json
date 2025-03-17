@@ -2697,6 +2697,12 @@
           "type": "color"
         }
       }
+    },
+    "sticky-notifications": {
+      "fill": {
+        "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
@@ -3061,8 +3067,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
-        "lineHeight": "16px",
-        "fontSize": "14px"
+        "lineHeight": "16",
+        "fontSize": "14"
       },
       "type": "typography"
     }
@@ -3909,6 +3915,10 @@
         },
         "tertiary": {
           "value": "{core.brand-60.400}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.600}",
           "type": "color"
         }
       },

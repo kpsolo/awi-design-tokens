@@ -2874,6 +2874,12 @@
         "value": "{core.white.a100}",
         "type": "color"
       }
+    },
+    "sticky-notifications": {
+      "fill": {
+        "value": "{core.brand-30.100}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
@@ -3788,7 +3794,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.white.a0}",
+          "value": "{core.grey.400}",
           "type": "color"
         },
         "disabled": {
@@ -3893,6 +3899,10 @@
         },
         "tertiary": {
           "value": "{core.grey.300}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       },
@@ -4787,8 +4797,9 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "12px",
-        "lineHeight": "16px"
+        "fontSize": "12",
+        "textCase": "{text-case.uppercase}",
+        "lineHeight": "16"
       },
       "type": "typography"
     }

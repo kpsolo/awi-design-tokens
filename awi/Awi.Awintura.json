@@ -2007,6 +2007,12 @@
           "type": "color"
         }
       },
+      "sport": {
+        "fill": {
+          "value": "radial-gradient(58% 58% at 50% 42%, #413973 0%, #140E39 100%), #1D1A32",
+          "type": "color"
+        }
+      },
       "winning-now": {
         "background": {
           "value": "{core.brand-60.900}",

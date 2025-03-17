@@ -2968,7 +2968,7 @@
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -3046,6 +3046,18 @@
         "lineHeight": "{xxl}",
         "letterSpacing": "{letter-spacing.2}",
         "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography"
+    }
+  },
+  "Icon": {
+    "numbers": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Extrabold}",
+        "lineHeight": "16",
+        "textCase": "{text-case.uppercase}",
+        "fontSize": "14"
       },
       "type": "typography"
     }

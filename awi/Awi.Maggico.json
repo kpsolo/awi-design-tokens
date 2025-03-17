@@ -3774,7 +3774,7 @@
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.500}",
           "type": "color"
         },
         "secondary": {
@@ -4770,6 +4770,18 @@
         "value": "{text-decoration.underline}",
         "type": "textDecoration"
       }
+    }
+  },
+  "Icon": {
+    "numbers": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "12",
+        "textCase": "{text-case.uppercase}",
+        "lineHeight": "16"
+      },
+      "type": "typography"
     }
   }
 }

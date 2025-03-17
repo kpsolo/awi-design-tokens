@@ -1377,6 +1377,12 @@
         "type": "color"
       }
     },
+    "toast-notifications": {
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      }
+    },
     "input": {
       "text": {
         "label": {
@@ -3799,11 +3805,15 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-60.400}",
           "type": "color"
         },
         "disabled": {
           "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.600}",
           "type": "color"
         }
       },

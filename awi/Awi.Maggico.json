@@ -2868,6 +2868,12 @@
           }
         }
       }
+    },
+    "toast-notifications": {
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
@@ -3787,6 +3793,10 @@
         },
         "disabled": {
           "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       },

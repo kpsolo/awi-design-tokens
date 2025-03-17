@@ -4787,9 +4787,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "12",
-        "textCase": "{text-case.uppercase}",
-        "lineHeight": "16"
+        "fontSize": "12px",
+        "lineHeight": "16px"
       },
       "type": "typography"
     }

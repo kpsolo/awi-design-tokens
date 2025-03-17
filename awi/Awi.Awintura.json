@@ -3060,10 +3060,9 @@
     "numbers": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "lineHeight": "16",
-        "textCase": "{text-case.uppercase}",
-        "fontSize": "14"
+        "fontWeight": "{Expanded}",
+        "lineHeight": "16px",
+        "fontSize": "14px"
       },
       "type": "typography"
     }

@@ -3953,6 +3953,20 @@
           "value": "{semantic.text.brand.secondary}",
           "type": "color"
         }
+      },
+      "modal-2": {
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.secondary}",
+          "type": "color"
+        }
       }
     },
     "border": {

@@ -2728,6 +2728,16 @@
         "icon": {
           "value": "{core.brand-30.200}",
           "type": "color"
+        },
+        "link": {
+          "default": {
+            "value": "{semantic.link.default.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.link.default.hover}",
+            "type": "color"
+          }
         }
       },
       "slider": {
@@ -3940,17 +3950,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        }
-      },
-      "footer-link": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.brand.secondary}",
           "type": "color"
         },
-        "hover": {
-          "value": "{semantic.text.brand.secondary}",
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
           "type": "color"
         }
       },
@@ -3964,23 +3968,9 @@
           "type": "color"
         }
       },
-      "btn-link": {
+      "emphasizing": {
         "default": {
           "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.secondary}",
-          "type": "color"
-        }
-      },
-      "modal-2": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{semantic.text.disabled.primary}",
           "type": "color"
         },
         "hover": {

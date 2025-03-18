@@ -2011,6 +2011,16 @@
         "icon": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        },
+        "link": {
+          "default": {
+            "value": "{semantic.link.default.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.link.default.hover}",
+            "type": "color"
+          }
         }
       },
       "sport": {
@@ -4066,19 +4076,13 @@
         "hover": {
           "value": "{core.brand-10.600}",
           "type": "color"
-        }
-      },
-      "footer-link": {
-        "default": {
-          "value": "{core.brand-30.50}",
-          "type": "color"
         },
-        "hover": {
-          "value": "{semantic.text.brand.primary}",
+        "disabled": {
+          "value": "{core.brand-60.500}",
           "type": "color"
         }
       },
-      "show-all": {
+      "emphasizing": {
         "default": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
@@ -4095,20 +4099,6 @@
         },
         "hover": {
           "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
-      },
-      "modal-2": {
-        "default": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.brand-60.500}",
           "type": "color"
         }
       }

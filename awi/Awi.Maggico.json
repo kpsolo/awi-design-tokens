@@ -4675,7 +4675,14 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{text.button-large}",
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{lg}",
+          "textCase": "{text-case.none}",
+          "letterSpacing": "0%"
+        },
         "type": "typography"
       }
     }

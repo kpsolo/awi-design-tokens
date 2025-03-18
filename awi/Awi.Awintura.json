@@ -4087,16 +4087,6 @@
           "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
-      },
-      "btn-link": {
-        "default": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
       }
     }
   },

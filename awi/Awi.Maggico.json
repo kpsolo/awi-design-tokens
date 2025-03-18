@@ -1524,7 +1524,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.500}",
+            "value": "{semantic.link.default.hover}",
             "type": "color"
           }
         }
@@ -2440,10 +2440,6 @@
         },
         "accent": {
           "value": "{core.brand-30.200}",
-          "type": "color"
-        },
-        "demo": {
-          "value": "{core.white.a100}",
           "type": "color"
         }
       },
@@ -3955,16 +3951,6 @@
         },
         "disabled": {
           "value": "{semantic.text.disabled.primary}",
-          "type": "color"
-        }
-      },
-      "show-all": {
-        "default": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.secondary}",
           "type": "color"
         }
       },

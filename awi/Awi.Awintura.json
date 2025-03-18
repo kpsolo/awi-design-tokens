@@ -2421,11 +2421,11 @@
       "block-links": {
         "link": {
           "default": {
-            "value": "{core.brand-30.50}",
+            "value": "{semantic.link.default.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.link.default.hover}",
             "type": "color"
           }
         }
@@ -2670,10 +2670,6 @@
       "text": {
         "primary": {
           "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "demo": {
-          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "accent": {

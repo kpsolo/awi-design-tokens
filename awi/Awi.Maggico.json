@@ -4786,5 +4786,15 @@
       },
       "type": "typography"
     }
+  },
+  "complete-registration-btn": {
+    "value": {
+      "fontFamily": "{main}",
+      "fontWeight": "{text.normal}",
+      "fontSize": "{scale-3}",
+      "lineHeight": "{sm}"
+    },
+    "type": "typography",
+    "description": "Complete \nregistration"
   }
 }

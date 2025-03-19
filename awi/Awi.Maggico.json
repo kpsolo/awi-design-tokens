@@ -3801,6 +3801,32 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "emphasizing": {
+          "default": {
+            "primary": {
+              "value": "{core.brand-10.500}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{core.brand-30.500}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          },
+          "static": {
+            "primary": {
+              "value": "{core.brand-10.500}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{core.brand-30.600}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          }
         }
       },
       "slate-1": {

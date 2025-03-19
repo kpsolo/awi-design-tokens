@@ -2910,6 +2910,14 @@
         "value": "{core.brand-30.100}",
         "type": "color"
       }
+    },
+    "bullet": {
+      "fill": {
+        "default": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

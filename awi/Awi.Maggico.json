@@ -2599,6 +2599,30 @@
           "type": "color",
           "description": "zero block"
         }
+      },
+      "top-inner-page": {
+        "text": {
+          "primary": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Top Inner Page"
+          },
+          "secondary": {
+            "value": "{core.white.a8}",
+            "type": "color",
+            "description": "Top Inner Page"
+          }
+        },
+        "results": {
+          "fill": {
+            "value": "{core.grey.a20}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          }
+        }
       }
     },
     "homepage": {
@@ -3160,6 +3184,11 @@
       },
       "a90": {
         "value": "rgba(255, 255, 255, 0.90)",
+        "type": "color",
+        "description": "replaceble.white 80%"
+      },
+      "a80": {
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
         "description": "replaceble.white 80%"
       },

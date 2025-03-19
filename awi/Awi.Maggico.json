@@ -2623,6 +2623,13 @@
             "type": "color"
           }
         }
+      },
+      "status-inactive": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "homepage": {

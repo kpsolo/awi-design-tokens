@@ -2671,6 +2671,13 @@
           "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
           "type": "color"
         }
+      },
+      "prize": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "thumb-games ": {

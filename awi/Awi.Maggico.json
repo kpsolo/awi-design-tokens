@@ -2644,6 +2644,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "cart": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "homepage": {

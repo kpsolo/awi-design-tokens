@@ -2685,6 +2685,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "cart": {
+        "fill": {
+          "value": "{semantic.gradients.9}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "thumb-games ": {

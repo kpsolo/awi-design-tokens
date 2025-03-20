@@ -1385,6 +1385,34 @@
         }
       }
     },
+    "chips": {
+      "fill": {
+        "active": {
+          "value": "{semantic.gradients.9}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "active": {
+          "value": "{semantic.text.static.accent}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
+      }
+    },
     "toast-notifications": {
       "fill": {
         "value": "{core.white.a100}",

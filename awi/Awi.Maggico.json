@@ -2929,21 +2929,21 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "{core.white.a8}",
+            "value": "{semantic.gradients.9}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.gradients.9}",
+            "value": "{core.white.a8}",
             "type": "color"
           }
         },
         "text": {
           "active": {
-            "value": "{semantic.gradients.9}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.static.accent}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         }

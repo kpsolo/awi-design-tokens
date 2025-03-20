@@ -2637,6 +2637,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "inner-page": {
+        "fill": {
+          "value": "{core.brand-60.500}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "homepage": {

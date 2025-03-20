@@ -2678,6 +2678,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "inner-page": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "thumb-games ": {

@@ -2652,7 +2652,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.grey.900}",
               "type": "color"
             }
           },

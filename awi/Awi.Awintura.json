@@ -1385,79 +1385,31 @@
         }
       }
     },
-    "filter&sort": {
-      "chips": {
-        "fill": {
-          "active": {
-            "value": "{semantic.gradients.9}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.white.a8}",
-            "type": "color"
-          }
+    "chips": {
+      "fill": {
+        "active": {
+          "value": "{semantic.gradients.9}",
+          "type": "color"
         },
-        "text": {
-          "active": {
-            "value": "{semantic.text.static.accent}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
+        "default": {
+          "value": "{core.white.a8}",
+          "type": "color"
         }
       },
-      "hidden": {
-        "fill": {
-          "default": {
-            "value": "{semantic.gradients.9}",
-            "type": "color"
-          },
-          "active": {
-            "value": "linear-gradient(180deg, rgba(141, 131, 123, 0.50) 0%, rgba(100, 80, 69, 0.50) 100%)",
-            "type": "color"
-          }
+      "text": {
+        "active": {
+          "value": "{semantic.text.static.accent}",
+          "type": "color"
         },
-        "content": {
-          "default": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "default": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.gradients.4}",
-            "type": "color"
-          },
-          "sorting": {
-            "default": {
-              "value": "{core.brand-30.700}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
-            }
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
+        "default": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
         }
       }
     },
@@ -1879,6 +1831,60 @@
         "dot": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        }
+      }
+    },
+    "filter&sort": {
+      "hidden": {
+        "fill": {
+          "default": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
+          "active": {
+            "value": "linear-gradient(180deg, rgba(141, 131, 123, 0.50) 0%, rgba(100, 80, 69, 0.50) 100%)",
+            "type": "color"
+          }
+        },
+        "content": {
+          "default": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          },
+          "sorting": {
+            "default": {
+              "value": "{core.brand-30.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       }
     },

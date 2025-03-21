@@ -3774,7 +3774,7 @@
         "description": "gradients.Emerald 600"
       },
       "11": {
-        "value": "linear-gradient(180deg, #1A1305 0%, #100C03 100%)",
+        "value": "#060423",
         "type": "color",
         "description": "gradients.Black 600"
       },

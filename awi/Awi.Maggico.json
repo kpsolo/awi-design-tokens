@@ -2595,7 +2595,7 @@
       },
       "zero-block": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(93, 63, 148, 0.00) 0%, rgba(93, 63, 148, 0.55) 100%), #1C1548",
+          "value": "linear-gradient(180deg, #1D1648 0%, #402C72 100%)",
           "type": "color",
           "description": "zero block"
         }

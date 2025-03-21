@@ -2960,6 +2960,24 @@
           "type": "color"
         }
       }
+    },
+    "ingame": {
+      "navmenu": {
+        "fill": {
+          "value": "{semantic.icon.static.primary}",
+          "type": "color"
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.icon.static.primary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.icon.static.primary}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

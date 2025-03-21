@@ -2925,6 +2925,28 @@
             "type": "color"
           }
         }
+      },
+      "chips": {
+        "fill": {
+          "active": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "active": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          }
+        }
       }
     },
     "toast-notifications": {
@@ -2943,34 +2965,6 @@
       "fill": {
         "default": {
           "value": "{core.white.a8}",
-          "type": "color"
-        }
-      }
-    },
-    "chips": {
-      "fill": {
-        "active": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{semantic.gradients.9}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "active": {
-          "value": "{semantic.gradients.9}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{semantic.text.static.accent}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       }

@@ -2915,14 +2915,6 @@
               "value": "{core.brand-30.500}",
               "type": "color"
             }
-          },
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-30.500}",
-            "type": "color"
           }
         }
       },

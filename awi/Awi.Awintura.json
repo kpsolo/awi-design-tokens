@@ -1430,14 +1430,6 @@
           }
         },
         "icon": {
-          "default": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.gradients.4}",
-            "type": "color"
-          },
           "sorting": {
             "default": {
               "value": "{core.brand-30.700}",

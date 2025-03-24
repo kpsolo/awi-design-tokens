@@ -1615,6 +1615,10 @@
         "content": {
           "value": "{semantic.text.default.primary}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
         }
       },
       "overlay": {

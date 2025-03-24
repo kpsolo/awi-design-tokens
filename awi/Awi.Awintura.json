@@ -2418,6 +2418,10 @@
         "content": {
           "value": "{semantic.text.static.primary}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
         }
       },
       "close-icon-fill": {

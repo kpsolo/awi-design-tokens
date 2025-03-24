@@ -1897,6 +1897,24 @@
             "type": "color"
           }
         }
+      },
+      "selection-block": {
+        "border": {
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
       }
     },
     "dropdown-menu": {

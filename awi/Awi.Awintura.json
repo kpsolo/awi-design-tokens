@@ -1842,6 +1842,24 @@
             "type": "color"
           }
         }
+      },
+      "selection-block": {
+        "border": {
+          "active": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        }
       }
     },
     "dropdown-menu": {

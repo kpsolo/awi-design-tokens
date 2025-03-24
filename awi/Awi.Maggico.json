@@ -2512,6 +2512,48 @@
             "type": "color"
           }
         }
+      },
+      "pop-up": {
+        "item": {
+          "number": {
+            "text": {
+              "active": {
+                "value": "{core.brand-30.500}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.brand-30.500}",
+                "type": "color"
+              }
+            },
+            "fill": {
+              "active": {
+                "value": "{core.brand-30.500}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.brand-30.500}",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-60.800}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "active": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "lottery-tournament": {

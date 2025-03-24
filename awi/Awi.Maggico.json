@@ -837,7 +837,7 @@
           "default": {
             "value": {
               "color": "{core.brand-10.600}",
-              "width": "3px",
+              "width": "1px",
               "style": "solid"
             },
             "type": "border"
@@ -2473,6 +2473,52 @@
         "value": "{core.brand-30.a15}",
         "type": "color"
       },
+      "pop-up": {
+        "line": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "item": {
+          "number": {
+            "text": {
+              "active": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.grey.100}",
+                "type": "color"
+              }
+            },
+            "fill": {
+              "active": {
+                "value": "{core.brand-30.500}",
+                "type": "color"
+              },
+              "default": {
+                "value": "rgba(207, 206, 211, 0.15)",
+                "type": "color"
+              }
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.grey.100}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-60.800}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "active": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "item": {
         "text": {
           "default": {
@@ -2530,48 +2576,6 @@
           "disabled": {
             "value": "{core.white.a0}",
             "type": "color"
-          }
-        }
-      },
-      "pop-up": {
-        "item": {
-          "number": {
-            "text": {
-              "active": {
-                "value": "{core.white.a100}",
-                "type": "color"
-              },
-              "default": {
-                "value": "{core.grey.100}",
-                "type": "color"
-              }
-            },
-            "fill": {
-              "active": {
-                "value": "{core.brand-30.500}",
-                "type": "color"
-              },
-              "default": {
-                "value": "rgba(207, 206, 211, 0.15)",
-                "type": "color"
-              }
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.grey.100}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-60.800}",
-              "type": "color"
-            }
-          },
-          "line": {
-            "active": {
-              "value": "{core.brand-30.500}",
-              "type": "color"
-            }
           }
         }
       }

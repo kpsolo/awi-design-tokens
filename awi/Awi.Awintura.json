@@ -652,8 +652,8 @@
           },
           "default": {
             "value": {
-              "color": "{contextual.tabs.item.line.disabled}",
-              "width": "3px",
+              "color": "{contextual.tabs.pop-up.line}",
+              "width": "1px",
               "style": "solid"
             },
             "type": "border"
@@ -2618,6 +2618,10 @@
               }
             }
           }
+        },
+        "line": {
+          "value": "rgba(57, 38, 2, 0.15)",
+          "type": "color"
         }
       }
     },

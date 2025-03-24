@@ -639,6 +639,26 @@
           },
           "type": "border"
         }
+      },
+      "pop-up": {
+        "item": {
+          "active": {
+            "value": {
+              "color": "{core.brand-10.600}",
+              "width": "3px",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{contextual.tabs.item.line.disabled}",
+              "width": "3px",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        }
       }
     },
     "devider2": {
@@ -2589,7 +2609,7 @@
             },
             "fill": {
               "active": {
-                "value": "{core.brand-10.500}",
+                "value": "{core.brand-10.600}",
                 "type": "color"
               },
               "default": {

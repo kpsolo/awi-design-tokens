@@ -823,6 +823,26 @@
           },
           "type": "border"
         }
+      },
+      "pop-up": {
+        "item": {
+          "active": {
+            "value": {
+              "color": "{contextual.tabs.item.line.active}",
+              "width": "3px",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{core.brand-10.600}",
+              "width": "3px",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        }
       }
     },
     "homepage": {

@@ -4923,6 +4923,21 @@
       }
     }
   },
+  "tabs": {
+    "pop-up": {
+      "item": {
+        "text": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{Regular}",
+            "fontSize": "14px",
+            "lineHeight": "20px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "link": {
     "default": {
       "value": "{text-decoration.none}",

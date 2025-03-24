@@ -626,7 +626,14 @@
       "Icon.numbers": "S:594a74e7b5df8935bddb05eea3c14d4c3e6639de,",
       "complete-registration-btn": "S:a2b31eb36a35f08f4ede6140177d9b7be0bcde98,",
       "shadow.bonus.Slade": "S:e3854d57605cffb187893f51d64649cb55d2e01e,",
-      "shadow.filter&sorting": "S:06d111d770ccc2c0bde6ca38bcc746fbfdb758c3,"
+      "shadow.filter&sorting": "S:06d111d770ccc2c0bde6ca38bcc746fbfdb758c3,",
+      "contextual.filter&sort.chips.fill.active": "S:276e13f368b8a1707a1e7c1b7d66a1dd6a31b404,",
+      "contextual.filter&sort.chips.fill.default": "S:1410213880709dd07e206e38154b634c2dd56461,",
+      "contextual.filter&sort.chips.text.active": "S:7c6aa216450a75d66c25baf3b1845b68175601e7,",
+      "contextual.filter&sort.chips.text.default": "S:7541ff238e2708a6f20018c3d684c6e69c55a3aa,",
+      "contextual.ingame.navmenu.fill": "S:21bec99b755256b4400bb7b0abbe06f389a95d2e,",
+      "contextual.ingame.navmenu.icon.default": "S:34d46ec1830076c6a0887ecb38207f893b2853bd,",
+      "contextual.ingame.navmenu.icon.active": "S:acbea5ee0da5180199d637d6eb547ce482db3960,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

@@ -2696,7 +2696,7 @@
             "description": "Top Inner Page"
           },
           "secondary": {
-            "value": "{core.white.a8}",
+            "value": "{core.white.a80}",
             "type": "color",
             "description": "Top Inner Page"
           }

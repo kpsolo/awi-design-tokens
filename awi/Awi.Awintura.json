@@ -1655,7 +1655,7 @@
     "ingame": {
       "navmenu": {
         "fill": {
-          "value": "{semantic.icon.static.primary}",
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "icon": {

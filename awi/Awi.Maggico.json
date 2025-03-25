@@ -3081,7 +3081,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a8}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       }

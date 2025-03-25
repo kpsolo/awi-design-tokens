@@ -1668,6 +1668,25 @@
             "type": "color"
           }
         }
+      },
+      "left-panel": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
+      },
+      "talisman": {
+        "text": {
+          "accent": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "talisman "
+          }
+        }
       }
     },
     "header": {

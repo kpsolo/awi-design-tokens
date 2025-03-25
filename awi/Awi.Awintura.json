@@ -1660,11 +1660,11 @@
         },
         "icon": {
           "default": {
-            "value": "{semantic.icon.static.primary}",
+            "value": "{core.brand-30.a50}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.icon.static.primary}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
         }

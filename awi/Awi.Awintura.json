@@ -1405,6 +1405,16 @@
         }
       }
     },
+    "progressbar": {
+      "border": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      },
+      "indicator": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      }
+    },
     "filter&sort": {
       "chips": {
         "fill": {
@@ -3361,6 +3371,11 @@
       },
       "a15": {
         "value": "rgba(255, 255, 255, 0.15)",
+        "type": "color",
+        "description": "\n"
+      },
+      "a20": {
+        "value": "rgba(255, 255, 255, 0.2)",
         "type": "color",
         "description": "\n"
       },

@@ -3085,6 +3085,16 @@
           "type": "color"
         }
       }
+    },
+    "progressbar": {
+      "border": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      },
+      "indicator": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

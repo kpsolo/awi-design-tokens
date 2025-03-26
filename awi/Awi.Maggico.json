@@ -3009,7 +3009,7 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "{semantic.gradients.9}",
+            "value": "{semantic.gradients.1}",
             "type": "color"
           },
           "default": {

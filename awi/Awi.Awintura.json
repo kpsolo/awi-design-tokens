@@ -1010,6 +1010,17 @@
       "value": "{shadow.drop.modal}",
       "type": "boxShadow"
     },
+    "booster-cart": {
+      "value": {
+        "x": "0px",
+        "y": "2px",
+        "blur": "6px",
+        "spread": "0px",
+        "color": "rgba(98, 73, 0, 0.10)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "menu": {
       "banner": {
         "text-accent": {

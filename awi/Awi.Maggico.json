@@ -1349,6 +1349,17 @@
         "value": "{shadow.drop.small}",
         "type": "boxShadow"
       }
+    },
+    "booster-cart": {
+      "value": {
+        "x": "0px",
+        "y": "2px",
+        "blur": "6px",
+        "spread": "0px",
+        "color": "rgba(28, 21, 72, 0.10)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "contextual": {

@@ -4475,6 +4475,10 @@
         "value": "40px",
         "type": "dimension"
       }
+    },
+    "slate-on-card": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "tab-bar": {

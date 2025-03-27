@@ -1902,6 +1902,14 @@
           "active": {
             "value": "{core.brand-10.600}",
             "type": "color"
+          },
+          "default": {
+            "value": "rgba(255, 255, 255, 0.00)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
           }
         },
         "text": {

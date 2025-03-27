@@ -1708,6 +1708,20 @@
             "description": "talisman "
           }
         }
+      },
+      "game-search": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(27, 24, 19, 0.00) 0%, rgba(27, 24, 19, 0.80) 100%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        }
       }
     },
     "header": {

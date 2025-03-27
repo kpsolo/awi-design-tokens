@@ -3095,6 +3095,20 @@
           "value": "{core.white.a15}",
           "type": "color"
         }
+      },
+      "game-search": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(13, 10, 35, 0.00) 0%, rgba(13, 10, 35, 0.80) 100%)",
+          "type": "color"
+        }
       }
     },
     "progressbar": {

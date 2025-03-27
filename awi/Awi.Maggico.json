@@ -3117,6 +3117,56 @@
           "value": "linear-gradient(180deg, rgba(13, 10, 35, 0.00) 0%, rgba(13, 10, 35, 0.80) 100%)",
           "type": "color"
         }
+      },
+      "mob": {
+        "menu-btn": {
+          "fill": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.icon.brand.secondary}",
+            "type": "color"
+          },
+          "badge": {
+            "fill": {
+              "value": "{core.validation.danger.500}",
+              "type": "color",
+              "description": "badge"
+            },
+            "text": {
+              "value": "{core.white.a100}",
+              "type": "color",
+              "description": "badge"
+            }
+          }
+        },
+        "navmenu": {
+          "fill": {
+            "value": "{core.brand-60.600}",
+            "type": "color"
+          },
+          "item": {
+            "default": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.text.brand.secondary}",
+              "type": "color"
+            }
+          },
+          "close": {
+            "fill": {
+              "value": "{semantic.gradients.1}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.brand.secondary}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "progressbar": {
@@ -4102,6 +4152,28 @@
           "value": "{core.grey.600}",
           "type": "color"
         }
+      },
+      "brand": {
+        "primary": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "on-brand": {
+          "value": "{core.brand-60.900}",
+          "type": "color"
+        },
+        "on-brand-secondary": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        },
+        "on-brand-tertiary": {
+          "value": "{semantic.background.2}",
+          "type": "color"
+        }
       }
     },
     "text": {
@@ -5083,6 +5155,21 @@
             "fontWeight": "{Bold}",
             "fontSize": "14px",
             "lineHeight": "20px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
+  "ingame": {
+    "mob": {
+      "navmenu": {
+        "item": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "8px",
+            "lineHeight": "12px"
           },
           "type": "typography"
         }

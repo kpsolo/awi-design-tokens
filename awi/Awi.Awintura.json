@@ -1690,6 +1690,56 @@
           }
         }
       },
+      "mob": {
+        "menu-btn": {
+          "fill": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "badge": {
+            "fill": {
+              "value": "{semantic.text.danger.default}",
+              "type": "color",
+              "description": "badge"
+            },
+            "text": {
+              "value": "{core.white.a100}",
+              "type": "color",
+              "description": "badge"
+            }
+          },
+          "icon": {
+            "value": "{semantic.icon.brand.secondary}",
+            "type": "color"
+          }
+        },
+        "navmenu": {
+          "fill": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "close": {
+            "fill": {
+              "value": "{core.grey.900}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.icon.brand.secondary}",
+              "type": "color"
+            }
+          },
+          "item": {
+            "default": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.text.brand.secondary}",
+              "type": "color"
+            }
+          }
+        }
+      },
       "left-panel": {
         "fill": {
           "value": "{core.grey.900}",
@@ -4118,6 +4168,28 @@
           "value": "{core.brand-60.a50}",
           "type": "color"
         }
+      },
+      "brand": {
+        "primary": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "on-brand": {
+          "value": "{core.brand-60.900}",
+          "type": "color"
+        },
+        "on-brand-secondary": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        },
+        "on-brand-tertiary": {
+          "value": "{semantic.background.2}",
+          "type": "color"
+        }
       }
     },
     "text": {
@@ -5070,5 +5142,20 @@
     },
     "type": "typography",
     "description": "Complete \nregistration"
+  },
+  "ingame": {
+    "mob": {
+      "navmenu": {
+        "item": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "8px",
+            "lineHeight": "12px"
+          },
+          "type": "typography"
+        }
+      }
+    }
   }
 }

@@ -1718,6 +1718,10 @@
             "value": "{core.brand-60.900}",
             "type": "color"
           },
+          "overlay": {
+            "value": "linear-gradient(180deg, rgba(7, 7, 3, 0.00) 0%, #070703 100%)",
+            "type": "color"
+          },
           "close": {
             "fill": {
               "value": "{core.grey.900}",

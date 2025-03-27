@@ -3165,6 +3165,10 @@
               "value": "{semantic.icon.brand.secondary}",
               "type": "color"
             }
+          },
+          "overlay": {
+            "value": "linear-gradient(180deg, rgba(29, 26, 50, 0.00) 0%, #1D1A32 100%)",
+            "type": "color"
           }
         }
       }

@@ -1908,7 +1908,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.600}",
+            "value": "rgba(229, 137, 0, 0.40)",
             "type": "color"
           }
         },

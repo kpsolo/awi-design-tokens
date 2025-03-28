@@ -1377,6 +1377,23 @@
           "type": "boxShadow"
         }
       }
+    },
+    "ingame": {
+      "mob": {
+        "bonus-talisman": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{depth.0}",
+              "spread": "{depth.50}",
+              "color": "{core.brand-30.a50}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -3191,6 +3208,17 @@
           },
           "overlay": {
             "value": "linear-gradient(180deg, rgba(29, 26, 50, 0.00) 0%, #1D1A32 100%)",
+            "type": "color"
+          }
+        },
+        "bonus-talisman": {
+          "fill": {
+            "value": "rgba(46, 13, 111, 0.40)",
+            "type": "color",
+            "description": "Bonus/Talisman"
+          },
+          "divider": {
+            "value": "{core.brand-30.a25}",
             "type": "color"
           }
         }

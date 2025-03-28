@@ -1200,6 +1200,23 @@
           "type": "boxShadow"
         }
       }
+    },
+    "ingame": {
+      "mob": {
+        "bonus-talisman": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{depth.0}",
+              "spread": "{depth.50}",
+              "color": "{core.brand-10.a50}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -1780,6 +1797,17 @@
               "value": "{semantic.text.brand.secondary}",
               "type": "color"
             }
+          }
+        },
+        "bonus-talisman": {
+          "fill": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Bonus/Talisman"
+          },
+          "divider": {
+            "value": "{core.brand-10.a25}",
+            "type": "color"
           }
         }
       },

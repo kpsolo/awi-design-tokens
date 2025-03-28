@@ -2435,6 +2435,12 @@
       "close": {
         "value": "{core.white.a50}",
         "type": "color"
+      },
+      "popover-action": {
+        "fill": {
+          "value": "{core.grey.800}",
+          "type": "color"
+        }
       }
     },
     "thumb-games ": {

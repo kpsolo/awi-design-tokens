@@ -1361,6 +1361,12 @@
         "value": "{core.brand-30.300}",
         "type": "color"
       },
+      "popover-action": {
+        "fill": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
+      },
       "border": {
         "value": "{core.white.a0}",
         "type": "color"

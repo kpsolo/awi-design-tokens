@@ -1183,6 +1183,23 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "progress": {
+      "circle": {
+        "progress": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.0}",
+              "spread": "{depth.50}",
+              "color": "{core.brand-10.500}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -1412,6 +1429,22 @@
       "devider": {
         "value": "rgba(57, 38, 2, 0.10)",
         "type": "color"
+      }
+    },
+    "progress": {
+      "circle": {
+        "border": {
+          "value": "{core.brand-10.a25}",
+          "type": "color"
+        },
+        "progress": {
+          "value": "rgba(254, 182, 0, 0.01)",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
       }
     },
     "bullet": {
@@ -3872,6 +3905,10 @@
       },
       "a30": {
         "value": "rgba(254, 182, 0, 0.3)",
+        "type": "color"
+      },
+      "a25": {
+        "value": "rgba(254, 182, 0, 0.25)",
         "type": "color"
       },
       "a10": {

@@ -1387,7 +1387,7 @@
               "y": "{depth.025}",
               "blur": "{depth.0}",
               "spread": "{depth.50}",
-              "color": "{core.brand-30.a50}",
+              "color": "rgba(156, 110, 247, 0.50)",
               "type": "innerShadow"
             }
           ],

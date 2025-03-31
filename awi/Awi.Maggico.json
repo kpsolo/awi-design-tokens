@@ -450,6 +450,12 @@
           "type": "borderRadius"
         }
       }
+    },
+    "card": {
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {

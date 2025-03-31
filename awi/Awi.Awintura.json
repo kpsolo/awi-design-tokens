@@ -190,6 +190,12 @@
         "type": "borderRadius"
       }
     },
+    "card": {
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      }
+    },
     "input": {
       "sm": {
         "value": "{border-radius.core.200}",

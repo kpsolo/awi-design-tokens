@@ -1775,6 +1775,14 @@
             "type": "color"
           }
         },
+        "bg": {
+          "value": "rgba(27, 24, 19, 0.88)",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(47, 34, 24, 0.00) 0%, #302419 100%)",
+          "type": "color"
+        },
         "navmenu": {
           "fill": {
             "value": "{core.brand-60.900}",

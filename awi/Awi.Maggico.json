@@ -3227,6 +3227,14 @@
             "value": "{core.brand-30.a25}",
             "type": "color"
           }
+        },
+        "bg": {
+          "value": "rgba(6, 4, 35, 0.88)",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(6, 4, 35, 0.00) 0%, #060423 100%)",
+          "type": "color"
         }
       }
     },

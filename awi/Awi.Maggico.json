@@ -1677,7 +1677,7 @@
         "type": "color"
       },
       "devider": {
-        "value": "{core.white.a25}",
+        "value": "rgba(28, 21, 72, 0.20)",
         "type": "color"
       }
     },

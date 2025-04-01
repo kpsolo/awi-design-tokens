@@ -4197,7 +4197,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "linear-gradient(0deg, rgba(192, 192, 255, 0.12) 0%, rgba(192, 192, 255, 0.12) 100%), rgba(28, 5, 240, 0.20)",
+        "value": "{semantic.gradients.7}",
         "type": "color"
       }
     },

@@ -1675,6 +1675,10 @@
       "overlay": {
         "value": "rgba(13, 10, 35, 0.60)",
         "type": "color"
+      },
+      "devider": {
+        "value": "{core.white.a25}",
+        "type": "color"
       }
     },
     "input": {

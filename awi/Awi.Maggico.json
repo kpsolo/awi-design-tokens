@@ -2692,6 +2692,10 @@
             "active": {
               "value": "{core.white.a100}",
               "type": "color"
+            },
+            "disabled": {
+              "value": "{core.grey.600}",
+              "type": "color"
             }
           }
         },

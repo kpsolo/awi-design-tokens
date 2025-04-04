@@ -2954,6 +2954,10 @@
               "value": "{core.brand-30.a60}",
               "type": "color"
             },
+            "disabled": {
+              "value": "{core.brand-30.a25}",
+              "type": "color"
+            },
             "active": {
               "value": "{core.brand-10.500}",
               "type": "color"

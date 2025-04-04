@@ -2930,6 +2930,39 @@
           }
         }
       },
+      "tiket-number": {
+        "text": {
+          "defoult": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "gold-winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "fill": {
+          "winning": {
+            "value": "{core.brand-10.500} 15%",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "border": {
+          "winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "default": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
       "zero-block": {
         "fill": {
           "value": "{core.brand-60.900}",

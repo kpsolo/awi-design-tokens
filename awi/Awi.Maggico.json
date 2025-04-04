@@ -2812,6 +2812,39 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "tiket-number": {
+        "text": {
+          "defoult": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "gold-winning": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "fill": {
+          "winning": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "border": {
+          "winning": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "default": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
       }
     },
     "homepage": {

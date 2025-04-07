@@ -1057,7 +1057,7 @@
           },
           {
             "x": "{depth.0}",
-            "y": "{depth.m025}",
+            "y": "{depth.025}",
             "blur": "{depth.0}",
             "spread": "{depth.0}",
             "color": "rgba(255, 255, 255, 0.30)",

@@ -2835,7 +2835,7 @@
         },
         "border": {
           "winning": {
-            "value": "{core.brand-10.500}",
+            "value": "linear-gradient(135deg, #CFD675 0%, #F8BE49 100%)",
             "type": "color",
             "description": "Tiket"
           },

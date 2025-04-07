@@ -2816,31 +2816,31 @@
       "tiket-number": {
         "text": {
           "defoult": {
-            "value": "{core.brand-30.300}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color",
             "description": "Tiket"
           },
           "gold-winning": {
-            "value": "{core.brand-30.300}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color",
             "description": "Tiket"
           }
         },
         "fill": {
           "winning": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-10.500} 15%",
             "type": "color",
             "description": "Tiket"
           }
         },
         "border": {
           "winning": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-10.500}",
             "type": "color",
             "description": "Tiket"
           },
           "default": {
-            "value": "{core.brand-30.300}",
+            "value": "rgba(255, 255, 255, 0)",
             "type": "color",
             "description": "Tiket"
           }

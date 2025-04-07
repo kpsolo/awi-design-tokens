@@ -2952,7 +2952,7 @@
         },
         "border": {
           "winning": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.gradients.6}",
             "type": "color",
             "description": "Tiket"
           },

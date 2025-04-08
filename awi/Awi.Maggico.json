@@ -3304,6 +3304,22 @@
           "type": "color"
         }
       }
+    },
+    "referal": {
+      "step": {
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.a25}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

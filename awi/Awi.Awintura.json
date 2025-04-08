@@ -2321,6 +2321,22 @@
         }
       }
     },
+    "referal": {
+      "step": {
+        "fill": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        }
+      }
+    },
     "menu": {
       "banner": {
         "text-accent": {

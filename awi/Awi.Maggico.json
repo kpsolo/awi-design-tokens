@@ -429,6 +429,10 @@
       "mobile-top-up": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
+      },
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
       }
     },
     "menu": {

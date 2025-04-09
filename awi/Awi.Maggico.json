@@ -1400,6 +1400,21 @@
           "type": "boxShadow"
         }
       }
+    },
+    "profile": {
+      "notification": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{depth.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -3318,6 +3333,20 @@
         "text": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
+        }
+      }
+    },
+    "profile": {
+      "notification": {
+        "fill": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
         }
       }
     }

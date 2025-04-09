@@ -1223,6 +1223,12 @@
           "type": "boxShadow"
         }
       }
+    },
+    "profile": {
+      "notification": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -1452,6 +1458,20 @@
       "devider": {
         "value": "rgba(57, 38, 2, 0.10)",
         "type": "color"
+      }
+    },
+    "profile": {
+      "notification": {
+        "fill": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        }
       }
     },
     "progress": {

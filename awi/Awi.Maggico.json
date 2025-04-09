@@ -2843,7 +2843,7 @@
         },
         "fill": {
           "winning": {
-            "value": "{core.brand-10.500} 15%",
+            "value": "rgba(255, 255, 0, 0.15)",
             "type": "color",
             "description": "Tiket"
           }

@@ -3339,7 +3339,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.a15}",
+          "value": "rgba(156, 110, 247, 0.15)",
           "type": "color"
         },
         "text": {

@@ -2973,7 +2973,7 @@
             "type": "color",
             "description": "Tiket"
           },
-          "gold-winning": {
+          "winning": {
             "value": "{core.brand-10.500}",
             "type": "color",
             "description": "Tiket"

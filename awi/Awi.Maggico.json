@@ -4789,6 +4789,12 @@
     "slate-on-card": {
       "value": "24px",
       "type": "dimension"
+    },
+    "news": {
+      "welcome-bonus-card": {
+        "value": "38px",
+        "type": "dimension"
+      }
     }
   },
   "tab-bar": {

@@ -1124,7 +1124,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "#FFDB99",
+              "color": "{core.brand-10.a40}",
               "type": "innerShadow"
             },
             {
@@ -1132,7 +1132,7 @@
               "y": "0",
               "blur": "16",
               "spread": "0",
-              "color": "#000000",
+              "color": "rgba(255, 150, 45, 0.6)",
               "type": "dropShadow"
             }
           ],

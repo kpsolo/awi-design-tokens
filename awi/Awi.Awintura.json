@@ -1107,6 +1107,39 @@
         "type": "boxShadow"
       }
     },
+    "news": {
+      "welcome-bonus-card": {
+        "background": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "9px",
+              "spread": "0px",
+              "color": "#FFDB99",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45",
+              "spread": "0",
+              "color": "#FFDB99",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "16",
+              "spread": "0",
+              "color": "#000000",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
     "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"

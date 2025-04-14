@@ -1525,6 +1525,20 @@
           "value": "{semantic.text.default.heading}",
           "type": "color"
         }
+      },
+      "progress-thumb": {
+        "border": {
+          "value": "{core.brand-10.a25}",
+          "type": "color"
+        },
+        "progress": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
       }
     },
     "bullet": {

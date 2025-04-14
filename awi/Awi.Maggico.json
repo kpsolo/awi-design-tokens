@@ -3355,6 +3355,20 @@
           "value": "{semantic.text.default.primary}",
           "type": "color"
         }
+      },
+      "progress-thumb": {
+        "border": {
+          "value": "{core.brand-10.a25}",
+          "type": "color"
+        },
+        "progress": {
+          "value": "rgba(254, 182, 0, 0.01)",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        }
       }
     },
     "referal": {

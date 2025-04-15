@@ -3358,11 +3358,11 @@
       },
       "progress-thumb": {
         "border": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.brand-30.a25}",
           "type": "color"
         },
         "progress": {
-          "value": "rgba(254, 182, 0, 0.01)",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "text": {

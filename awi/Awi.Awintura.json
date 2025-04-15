@@ -1252,7 +1252,7 @@
               "x": "{depth.0}",
               "y": "{depth.025}",
               "blur": "{depth.0}",
-              "spread": "{depth.50}",
+              "spread": "{depth.0}",
               "color": "{core.brand-10.a50}",
               "type": "innerShadow"
             }

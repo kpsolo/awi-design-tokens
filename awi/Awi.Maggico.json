@@ -3400,6 +3400,15 @@
           }
         }
       }
+    },
+    "news": {
+      "inner-page": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      }
     }
   },
   "scale-1": {

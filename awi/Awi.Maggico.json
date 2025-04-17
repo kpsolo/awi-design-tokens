@@ -5420,5 +5420,15 @@
         }
       }
     }
+  },
+  "Thumb-providers": {
+    "padding-bottom": {
+      "value": "{spacing.400}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacing.600}",
+      "type": "spacing"
+    }
   }
 }

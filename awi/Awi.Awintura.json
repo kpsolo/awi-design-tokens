@@ -5204,6 +5204,16 @@
       }
     }
   },
+  "Thumb-providers": {
+    "padding-bottom": {
+      "value": "{spacing.0}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacing.400}",
+      "type": "spacing"
+    }
+  },
   "homepage": {
     "collection": {
       "padding-top": {

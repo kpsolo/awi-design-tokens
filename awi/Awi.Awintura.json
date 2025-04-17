@@ -5205,13 +5205,33 @@
     }
   },
   "Thumb-providers": {
-    "padding-bottom": {
-      "value": "{spacing.0}",
-      "type": "spacing"
+    "md": {
+      "padding-bottom": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
     },
-    "gap": {
-      "value": "{spacing.400}",
-      "type": "spacing"
+    "sm": {
+      "padding-bottom": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      }
     }
   },
   "homepage": {

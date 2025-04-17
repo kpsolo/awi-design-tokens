@@ -5422,13 +5422,33 @@
     }
   },
   "Thumb-providers": {
-    "padding-bottom": {
-      "value": "{spacing.400}",
-      "type": "spacing"
+    "md": {
+      "padding-bottom": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.300}",
+        "type": "spacing"
+      }
     },
-    "gap": {
-      "value": "{spacing.600}",
-      "type": "spacing"
+    "sm": {
+      "padding-bottom": {
+        "value": "{spacing.100}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{spacing.600}",
+        "type": "spacing"
+      },
+      "gap-text": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      }
     }
   }
 }

@@ -3409,6 +3409,12 @@
           "description": "status-inactive"
         }
       }
+    },
+    "pregame": {
+      "overlay": {
+        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 79.69%, rgba(23, 16, 66, 0.35) 100%)",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

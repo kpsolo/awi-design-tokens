@@ -1497,6 +1497,12 @@
         "type": "color"
       }
     },
+    "pregame": {
+      "overlay": {
+        "value": "(180deg, #0C0906 -1.25%, #292016 100%)",
+        "type": "color"
+      }
+    },
     "profile": {
       "notification": {
         "fill": {

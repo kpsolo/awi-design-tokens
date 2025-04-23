@@ -2226,6 +2226,28 @@
           "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
+      },
+      "welcome-bonus-card": {
+        "border": {
+          "active": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "tabs": {
+          "background": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          }
+        }
       }
     },
     "homepage": {

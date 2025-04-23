@@ -1266,6 +1266,52 @@
         "value": "{shadow.drop.small}",
         "type": "boxShadow"
       }
+    },
+    "deals": {
+      "welcome-bonus-card": {
+        "timer": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "#6249001a",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4",
+              "blur": "0",
+              "spread": "0",
+              "color": "#000000",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "timer-highlight": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0px",
+              "color": "rgba(98, 73, 0, 0.1)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -2244,7 +2290,27 @@
         },
         "tabs": {
           "background": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "#1F1A17",
+            "type": "color"
+          },
+          "border": {
+            "active": {
+              "value": "#FFD284",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.white.a80}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "timer": {
+        "number-cell": {
+          "fill": {
+            "value": "{semantic.gradients.9}",
             "type": "color"
           }
         }

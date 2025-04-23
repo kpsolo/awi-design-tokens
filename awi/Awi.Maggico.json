@@ -1452,6 +1452,52 @@
           "type": "boxShadow"
         }
       }
+    },
+    "deals": {
+      "welcome-bonus-card": {
+        "timer": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(89, 80, 69, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "timer-highlight": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0px",
+              "color": "rgba(98, 73, 0, 0.1)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -3136,6 +3182,26 @@
         "tabs": {
           "background": {
             "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "border": {
+            "active": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.white.a80}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "timer": {
+        "number-cell": {
+          "fill": {
+            "value": "{core.white.a80}",
             "type": "color"
           }
         }

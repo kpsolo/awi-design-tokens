@@ -1276,7 +1276,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "#6249001a",
+              "color": "rgba(89, 80, 69, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -1284,7 +1284,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "#000000",
+              "color": "rgba(89, 80, 69, 0.16)",
               "type": "dropShadow"
             },
             {
@@ -1292,7 +1292,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "#000000",
+              "color": "#rgba(0, 0, 0, 0.04)",
               "type": "innerShadow"
             }
           ],
@@ -2285,7 +2285,7 @@
           }
         },
         "background": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{semantic.gradients.8}",
           "type": "color"
         },
         "tabs": {
@@ -2304,6 +2304,12 @@
               "value": "{core.white.a80}",
               "type": "color"
             }
+          }
+        },
+        "text": {
+          "bonus": {
+            "value": "#FFD284",
+            "type": "color"
           }
         }
       },

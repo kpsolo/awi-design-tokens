@@ -3196,6 +3196,12 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "bonus": {
+            "value": "#FFD284",
+            "type": "color"
+          }
         }
       },
       "timer": {

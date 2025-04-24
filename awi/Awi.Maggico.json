@@ -3217,6 +3217,12 @@
           "fill": {
             "value": "{core.brand-30.100}",
             "type": "color"
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
+            }
           }
         }
       }

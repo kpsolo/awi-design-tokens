@@ -2326,6 +2326,12 @@
           "fill": {
             "value": "{semantic.gradients.9}",
             "type": "color"
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            }
           }
         }
       }

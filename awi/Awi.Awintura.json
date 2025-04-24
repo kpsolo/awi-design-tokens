@@ -2276,7 +2276,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "linear-gradient(128deg, #FEB600 14.07%, #EB7F44 51.52%, #C7BFB5 86.86%)",
             "type": "color"
           },
           "default": {
@@ -2285,7 +2285,7 @@
           }
         },
         "background": {
-          "value": "{semantic.gradients.8}",
+          "value": "linear-gradient(180deg, #433A33 0%, #1E140E 100%)",
           "type": "color"
         },
         "tabs": {

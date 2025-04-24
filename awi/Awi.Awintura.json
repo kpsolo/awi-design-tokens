@@ -535,6 +535,14 @@
           "style": "solid"
         },
         "type": "border"
+      },
+      "text": {
+        "value": {
+          "color": "{contextual.popup.bottom.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
       }
     },
     "header": {

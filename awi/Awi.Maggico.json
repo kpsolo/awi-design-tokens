@@ -711,6 +711,14 @@
           "style": "solid"
         },
         "type": "border"
+      },
+      "text": {
+        "value": {
+          "color": "{contextual.popup.bottom.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
       }
     },
     "footer": {
@@ -3167,7 +3175,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "linear-gradient(300deg, #8651F0 8.48%, #7968EF 36.1%, #7769EF 42.33%, #D22EDC 89.4%)",
             "type": "color"
           },
           "default": {
@@ -3176,30 +3184,30 @@
           }
         },
         "background": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{semantic.gradients.1}",
           "type": "color"
         },
         "tabs": {
           "background": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.gradients.9}",
             "type": "color"
           },
           "border": {
             "active": {
-              "value": "{semantic.text.brand.primary}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             }
           },
           "text": {
             "default": {
-              "value": "{core.white.a80}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             }
           }
         },
         "text": {
           "bonus": {
-            "value": "#FFD284",
+            "value": "{core.brand-30.200}",
             "type": "color"
           }
         }
@@ -3207,7 +3215,7 @@
       "timer": {
         "number-cell": {
           "fill": {
-            "value": "{core.white.a80}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         }

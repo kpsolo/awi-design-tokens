@@ -2362,6 +2362,12 @@
               "type": "color"
             }
           }
+        },
+        "text": {
+          "date": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          }
         }
       }
     },

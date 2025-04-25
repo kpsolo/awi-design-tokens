@@ -1635,6 +1635,10 @@
         "default": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "small": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
         }
       }
     },
@@ -2859,6 +2863,10 @@
       },
       "overlay": {
         "value": "rgba(234, 230, 225, 0.60)",
+        "type": "color"
+      },
+      "slate": {
+        "value": "{core.brand-30.100}",
         "type": "color"
       },
       "text": {

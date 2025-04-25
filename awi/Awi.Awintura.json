@@ -1276,8 +1276,8 @@
       }
     },
     "deals": {
-      "welcome-bonus-card": {
-        "timer": {
+      "timer": {
+        "large": {
           "value": [
             {
               "x": "0px",
@@ -1304,36 +1304,7 @@
               "type": "innerShadow"
             }
           ],
-          "type": "boxShadow",
-          "small": {
-            "value": [
-              {
-                "x": "0px",
-                "y": "-3.5px",
-                "blur": "0px",
-                "spread": "0px",
-                "color": "rgba(205, 205, 205, 0.12)",
-                "type": "dropShadow"
-              },
-              {
-                "x": "0",
-                "y": "-1.75px",
-                "blur": "0",
-                "spread": "0",
-                "color": "rgba(205, 205, 205, 0.16)",
-                "type": "dropShadow"
-              },
-              {
-                "x": "0",
-                "y": "-0.44",
-                "blur": "0",
-                "spread": "0",
-                "color": "rgba(0, 0, 0, 0.04)",
-                "type": "innerShadow"
-              }
-            ],
-            "type": "boxShadow"
-          }
+          "type": "boxShadow"
         },
         "timer-highlight": {
           "value": [
@@ -1344,6 +1315,35 @@
               "spread": "0px",
               "color": "rgba(98, 73, 0, 0.1)",
               "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "small": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-3.5px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1.75px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-0.44",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
             }
           ],
           "type": "boxShadow"

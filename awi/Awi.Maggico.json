@@ -2184,6 +2184,16 @@
         "dot": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "static": {
+          "fill": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          },
+          "dot": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     },

@@ -1542,7 +1542,7 @@
             "y": "0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "rgba(205, 205, 205, 0.12)",
+            "color": "rgba(253, 51, 124, 0.12)",
             "type": "innerShadow"
           },
           {
@@ -1550,7 +1550,7 @@
             "y": "-0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "rgba(205, 205, 205, 0.16)",
+            "color": "{core.white.a15}",
             "type": "innerShadow"
           },
           {
@@ -1558,7 +1558,7 @@
             "y": "0px",
             "blur": "8px",
             "spread": "0px",
-            "color": "rgba(0, 0, 0, 0.04)",
+            "color": "{core.white.a15}",
             "type": "innerShadow"
           },
           {
@@ -1566,7 +1566,7 @@
             "y": "0",
             "blur": "4",
             "spread": "0",
-            "color": "#000000",
+            "color": "rgba(253, 51, 124, 0.25)",
             "type": "dropShadow"
           }
         ],

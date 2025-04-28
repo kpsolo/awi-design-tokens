@@ -3274,6 +3274,28 @@
             "type": "color"
           }
         }
+      },
+      "promo-code-button": {
+        "fill": {
+          "default": {
+            "value": "linear-gradient(180deg, #2B2360 0%, #392B9A 100%)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(180deg, #403686 0%, #948DC4 100%)",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          }
+        }
       }
     },
     "filter&sort": {

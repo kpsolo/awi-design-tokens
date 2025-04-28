@@ -2324,6 +2324,28 @@
           "type": "color"
         }
       },
+      "promo-code-button": {
+        "fill": {
+          "default": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(0deg, #705830 0%, #CAAD8A 100%)",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          }
+        }
+      },
       "welcome-bonus-card": {
         "border": {
           "active": {

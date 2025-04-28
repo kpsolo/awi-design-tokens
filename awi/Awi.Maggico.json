@@ -1534,6 +1534,43 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "promo-code-button": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "16px",
+            "spread": "0px",
+            "color": "rgba(205, 205, 205, 0.12)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0px",
+            "y": "-0px",
+            "blur": "16px",
+            "spread": "0px",
+            "color": "rgba(205, 205, 205, 0.16)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "8px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.04)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "#000000",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   },
@@ -5295,6 +5332,18 @@
     "icon-size": {
       "value": "{size.200}",
       "type": "sizing"
+    }
+  },
+  "deals": {
+    "promo-code-button": {
+      "padding-left": {
+        "value": "20px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{spacing.300}",
+        "type": "spacing"
+      }
     }
   },
   "selection-controls": {

@@ -1348,6 +1348,43 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "promo-code-button": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "16px",
+            "spread": "0px",
+            "color": "{core.brand-10.a10}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0px",
+            "y": "-0px",
+            "blur": "16px",
+            "spread": "0px",
+            "color": "{core.brand-60.a15}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "8px",
+            "spread": "0px",
+            "color": "{core.brand-30.a25}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "{core.brand-10.a25}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   },
@@ -5610,6 +5647,18 @@
           },
           "type": "typography"
         }
+      }
+    }
+  },
+  "deals": {
+    "promo-code-button": {
+      "padding-left": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{spacing.300}",
+        "type": "spacing"
       }
     }
   }

@@ -3265,7 +3265,7 @@
         },
         "background": {
           "inactive": {
-            "value": "{semantic.gradients.1}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "active": {

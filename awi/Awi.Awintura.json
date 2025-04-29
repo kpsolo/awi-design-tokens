@@ -2390,13 +2390,19 @@
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "gba(255, 255, 255, 0.00)",
             "type": "color"
           }
         },
         "background": {
-          "value": "linear-gradient(180deg, #433A33 0%, #1E140E 100%)",
-          "type": "color"
+          "inactive": {
+            "value": "{semantic.gradients.8}",
+            "type": "color"
+          },
+          "active": {
+            "value": "linear-gradient(180deg, #433A33 0%, #1E140E 100%)",
+            "type": "color"
+          }
         },
         "tabs": {
           "background": {
@@ -2406,6 +2412,10 @@
           "border": {
             "active": {
               "value": "#FFD284",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "#gba(255, 255, 255, 0.00)",
               "type": "color"
             }
           },

@@ -3264,8 +3264,14 @@
           }
         },
         "background": {
-          "value": "{semantic.gradients.1}",
-          "type": "color"
+          "inactive": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          }
         },
         "tabs": {
           "background": {
@@ -3275,6 +3281,10 @@
           "border": {
             "active": {
               "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "#gba(255, 255, 255, 0.00)",
               "type": "color"
             }
           },
@@ -4666,7 +4676,7 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.brand-60.800}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "on-brand-tertiary": {

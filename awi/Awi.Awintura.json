@@ -2324,11 +2324,11 @@
         },
         "static": {
           "fill": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-30.a60}",
             "type": "color"
           },
           "dot": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-60.800}",
             "type": "color"
           }
         },

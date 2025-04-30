@@ -1817,8 +1817,10 @@
         "type": "color"
       },
       "slate": {
-        "value": "#252339",
-        "type": "color"
+        "1": {
+          "value": "#252339",
+          "type": "color"
+        }
       },
       "bottom": {
         "fill": {

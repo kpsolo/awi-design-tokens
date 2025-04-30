@@ -2945,8 +2945,10 @@
         "type": "color"
       },
       "slate": {
-        "value": "{core.brand-30.100}",
-        "type": "color"
+        "1": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        }
       },
       "text": {
         "heading": {

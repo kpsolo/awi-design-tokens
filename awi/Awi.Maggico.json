@@ -3664,7 +3664,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{semantic.background.slate-2}",
+          "value": "{semantic.background.slate-4}",
           "type": "color"
         }
       }
@@ -4598,6 +4598,11 @@
       },
       "slate-2": {
         "value": "{core.brand-30.a15}",
+        "type": "color",
+        "description": "text input 2"
+      },
+      "slate-4": {
+        "value": "rgba(156, 110, 247, 0.15)",
         "type": "color",
         "description": "text input 2"
       },

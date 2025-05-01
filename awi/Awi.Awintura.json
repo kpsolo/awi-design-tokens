@@ -4611,6 +4611,11 @@
             "type": "color"
           }
         }
+      },
+      "slate-4": {
+        "value": "{semantic.background.slate-on-card}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "icon": {

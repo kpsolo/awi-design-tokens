@@ -3482,6 +3482,24 @@
         "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
         "type": "color"
       }
+    },
+    "achivments": {
+      "progress": {
+        "fill": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.gradients.6}",
+          "type": "color"
+        },
+        "border": {
+          "fill": {
+            "value": "{core.white.a5}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

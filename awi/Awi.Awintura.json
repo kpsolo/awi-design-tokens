@@ -2345,7 +2345,7 @@
         },
         "static": {
           "fill": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.brand-60.a20}",
             "type": "color"
           },
           "dot": {

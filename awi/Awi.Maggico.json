@@ -4062,6 +4062,10 @@
       "a80": {
         "value": "rgba(28, 21, 72, 0.80)",
         "type": "color"
+      },
+      "a20": {
+        "value": "rgba(28, 21, 72, 0.20)",
+        "type": "color"
       }
     },
     "brand-30": {

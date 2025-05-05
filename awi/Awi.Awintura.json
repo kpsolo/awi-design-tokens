@@ -4039,6 +4039,10 @@
         "value": "rgba(89, 59, 3, 0.30)",
         "type": "color"
       },
+      "a20": {
+        "value": "rgba(89, 59, 3, 0.20)",
+        "type": "color"
+      },
       "a40": {
         "value": "rgba(230, 220, 200, 0.40)",
         "type": "color"

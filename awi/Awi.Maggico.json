@@ -5230,6 +5230,18 @@
         "value": "{size.800}",
         "type": "sizing"
       }
+    },
+    "bonus": {
+      "padding-bottom": {
+        "value": "{blur.100}",
+        "type": "spacing"
+      }
+    },
+    "general": {
+      "padding-top": {
+        "value": "{blur.100}",
+        "type": "spacing"
+      }
     }
   },
   "letter-spacing": {

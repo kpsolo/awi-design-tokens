@@ -4640,11 +4640,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.900}",
+          "value": "{core.brand-60.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.400}",
+          "value": "{core.brand-60.a50}",
           "type": "color"
         },
         "disabled": {
@@ -4766,11 +4766,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.brand-60.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.brand-60.a50}",
           "type": "color"
         },
         "accent": {

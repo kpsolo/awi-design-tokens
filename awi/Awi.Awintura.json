@@ -1635,6 +1635,20 @@
             "type": "color"
           }
         }
+      },
+      "card": {
+        "fiill": {
+          "default": {
+            "value": "{core.brand-10.800}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand-30.a25}",
+            "type": "color"
+          }
+        }
       }
     },
     "notifications": {
@@ -4398,8 +4412,7 @@
       },
       "800": {
         "value": "#59492A",
-        "type": "color",
-        "description": "Primary.Amber 800"
+        "type": "color"
       },
       "900": {
         "value": "{core.white.a0}",
@@ -4687,7 +4700,7 @@
         "description": "text input 2"
       },
       "slate-5": {
-        "value": "{semantic.background.slate-on-card}",
+        "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
       }

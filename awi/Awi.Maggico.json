@@ -3732,6 +3732,20 @@
             "type": "color"
           }
         }
+      },
+      "card": {
+        "fiill": {
+          "default": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        }
       }
     }
   },

@@ -1641,10 +1641,20 @@
           "default": {
             "value": "{core.brand-10.800}",
             "type": "color"
+          },
+          "inactive": {
+            "value": "rgba(161, 150, 130, 0.10)",
+            "type": "color"
           }
         },
         "border": {
           "default": {
+            "value": "{core.brand-30.a25}",
+            "type": "color"
+          }
+        },
+        "divider": {
+          "1": {
             "value": "{core.brand-30.a25}",
             "type": "color"
           }

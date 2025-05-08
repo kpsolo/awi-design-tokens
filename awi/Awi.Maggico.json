@@ -1595,7 +1595,7 @@
               "y": "0px",
               "blur": "2px",
               "spread": "0px",
-              "color": "#6249001a",
+              "color": "{core.brand-30.200}",
               "type": "dropShadow"
             },
             {
@@ -1603,8 +1603,8 @@
               "y": "0",
               "blur": "4",
               "spread": "0",
-              "color": "#000000",
-              "type": "innerShadow"
+              "color": "{core.brand-30.200}",
+              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
@@ -3697,16 +3697,16 @@
     "achivments": {
       "progress": {
         "fill": {
-          "value": "{semantic.gradients.2}",
+          "value": "{semantic.background.slate-4}",
           "type": "color"
         },
         "step": {
-          "value": "{semantic.gradients.4}",
+          "value": "{semantic.gradients.6}",
           "type": "color"
         },
         "border": {
           "fill": {
-            "value": "linear-gradient(180deg, rgba(148, 91, 1, 0.40) 0%, rgba(148, 91, 1, 0.40) 29.5%, rgba(58, 39, 3, 0.40) 100%)",
+            "value": "{semantic.background.slate-4}",
             "type": "color"
           }
         }
@@ -3714,21 +3714,21 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.background.brand.primary.hover}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "done": {
-            "value": "{semantic.background.brand.primary.hover}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "activation": {
-            "value": "{semantic.background.brand.primary.hover}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         },
         "border": {
           "progress": {
-            "value": "{semantic.background.brand.primary.hover}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           }
         }
@@ -3736,13 +3736,23 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.white.a20}",
+            "value": "{semantic.background.slate-4}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{semantic.background.slate-4}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.white.a20}",
+            "value": "{semantic.background.slate-4}",
+            "type": "color"
+          }
+        },
+        "divider": {
+          "1": {
+            "value": "{semantic.background.slate-4}",
             "type": "color"
           }
         }

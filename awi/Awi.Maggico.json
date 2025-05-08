@@ -1585,6 +1585,31 @@
         },
         "type": "boxShadow"
       }
+    },
+    "achivments": {
+      "status": {
+        "done": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "2px",
+              "spread": "0px",
+              "color": "#6249001a",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "4",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -3685,6 +3710,28 @@
             "type": "color"
           }
         }
+      },
+      "status": {
+        "fill": {
+          "progress": {
+            "value": "{semantic.background.brand.primary.hover}",
+            "type": "color"
+          },
+          "done": {
+            "value": "{semantic.background.brand.primary.hover}",
+            "type": "color"
+          },
+          "activation": {
+            "value": "{semantic.background.brand.primary.hover}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "progress": {
+            "value": "{semantic.background.brand.primary.hover}",
+            "type": "color"
+          }
+        }
       }
     }
   },
@@ -4631,6 +4678,11 @@
       "slate-on-card": {
         "value": "{semantic.gradients.7}",
         "type": "color"
+      },
+      "slate-5": {
+        "value": "{semantic.background.slate-on-card}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "icon": {

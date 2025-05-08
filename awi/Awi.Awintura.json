@@ -1288,6 +1288,31 @@
         "type": "boxShadow"
       }
     },
+    "achivments": {
+      "status": {
+        "done": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "2px",
+              "spread": "0px",
+              "color": "{core.brand-10.500}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "4",
+              "spread": "0",
+              "color": "{core.brand-10.500}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
     "deals": {
       "timer": {
         "large": {
@@ -1567,6 +1592,46 @@
           },
           "disabled": {
             "value": "{semantic.border.brand.secondary.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "achivments": {
+      "status": {
+        "fill": {
+          "progress": {
+            "value": "{semantic.gradients.5}",
+            "type": "color"
+          },
+          "done": {
+            "value": "{semantic.gradients.5}",
+            "type": "color"
+          },
+          "activation": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "progress": {
+            "value": "linear-gradient(180deg, rgba(235, 184, 73, 0.20) 0%, rgba(206, 97, 27, 0.20) 100%)",
+            "type": "color"
+          }
+        }
+      },
+      "progress": {
+        "fill": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.gradients.6}",
+          "type": "color"
+        },
+        "border": {
+          "fill": {
+            "value": "{core.white.a5}",
             "type": "color"
           }
         }
@@ -3482,24 +3547,6 @@
         "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
         "type": "color"
       }
-    },
-    "achivments": {
-      "progress": {
-        "fill": {
-          "value": "{core.white.a20}",
-          "type": "color"
-        },
-        "step": {
-          "value": "{semantic.gradients.6}",
-          "type": "color"
-        },
-        "border": {
-          "fill": {
-            "value": "{core.white.a5}",
-            "type": "color"
-          }
-        }
-      }
     }
   },
   "scale-1": {
@@ -4350,7 +4397,7 @@
         "description": "Primary.Amber 800"
       },
       "800": {
-        "value": "{core.white.a0}",
+        "value": "#59492A",
         "type": "color",
         "description": "Primary.Amber 800"
       },
@@ -4635,6 +4682,11 @@
         }
       },
       "slate-4": {
+        "value": "{semantic.background.slate-on-card}",
+        "type": "color",
+        "description": "text input 2"
+      },
+      "slate-5": {
         "value": "{semantic.background.slate-on-card}",
         "type": "color",
         "description": "text input 2"

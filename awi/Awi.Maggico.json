@@ -3735,7 +3735,7 @@
       },
       "header": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "rgba(9, 9, 113, 0.28)",
           "type": "color"
         },
         "border": {

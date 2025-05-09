@@ -1426,6 +1426,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "header": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{depth.0}",
+            "spread": "{depth.0}",
+            "color": "rgba(254, 182, 0, 0.75)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "news": {
@@ -1858,6 +1871,10 @@
         "1": {
           "value": "#252339",
           "type": "color"
+        },
+        "2": {
+          "value": "{core.white.a5}",
+          "type": "color"
         }
       },
       "bottom": {
@@ -1885,6 +1902,14 @@
         },
         "accent": {
           "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         }
       },
@@ -3669,6 +3694,54 @@
             "type": "color"
           }
         }
+      },
+      "text": {
+        "default": {
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        }
+      },
+      "nav-item": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "active": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
+        }
+      },
+      "header": {
+        "fill": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
       }
     },
     "news": {
@@ -5182,6 +5255,12 @@
     "news": {
       "welcome-bonus-card": {
         "value": "38px",
+        "type": "dimension"
+      }
+    },
+    "profile": {
+      "header": {
+        "value": "20px",
         "type": "dimension"
       }
     }

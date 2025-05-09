@@ -1920,6 +1920,16 @@
       "devider": {
         "value": "rgba(28, 21, 72, 0.20)",
         "type": "color"
+      },
+      "devider-2": {
+        "value": "rgba(57, 38, 2, 0.20)",
+        "type": "color"
+      },
+      "icon": {
+        "1": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        }
       }
     },
     "input": {
@@ -3739,6 +3749,12 @@
           "type": "color"
         },
         "border": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
+      },
+      "mob": {
+        "bg": {
           "value": "{core.brand-30.300}",
           "type": "color"
         }

@@ -1755,6 +1755,12 @@
           }
         }
       },
+      "mob": {
+        "bg": {
+          "value": "linear-gradient(171deg, #392602 7%, #A86E00 61%)",
+          "type": "color"
+        }
+      },
       "header": {
         "fill": {
           "value": "rgba(214, 157, 15, 0.32)",
@@ -3139,6 +3145,12 @@
           "type": "color"
         }
       },
+      "icon": {
+        "1": {
+          "value": "rgba(57, 38, 2, 0.30)",
+          "type": "color"
+        }
+      },
       "close-icon-fill": {
         "value": "{core.brand-30.300}",
         "type": "color"
@@ -3159,6 +3171,10 @@
       },
       "devider": {
         "value": "rgba(57, 38, 2, 0.20)",
+        "type": "color"
+      },
+      "devider-2": {
+        "value": "rgba(57, 38, 2, 0.10)",
         "type": "color"
       }
     },

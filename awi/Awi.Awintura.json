@@ -1658,6 +1658,10 @@
             "value": "{core.brand-30.a25}",
             "type": "color"
           }
+        },
+        "slate-on-card": {
+          "value": "{core.white.a8}",
+          "type": "color"
         }
       }
     },

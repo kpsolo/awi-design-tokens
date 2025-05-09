@@ -460,6 +460,13 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
+    },
+    "segment-control": {
+      "item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.segment-control.item"
+      }
     }
   },
   "border": {
@@ -1623,6 +1630,17 @@
           "type": "boxShadow"
         }
       }
+    },
+    "segment-control": {
+      "item": {
+        "fill": {
+          "active": {
+            "value": "{shadow.deals.timer.small}",
+            "type": "boxShadow",
+            "description": "contextual.segment-control.item.fill.active"
+          }
+        }
+      }
     }
   },
   "contextual": {
@@ -1922,7 +1940,7 @@
         "type": "color"
       },
       "devider-2": {
-        "value": "rgba(57, 38, 2, 0.20)",
+        "value": "{core.white.a8}",
         "type": "color"
       },
       "icon": {
@@ -3853,6 +3871,37 @@
           "value": "{semantic.background.slate-4}",
           "type": "color"
         }
+      }
+    },
+    "segment-control": {
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "description": "Segment Control"
+      },
+      "item": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "active": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        }
+      },
+      "devider": {
+        "value": "rgba(57, 38, 2, 0.10)",
+        "type": "color",
+        "description": "Segment Control"
       }
     }
   },

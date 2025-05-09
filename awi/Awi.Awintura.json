@@ -293,6 +293,13 @@
         }
       }
     },
+    "segment-control": {
+      "item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.segment-control.item"
+      }
+    },
     "homepage": {
       "nav-menu": {
         "general": {
@@ -1089,6 +1096,17 @@
       "notification": {
         "value": "{shadow.drop.small}",
         "type": "boxShadow"
+      }
+    },
+    "segment-control": {
+      "item": {
+        "fill": {
+          "active": {
+            "value": "{shadow.drop.small}",
+            "type": "boxShadow",
+            "description": "contextual.segment-control.item.fill.active"
+          }
+        }
       }
     },
     "popover": {
@@ -3106,6 +3124,54 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
+      }
+    },
+    "segment-control": {
+      "fill": {
+        "value": "{core.brand-30.600}",
+        "type": "color",
+        "description": "Segment Control"
+      },
+      "devider": {
+        "value": "rgba(57, 38, 2, 0.10)",
+        "type": "color",
+        "description": "Segment Control"
+      },
+      "item": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "active": {
+            "value": "{semantic.gradients.1}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "active": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        }
       }
     },
     "popup": {

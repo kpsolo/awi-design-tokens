@@ -3755,7 +3755,7 @@
       },
       "mob": {
         "bg": {
-          "value": "{core.brand-30.300}",
+          "value": "linear-gradient(171deg, #252339 7%, #0F0C33 61%)",
           "type": "color"
         }
       }

@@ -3713,7 +3713,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "rgba(156, 110, 247, 0.15)",
+          "value": "{semantic.gradients.7}",
           "type": "color"
         },
         "text": {
@@ -3722,12 +3722,12 @@
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.background.brand.emphasizing.default.secondary}",
             "type": "color"
           }
         },
         "border": {
-          "value": "{core.brand-30.300}",
+          "value": "{semantic.gradients.5}",
           "type": "color"
         }
       },

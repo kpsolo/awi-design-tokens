@@ -3720,7 +3720,15 @@
           "default": {
             "value": "{semantic.text.default.heading}",
             "type": "color"
+          },
+          "accent": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
           }
+        },
+        "border": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
         }
       },
       "text": {

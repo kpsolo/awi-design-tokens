@@ -1770,9 +1770,17 @@
           "value": "{core.brand-30.300}",
           "type": "color"
         },
+        "border": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        },
         "text": {
           "default": {
             "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{semantic.text.static.accent}",
             "type": "color"
           }
         }

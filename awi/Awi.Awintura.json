@@ -1740,6 +1740,10 @@
       "overlay": {
         "value": "linear-gradient(180deg, rgba(12, 9, 6, 0.30) -1.25%, rgba(41, 32, 22, 0.30) 100%)",
         "type": "color"
+      },
+      "background": {
+        "value": "#2D1816",
+        "type": "color"
       }
     },
     "profile": {

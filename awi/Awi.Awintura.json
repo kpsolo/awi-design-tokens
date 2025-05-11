@@ -3141,7 +3141,7 @@
         "description": "Segment Control"
       },
       "devider": {
-        "value": "rgba(57, 38, 2, 0.10)",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -3180,6 +3180,11 @@
             "description": "Segment Control"
           }
         }
+      },
+      "border": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "description": "Segment Control"
       }
     },
     "popup": {

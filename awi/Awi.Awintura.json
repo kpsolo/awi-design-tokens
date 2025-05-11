@@ -1793,7 +1793,7 @@
       },
       "header": {
         "fill": {
-          "value": "rgba(214, 157, 15, 0.32)",
+          "value": "{contextual.popup.additional-block.fill}",
           "type": "color"
         }
       },
@@ -3191,6 +3191,12 @@
       "fill": {
         "value": "{core.brand-30.50}",
         "type": "color"
+      },
+      "additional-block": {
+        "fill": {
+          "value": "rgba(214, 157, 15, 0.32)",
+          "type": "color"
+        }
       },
       "slate": {
         "1": {

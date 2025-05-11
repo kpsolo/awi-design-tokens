@@ -1948,6 +1948,12 @@
           "value": "{semantic.text.static.primary}",
           "type": "color"
         }
+      },
+      "additional-block": {
+        "fill": {
+          "value": "rgba(9, 9, 113, 0.28)",
+          "type": "color"
+        }
       }
     },
     "input": {
@@ -3771,7 +3777,7 @@
       },
       "header": {
         "fill": {
-          "value": "rgba(9, 9, 113, 0.28)",
+          "value": "{contextual.popup.additional-block.fill}",
           "type": "color"
         },
         "border": {

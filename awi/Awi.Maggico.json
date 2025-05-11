@@ -1635,7 +1635,7 @@
       "item": {
         "fill": {
           "active": {
-            "value": "{shadow.deals.timer.small}",
+            "value": "{shadow.button.secondary.active}",
             "type": "boxShadow",
             "description": "contextual.segment-control.item.fill.active"
           }

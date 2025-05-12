@@ -3872,6 +3872,20 @@
             "value": "{core.brand-30.a25}",
             "type": "color"
           }
+        },
+        "text": {
+          "progress": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "done": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "activation": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
         }
       },
       "card": {
@@ -3899,6 +3913,12 @@
         },
         "slate-on-card": {
           "value": "{semantic.background.slate-4}",
+          "type": "color"
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "{semantic.gradients.6}",
           "type": "color"
         }
       }

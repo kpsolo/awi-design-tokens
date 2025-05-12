@@ -1644,6 +1644,20 @@
             "type": "color"
           }
         },
+        "text": {
+          "progress": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "done": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "activation": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
+        },
         "border": {
           "progress": {
             "value": "linear-gradient(180deg, rgba(235, 184, 73, 0.20) 0%, rgba(206, 97, 27, 0.20) 100%)",
@@ -1692,6 +1706,12 @@
         },
         "slate-on-card": {
           "value": "{core.white.a8}",
+          "type": "color"
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
           "type": "color"
         }
       }

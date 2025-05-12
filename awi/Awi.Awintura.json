@@ -3238,6 +3238,22 @@
           "type": "color"
         }
       },
+      "validation": {
+        "danger": {
+          "value": "{semantic.text.danger.static}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{semantic.text.success.static}",
+          "type": "color",
+          "description": "core.validation.success"
+        },
+        "warning": {
+          "value": "{semantic.text.warning.static}",
+          "type": "color",
+          "description": "core.validation.warning"
+        }
+      },
       "icon": {
         "1": {
           "value": "rgba(57, 38, 2, 0.30)",
@@ -5037,6 +5053,30 @@
       "danger": {
         "default": {
           "value": "{core.validation.danger.500}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{core.validation.success.500}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{core.validation.success.600}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{core.validation.warning.500}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{core.validation.warning.600}",
           "type": "color"
         }
       }

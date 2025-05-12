@@ -4475,7 +4475,7 @@
           "description": "Primary.emerald 500"
         },
         "600": {
-          "value": "{core.white.a0}",
+          "value": "#08C682",
           "type": "color",
           "description": "Primary.emerald 500"
         },
@@ -4527,12 +4527,12 @@
           "description": "Secondary.yellow 300"
         },
         "500": {
-          "value": "#FFFF00",
+          "value": "{core.brand-10.500}",
           "type": "color",
           "description": "Secondary.yellow 300"
         },
         "600": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-10.600}",
           "type": "color",
           "description": "Secondary.yellow 300"
         },

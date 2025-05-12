@@ -3150,6 +3150,10 @@
           "selected": {
             "value": "{core.brand-10.500}",
             "type": "color"
+          },
+          "selected-range": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
           }
         },
         "border": {

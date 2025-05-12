@@ -3955,6 +3955,42 @@
         "type": "color",
         "description": "Segment Control"
       }
+    },
+    "chips": {
+      "text": {
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Chips"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Chips"
+        },
+        "active": {
+          "value": "{semantic.background.brand.emphasizing.default.secondary}",
+          "type": "color",
+          "description": "Chips"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{contextual.popup.devider-2}",
+          "type": "color",
+          "description": "Chips"
+        },
+        "hover": {
+          "value": "{core.brand-30.a50}",
+          "type": "color",
+          "description": "Chips"
+        },
+        "active": {
+          "value": "{semantic.background.brand.emphasizing.default.secondary}",
+          "type": "color",
+          "description": "Chips"
+        }
+      }
     }
   },
   "scale-1": {

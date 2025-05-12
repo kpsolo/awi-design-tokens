@@ -1956,6 +1956,44 @@
         }
       }
     },
+    "chips": {
+      "popup": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{semantic.background.brand.emphasizing.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{contextual.popup.devider-2}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "rgba(229, 137, 0, 0.50)",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{semantic.background.brand.emphasizing.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          }
+        }
+      }
+    },
     "toast-notifications": {
       "fill": {
         "value": "{core.white.a100}",

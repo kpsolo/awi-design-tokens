@@ -1953,6 +1953,10 @@
         "fill": {
           "value": "rgba(9, 9, 113, 0.28)",
           "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
         }
       }
     },
@@ -3778,10 +3782,6 @@
       "header": {
         "fill": {
           "value": "{contextual.popup.additional-block.fill}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.brand-30.300}",
           "type": "color"
         }
       },

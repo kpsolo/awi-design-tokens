@@ -3196,6 +3196,10 @@
         "fill": {
           "value": "rgba(214, 157, 15, 0.32)",
           "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
         }
       },
       "slate": {

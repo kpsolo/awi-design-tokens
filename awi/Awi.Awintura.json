@@ -1702,6 +1702,10 @@
           "1": {
             "value": "{core.brand-30.a25}",
             "type": "color"
+          },
+          "2": {
+            "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 50%, rgba(255, 255, 255, 0.00) 100%)",
+            "type": "color"
           }
         },
         "slate-on-card": {

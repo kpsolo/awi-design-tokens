@@ -3761,14 +3761,6 @@
           "type": "color"
         }
       },
-      "text": {
-        "default": {
-          "primary": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
-          }
-        }
-      },
       "nav-item": {
         "fill": {
           "active": {
@@ -3808,6 +3800,34 @@
       "mob": {
         "bg": {
           "value": "linear-gradient(171deg, #252339 7%, #0F0C33 61%)",
+          "type": "color"
+        }
+      },
+      "status": {
+        "fill": {
+          "success": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          },
+          "pending": {
+            "value": "{core.validation.warning.700}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{core.validation.warning.600}",
+            "type": "color"
+          },
+          "declined": {
+            "value": "{core.additionals.silver}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -4624,9 +4644,8 @@
           "description": "Secondary.yellow 300"
         },
         "700": {
-          "value": "{core.white.a0}",
-          "type": "color",
-          "description": "Secondary.yellow 300"
+          "value": "#A1A10F",
+          "type": "color"
         },
         "800": {
           "value": "{core.white.a0}",
@@ -4713,7 +4732,7 @@
         "type": "color"
       },
       "a25": {
-        "value": "rgba(254, 182, 0, 0.25)",
+        "value": "rgba(255, 255, 0, 0.25)",
         "type": "color"
       }
     },
@@ -6128,6 +6147,19 @@
       "gap-text": {
         "value": "{spacing.400}",
         "type": "spacing"
+      }
+    }
+  },
+  "profile": {
+    "verification": {
+      "item": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{xs}"
+        },
+        "type": "typography"
       }
     }
   }

@@ -1821,6 +1821,34 @@
           "type": "color"
         }
       },
+      "status": {
+        "fill": {
+          "success": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.red.500}",
+            "type": "color"
+          },
+          "pending": {
+            "value": "{core.validation.warning.600}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "declined": {
+            "value": "{core.additionals.silver}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
       "nav-item": {
         "fill": {
           "active": {
@@ -3513,21 +3541,21 @@
           "number": {
             "text": {
               "active": {
-                "value": "{core.brand-60.800}",
+                "value": "{core.brand-60.900}",
                 "type": "color"
               },
               "default": {
-                "value": "{core.brand-60.800}",
+                "value": "{core.brand-30.300}",
                 "type": "color"
               }
             },
             "fill": {
               "active": {
-                "value": "{core.brand-60.a20}",
+                "value": "{core.brand-10.600}",
                 "type": "color"
               },
               "default": {
-                "value": "{core.brand-60.a20}",
+                "value": "{core.brand-30.a15}",
                 "type": "color"
               }
             }
@@ -5934,6 +5962,19 @@
           "value": "{text.sm-strong}",
           "type": "typography"
         }
+      }
+    }
+  },
+  "profile": {
+    "verification": {
+      "item": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
       }
     }
   },

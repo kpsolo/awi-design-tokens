@@ -3530,6 +3530,10 @@
             "active": {
               "value": "{core.brand-10.600}",
               "type": "color"
+            },
+            "disabled": {
+              "value": "{core.brand-60.a30}",
+              "type": "color"
             }
           },
           "line": {
@@ -3541,21 +3545,29 @@
           "number": {
             "text": {
               "active": {
-                "value": "{core.brand-60.900}",
+                "value": "{core.brand-60.800}",
                 "type": "color"
               },
               "default": {
-                "value": "{core.brand-30.300}",
+                "value": "{core.brand-60.800}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.a30}",
                 "type": "color"
               }
             },
             "fill": {
               "active": {
-                "value": "{core.brand-10.600}",
+                "value": "{core.brand-60.a20}",
                 "type": "color"
               },
               "default": {
-                "value": "{core.brand-30.a15}",
+                "value": "{core.brand-60.a20}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.a20}",
                 "type": "color"
               }
             }

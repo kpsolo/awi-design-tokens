@@ -467,12 +467,6 @@
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
       }
-    },
-    "profile": {
-      "status": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      }
     }
   },
   "border": {
@@ -3904,28 +3898,6 @@
         "text": {
           "value": "{core.white.a100}",
           "type": "color"
-        },
-        "border": {
-          "success": {
-            "value": "rgba(2, 218, 141, 0.32)",
-            "type": "color"
-          },
-          "error": {
-            "value": "rgba(253, 51, 124, 0.32)",
-            "type": "color"
-          },
-          "pending": {
-            "value": "rgba(161, 161, 15, 0.32)",
-            "type": "color"
-          },
-          "on-review": {
-            "value": "rgba(194, 204, 54, 0.32)",
-            "type": "color"
-          },
-          "declined": {
-            "value": "rgba(187, 194, 213, 0.32)",
-            "type": "color"
-          }
         }
       }
     },
@@ -6254,23 +6226,9 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.strong}",
           "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
+          "lineHeight": "{xs}"
         },
         "type": "typography"
-      }
-    },
-    "status": {
-      "padding-right": {
-        "md": {
-          "value": "{spacing.400}",
-          "type": "spacing"
-        }
-      },
-      "padding-left": {
-        "md": {
-          "value": "{spacing.300}",
-          "type": "spacing"
-        }
       }
     }
   }

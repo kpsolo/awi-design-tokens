@@ -1876,6 +1876,28 @@
         "text": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "border": {
+          "success": {
+            "value": "rgba(8, 198, 130, 0.32)",
+            "type": "color"
+          },
+          "error": {
+            "value": "rgba(254, 76, 37, 0.32)",
+            "type": "color"
+          },
+          "pending": {
+            "value": "rgba(229, 137, 0, 0.32)",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "rgba(254, 182, 0, 0.32)",
+            "type": "color"
+          },
+          "declined": {
+            "value": "rgba(164, 174, 200, 0.32)",
+            "type": "color"
+          }
         }
       },
       "nav-item": {

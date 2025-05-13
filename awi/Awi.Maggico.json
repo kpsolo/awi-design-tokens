@@ -467,6 +467,12 @@
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
       }
+    },
+    "profile": {
+      "status": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -6226,9 +6232,23 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.strong}",
           "fontSize": "{scale-5}",
-          "lineHeight": "{xs}"
+          "lineHeight": "{lg}"
         },
         "type": "typography"
+      }
+    },
+    "status": {
+      "padding-right": {
+        "md": {
+          "value": "{spacing.400}",
+          "type": "spacing"
+        }
+      },
+      "padding-left": {
+        "md": {
+          "value": "{spacing.300}",
+          "type": "spacing"
+        }
       }
     }
   }

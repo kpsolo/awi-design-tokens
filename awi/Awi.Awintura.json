@@ -293,6 +293,12 @@
         }
       }
     },
+    "profile": {
+      "status": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
+    },
     "segment-control": {
       "item": {
         "value": "{border-radius.core.300}",
@@ -5806,6 +5812,33 @@
       }
     }
   },
+  "profile": {
+    "status": {
+      "padding-right": {
+        "md": {
+          "value": "{spacing.400}",
+          "type": "spacing"
+        }
+      },
+      "padding-left": {
+        "md": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        }
+      }
+    },
+    "verification": {
+      "item": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "tag": {
     "gap": {
       "value": "{spacing.100}",
@@ -5997,19 +6030,6 @@
           "value": "{text.sm-strong}",
           "type": "typography"
         }
-      }
-    }
-  },
-  "profile": {
-    "verification": {
-      "item": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
-        },
-        "type": "typography"
       }
     }
   },

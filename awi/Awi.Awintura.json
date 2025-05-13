@@ -721,6 +721,16 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "welcome-bonus": {
+      "progress": {
+        "value": {
+          "color": "{contextual.menu.quick-pay.devider}",
+          "width": "{depth.025}",
+          "style": "dashed"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -1453,6 +1463,19 @@
             "type": "dropShadow"
           }
         ],
+        "type": "boxShadow"
+      }
+    },
+    "welcome-bonus": {
+      "progress": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       }
     }

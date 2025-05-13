@@ -780,6 +780,16 @@
         }
       }
     },
+    "welcome-bonus": {
+      "progress": {
+        "value": {
+          "color": "rgba(158, 0, 255, 0.20)",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
     "toast": {
       "success": {
         "value": {
@@ -1170,6 +1180,53 @@
             "blur": "{blur.200}",
             "spread": "{depth.0}",
             "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
+    "welcome-bonus": {
+      "progress": {
+        "value": [
+          {
+            "x": "-0.2",
+            "y": "-0.4",
+            "blur": "0.2",
+            "spread": "0",
+            "color": "{core.white.a100}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "-0.2",
+            "y": "0.4",
+            "blur": "0.2",
+            "spread": "0",
+            "color": "{core.white.a100}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "10",
+            "blur": "13",
+            "spread": "0",
+            "color": "rgba(205, 7, 254, 0.70)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "12",
+            "blur": "12",
+            "spread": "0",
+            "color": "rgba(7, 1, 45, 0.80)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba(7, 0, 21, 0.70)",
             "type": "dropShadow"
           }
         ],

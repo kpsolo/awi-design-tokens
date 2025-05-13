@@ -3482,7 +3482,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.brand-30.300}",
               "type": "color"
             },
             "disabled": {
@@ -3496,7 +3496,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.a15}",
               "type": "color"
             },
             "disabled": {

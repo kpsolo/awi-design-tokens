@@ -2953,7 +2953,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.grey.100}",
               "type": "color"
             },
             "disabled": {

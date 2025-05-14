@@ -1941,6 +1941,16 @@
         }
       }
     },
+    "table": {
+      "fill": {
+        "value": "{core.brand-30.a15}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{core.brand-30.a25}",
+        "type": "color"
+      }
+    },
     "bullet": {
       "fill": {
         "default": {

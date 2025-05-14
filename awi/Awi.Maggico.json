@@ -4110,6 +4110,16 @@
           }
         }
       }
+    },
+    "table": {
+      "fill": {
+        "value": "{core.white.a8}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{semantic.background.slate-4}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

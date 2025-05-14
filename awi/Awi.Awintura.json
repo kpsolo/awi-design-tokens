@@ -311,6 +311,12 @@
           "type": "borderRadius"
         }
       }
+    },
+    "profile": {
+      "status": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -1868,8 +1874,20 @@
           }
         },
         "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        },
+        "md": {
+          "padding-left": {
+            "value": "{spacing.200}",
+            "type": "spacing"
+          }
         },
         "border": {
           "success": {

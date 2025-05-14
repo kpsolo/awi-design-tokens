@@ -461,6 +461,12 @@
         "type": "borderRadius"
       }
     },
+    "profile": {
+      "status": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
+    },
     "segment-control": {
       "item": {
         "value": "{border-radius.core.full}",
@@ -3896,8 +3902,14 @@
           }
         },
         "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
         },
         "border": {
           "success": {
@@ -3919,6 +3931,12 @@
           "declined": {
             "value": "rgba(187, 194, 213, 0.32)",
             "type": "color"
+          }
+        },
+        "md": {
+          "padding-left": {
+            "value": "{spacing.300}",
+            "type": "spacing"
           }
         }
       }

@@ -6276,7 +6276,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.strong}",
           "fontSize": "{scale-5}",
-          "lineHeight": "{xs}"
+          "lineHeight": "{lg}"
         },
         "type": "typography"
       }

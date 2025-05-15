@@ -3065,7 +3065,11 @@
             "value": "{core.brand-30.200}",
             "type": "color"
           },
-          "hover-active": {
+          "hover": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "active": {
             "value": "{core.brand-10.500}",
             "type": "color"
           }
@@ -3077,12 +3081,6 @@
           },
           "text": {
             "value": "{core.brand-60.900}",
-            "type": "color"
-          }
-        },
-        "fill": {
-          "active": {
-            "value": "{core.white.a5}",
             "type": "color"
           }
         },
@@ -3099,6 +3097,20 @@
         "icon-left": {
           "value": "{core.brand-30.200}",
           "type": "color"
+        },
+        "elipse": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(90deg, #554C3E 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "linear-gradient(90deg, #554C3E 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "type": "color"
+          }
         }
       },
       "balance-number": {

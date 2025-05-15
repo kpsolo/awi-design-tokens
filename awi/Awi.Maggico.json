@@ -2667,8 +2667,12 @@
             "value": "{core.brand-30.50}",
             "type": "color"
           },
-          "hover-active": {
+          "active": {
             "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.50}",
             "type": "color"
           }
         },
@@ -2686,12 +2690,6 @@
             "type": "color"
           }
         },
-        "fill": {
-          "active": {
-            "value": "{core.white.a5}",
-            "type": "color"
-          }
-        },
         "new": {
           "fill": {
             "value": "{semantic.gradients.6}",
@@ -2699,6 +2697,20 @@
           },
           "text": {
             "value": "{core.white.a100}",
+            "type": "color"
+          }
+        },
+        "elipse": {
+          "default": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
         }

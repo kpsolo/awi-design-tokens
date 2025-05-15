@@ -1819,7 +1819,7 @@
     },
     "stepper": {
       "fill": {
-        "value": "{core.brand-30.a25}",
+        "value": "{core.white.a8}",
         "type": "color"
       },
       "step": {

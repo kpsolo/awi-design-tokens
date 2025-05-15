@@ -4016,6 +4016,14 @@
           "progress": {
             "value": "{core.brand-30.a25}",
             "type": "color"
+          },
+          "done": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
+          },
+          "activation": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
           }
         },
         "text": {

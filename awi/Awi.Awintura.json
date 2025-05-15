@@ -1691,6 +1691,14 @@
           "progress": {
             "value": "linear-gradient(180deg, rgba(235, 184, 73, 0.20) 0%, rgba(206, 97, 27, 0.20) 100%)",
             "type": "color"
+          },
+          "done": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
+          },
+          "activation": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
           }
         }
       },

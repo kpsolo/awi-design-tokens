@@ -4160,6 +4160,16 @@
         "value": "{semantic.background.slate-4}",
         "type": "color"
       }
+    },
+    "stepper": {
+      "fill": {
+        "value": "{core.white.a25}",
+        "type": "color"
+      },
+      "step": {
+        "value": "{core.brand-30.500}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

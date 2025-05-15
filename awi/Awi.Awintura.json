@@ -1817,6 +1817,16 @@
         "type": "color"
       }
     },
+    "stepper": {
+      "fill": {
+        "value": "{core.brand-30.a25}",
+        "type": "color"
+      },
+      "step": {
+        "value": "{core.brand-10.500}",
+        "type": "color"
+      }
+    },
     "profile": {
       "notification": {
         "fill": {

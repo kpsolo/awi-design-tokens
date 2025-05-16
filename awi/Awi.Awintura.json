@@ -3135,6 +3135,10 @@
           "divider": {
             "value": "linear-gradient(90deg, #342A1A 12.87%, #5E5547 49.23%, #342A1A 86.59%)",
             "type": "color"
+          },
+          "elipse": {
+            "value": "linear-gradient(90deg, rgba(85, 76, 62, 0.60) 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "type": "color"
           }
         },
         "elipse": {

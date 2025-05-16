@@ -3095,6 +3095,10 @@
           "active": {
             "value": "{core.brand-10.500}",
             "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
           }
         },
         "new": {
@@ -3152,6 +3156,12 @@
           },
           "active": {
             "value": "linear-gradient(90deg, #554C3E 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "active": {
+            "value": "{core.white.a5}",
             "type": "color"
           }
         }

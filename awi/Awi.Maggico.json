@@ -2686,8 +2686,18 @@
             "value": "{core.brand-30.500}",
             "type": "color"
           },
+          "hover-active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
           "hover": {
             "value": "{core.brand-30.50}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "active": {
+            "value": "{core.white.a5}",
             "type": "color"
           }
         },

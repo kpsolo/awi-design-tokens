@@ -2870,6 +2870,10 @@
             "type": "color"
           }
         }
+      },
+      "fill-v2": {
+        "value": "{core.brand-60.900}",
+        "type": "color"
       }
     },
     "notifications": {

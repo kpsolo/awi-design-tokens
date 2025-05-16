@@ -3078,6 +3078,18 @@
           "type": "color"
         }
       },
+      "extender": {
+        "elipce": {
+          "default": {
+            "value": "{core.brand-10.a40}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
+      },
       "devider": {
         "value": "{core.brand-60.a25}",
         "type": "color"

@@ -2858,6 +2858,18 @@
       "icon": {
         "value": "{core.brand-30.50}",
         "type": "color"
+      },
+      "extender": {
+        "elipce": {
+          "default": {
+            "value": "rgba(134, 81, 240, 0.40)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "rgba(134, 81, 240, 0.80)",
+            "type": "color"
+          }
+        }
       }
     },
     "notifications": {

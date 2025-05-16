@@ -5777,7 +5777,7 @@
     },
     "general": {
       "padding-top": {
-        "value": "{blur.100}",
+        "value": "3px",
         "type": "spacing"
       }
     }

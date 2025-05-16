@@ -1093,6 +1093,21 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "item": {
+        "text": {
+          "prime": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.50}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "rgba(7, 7, 3, 0.50)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
       }
     },
     "profile": {
@@ -3106,6 +3121,22 @@
           "value": "{core.brand-30.200}",
           "type": "color"
         },
+        "prime": {
+          "border": {
+            "default": {
+              "value": "linear-gradient(90deg, #19140C 0%, #5E5547 100%)",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.gradients.4}",
+              "type": "color"
+            }
+          },
+          "divider": {
+            "value": "linear-gradient(90deg, #342A1A 12.87%, #5E5547 49.23%, #342A1A 86.59%)",
+            "type": "color"
+          }
+        },
         "elipse": {
           "default": {
             "value": "{core.white.a0}",
@@ -4820,7 +4851,7 @@
         "description": "Primary.Amber 800"
       },
       "800": {
-        "value": "#59492A",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "900": {
@@ -5005,6 +5036,11 @@
         "value": "#060423",
         "type": "color",
         "description": "gradient.Black 600"
+      },
+      "5": {
+        "value": "#231C12",
+        "type": "color",
+        "description": "menu"
       },
       "slate-1": {
         "value": "{core.white.a100}",

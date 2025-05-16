@@ -1270,6 +1270,21 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "item": {
+        "text": {
+          "prime": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.50}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "rgba(7, 7, 3, 0.50)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
       }
     },
     "popup": {
@@ -2711,6 +2726,24 @@
           },
           "active": {
             "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        },
+        "prime": {
+          "fill": {
+            "default": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "active": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          },
+          "divider": {
+            "value": "linear-gradient(90deg, #342A1A 12.87%, #5E5547 49.23%, #342A1A 86.59%)",
             "type": "color"
           }
         }
@@ -5033,6 +5066,11 @@
         "value": "{core.white.a0}",
         "type": "color",
         "description": "gradient.Black 600"
+      },
+      "5": {
+        "value": "#060423",
+        "type": "color",
+        "description": "menu"
       },
       "brand": {
         "primary": {

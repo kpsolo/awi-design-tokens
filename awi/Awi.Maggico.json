@@ -387,6 +387,12 @@
         "type": "borderRadius"
       }
     },
+    "loyalty": {
+      "chips": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
+    },
     "popup": {
       "mobile": {
         "top-left": {
@@ -4252,6 +4258,34 @@
       "step": {
         "value": "{core.brand-30.500}",
         "type": "color"
+      }
+    },
+    "loyalty": {
+      "chip": {
+        "border": {
+          "value": "{core.grey.400}",
+          "type": "color"
+        }
+      },
+      "points": {
+        "default": {
+          "border": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        }
+      },
+      "route": {
+        "line": {
+          "filled": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "not-filled": {
+            "value": "rgba(229, 137, 0, 0.30)",
+            "type": "color"
+          }
+        }
       }
     }
   },

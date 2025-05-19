@@ -743,6 +743,14 @@
         },
         "type": "border"
       }
+    },
+    "devider3": {
+      "value": {
+        "color": "{core.brand-60.a10}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {
@@ -4608,6 +4616,10 @@
         "value": "rgba(89, 59, 3, 0.20)",
         "type": "color"
       },
+      "a10": {
+        "value": "rgba(89, 59, 3, 0.10)",
+        "type": "color"
+      },
       "a40": {
         "value": "rgba(230, 220, 200, 0.40)",
         "type": "color"
@@ -5315,7 +5327,7 @@
           "type": "color"
         },
         "on-brand-tertiary": {
-          "value": "{semantic.background.2}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         }
       },

@@ -2604,6 +2604,10 @@
             "value": "{core.brand-30.a15}",
             "type": "color"
           },
+          "fill-v2": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
           "border": {
             "default": {
               "value": "{core.brand-30.a25}",

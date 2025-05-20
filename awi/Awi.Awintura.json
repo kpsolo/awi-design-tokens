@@ -2547,6 +2547,10 @@
               "value": "{core.brand-10.500}",
               "type": "color"
             }
+          },
+          "fill-v2": {
+            "value": "{semantic.background.5}",
+            "type": "color"
           }
         }
       },

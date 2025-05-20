@@ -6196,6 +6196,12 @@
         "value": "{size.800}",
         "type": "sizing"
       }
+    },
+    "loyalty": {
+      "map": {
+        "value": "1817px",
+        "type": "sizing"
+      }
     }
   },
   "content": {

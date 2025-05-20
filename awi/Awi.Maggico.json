@@ -393,6 +393,24 @@
         "type": "borderRadius"
       }
     },
+    "menu": {
+      "list-prime": {
+        "small": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      },
+      "item": {
+        "new": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      }
+    },
     "popup": {
       "mobile": {
         "top-left": {
@@ -439,14 +457,6 @@
       "general": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
-      }
-    },
-    "menu": {
-      "item": {
-        "new": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        }
       }
     },
     "homepage": {
@@ -2697,7 +2707,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "hover-active": {
@@ -2741,15 +2751,15 @@
         },
         "elipse": {
           "default": {
-            "value": "{core.brand-30.200}",
+            "value": "linear-gradient(90deg, rgba(156, 110, 247, 0.45) 34.83%, rgba(156, 110, 247, 0.00) 73.97%)",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.200}",
+            "value": "linear-gradient(90deg, rgba(156, 110, 247, 0.45) 34.83%, rgba(156, 110, 247, 0.00) 73.97%)",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "linear-gradient(90deg, rgba(151, 17, 215, 0.56) 34.83%, rgba(151, 17, 215, 0.00) 81.2%)",
             "type": "color"
           }
         },
@@ -2762,12 +2772,16 @@
           },
           "border": {
             "active": {
-              "value": "{core.brand-30.200}",
+              "value": "{semantic.border.active.element}",
+              "type": "color"
+            },
+            "default": {
+              "value": "linear-gradient(90deg, #160F30 0%, #643693 100%)",
               "type": "color"
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, #342A1A 12.87%, #5E5547 49.23%, #342A1A 86.59%)",
+            "value": "linear-gradient(90deg, rgba(176, 69, 228, 0.00) 14.92%, #B045E4 48.55%, rgba(176, 69, 228, 0.00) 82.17%)",
             "type": "color"
           },
           "elipse": {

@@ -291,6 +291,16 @@
           "value": "{border-radius.core.100}",
           "type": "borderRadius"
         }
+      },
+      "list-prime": {
+        "small": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius"
+        }
       }
     },
     "segment-control": {

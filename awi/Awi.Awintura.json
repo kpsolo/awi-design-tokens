@@ -2910,6 +2910,16 @@
         "value": "linear-gradient(259deg, #A97742 1.55%, #60492C 65.01%)",
         "type": "color"
       },
+      "progressbar": {
+        "fill": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        }
+      },
       "border": {
         "default": {
           "value": "{core.white.a0}",

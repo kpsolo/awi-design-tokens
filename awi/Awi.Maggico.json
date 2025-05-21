@@ -2768,12 +2768,6 @@
           }
         },
         "prime": {
-          "fill": {
-            "default": {
-              "value": "{core.brand-30.200}",
-              "type": "color"
-            }
-          },
           "border": {
             "active": {
               "value": "{semantic.border.active.element}",

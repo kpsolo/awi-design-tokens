@@ -4320,7 +4320,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "linear-gradient(259deg, #A97742 1.55%, #60492C 65.01%)",
+        "value": "{semantic.gradients.7}",
         "type": "color"
       },
       "border": {
@@ -4329,7 +4329,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, rgba(232, 177, 82, 0.43) 56%, #F59300 100%)",
+          "value": "{semantic.gradients.5}",
           "type": "color"
         }
       },

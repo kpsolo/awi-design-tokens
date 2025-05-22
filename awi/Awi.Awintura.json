@@ -1523,13 +1523,6 @@
         },
         "type": "boxShadow"
       }
-    },
-    "tabs": {
-      "popup": {
-        "value": "{shadow.drop.medium}",
-        "type": "boxShadow",
-        "description": "contextual.tabs.lottery-tournament.item"
-      }
     }
   },
   "contextual": {
@@ -1698,6 +1691,28 @@
           },
           "disabled": {
             "value": "{semantic.border.brand.secondary.disabled}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "404-500-403": {
+      "background-gradient-top": {
+        "value": "linear-gradient(180deg, rgba(204, 147, 0, 0.12) 0%, rgba(21, 21, 16, 0.20) 46.34%, rgba(24, 17, 10, 0.20) 46.34%)",
+        "type": "color"
+      },
+      "background-gradient-top-bottom": {
+        "value": "rgba(255, 255, 255, 0.00)",
+        "type": "color"
+      },
+      "text": {
+        "accent": {
+          "fill": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a15}",
             "type": "color"
           }
         }
@@ -2912,32 +2927,6 @@
         }
       }
     },
-    "bonuses": {
-      "fill": {
-        "value": "linear-gradient(259deg, #A97742 1.55%, #60492C 65.01%)",
-        "type": "color"
-      },
-      "progressbar": {
-        "fill": {
-          "value": "{core.white.a20}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.white.a20}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "linear-gradient(319deg, rgba(232, 177, 82, 0.43) 56%, #F59300 100%)",
-          "type": "color"
-        }
-      }
-    },
     "homepage": {
       "nav-menu": {
         "fill": {
@@ -3372,27 +3361,17 @@
           "type": "color"
         },
         "icon": {
-          "value": "{core.validation.success.500}",
+          "value": "{core.validation.success.a20}",
           "type": "color"
         }
       },
       "error": {
         "icon": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.a20}",
           "type": "color"
         },
         "fill": {
           "value": "linear-gradient(180deg, rgba(254, 76, 37, 0.12) 0%, rgba(254, 76, 37, 0.00) 100%)",
-          "type": "color"
-        }
-      },
-      "warning": {
-        "fill": {
-          "value": "linear-gradient(180deg, rgba(229, 137, 0, 0.12) 0%, rgba(229, 137, 0, 0.00) 100%)",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.validation.warning.600}",
           "type": "color"
         }
       }
@@ -5104,7 +5083,7 @@
         "description": "gradient. yellow 500"
       },
       "4": {
-        "value": "linear-gradient(130deg, #FFCA2B 0%, #CC6F2D 100%)",
+        "value": "linear-gradient(130deg, #FFCA2B 0%, #CC6F2D 105.21%)",
         "type": "color",
         "description": "gradients.orange 500"
       },
@@ -5147,6 +5126,10 @@
         "value": "radial-gradient(50% 50% at 50% 50%, rgba(216, 155, 0, 0.40) 0%, rgba(204, 147, 0, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Radial"
+      },
+      "13": {
+        "value": "#151510",
+        "type": "color"
       }
     },
     "background": {

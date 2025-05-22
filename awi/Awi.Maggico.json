@@ -1396,6 +1396,20 @@
         }
       }
     },
+    "tabs": {
+      "popup": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "16px",
+          "spread": "0px",
+          "color": "rgba(156, 110, 247, 0.32)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "contextual.tabs.lottery-tournament.item"
+      }
+    },
     "homepage": {
       "nav-menu": {
         "value": [

@@ -4130,6 +4130,16 @@
         "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
         "type": "color"
       }
+    },
+    "404-500-403": {
+      "background-gradient-top": {
+        "value": "linear-gradient(180deg, rgba(204, 147, 0, 0.12) 0%, rgba(21, 21, 16, 0.20) 46.34%, rgba(24, 17, 10, 0.20) 46.34%)",
+        "type": "color"
+      },
+      "background-gradient-top-bottom": {
+        "value": "rgba(255, 255, 255, 0.00)",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
@@ -4487,6 +4497,43 @@
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
+    }
+  },
+  "404-500-403": {
+    "accent": {
+      "s": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Expanded}",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "m": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Expanded}",
+          "fontSize": "80px",
+          "lineHeight": "80px",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "l": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Expanded}",
+          "fontSize": "130px",
+          "lineHeight": "130px",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      }
     }
   },
   "Icon": {

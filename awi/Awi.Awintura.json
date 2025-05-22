@@ -1914,6 +1914,25 @@
           "type": "color"
         }
       },
+      "loyalty_points": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color",
+          "description": "contextual.profile.loyalty_points.fill"
+        },
+        "points": {
+          "slate-1": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          },
+          "slate-2": {
+            "value": "{core.brand-30.100}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          }
+        }
+      },
       "status": {
         "fill": {
           "success": {
@@ -6306,6 +6325,17 @@
           "lineHeight": "{lg}"
         },
         "type": "typography"
+      },
+      "loyalty_points": {
+        "sum": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "20px",
+            "lineHeight": "26px"
+          },
+          "type": "typography"
+        }
       }
     }
   },

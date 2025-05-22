@@ -4074,6 +4074,25 @@
             "type": "spacing"
           }
         }
+      },
+      "loyalty_points": {
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color",
+          "description": "contextual.profile.loyalty_points.fill"
+        },
+        "points": {
+          "slate-1": {
+            "value": "{contextual.popup.slate.1}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          },
+          "slate-2": {
+            "value": "{contextual.popup.slate.2}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          }
+        }
       }
     },
     "news": {
@@ -6501,6 +6520,17 @@
           "lineHeight": "{lg}"
         },
         "type": "typography"
+      },
+      "loyalty_points": {
+        "sum": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "20px",
+            "lineHeight": "26px"
+          },
+          "type": "typography"
+        }
       }
     }
   },

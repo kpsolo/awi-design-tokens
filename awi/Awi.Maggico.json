@@ -4083,7 +4083,7 @@
         },
         "points": {
           "slate-1": {
-            "value": "{contextual.popup.slate.1}",
+            "value": "{contextual.popup.fill}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           },

@@ -1526,14 +1526,7 @@
     },
     "tabs": {
       "popup": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.025}",
-          "blur": "1px",
-          "spread": "0px",
-          "color": "{core.white.a8}",
-          "type": "innerShadow"
-        },
+        "value": "{shadow.drop.medium}",
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }

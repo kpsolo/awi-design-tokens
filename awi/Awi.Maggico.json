@@ -4515,6 +4515,54 @@
       "type": "typography"
     }
   },
+  "404-500-403": {
+    "accent": {
+      "s": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "64px",
+          "letterSpacing": "0%",
+          "textCase": "{text-case.none}",
+          "fontSize": "56px"
+        },
+        "type": "typography"
+      },
+      "m": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "130px",
+          "letterSpacing": "0%",
+          "textCase": "{text-case.none}",
+          "fontSize": "120px"
+        },
+        "type": "typography"
+      },
+      "l": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "15.40px",
+          "letterSpacing": "0%",
+          "textCase": "{text-case.none}",
+          "fontSize": "170px"
+        },
+        "type": "typography"
+      },
+      "xl": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "25.40px",
+          "letterSpacing": "0%",
+          "textCase": "{text-case.none}",
+          "fontSize": "275px"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "core": {
     "grey": {
       "50": {

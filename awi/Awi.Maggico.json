@@ -6616,17 +6616,6 @@
         },
         "type": "typography"
       },
-      "m": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Bold}",
-          "fontSize": "80px",
-          "lineHeight": "80px",
-          "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}"
-        },
-        "type": "typography"
-      },
       "l": {
         "value": {
           "fontFamily": "{accent}",

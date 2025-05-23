@@ -4034,6 +4034,10 @@
           "declined": {
             "value": "{core.additionals.silver}",
             "type": "color"
+          },
+          "error-2": {
+            "value": "{core.red.600}",
+            "type": "color"
           }
         },
         "text": {

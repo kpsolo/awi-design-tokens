@@ -1943,6 +1943,10 @@
             "value": "{core.red.500}",
             "type": "color"
           },
+          "error-2": {
+            "value": "{core.red.600}",
+            "type": "color"
+          },
           "pending": {
             "value": "{core.validation.warning.600}",
             "type": "color"

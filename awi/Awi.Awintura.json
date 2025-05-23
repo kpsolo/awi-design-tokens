@@ -6124,7 +6124,7 @@
     },
     "padding-left": {
       "sm": {
-        "value": "{spacing.300}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "md": {

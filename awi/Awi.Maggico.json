@@ -1756,6 +1756,36 @@
             "description": "contextual.segment-control.item.fill.active"
           }
         }
+      },
+      "tabs": {
+        "item": {
+          "active": {
+            "fill": {
+              "active": {
+                "value": [
+                  {
+                    "x": "0px",
+                    "y": "2px",
+                    "blur": "6px",
+                    "spread": "0px",
+                    "color": "rgba(215, 197, 252, 0.15)",
+                    "type": "dropShadow"
+                  },
+                  {
+                    "x": "0px",
+                    "y": "1px",
+                    "blur": "0px",
+                    "spread": "0px",
+                    "color": "#ffffff4d",
+                    "type": "innerShadow"
+                  }
+                ],
+                "type": "boxShadow",
+                "description": "contextual.segment-control.item.fill.active"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -4277,6 +4307,41 @@
         "value": "{core.grey.700}",
         "type": "color",
         "description": "Segment Control"
+      },
+      "tabs": {
+        "popup": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{core.brand-60.400}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.default.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "{core.brand-60.600}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        }
       }
     },
     "chips": {

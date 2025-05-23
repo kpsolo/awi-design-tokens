@@ -1162,6 +1162,36 @@
             "description": "contextual.segment-control.item.fill.active"
           }
         }
+      },
+      "tabs": {
+        "item": {
+          "active": {
+            "fill": {
+              "active": {
+                "value": [
+                  {
+                    "x": "0px",
+                    "y": "2px",
+                    "blur": "6px",
+                    "spread": "0px",
+                    "color": "rgba(98, 73, 0, 0.10)",
+                    "type": "dropShadow"
+                  },
+                  {
+                    "x": "0px",
+                    "y": "1px",
+                    "blur": "0px",
+                    "spread": "0px",
+                    "color": "rgba(255, 255, 255, 0.30)",
+                    "type": "innerShadow"
+                  }
+                ],
+                "type": "boxShadow",
+                "description": "contextual.segment-control.item.fill.active"
+              }
+            }
+          }
+        }
       }
     },
     "popover": {
@@ -3565,6 +3595,41 @@
         "value": "{core.brand-60.300}",
         "type": "color",
         "description": "Segment Control"
+      },
+      "tabs": {
+        "popup": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.gradients.1}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.static.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.static.primary}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "{core.brand-30.100}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        }
       }
     },
     "popup": {

@@ -2071,7 +2071,7 @@
       },
       "icon": {
         "1": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         }
       },

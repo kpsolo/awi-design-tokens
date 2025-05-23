@@ -6124,7 +6124,7 @@
     },
     "padding-left": {
       "sm": {
-        "value": "{spacing.200}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "md": {
@@ -6138,7 +6138,7 @@
     },
     "gap": {
       "default": {
-        "value": "{spacing.200}",
+        "value": "6px",
         "type": "spacing"
       },
       "phone": {

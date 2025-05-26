@@ -4427,6 +4427,15 @@
       },
       "type": "typography"
     },
+    "lg-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
     "button-large": {
       "value": {
         "fontFamily": "{main}",

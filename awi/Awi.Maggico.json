@@ -940,6 +940,14 @@
           }
         }
       }
+    },
+    "text-devider": {
+      "value": {
+        "color": "{core.grey.50}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {

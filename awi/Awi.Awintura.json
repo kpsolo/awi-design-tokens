@@ -761,6 +761,14 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "text-devider": {
+      "value": {
+        "color": "{core.brand-60.800}",
+        "width": "{depth.025}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "shadow": {

@@ -4062,7 +4062,7 @@
             "type": "color"
           },
           "declined": {
-            "value": "{core.additionals.silver}",
+            "value": "{core.grey.300}",
             "type": "color"
           },
           "error-2": {

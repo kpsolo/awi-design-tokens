@@ -1969,12 +1969,12 @@
         }
       }
     },
-    "404-500-403": {
+    "error-pages": {
       "background-gradient-top": {
         "value": "rgba(255, 255, 255, 0.00)",
         "type": "color"
       },
-      "background-gradient-top-bottom": {
+      "background-gradient-bottom": {
         "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
         "type": "color"
       }
@@ -6612,7 +6612,7 @@
       }
     }
   },
-  "404-500-403": {
+  "error-pages": {
     "accent": {
       "s": {
         "value": {

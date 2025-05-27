@@ -1686,6 +1686,35 @@
             }
           ],
           "type": "boxShadow"
+        },
+        "small-light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(250, 236, 209, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(250, 236, 209, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       },
       "promo-code-button": {
@@ -3692,11 +3721,23 @@
             "active": {
               "value": "{semantic.text.brand.on-brand}",
               "type": "color"
+            },
+            "active-light": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
             }
+          },
+          "fill-light": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
           }
         },
         "text": {
           "date": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "date-light": {
             "value": "{core.grey.200}",
             "type": "color"
           }
@@ -5650,6 +5691,16 @@
       "emphasizing": {
         "default": {
           "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.secondary}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "default": {
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         },
         "hover": {

@@ -1509,6 +1509,35 @@
             }
           ],
           "type": "boxShadow"
+        },
+        "small-light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(250, 236, 209, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(250, 236, 209, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       },
       "promo-code-button": {
@@ -2958,9 +2987,17 @@
             "value": "{semantic.gradients.9}",
             "type": "color"
           },
+          "fill-light": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
           "text": {
             "active": {
               "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "active-light": {
+              "value": "{core.brand-60.800}",
               "type": "color"
             }
           }
@@ -2968,6 +3005,10 @@
         "text": {
           "date": {
             "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "date-light": {
+            "value": "{core.brand-30.300}",
             "type": "color"
           }
         }
@@ -5744,6 +5785,16 @@
         },
         "disabled": {
           "value": "{core.brand-60.500}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "default": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-10.600}",
           "type": "color"
         }
       },

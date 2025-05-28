@@ -2112,6 +2112,14 @@
           }
         }
       },
+      "level": {
+        "text": {
+          "accent": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          }
+        }
+      },
       "route": {
         "line": {
           "filled": {

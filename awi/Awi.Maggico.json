@@ -4486,6 +4486,14 @@
             "type": "color"
           }
         }
+      },
+      "level": {
+        "text": {
+          "accent": {
+            "value": "{core.red.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "bonuses": {

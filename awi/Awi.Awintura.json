@@ -2115,7 +2115,7 @@
       "route": {
         "line": {
           "filled": {
-            "value": "rgba(229, 137, 0, 0.30)",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "not-filled": {

@@ -420,6 +420,13 @@
         }
       }
     },
+    "lootboxes": {
+      "coefficient": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius",
+        "description": "contextual.lootboxes.coefficient"
+      }
+    },
     "popup": {
       "mobile": {
         "top-left": {
@@ -4521,6 +4528,95 @@
           "type": "color"
         }
       }
+    },
+    "lootboxes": {
+      "coefficient": {
+        "fill": {
+          "normal": {
+            "value": "{semantic.gradients.7}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{semantic.gradients.7}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{semantic.gradients.7}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "border": {
+          "normal": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "fill-2": {
+          "normal": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "linear-gradient(180deg, rgba(255, 255, 0, 0.00) 73%, rgba(255, 255, 0, 0.10) 81%, rgba(255, 255, 0, 0.20) 89%, rgba(255, 255, 0, 0.50) 100%)",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "border-2": {
+          "normal": {
+            "value": "{core.white.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "text": {
+          "normal": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        }
+      }
     }
   },
   "scale-1": {
@@ -6458,6 +6554,25 @@
           "letterSpacing": "0%"
         },
         "type": "typography"
+      }
+    }
+  },
+  "lootboxes": {
+    "coefficient": {
+      "normal": {
+        "value": "{text.md-strong}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "hover": {
+        "value": "{text.md-strong}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "active": {
+        "value": "{text.md-strong}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
       }
     }
   },

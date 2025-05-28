@@ -333,6 +333,13 @@
         "value": "{border-radius.core.100}",
         "type": "borderRadius"
       }
+    },
+    "lootboxes": {
+      "coefficient": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius",
+        "description": "contextual.lootboxes.coefficient"
+      }
     }
   },
   "border": {
@@ -1926,6 +1933,95 @@
       "devider": {
         "value": "rgba(57, 38, 2, 0.10)",
         "type": "color"
+      }
+    },
+    "lootboxes": {
+      "coefficient": {
+        "fill": {
+          "normal": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{semantic.gradients.3}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "border": {
+          "normal": {
+            "value": "{core.brand-30.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.brand-30.a50}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "fill-2": {
+          "normal": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "border-2": {
+          "normal": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "text": {
+          "normal": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        }
       }
     },
     "pregame": {
@@ -6634,6 +6730,25 @@
       "padding-right": {
         "value": "{spacing.300}",
         "type": "spacing"
+      }
+    }
+  },
+  "lootboxes": {
+    "coefficient": {
+      "normal": {
+        "value": "{text.md}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "hover": {
+        "value": "{text.md-stronger}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
+      },
+      "active": {
+        "value": "{text.md-stronger}",
+        "type": "typography",
+        "description": "contextual.lootboxes.coefficient"
       }
     }
   }

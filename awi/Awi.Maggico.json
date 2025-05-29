@@ -4856,7 +4856,7 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Semibold}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",

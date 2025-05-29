@@ -2138,6 +2138,10 @@
         "tertiary": {
           "value": "{semantic.text.default.tertiary}",
           "type": "color"
+        },
+        "accent-2": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
         }
       },
       "overlay": {
@@ -4700,6 +4704,17 @@
             },
             "active": {
               "value": "{semantic.text.default.heading}",
+              "type": "color",
+              "description": "Lootboxes"
+            }
+          }
+        }
+      },
+      "popup": {
+        "prize": {
+          "item": {
+            "text": {
+              "value": "{core.brand-30.200}",
               "type": "color",
               "description": "Lootboxes"
             }

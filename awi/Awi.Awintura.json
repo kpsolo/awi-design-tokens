@@ -2111,6 +2111,17 @@
             }
           }
         }
+      },
+      "popup": {
+        "prize": {
+          "item": {
+            "text": {
+              "value": "{contextual.popup.text.heading}",
+              "type": "color",
+              "description": "Lootboxes"
+            }
+          }
+        }
       }
     },
     "pregame": {
@@ -3921,6 +3932,10 @@
           "type": "color"
         },
         "accent": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        },
+        "accent-2": {
           "value": "{core.brand-10.600}",
           "type": "color"
         }

@@ -1840,6 +1840,47 @@
           }
         }
       }
+    },
+    "strip": {
+      "card": {
+        "active": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "16px",
+              "spread": "0px",
+              "color": "#6249001a",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "9px",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -4736,6 +4777,34 @@
       "block": {
         "line": {
           "value": "linear-gradient(92deg, #FCFF71 2%, rgba(252, 255, 113, 0) 98%)",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      }
+    },
+    "strip": {
+      "progress": {
+        "fill": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "step": {
+          "value": "{core.validation.danger.500}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      },
+      "header": {
+        "overlay": {
+          "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      },
+      "card": {
+        "border": {
+          "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
           "description": "Lootboxes"
         }

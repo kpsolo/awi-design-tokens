@@ -2122,6 +2122,18 @@
             }
           }
         }
+      },
+      "label": {
+        "text": {
+          "value": "#FFFF00",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "rgba(255, 255, 0, 0.10)",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     },
     "pregame": {

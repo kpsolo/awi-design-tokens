@@ -4720,6 +4720,18 @@
             }
           }
         }
+      },
+      "label": {
+        "text": {
+          "value": "{core.brand-10.500}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.brand-10.a10}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     }
   },

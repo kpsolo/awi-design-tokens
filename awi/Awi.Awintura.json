@@ -2134,6 +2134,13 @@
           "type": "color",
           "description": "Lootboxes"
         }
+      },
+      "block": {
+        "line": {
+          "value": "linear-gradient(92deg, #FCFF71 2%, rgba(252, 255, 113, 0) 98%)",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     },
     "pregame": {

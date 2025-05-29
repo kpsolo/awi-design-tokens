@@ -2187,7 +2187,7 @@
     "strip": {
       "progress": {
         "fill": {
-          "value": "{core.validation.danger.500}",
+          "value": "rgba(254, 76, 37, 0.40)",
           "type": "color",
           "description": "Lootboxes"
         },

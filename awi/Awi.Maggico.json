@@ -4785,7 +4785,7 @@
     "strip": {
       "progress": {
         "fill": {
-          "value": "{core.white.a0}",
+          "value": "rgba(253, 51, 124, 0.40)",
           "type": "color",
           "description": "Lootboxes"
         },

@@ -1848,34 +1848,26 @@
             {
               "x": "0px",
               "y": "0px",
-              "blur": "16px",
+              "blur": "9px",
               "spread": "0px",
-              "color": "#6249001a",
-              "type": "dropShadow"
+              "color": "rgba(253, 51, 124, 0.40)",
+              "type": "innerShadow"
             },
             {
               "x": "0",
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "#000000",
+              "color": "rgba(253, 51, 124, 0.40)",
               "type": "innerShadow"
             },
             {
               "x": "0",
               "y": "0",
-              "blur": "9px",
+              "blur": "16px",
               "spread": "0",
-              "color": "#000000",
-              "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "2px",
-              "blur": "6px",
-              "spread": "0",
-              "color": "#000000",
-              "type": "innerShadow"
+              "color": "rgba(253, 51, 124, 0.60)",
+              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"

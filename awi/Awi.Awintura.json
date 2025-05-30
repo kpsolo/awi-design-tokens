@@ -2222,6 +2222,24 @@
         "type": "color"
       }
     },
+    "cashbox": {
+      "bonus": {
+        "fill": {
+          "value": "{semantic.gradients.8}",
+          "type": "color"
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "stepper": {
       "fill": {
         "value": "{core.white.a8}",

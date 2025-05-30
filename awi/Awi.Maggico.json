@@ -4801,6 +4801,24 @@
           "description": "Lootboxes"
         }
       }
+    },
+    "cashbox": {
+      "bonus": {
+        "fill": {
+          "value": "#352A78",
+          "type": "color"
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

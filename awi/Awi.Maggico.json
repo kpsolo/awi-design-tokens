@@ -2909,7 +2909,7 @@
         },
         "elipse": {
           "default": {
-            "value": "linear-gradient(90deg, rgba(156, 110, 247, 0.45) 34.83%, rgba(156, 110, 247, 0.00) 73.97%)",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {

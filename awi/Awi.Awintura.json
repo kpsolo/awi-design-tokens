@@ -1882,7 +1882,7 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.brand-10.800}",
+            "value": "#59492A",
             "type": "color"
           },
           "inactive": {

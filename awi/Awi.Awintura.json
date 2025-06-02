@@ -2409,7 +2409,13 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "fill": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

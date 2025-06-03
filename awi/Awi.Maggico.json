@@ -5736,6 +5736,10 @@
         "type": "color",
         "description": "menu"
       },
+      "6": {
+        "value": "{core.grey.900}",
+        "type": "color"
+      },
       "brand": {
         "primary": {
           "default": {

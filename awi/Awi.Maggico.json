@@ -2837,7 +2837,7 @@
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(0deg, #EC415A 0%, #881394 100%)",
+              "value": "linear-gradient(0deg, #9C6EF7 0%, #E449E7 100%)",
               "type": "color"
             }
           }
@@ -6964,7 +6964,7 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
+            "fontSize": "10px",
             "lineHeight": "11px"
           },
           "type": "typography"

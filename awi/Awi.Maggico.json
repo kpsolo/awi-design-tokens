@@ -2759,8 +2759,14 @@
             "type": "color"
           },
           "fill-v2": {
-            "value": "{core.brand-30.a15}",
-            "type": "color"
+            "close": {
+              "value": "{core.brand-30.a15}",
+              "type": "color"
+            },
+            "open": {
+              "value": "rgba(28, 21, 72, 0.90)",
+              "type": "color"
+            }
           },
           "border": {
             "default": {
@@ -2783,7 +2789,7 @@
             }
           },
           "border-v2": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           }
         }

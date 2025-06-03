@@ -3052,8 +3052,14 @@
             }
           },
           "fill-v2": {
-            "value": "{semantic.background.5}",
-            "type": "color"
+            "close": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            },
+            "open": {
+              "value": "rgba(27, 24, 19, 0.85)",
+              "type": "color"
+            }
           },
           "border-v2": {
             "value": "{core.white.a0}",

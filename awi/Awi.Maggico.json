@@ -4825,6 +4825,18 @@
           }
         }
       }
+    },
+    "mobile-application": {
+      "reviews": {
+        "fill": {
+          "value": "#1B1813",
+          "type": "color"
+        },
+        "border": {
+          "value": "linear-gradient(180deg, #FEB600 0%, rgba(254, 182, 0, 0.00) 100%)",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

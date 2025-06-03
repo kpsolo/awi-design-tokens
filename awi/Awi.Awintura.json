@@ -1946,6 +1946,34 @@
             "type": "color"
           }
         }
+      },
+      "stepper": {
+        "bubble": {
+          "active": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          }
+        },
+        "line": {
+          "active": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          }
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "{core.brand-30.50}",
+          "type": "color"
+        }
       }
     },
     "notifications": {

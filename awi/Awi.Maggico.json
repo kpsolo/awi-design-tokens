@@ -2810,6 +2810,10 @@
           "border-v2": {
             "value": "{core.brand-30.a25}",
             "type": "color"
+          },
+          "devider": {
+            "value": "{core.brand-30.a25}",
+            "type": "color"
           }
         }
       },
@@ -5276,6 +5280,11 @@
         "value": "rgba(255, 255, 255, 0.05)",
         "type": "color",
         "description": "replaceble.white 8%\n"
+      },
+      "a30": {
+        "value": "rgba(255, 255, 255, 0.30)",
+        "type": "color",
+        "description": "replaceble.sand 300 (25%)\n"
       }
     },
     "brand-60": {

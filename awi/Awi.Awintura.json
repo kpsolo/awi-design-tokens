@@ -3118,6 +3118,10 @@
           "border-v2": {
             "value": "{core.white.a0}",
             "type": "color"
+          },
+          "devider": {
+            "value": "{core.white.a30}",
+            "type": "color"
           }
         }
       },
@@ -5249,6 +5253,11 @@
       },
       "a25": {
         "value": "rgba(255, 255, 255, 0.25)",
+        "type": "color",
+        "description": "replaceble.sand 300 (25%)\n"
+      },
+      "a30": {
+        "value": "rgba(255, 255, 255, 0.30)",
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
       },

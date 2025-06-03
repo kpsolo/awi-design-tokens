@@ -4929,6 +4929,16 @@
           "value": "{semantic.gradients.3}",
           "type": "color"
         }
+      },
+      "overlay": {
+        "upper": {
+          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
+          "type": "color"
+        },
+        "bottom": {
+          "value": "rgba(0, 0, 0, 0.80)",
+          "type": "color"
+        }
       }
     },
     "popover": {

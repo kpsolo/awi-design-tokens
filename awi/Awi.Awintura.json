@@ -2284,6 +2284,20 @@
         }
       }
     },
+    "popover": {
+      "fill": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "description": "Lootboxes"
+      },
+      "icon": {
+        "fill": {
+          "value": "{core.brand-60.600}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      }
+    },
     "pregame": {
       "overlay": {
         "value": "linear-gradient(180deg, rgba(12, 9, 6, 0.30) -1.25%, rgba(41, 32, 22, 0.30) 100%)",

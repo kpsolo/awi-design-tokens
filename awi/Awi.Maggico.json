@@ -4897,6 +4897,20 @@
           "type": "color"
         }
       }
+    },
+    "popover": {
+      "fill": {
+        "value": "{core.brand-60.500}",
+        "type": "color",
+        "description": "Lootboxes"
+      },
+      "icon": {
+        "fill": {
+          "value": "{core.white.a20}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      }
     }
   },
   "scale-1": {

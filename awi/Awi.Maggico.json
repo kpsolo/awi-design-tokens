@@ -4806,6 +4806,20 @@
           "type": "color",
           "description": "Lootboxes"
         }
+      },
+      "steps": {
+        "line": {
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "default": {
+            "value": "{core.brand-30.a15}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        }
       }
     },
     "cashbox": {

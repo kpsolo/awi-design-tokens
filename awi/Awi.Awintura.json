@@ -907,6 +907,19 @@
         },
         "type": "boxShadow"
       },
+      "welcome-bonus": {
+        "timer": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.grey.900}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
       "menu-item-desktop-active": {
         "value": [
           {
@@ -3122,6 +3135,18 @@
           "devider": {
             "value": "{core.white.a30}",
             "type": "color"
+          }
+        },
+        "welcome-bonus": {
+          "timer": {
+            "text": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "linear-gradient(0deg, #6A0808 0%, #FF0202 100%)",
+              "type": "color"
+            }
           }
         }
       },
@@ -6993,6 +7018,19 @@
       "menu-items": {
         "value": "{heading.ml}",
         "type": "typography"
+      }
+    },
+    "mobile": {
+      "welcome-bonus": {
+        "timer": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "11px",
+            "lineHeight": "11px"
+          },
+          "type": "typography"
+        }
       }
     }
   },

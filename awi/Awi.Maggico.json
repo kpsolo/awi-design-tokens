@@ -1257,6 +1257,20 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "welcome-bonus": {
+        "timer": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.grey.800}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow",
+          "description": "header.mobile.welcome-bonus.timer"
+        }
       }
     },
     "welcome-bonus": {
@@ -2814,6 +2828,18 @@
           "devider": {
             "value": "{core.brand-30.a25}",
             "type": "color"
+          }
+        },
+        "welcome-bonus": {
+          "timer": {
+            "text": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "linear-gradient(0deg, #EC415A 0%, #881394 100%)",
+              "type": "color"
+            }
           }
         }
       },
@@ -6930,6 +6956,19 @@
           "letterSpacing": "0%"
         },
         "type": "typography"
+      }
+    },
+    "mobile": {
+      "welcome-bonus": {
+        "timer": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "11px",
+            "lineHeight": "11px"
+          },
+          "type": "typography"
+        }
       }
     }
   },

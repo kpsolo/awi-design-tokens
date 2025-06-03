@@ -3655,7 +3655,7 @@
       },
       "text": {
         "primary": {
-          "value": "{core.brand-30.200}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "accent": {

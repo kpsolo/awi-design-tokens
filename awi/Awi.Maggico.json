@@ -470,6 +470,20 @@
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
       },
+      "desktop": {
+        "special-menu-item": {
+          "close": {
+            "value": "{border-radius.core.full}",
+            "type": "borderRadius",
+            "description": "contextual.header.desktop.special-menu-item"
+          },
+          "opened": {
+            "value": "{border-radius.core.400}",
+            "type": "borderRadius",
+            "description": "contextual.header.desktop.special-menu-item"
+          }
+        }
+      },
       "general": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"

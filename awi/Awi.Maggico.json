@@ -4820,7 +4820,7 @@
             "description": "Lootboxes"
           },
           "static": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         }

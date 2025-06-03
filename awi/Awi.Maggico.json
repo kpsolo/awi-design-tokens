@@ -4836,6 +4836,24 @@
           "value": "linear-gradient(180deg, #FEB600 0%, rgba(254, 182, 0, 0.00) 100%)",
           "type": "color"
         }
+      },
+      "switcher-button": {
+        "fill": {
+          "default": {
+            "value": "linear-gradient(87deg, #5B1986 -4.8%, #BE1FF1 39.14%, #331759 120.11%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "radial-gradient(189.21% 70.1% at 15.34% 39.06%, rgba(131, 113, 243, 0.50) 0%, rgba(253, 51, 124, 0.00) 100%), radial-gradient(132.71% 129.73% at 63.64% -12.5%, #489BDB 0%, rgba(86, 84, 74, 0.12) 100%), radial-gradient(51.42% 94.92% at 19.32% 40.62%, #C104E8 0%, #4E2FBF 100%), radial-gradient(23.21% 114.66% at 43.75% -31.25%, rgba(24, 17, 24, 0.53) 21.25%, #000 100%)",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "linear-gradient(268deg, #BD07ED 8.98%, #DF05E5 32.35%, #3D0E94 50.63%, #D705FF 103.98%)",
+            "type": "color"
+          }
+        }
       }
     }
   },

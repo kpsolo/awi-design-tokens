@@ -4882,7 +4882,7 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(87deg, #5B1986 -4.8%, #BE1FF1 39.14%, #331759 120.11%)",
+            "value": "linear-gradient(87deg, #5B1986 -4%, #BE1FF1 39%, #331759 120%)",
             "type": "color"
           },
           "active": {

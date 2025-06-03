@@ -4876,11 +4876,11 @@
     "mobile-application": {
       "reviews": {
         "fill": {
-          "value": "#1B1813",
+          "value": "{semantic.gradients.9}",
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(180deg, #FEB600 0%, rgba(254, 182, 0, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(156, 110, 247, 0.48) 0%, rgba(156, 110, 247, 0.00) 100%)",
           "type": "color"
         }
       },

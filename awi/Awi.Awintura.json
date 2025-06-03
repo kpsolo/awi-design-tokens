@@ -2002,6 +2002,32 @@
           "value": "{core.brand-30.50}",
           "type": "color"
         }
+      },
+      "route": {
+        "line": {
+          "filled": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          },
+          "not-filled": {
+            "value": "{core.grey.a30}",
+            "type": "color"
+          }
+        }
+      },
+      "points": {
+        "default": {
+          "border": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "fill": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
       }
     },
     "notifications": {

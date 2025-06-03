@@ -2280,6 +2280,10 @@
             "value": "{core.brand-30.a15}",
             "type": "color",
             "description": "Lootboxes"
+          },
+          "static": {
+            "value": "{core.brand-60.a20}",
+            "type": "color"
           }
         }
       }

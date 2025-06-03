@@ -519,6 +519,11 @@
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
       }
+    },
+    "banner": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius",
+      "description": "Banners: mobile aplication APP page"
     }
   },
   "border": {

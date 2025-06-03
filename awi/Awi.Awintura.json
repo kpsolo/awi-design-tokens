@@ -353,6 +353,11 @@
         "type": "borderRadius",
         "description": "contextual.lootboxes.coefficient"
       }
+    },
+    "banner": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius",
+      "description": "Banners: mobile aplication APP page"
     }
   },
   "border": {

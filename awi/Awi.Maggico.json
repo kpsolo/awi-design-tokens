@@ -5049,6 +5049,20 @@
           "description": "Lootboxes"
         }
       }
+    },
+    "messages": {
+      "bottom": {
+        "fill": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        },
+        "mark-all": {
+          "fill": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

@@ -2866,6 +2866,16 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "elements-border": {
+          "border-1": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          },
+          "border-2": {
+            "value": "{core.white.a5}",
+            "type": "color"
+          }
         }
       },
       "notification": {

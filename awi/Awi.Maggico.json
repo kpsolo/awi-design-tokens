@@ -2901,6 +2901,20 @@
           "fill": {
             "value": "{core.brand-30.a15}",
             "type": "color"
+          },
+          "button": {
+            "fill": {
+              "value": "{contextual.button.primary.fill.default}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{contextual.button.primary.border-color.default}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{contextual.button.primary.text.default}",
+              "type": "color"
+            }
           }
         },
         "content": {

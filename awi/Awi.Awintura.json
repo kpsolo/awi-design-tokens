@@ -3212,6 +3212,20 @@
           "fill": {
             "value": "{core.white.a15}",
             "type": "color"
+          },
+          "button": {
+            "fill": {
+              "value": "{semantic.gradients.10}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "content": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            }
           }
         },
         "content": {

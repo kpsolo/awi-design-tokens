@@ -7009,6 +7009,12 @@
           "type": "typography"
         }
       }
+    },
+    "desktop": {
+      "bottom": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      }
     }
   },
   "lootboxes": {

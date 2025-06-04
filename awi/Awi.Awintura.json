@@ -6645,6 +6645,33 @@
       }
     }
   },
+  "header": {
+    "desktop": {
+      "bottom": {
+        "value": "1px",
+        "type": "spacing"
+      }
+    },
+    "desctop": {
+      "menu-items": {
+        "value": "{heading.ml}",
+        "type": "typography"
+      }
+    },
+    "mobile": {
+      "welcome-bonus": {
+        "timer": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "11px",
+            "lineHeight": "11px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "letter-spacing": {
     "2": {
       "value": "2%",
@@ -7049,27 +7076,6 @@
       "map": {
         "value": "1816px",
         "type": "sizing"
-      }
-    }
-  },
-  "header": {
-    "desctop": {
-      "menu-items": {
-        "value": "{heading.ml}",
-        "type": "typography"
-      }
-    },
-    "mobile": {
-      "welcome-bonus": {
-        "timer": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
-          },
-          "type": "typography"
-        }
       }
     }
   },

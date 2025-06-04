@@ -5070,11 +5070,9 @@
           "value": "{semantic.gradients.3}",
           "type": "color"
         },
-        "mark-all": {
-          "fill": {
-            "value": "{core.grey.300}",
-            "type": "color"
-          }
+        "icon": {
+          "value": "{core.grey.400}",
+          "type": "color"
         }
       }
     }

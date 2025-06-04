@@ -2068,11 +2068,9 @@
           "value": "{core.brand-30.100}",
           "type": "color"
         },
-        "mark-all": {
-          "fill": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          }
+        "icon": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
         }
       }
     },

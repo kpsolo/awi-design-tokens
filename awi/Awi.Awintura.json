@@ -2605,7 +2605,7 @@
         },
         "active": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.300}",
             "type": "color"
           }
         }

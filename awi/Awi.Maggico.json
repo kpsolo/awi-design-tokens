@@ -5053,12 +5053,12 @@
     "messages": {
       "bottom": {
         "fill": {
-          "value": "{core.brand-30.100}",
+          "value": "{semantic.gradients.3}",
           "type": "color"
         },
         "mark-all": {
           "fill": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.300}",
             "type": "color"
           }
         }

@@ -3516,6 +3516,14 @@
             "type": "color"
           }
         },
+        "widget": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-10.600}",
+              "type": "color"
+            }
+          }
+        },
         "tabs": {
           "background": {
             "value": "#1F1A17",

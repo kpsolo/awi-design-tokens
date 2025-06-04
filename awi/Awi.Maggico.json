@@ -3861,6 +3861,14 @@
             "value": "{core.brand-30.200}",
             "type": "color"
           }
+        },
+        "widget": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
         }
       },
       "timer": {

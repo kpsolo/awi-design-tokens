@@ -1516,6 +1516,21 @@
         }
       }
     },
+    "mobile-aplication": {
+      "banner": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "rgba(255, 255, 255, 0.00)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "deals": {
       "timer": {
         "large": {
@@ -2013,6 +2028,10 @@
       "banner": {
         "fill": {
           "value": "{core.brand-30.50}",
+          "type": "color"
+        },
+        "border": {
+          "value": "rgba(255, 255, 255, 0.00)",
           "type": "color"
         }
       },

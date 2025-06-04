@@ -1906,6 +1906,21 @@
           "type": "boxShadow"
         }
       }
+    },
+    "mobile-aplication": {
+      "banner": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba(156, 110, 247, 0.60)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -4957,6 +4972,10 @@
       "banner": {
         "fill": {
           "value": "{semantic.gradients.3}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a25}",
           "type": "color"
         }
       },

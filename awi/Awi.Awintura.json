@@ -3167,6 +3167,16 @@
               "type": "color"
             }
           }
+        },
+        "button": {
+          "border-1": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "border-2": {
+            "value": "{core.white.a5}",
+            "type": "color"
+          }
         }
       },
       "mobile": {

@@ -2856,6 +2856,16 @@
               "type": "color"
             }
           }
+        },
+        "button": {
+          "border-1": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "border-2": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "notification": {

@@ -6382,16 +6382,6 @@
           "value": "{core.brand-10.600}",
           "type": "color"
         }
-      },
-      "emphasizing": {
-        "default": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
       }
     }
   },
@@ -7167,25 +7157,17 @@
     }
   },
   "link": {
-    "default": {
-      "value": "{text-decoration.none}",
-      "type": "textDecoration"
-    },
-    "hover": {
-      "value": "{text-decoration.underline}",
-      "type": "textDecoration"
-    },
-    "show-all": {
-      "hover": {
-        "value": "{text-decoration.underline}",
+    "plain": {
+      "default": {
+        "value": "{text-decoration.none}",
         "type": "textDecoration"
       },
-      "default": {
+      "hover": {
         "value": "{text-decoration.underline}",
         "type": "textDecoration"
       }
     },
-    "demo": {
+    "underlined": {
       "hover": {
         "value": "{text-decoration.underline}",
         "type": "textDecoration"

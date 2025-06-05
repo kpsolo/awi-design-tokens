@@ -1921,6 +1921,128 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "timer": {
+      "large": {
+        "popup": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(89, 80, 69, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "#rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-8px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(250, 236, 209, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-4px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(250, 236, 209, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "small": {
+        "popup": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-4px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-2px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(89, 80, 69, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-0.44",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "-4px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": "rgba(250, 236, 209, 0.12)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-2px",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(250, 236, 209, 0.16)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "-1",
+              "blur": "0",
+              "spread": "0",
+              "color": "rgba(0, 0, 0, 0.04)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -5081,6 +5203,32 @@
         "icon": {
           "value": "{core.grey.400}",
           "type": "color"
+        }
+      }
+    },
+    "timer": {
+      "number-cell": {
+        "fill": {
+          "light": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          },
+          "popup": {
+            "value": "{core.brand-30.100}",
+            "type": "color",
+            "description": "AWI light bg MG dark"
+          }
+        },
+        "text": {
+          "light": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color"
+          },
+          "popup": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color",
+            "description": "AWI light bg MG dark"
+          }
         }
       }
     }

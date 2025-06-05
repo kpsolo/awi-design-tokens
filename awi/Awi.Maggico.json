@@ -1931,7 +1931,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "rgba(205, 205, 205, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -1939,7 +1939,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(89, 80, 69, 0.16)",
+              "color": "rgba(205, 205, 205, 0.16)",
               "type": "dropShadow"
             },
             {
@@ -1960,7 +1960,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(250, 236, 209, 0.12)",
+              "color": "rgba(205, 205, 205, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -1968,7 +1968,7 @@
               "y": "-4px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(250, 236, 209, 0.16)",
+              "color": "rgba(205, 205, 205, 0.16)",
               "type": "dropShadow"
             },
             {
@@ -1991,7 +1991,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "rgba(205, 205, 205, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -1999,7 +1999,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "rgba(205, 205, 205, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -2020,7 +2020,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(250, 236, 209, 0.12)",
+              "color": "rgba(205, 205, 205, 0.12)",
               "type": "dropShadow"
             },
             {
@@ -2028,7 +2028,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(250, 236, 209, 0.16)",
+              "color": "rgba(205, 205, 205, 0.16)",
               "type": "dropShadow"
             },
             {

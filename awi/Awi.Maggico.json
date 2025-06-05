@@ -2043,6 +2043,24 @@
           "type": "boxShadow"
         }
       }
+    },
+    "selection-controls": {
+      "controls": {
+        "fill": {
+          "banner": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{blur.0}",
+              "spread": "{depth.0}",
+              "color": "rgba(57, 38, 2, 0.20)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "selection-controls.controls.fill.banner."
+          }
+        }
+      }
     }
   },
   "contextual": {
@@ -2607,6 +2625,16 @@
           "disabled": {
             "value": "rgba(29, 26, 50, 0.50)",
             "type": "color"
+          },
+          "banner": {
+            "default": {
+              "value": "{core.grey.a8}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.grey.a8}",
+              "type": "color"
+            }
           }
         },
         "border": {
@@ -5231,6 +5259,16 @@
           }
         }
       }
+    },
+    "sing-up-in": {
+      "bottom": {
+        "button": {
+          "icon": {
+            "value": "{contextual.button.tertiary.text.default}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
@@ -5470,6 +5508,10 @@
       },
       "a30": {
         "value": "rgba(6, 4, 35, 0.30)",
+        "type": "color"
+      },
+      "a8": {
+        "value": "rgba(6, 4, 35, 0.08)",
         "type": "color"
       }
     },

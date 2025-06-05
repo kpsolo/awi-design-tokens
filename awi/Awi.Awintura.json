@@ -5444,6 +5444,17 @@
       "type": "typography"
     }
   },
+  "banner": {
+    "title-XXXL": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Expanded}",
+        "fontSize": "40",
+        "lineHeight": "40"
+      },
+      "type": "typography"
+    }
+  },
   "core": {
     "grey": {
       "50": {

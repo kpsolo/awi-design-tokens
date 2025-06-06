@@ -5314,6 +5314,12 @@
             "type": "color"
           }
         }
+      },
+      "player-number": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
       }
     }
   },

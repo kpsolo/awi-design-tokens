@@ -5106,7 +5106,15 @@
           "secondary": {
             "value": "{core.brand-30.200}",
             "type": "color"
+          },
+          "accent": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
           }
+        },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(53, 42, 112, 0.00) 0%, #352A70 100%)",
+          "type": "color"
         }
       }
     },

@@ -2608,8 +2608,16 @@
           "value": "{semantic.gradients.8}",
           "type": "color"
         },
+        "overlay": {
+          "value": "linear-gradient(180deg, rgba(58, 47, 39, 0.00) 0%, #3A2F27 100%)",
+          "type": "color"
+        },
         "text": {
           "primary": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "accent": {
             "value": "{semantic.text.brand.primary}",
             "type": "color"
           },

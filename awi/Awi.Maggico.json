@@ -5321,6 +5321,24 @@
           "type": "color"
         }
       }
+    },
+    "onboarding": {
+      "progress-button": {
+        "progress": {
+          "fill": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "step": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "{core.brand-30.100}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

@@ -5091,6 +5091,24 @@
         "value": "rgba(255, 255, 255, 0.00)",
         "type": "color"
       }
+    },
+    "onboarding": {
+      "progress-button": {
+        "progress": {
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "step": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

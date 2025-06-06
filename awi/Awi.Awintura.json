@@ -5096,16 +5096,16 @@
       "progress-button": {
         "progress": {
           "fill": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-10.a30}",
             "type": "color"
           },
           "step": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           }
         },
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{semantic.gradients.4}",
           "type": "color"
         }
       }

@@ -5269,6 +5269,52 @@
           }
         }
       }
+    },
+    "hall-of-fame": {
+      "text": {
+        "gold": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "silver": {
+          "value": "{core.additionals.silver}",
+          "type": "color"
+        },
+        "bronze": {
+          "value": "{core.additionals.bronze}",
+          "type": "color"
+        }
+      },
+      "tabs": {
+        "border": {
+          "active": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "default": {
+            "value": "rgba(255, 255, 255, 0.00)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "rgba(255, 255, 255, 0.00)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "rgba(255, 255, 255, 0.00)",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

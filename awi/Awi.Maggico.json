@@ -5335,7 +5335,7 @@
           }
         },
         "fill": {
-          "value": "{core.brand-30.100}",
+          "value": "{semantic.gradients.6}",
           "type": "color"
         }
       }

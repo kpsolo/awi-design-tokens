@@ -2004,6 +2004,12 @@
         }
       }
     },
+    "top-up": {
+      "banner": {
+        "value": "linear-gradient(99deg, #036959 -4.72%, #064238 114.56%)",
+        "type": "color"
+      }
+    },
     "hall-of-fame": {
       "text": {
         "gold": {
@@ -2606,6 +2612,10 @@
       "bonus": {
         "fill": {
           "value": "{semantic.gradients.8}",
+          "type": "color"
+        },
+        "elipse": {
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "overlay": {
@@ -5529,6 +5539,17 @@
         "fontWeight": "{Expanded}",
         "fontSize": "40",
         "lineHeight": "40"
+      },
+      "type": "typography"
+    },
+    "top-up-account": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "16",
+        "lineHeight": "22",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "3%"
       },
       "type": "typography"
     }

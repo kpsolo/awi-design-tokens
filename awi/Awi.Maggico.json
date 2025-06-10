@@ -5115,6 +5115,10 @@
         "overlay": {
           "value": "linear-gradient(180deg, rgba(53, 42, 112, 0.00) 0%, #352A70 100%)",
           "type": "color"
+        },
+        "elipse": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
         }
       }
     },
@@ -5346,6 +5350,12 @@
           "value": "{semantic.gradients.6}",
           "type": "color"
         }
+      }
+    },
+    "top-up": {
+      "banner": {
+        "value": "linear-gradient(182deg, #091E69 1.64%, #411753 98.56%)",
+        "type": "color"
       }
     }
   },
@@ -7571,6 +7581,17 @@
         "fontWeight": "{Bold}",
         "fontSize": "36",
         "lineHeight": "42"
+      },
+      "type": "typography"
+    },
+    "top-up-account": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "16",
+        "lineHeight": "22",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "3%"
       },
       "type": "typography"
     }

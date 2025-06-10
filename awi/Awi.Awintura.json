@@ -2006,7 +2006,7 @@
     },
     "top-up": {
       "banner": {
-        "value": "linear-gradient(99deg, #036959 -4.72%, #064238 114.56%)",
+        "value": "linear-gradient(99deg, #036959 0%, #064238 100%)",
         "type": "color"
       }
     },

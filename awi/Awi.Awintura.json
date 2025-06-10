@@ -893,6 +893,31 @@
           "value": "{shadow.button.secondary.hover}",
           "type": "boxShadow"
         }
+      },
+      "ghost-popup": {
+        "default": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "disabled": {
+          "value": "{shadow.button.secondary.default}",
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": "{shadow.button.secondary.default}",
+          "type": "boxShadow"
+        },
+        "active": {
+          "value": "{shadow.button.secondary.hover}",
+          "type": "boxShadow"
+        }
       }
     },
     "header": {
@@ -1097,7 +1122,14 @@
       }
     },
     "dropdown menu": {
-      "value": "{shadow.drop.up}",
+      "value": {
+        "x": "0px",
+        "y": "4px",
+        "blur": "16px",
+        "spread": "0px",
+        "color": "rgba(45, 37, 25, 0.20)",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "tab-bar": {
@@ -2002,6 +2034,62 @@
             "type": "color"
           }
         }
+      },
+      "ghost-popup": {
+        "fill": {
+          "default": {
+            "value": "{semantic.background.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.text.disabled.on-brand-secondary}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "default": {
+            "value": "{semantic.border.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.border.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.border.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        }
       }
     },
     "top-up": {
@@ -2885,16 +2973,6 @@
       "header": {
         "value": "{core.brand-30.a25}",
         "type": "color"
-      }
-    },
-    "sing-up-in": {
-      "bottom": {
-        "button": {
-          "icon": {
-            "value": "{semantic.icon.static.primary}",
-            "type": "color"
-          }
-        }
       }
     },
     "bullet": {
@@ -6337,6 +6415,24 @@
             "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 246, 234, 0.32) 100%)",
             "type": "color"
           }
+        },
+        "ghost-popup": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "slate-4": {
@@ -6579,6 +6675,24 @@
           },
           "disabled": {
             "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "ghost-popup": {
+          "default": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.a30}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-60.a30}",
             "type": "color"
           }
         }

@@ -7701,6 +7701,18 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
+    },
+    "error-payments": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "22",
+        "lineHeight": "24",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography",
+      "description": "Error payments"
     }
   }
 }

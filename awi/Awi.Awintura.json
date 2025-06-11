@@ -2092,6 +2092,38 @@
         }
       }
     },
+    "up-button": {
+      "fill": {
+        "standard": {
+          "value": "{core.grey.900}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
+      },
+      "progress": {
+        "fill": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "standard": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        }
+      }
+    },
     "top-up": {
       "banner": {
         "value": "linear-gradient(99deg, #036959 0%, #064238 100%)",

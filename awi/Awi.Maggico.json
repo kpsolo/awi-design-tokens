@@ -5428,6 +5428,38 @@
         "value": "linear-gradient(182deg, #091E69 1.64%, #411753 98.56%)",
         "type": "color"
       }
+    },
+    "up-button": {
+      "fill": {
+        "standard": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "standard": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        }
+      },
+      "progress": {
+        "fill": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

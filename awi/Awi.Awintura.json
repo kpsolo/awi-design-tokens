@@ -2092,6 +2092,26 @@
         }
       }
     },
+    "verification": {
+      "verification-status": {
+        "time": {
+          "icon": {
+            "default": {
+              "value": "{semantic.background.brand.tertiary.default}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "icon": {
+            "default": {
+              "value": "{semantic.background.brand.tertiary.default}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
     "up-button": {
       "fill": {
         "standard": {

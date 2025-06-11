@@ -5460,6 +5460,26 @@
           "type": "color"
         }
       }
+    },
+    "verification": {
+      "verification-status": {
+        "time": {
+          "icon": {
+            "default": {
+              "value": "{semantic.background.brand.tertiary.default}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "icon": {
+            "default": {
+              "value": "{semantic.background.brand.tertiary.default}",
+              "type": "color"
+            }
+          }
+        }
+      }
     }
   },
   "scale-1": {

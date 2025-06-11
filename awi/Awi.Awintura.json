@@ -2099,13 +2099,47 @@
             "default": {
               "value": "{semantic.background.brand.tertiary.default}",
               "type": "color"
+            },
+            "animation": {
+              "value": "conic-gradient(from 83deg at 50% 50%, #FEB600 0deg, rgba(151, 112, 26, 0.00) 360deg)",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           }
         },
         "error": {
           "icon": {
             "default": {
-              "value": "{semantic.background.brand.tertiary.default}",
+              "value": "{core.validation.danger.600}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.validation.danger.600}",
+              "type": "color"
+            }
+          }
+        },
+        "check": {
+          "icon": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "animation": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.validation.success.500}",
               "type": "color"
             }
           }

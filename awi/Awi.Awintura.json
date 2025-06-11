@@ -2097,7 +2097,7 @@
         "time": {
           "icon": {
             "default": {
-              "value": "{semantic.background.brand.tertiary.default}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             },
             "animation-copy": {
@@ -2107,7 +2107,7 @@
           },
           "text": {
             "default": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             }
           }

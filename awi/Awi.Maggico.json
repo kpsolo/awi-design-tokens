@@ -5510,6 +5510,10 @@
             "default-copy": {
               "value": "{core.validation.success.500}",
               "type": "color"
+            },
+            "AI": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
             }
           }
         }

@@ -2141,6 +2141,10 @@
             "default": {
               "value": "{core.validation.success.500}",
               "type": "color"
+            },
+            "AI": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           }
         }

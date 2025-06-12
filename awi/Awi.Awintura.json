@@ -4354,7 +4354,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(90deg, #554C3E 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "value": "linear-gradient(90deg, rgba(255, 165, 0, 0.24) 35%, rgba(255, 142, 0, 0.00) 81%)",
             "type": "color"
           }
         },

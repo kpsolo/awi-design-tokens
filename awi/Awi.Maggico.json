@@ -5517,6 +5517,12 @@
             }
           }
         }
+      },
+      "frame": {
+        "line": {
+          "value": "{core.brand-30.a25}",
+          "type": "color"
+        }
       }
     }
   },

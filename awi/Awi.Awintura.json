@@ -1221,7 +1221,7 @@
               "x": "{depth.0}",
               "y": "{depth.50}",
               "blur": "{blur.100}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(7, 7, 3, 0.50)",
               "type": "dropShadow"
             },

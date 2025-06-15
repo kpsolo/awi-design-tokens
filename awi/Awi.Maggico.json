@@ -5524,6 +5524,38 @@
           "type": "color"
         }
       }
+    },
+    "wheel": {
+      "sector": {
+        "fill": {
+          "light": {
+            "value": "linear-gradient(180deg, #E7E6E9 0%, #E2CAEC 100%)",
+            "type": "color"
+          },
+          "dark": {
+            "value": "linear-gradient(164deg, #7B1DC4 22.33%, #3B0E5E 87.86%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "light": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "dark": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

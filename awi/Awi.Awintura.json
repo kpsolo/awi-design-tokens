@@ -2092,6 +2092,38 @@
         }
       }
     },
+    "wheel": {
+      "sector": {
+        "fill": {
+          "light": {
+            "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
+            "type": "color"
+          },
+          "dark": {
+            "value": "linear-gradient(164deg, #232220 4.96%, #221C1E 100%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "light": {
+            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "type": "color"
+          },
+          "dark": {
+            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "verification": {
       "verification-status": {
         "time": {

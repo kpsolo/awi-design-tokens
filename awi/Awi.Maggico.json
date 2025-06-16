@@ -2116,6 +2116,36 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "popup": {
+        "multiplier": {
+          "normal": {
+            "value": [
+              {
+                "x": "0px",
+                "y": "0px",
+                "blur": "0px",
+                "spread": "0px",
+                "color": "{core.white.a0}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "active": {
+            "value": [
+              {
+                "x": "0px",
+                "y": "0px",
+                "blur": "0px",
+                "spread": "0px",
+                "color": "{core.white.a0}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        }
       }
     }
   },
@@ -5584,6 +5614,55 @@
           "active": {
             "value": "{core.brand-60.500}",
             "type": "color"
+          }
+        }
+      },
+      "popup": {
+        "fill": {
+          "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
+          "type": "color"
+        },
+        "multiplier": {
+          "fill": {
+            "normal": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.background.brand.emphasizing.default.primary}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "normal": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "normal": {
+              "value": "{core.grey.50}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-60.700}",
+              "type": "color",
+              "description": "{core.grey.50}"
+            }
+          },
+          "border2": {
+            "normal": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "rgba(14, 10, 35, 0.70)",
+              "type": "color"
+            }
           }
         }
       }

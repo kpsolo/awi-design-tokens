@@ -1494,6 +1494,45 @@
       ],
       "type": "boxShadow"
     },
+    "wheel": {
+      "general": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "4px",
+            "blur": "8px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "16px",
+            "spread": "0px",
+            "color": "rgba(251, 158, 45, 0.20)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "66px",
+            "spread": "0px",
+            "color": "#EE7A0F",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "-4px",
+            "blur": "8px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "progress": {
       "circle": {
         "progress": {
@@ -3971,7 +4010,7 @@
               "type": "color"
             },
             "inactive": {
-              "value": "#gba(255, 255, 255, 0.00)",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
@@ -7785,6 +7824,50 @@
         "value": "{text.md-stronger}",
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
+      }
+    }
+  },
+  "wheel": {
+    "sector": {
+      "xs": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "12px",
+          "lineHeight": "12px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "14px",
+          "lineHeight": "14px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
       }
     }
   }

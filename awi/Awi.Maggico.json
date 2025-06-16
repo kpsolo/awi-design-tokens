@@ -2086,6 +2086,37 @@
           }
         }
       }
+    },
+    "wheel": {
+      "general": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "19px",
+            "spread": "0px",
+            "color": "#7B1DC4",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "30px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.50)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "76px",
+            "spread": "0px",
+            "color": "#7B1DC4",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -4076,7 +4107,7 @@
               "type": "color"
             },
             "inactive": {
-              "value": "#gba(255, 255, 255, 0.00)",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
@@ -7583,6 +7614,50 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
+    }
+  },
+  "wheel": {
+    "sector": {
+      "xs": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "12px",
+          "lineHeight": "12px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "14px",
+          "lineHeight": "14px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      }
     }
   },
   "homepage": {

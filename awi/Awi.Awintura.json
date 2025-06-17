@@ -5906,8 +5906,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
-        "lineHeight": "16",
-        "fontSize": "14"
+        "lineHeight": "16px",
+        "fontSize": "14px"
       },
       "type": "typography"
     }
@@ -5917,8 +5917,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
-        "fontSize": "40",
-        "lineHeight": "40"
+        "fontSize": "40px",
+        "lineHeight": "40px"
       },
       "type": "typography"
     },
@@ -5937,8 +5937,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{text.strong}",
-        "fontSize": "22",
-        "lineHeight": "24",
+        "fontSize": "22px",
+        "lineHeight": "24px",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "2%"
       },

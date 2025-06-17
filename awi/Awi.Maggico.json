@@ -315,6 +315,59 @@
       }
     }
   },
+  "wheel": {
+    "popup": {
+      "vip-bet-amount": {
+        "width": {
+          "value": "50px",
+          "type": "sizing",
+          "description": "contextual.wheel.popup.vip-bet-amount"
+        }
+      }
+    },
+    "sector": {
+      "xs": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "12px",
+          "lineHeight": "12px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "14px",
+          "lineHeight": "14px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "18px",
+          "lineHeight": "25px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "border-radius": {
     "core": {
       "0": {
@@ -5664,6 +5717,25 @@
           "value": "{core.brand-60.500}",
           "type": "color"
         },
+        "vip-bet-amount": {
+          "fill": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color",
+            "description": "vip bet amount"
+          },
+          "text": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color",
+            "description": "vip bet amount"
+          },
+          "active": {
+            "border": {
+              "value": "{semantic.border.brand.primary.default}",
+              "type": "color",
+              "description": "vip bet amount"
+            }
+          }
+        },
         "multiplier": {
           "fill": {
             "normal": {
@@ -7739,50 +7811,6 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
-    }
-  },
-  "wheel": {
-    "sector": {
-      "xs": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "12px",
-          "lineHeight": "12px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "sm": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "14px",
-          "lineHeight": "14px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "25px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "lg": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "25px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      }
     }
   },
   "homepage": {

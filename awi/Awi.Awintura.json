@@ -2276,6 +2276,25 @@
               "type": "color"
             }
           }
+        },
+        "vip-bet-amount": {
+          "fill": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color",
+            "description": "vip bet amount"
+          },
+          "text": {
+            "value": "{semantic.icon.brand.on-brand}",
+            "type": "color",
+            "description": "vip bet amount"
+          },
+          "active": {
+            "border": {
+              "value": "{semantic.border.brand.primary.default}",
+              "type": "color",
+              "description": "vip bet amount"
+            }
+          }
         }
       }
     },
@@ -7984,6 +8003,15 @@
           "letterSpacing": "0%"
         },
         "type": "typography"
+      }
+    },
+    "popup": {
+      "vip-bet-amount": {
+        "width": {
+          "value": "40px",
+          "type": "sizing",
+          "description": "contextual.wheel.popup.vip-bet-amount"
+        }
       }
     }
   }

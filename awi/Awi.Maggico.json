@@ -2146,6 +2146,56 @@
             "type": "boxShadow"
           }
         }
+      },
+      "text": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "0px",
+            "spread": "",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "wheel": {
+        "value": [
+          {
+            "x": "0",
+            "y": "4px",
+            "blur": "8px",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "16px",
+            "spread": "0",
+            "color": "rgba(251, 158, 45, 0.20)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "66px",
+            "spread": "0",
+            "color": "#EE7A0F",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-4px",
+            "blur": "8px",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   },

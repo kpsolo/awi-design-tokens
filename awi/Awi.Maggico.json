@@ -520,10 +520,14 @@
         "description": "contextual.segment-control.item"
       }
     },
-    "banner": {
-      "value": "{border-radius.core.full}",
-      "type": "borderRadius",
-      "description": "Banners: mobile aplication APP page"
+    "wheel": {
+      "popup": {
+        "general": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius",
+          "description": "shadow.wheel.popup.general"
+        }
+      }
     }
   },
   "border": {
@@ -2145,6 +2149,10 @@
             ],
             "type": "boxShadow"
           }
+        },
+        "general": {
+          "value": "{shadow.drop.modal}",
+          "type": "boxShadow"
         }
       },
       "text": {
@@ -2164,35 +2172,19 @@
         "value": [
           {
             "x": "0",
-            "y": "4px",
-            "blur": "8px",
-            "spread": "0",
-            "color": "rgba(0, 0, 0, 0.25)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
+            "y": "0px",
             "blur": "16px",
             "spread": "0",
-            "color": "rgba(251, 158, 45, 0.20)",
+            "color": "#7B1DC4",
             "type": "dropShadow"
           },
           {
             "x": "0",
             "y": "0",
-            "blur": "66px",
+            "blur": "64px",
             "spread": "0",
-            "color": "#EE7A0F",
+            "color": "#7B1DC4",
             "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-4px",
-            "blur": "8px",
-            "spread": "0",
-            "color": "rgba(0, 0, 0, 0.25)",
-            "type": "innerShadow"
           }
         ],
         "type": "boxShadow"
@@ -5669,7 +5661,7 @@
       },
       "popup": {
         "fill": {
-          "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
+          "value": "{core.brand-60.500}",
           "type": "color"
         },
         "multiplier": {

@@ -358,6 +358,15 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
+    },
+    "wheel": {
+      "popup": {
+        "general": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius",
+          "description": "shadow.wheel.popup.general"
+        }
+      }
     }
   },
   "border": {
@@ -1523,6 +1532,10 @@
             ],
             "type": "boxShadow"
           }
+        },
+        "general": {
+          "value": "{shadow.drop.medium}",
+          "type": "boxShadow"
         }
       },
       "text": {
@@ -2215,7 +2228,7 @@
       },
       "popup": {
         "fill": {
-          "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "divider": {

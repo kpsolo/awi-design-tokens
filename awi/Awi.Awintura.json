@@ -5926,8 +5926,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
-        "fontSize": "16",
-        "lineHeight": "22",
+        "fontSize": "16px",
+        "lineHeight": "22px",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "3%"
       },

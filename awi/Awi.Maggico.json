@@ -8051,8 +8051,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{text.strong}",
-        "fontSize": "16",
-        "lineHeight": "22",
+        "fontSize": "16px",
+        "lineHeight": "22px",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "3%"
       },

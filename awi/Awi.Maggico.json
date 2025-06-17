@@ -523,7 +523,7 @@
     "wheel": {
       "popup": {
         "general": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.core.full}",
           "type": "borderRadius",
           "description": "shadow.wheel.popup.general"
         }

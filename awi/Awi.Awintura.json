@@ -2160,6 +2160,10 @@
           "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
           "type": "color"
         },
+        "divider": {
+          "value": "{core.grey.a20}",
+          "type": "color"
+        },
         "multiplier": {
           "fill": {
             "normal": {

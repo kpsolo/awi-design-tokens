@@ -5664,6 +5664,10 @@
               "type": "color"
             }
           }
+        },
+        "divider": {
+          "value": "{core.grey.a30}",
+          "type": "color"
         }
       }
     }

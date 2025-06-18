@@ -5695,6 +5695,10 @@
           "active": {
             "value": "{core.brand-10.400}",
             "type": "color"
+          },
+          "active-vip": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
           }
         },
         "text": {
@@ -5708,6 +5712,10 @@
           },
           "active": {
             "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "active-vip": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

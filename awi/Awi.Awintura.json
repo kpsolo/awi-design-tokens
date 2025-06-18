@@ -2209,6 +2209,10 @@
           "active": {
             "value": "{core.validation.danger.600}",
             "type": "color"
+          },
+          "active-vip": {
+            "value": "{core.brand-10.700}",
+            "type": "color"
           }
         },
         "text": {
@@ -2222,6 +2226,10 @@
           },
           "active": {
             "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "active-vip": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }
@@ -6434,7 +6442,7 @@
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "#D29846",
         "type": "color",
         "description": "Primary.Amber 800"
       },

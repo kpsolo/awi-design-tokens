@@ -1538,27 +1538,6 @@
           "type": "boxShadow"
         }
       },
-      "text": {
-        "value": [
-          {
-            "x": "0px",
-            "y": "0.88px",
-            "blur": "0px",
-            "spread": "",
-            "color": "#fff",
-            "type": "innerShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "2px",
-            "spread": "",
-            "color": "#000000",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
       "wheel": {
         "value": [
           {

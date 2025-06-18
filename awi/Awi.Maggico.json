@@ -2208,19 +2208,6 @@
           "type": "boxShadow"
         }
       },
-      "text": {
-        "value": [
-          {
-            "x": "0px",
-            "y": "0px",
-            "blur": "0px",
-            "spread": "",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
       "wheel": {
         "value": [
           {

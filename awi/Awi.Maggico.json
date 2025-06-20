@@ -462,7 +462,7 @@
           "type": "borderRadius"
         },
         "large": {
-          "value": "{border-radius.core.300}",
+          "value": "24px",
           "type": "borderRadius"
         }
       },
@@ -531,7 +531,7 @@
             "description": "contextual.header.desktop.special-menu-item"
           },
           "opened": {
-            "value": "{border-radius.core.400}",
+            "value": "20px",
             "type": "borderRadius",
             "description": "contextual.header.desktop.special-menu-item"
           }

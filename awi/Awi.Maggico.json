@@ -473,6 +473,10 @@
         }
       }
     },
+    "banner": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
     "lootboxes": {
       "coefficient": {
         "value": "{border-radius.core.full}",

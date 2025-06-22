@@ -2563,17 +2563,17 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(90deg, #DEAA6C -39%, #F1D5B8 81%, #F2CEA9 122%)",
+            "value": "linear-gradient(90deg, #DEAA6C -40%, #F1D5B8 80%, #F2CEA9 120%)",
             "type": "color"
           },
           "active": {
-            "value": "radial-gradient(301% 84% at 15% 39%, rgba(242, 223, 203, 0.50) 0%, rgba(167, 115, 53, 1) 100%), radial-gradient(132% 129% at 63% -12%, #F3B16F 0%, rgba(255, 255, 255, 1) 100%), radial-gradient(51% 94% at 19% 40%, #F1DEC8 0%, #9F6C2D 100%), radial-gradient(23% 114.66% at 43% -31%, rgba(24, 17, 24, 1) 21%, #000 100%)",
+            "value": "radial-gradient(300% 80% at 15% 40%, rgba(242, 223, 203, 0.50) 0%, rgba(167, 115, 53, 1) 100%), radial-gradient(130% 130% at 60% -12%, #F3B16F 0%, rgba(255, 255, 255, 1) 100%), radial-gradient(50% 94% at 19% 40%, #F1DEC8 0%, #9F6C2D 100%), radial-gradient(23% 114.66% at 43% -30%, rgba(24, 17, 24, 1) 21%, #000 100%)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "linear-gradient(89deg, #D29D61 0.19%, #FFEFDD 33.49%, #FAEDDF 68.3%, #B36D1E 105.13%)",
+            "value": "linear-gradient(89deg, #D29D61 0%, #FFEFDD 330%, #FAEDDF 70%, #B36D1E 100%)",
             "type": "color"
           }
         }

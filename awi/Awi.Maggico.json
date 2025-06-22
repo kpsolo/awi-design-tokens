@@ -5364,17 +5364,17 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(87deg, #5B1986 -4%, #BE1FF1 39%, #331759 120%)",
+            "value": "linear-gradient(80deg, #5B1986 -10%, #BE1FF1 40%, #331759 100%)",
             "type": "color"
           },
           "active": {
-            "value": "radial-gradient(189.21% 70.1% at 15.34% 39.06%, rgba(131, 113, 243, 0.50) 0%, rgba(253, 51, 124, 0.00) 100%), radial-gradient(132.71% 129.73% at 63.64% -12.5%, #489BDB 0%, rgba(86, 84, 74, 0.12) 100%), radial-gradient(51.42% 94.92% at 19.32% 40.62%, #C104E8 0%, #4E2FBF 100%), radial-gradient(23.21% 114.66% at 43.75% -31.25%, rgba(24, 17, 24, 0.53) 21.25%, #000 100%)",
+            "value": "radial-gradient(190% 70% at 15% 40%, rgba(130, 110, 243, 1) 0%, rgba(253, 50, 124, 0) 100%), radial-gradient(130% 130% at 60% -10%, #489BDB 0%, rgba(86, 84, 74, 0) 100%), radial-gradient(50% 95% at 30% 40%, #C104E8 0%, #4E2FBF 100%), radial-gradient(20% 110% at 40% -30%, rgba(25, 20, 24, 1) 20%, #000 100%)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "linear-gradient(268deg, #BD07ED 8.98%, #DF05E5 32.35%, #3D0E94 50.63%, #D705FF 103.98%)",
+            "value": "linear-gradient(268deg, #BD07ED 10%, #DF05E5 30%, #3D0E94 50%, #D705FF 100%)",
             "type": "color"
           }
         }

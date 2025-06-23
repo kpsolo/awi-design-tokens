@@ -8069,5 +8069,17 @@
       "type": "typography",
       "description": "Error payments"
     }
+  },
+  "story": {
+    "title": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.normal}",
+        "fontSize": "24px",
+        "lineHeight": "32px"
+      },
+      "type": "typography",
+      "description": "Story"
+    }
   }
 }

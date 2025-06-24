@@ -7768,6 +7768,17 @@
       },
       "type": "typography",
       "description": "Story"
+    },
+    "the-end": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "32px",
+        "lineHeight": "34px",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Story"
     }
   },
   "profile": {

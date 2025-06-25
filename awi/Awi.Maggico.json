@@ -7838,6 +7838,20 @@
           "type": "typography"
         }
       }
+    },
+    "payment-block": {
+      "subtitle": {
+        "value": "{heading.xl-stronger}",
+        "type": "typography"
+      },
+      "title": {
+        "value": "{heading.xxl-stronger}",
+        "type": "typography"
+      },
+      "title2": {
+        "value": "{heading.xl-stronger}",
+        "type": "typography"
+      }
     }
   },
   "lottery-tournament": {

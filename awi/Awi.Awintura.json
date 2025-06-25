@@ -7733,6 +7733,39 @@
         "type": "spacing"
       }
     },
+    "payment-block": {
+      "subtitle": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "{scale-4}",
+          "lineHeight": "{xs}",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "48px",
+          "lineHeight": "38px",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "title2": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{text.stronger}",
+          "fontSize": "30px",
+          "lineHeight": "28px",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      }
+    },
     "nav-menu": {
       "mobile": {
         "tab": {

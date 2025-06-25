@@ -2346,6 +2346,10 @@
         "line": {
           "value": "{core.brand-30.a25}",
           "type": "color"
+        },
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
         }
       }
     },

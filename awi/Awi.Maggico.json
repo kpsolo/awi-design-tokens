@@ -3772,6 +3772,34 @@
           "text2": {
             "value": "{semantic.text.default.heading}",
             "type": "color"
+          },
+          "text": {
+            "default": {
+              "value": "{core.grey.100}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.grey.100}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "rgba(207, 206, 211, 0.50)",
+              "type": "color"
+            }
+          },
+          "fill": {
+            "default": {
+              "value": "rgba(207, 206, 211, 0.15)",
+              "type": "color"
+            },
+            "active": {
+              "value": "rgba(207, 206, 211, 0.15)",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "rgba(207, 206, 211, 0.15)",
+              "type": "color"
+            }
           }
         }
       }

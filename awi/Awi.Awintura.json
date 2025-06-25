@@ -5075,33 +5075,13 @@
           }
         },
         "number": {
-          "text": {
-            "default": {
-              "value": "{core.brand-30.300}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-30.300}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-60.a50}",
-              "type": "color"
-            }
+          "text2": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
           },
-          "fill": {
-            "default": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            }
+          "fill2": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
           }
         },
         "line": {

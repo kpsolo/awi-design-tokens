@@ -2350,6 +2350,10 @@
         "fill": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "scroll": {
+          "value": "{core.grey.800}",
+          "type": "color"
         }
       }
     },

@@ -5681,6 +5681,10 @@
         "fill": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "scroll": {
+          "value": "{core.white.a8}",
+          "type": "color"
         }
       }
     },

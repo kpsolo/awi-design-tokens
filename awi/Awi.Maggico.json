@@ -5689,6 +5689,10 @@
         "uploading-line": {
           "value": "{core.white.a60}",
           "type": "color"
+        },
+        "divider": {
+          "value": "{core.white.a8}",
+          "type": "color"
         }
       }
     },

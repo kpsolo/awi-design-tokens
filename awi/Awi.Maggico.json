@@ -5685,6 +5685,10 @@
         "scroll": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "uploading-line": {
+          "value": "{core.white.a60}",
+          "type": "color"
         }
       }
     },

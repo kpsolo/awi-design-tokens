@@ -689,7 +689,8 @@
       "shadow.ingame.mob.bonus-talisman": "S:c6b021cc96af3d9e5a591588d46333910ff43705,"
     },
     "selectedTokenSets": {
-      "Awi.Maggico": "enabled"
+      "Awi.Maggico": "enabled",
+      "Awi.Altaris": "disabled"
     },
     "$figmaVariableReferences": {
       "main": "59fc44681846b3a7470578bfd57b023c2a811991",
@@ -1502,7 +1503,8 @@
       "shadow.homepage.slider.payment-block": "S:fc3490209cb77f4cf2d6a81c9aecd53f81236f14,"
     },
     "selectedTokenSets": {
-      "Awi.Awintura": "enabled"
+      "Awi.Awintura": "enabled",
+      "Awi.Altaris": "disabled"
     },
     "$figmaVariableReferences": {
       "main": "91385acf95ffc869c2e7959053378a918f3a4064",

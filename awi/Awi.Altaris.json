@@ -6605,12 +6605,12 @@
         "description": "gradients.Emerald 600"
       },
       "11": {
-        "value": "linear-gradient(180deg, #1A1305 0%, #100C03 100%)",
+        "value": "linear-gradient(180deg, #14141B 0%, #0E0E12 100%)",
         "type": "color",
         "description": "gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(216, 155, 0, 0.40) 0%, rgba(204, 147, 0, 0.00) 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, rgba(255, 229, 229, 0.15) 0%, rgba(248, 248, 248, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Radial"
       }

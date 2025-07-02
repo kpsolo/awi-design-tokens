@@ -6186,7 +6186,7 @@
         "description": "basic.sand 200"
       },
       "300": {
-        "value": "#FAECD1",
+        "value": "#FFF5F5",
         "type": "color",
         "description": "basic.sand 300"
       },

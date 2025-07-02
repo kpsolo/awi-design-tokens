@@ -5400,7 +5400,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(0deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.60) 20.83%, #000 100%)",
           "type": "color"
         }
       },
@@ -6004,7 +6004,7 @@
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "#282833",
+        "value": "#1A1A22",
         "type": "color",
         "description": "basic.sand 1000"
       },
@@ -6053,7 +6053,7 @@
         "description": "\n"
       },
       "a25": {
-        "value": "rgba(255, 255, 255, 0.25)",
+        "value": "rgba(255, 245, 245, 0.15)",
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
       },

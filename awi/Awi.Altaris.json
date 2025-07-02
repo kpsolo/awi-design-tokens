@@ -160,7 +160,7 @@
         "type": "borderRadius"
       },
       "200": {
-        "value": "8",
+        "value": "9999",
         "type": "borderRadius"
       },
       "300": {
@@ -4270,7 +4270,7 @@
           },
           "icon": {
             "default": {
-              "value": "#FFDEDE",
+              "value": "#D7D7D7",
               "type": "color"
             },
             "hover-active": {

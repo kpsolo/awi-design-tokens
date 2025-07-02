@@ -6595,7 +6595,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "linear-gradient(180deg, #595045 0%, #55483A 33%, #413428 100%)",
+        "value": "rgba(40, 40, 51, 0.85)",
         "type": "color",
         "description": "gradients.Brown 600"
       },
@@ -6605,7 +6605,7 @@
         "description": "gradients.Emerald 600"
       },
       "11": {
-        "value": "linear-gradient(180deg, #14141B 0%, #0E0E12 100%)",
+        "value": "#0F0F14",
         "type": "color",
         "description": "gradients.Black 600"
       },

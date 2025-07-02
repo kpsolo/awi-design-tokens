@@ -5995,7 +5995,7 @@
         "description": "basic.sand 1100"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "#1F1C2B",
         "type": "color"
       },
       "800": {

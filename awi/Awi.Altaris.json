@@ -4270,7 +4270,7 @@
           },
           "icon": {
             "default": {
-              "value": "{core.brand-10.500}",
+              "value": "#FFDEDE",
               "type": "color"
             },
             "hover-active": {
@@ -6595,7 +6595,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "rgba(40, 40, 51, 0.85)",
+        "value": "rgba(56, 56, 70, 0.85)",
         "type": "color",
         "description": "gradients.Brown 600"
       },

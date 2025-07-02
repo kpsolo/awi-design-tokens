@@ -5346,7 +5346,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -6195,7 +6195,7 @@
         "type": "color"
       },
       "500": {
-        "value": "#D2C09D",
+        "value": "#FEB600",
         "type": "color"
       },
       "600": {
@@ -6856,7 +6856,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "secondary": {

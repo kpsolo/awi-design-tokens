@@ -6585,7 +6585,7 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "linear-gradient(180deg, #8D837B 0%, #645045 100%)",
+        "value": "rgba(40, 40, 51, 0.85)",
         "type": "color",
         "description": "gradients.Brown"
       },

@@ -164,7 +164,7 @@
         "type": "borderRadius"
       },
       "300": {
-        "value": "12",
+        "value": "9999",
         "type": "borderRadius"
       },
       "400": {

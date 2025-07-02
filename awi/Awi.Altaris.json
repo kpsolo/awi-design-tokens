@@ -6590,7 +6590,7 @@
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "linear-gradient(180deg, #393838 0%, #2A2121 100%);",
+        "value": "linear-gradient(180deg, #3A3A44 0%, #343440 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },

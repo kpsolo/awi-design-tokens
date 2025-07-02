@@ -5999,12 +5999,12 @@
         "type": "color"
       },
       "800": {
-        "value": "#373A32",
+        "value": "#1F1C2B",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "#1B1813",
+        "value": "#282833",
         "type": "color",
         "description": "basic.sand 1000"
       },
@@ -6181,7 +6181,7 @@
         "description": "basic.sand 100"
       },
       "200": {
-        "value": "#E6DCC8",
+        "value": "#FAF8FF",
         "type": "color",
         "description": "basic.sand 200"
       },
@@ -6220,7 +6220,7 @@
         "type": "color"
       },
       "a25": {
-        "value": "rgba(250, 236, 209, 0.25)",
+        "value": "rgba(250, 209, 209, 0.25)",
         "type": "color"
       },
       "a80": {
@@ -6228,7 +6228,7 @@
         "type": "color"
       },
       "a60": {
-        "value": "rgba(250, 236, 209, 0.6)",
+        "value": "rgba(245, 244, 255, 0.6)",
         "type": "color"
       },
       "a50": {
@@ -6435,7 +6435,7 @@
         "description": "Primary.Amber 800"
       },
       "500": {
-        "value": "#FEB600",
+        "value": "#FB3C3C",
         "type": "color",
         "description": "Primary.amber 500, Primary.amber 700"
       },
@@ -6590,7 +6590,7 @@
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "linear-gradient(180deg, #4B433C 0%, #372B23 100%)",
+        "value": "linear-gradient(180deg, #393838 0%, #2A2121 100%);",
         "type": "color",
         "description": "gradients.Brown 550"
       },

@@ -330,7 +330,7 @@
           "type": "borderRadius"
         },
         "button": {
-          "value": "{border-radius.core.200}",
+          "value": "{border-radius.core.full}",
           "type": "borderRadius"
         }
       }
@@ -6637,7 +6637,7 @@
         "description": "gradient.Black 600"
       },
       "5": {
-        "value": "#25252A",
+        "value": "#14141C",
         "type": "color",
         "description": "menu"
       },

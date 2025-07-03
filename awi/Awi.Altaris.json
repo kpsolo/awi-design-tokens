@@ -4546,7 +4546,7 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, #19140C 0%, #5E5547 100%)",
+              "value": "linear-gradient(90deg, #190C0C 0%, #5E4747 100%)",
               "type": "color"
             },
             "active": {

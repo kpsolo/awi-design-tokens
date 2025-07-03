@@ -5822,11 +5822,11 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "letterSpacing": "{blur.0}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -5855,11 +5855,11 @@
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{lg}",
+        "letterSpacing": "{blur.0}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },

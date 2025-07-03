@@ -5435,7 +5435,7 @@
         },
         "smaller": {
           "fill": {
-            "value": "rgba(27, 24, 19, 0.40)",
+            "value": "rgba(137, 102, 102, 0.40)",
             "type": "color"
           },
           "border": {

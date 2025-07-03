@@ -5400,7 +5400,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.60) 20.83%, #000 100%)",
+          "value": "inear-gradient(180deg, rgba(45, 45, 53, 0.00) 0%, rgba(45, 45, 53, 0.60) 20.83%, #2D2D35 100%)",
           "type": "color"
         }
       },

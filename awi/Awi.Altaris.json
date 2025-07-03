@@ -5877,11 +5877,10 @@
     "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     }

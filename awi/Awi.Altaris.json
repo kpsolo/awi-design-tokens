@@ -6112,7 +6112,7 @@
         "type": "color"
       },
       "700": {
-        "value": "#6E521E",
+        "value": "#FFF5F5",
         "type": "color"
       },
       "800": {
@@ -6163,7 +6163,7 @@
         "type": "color"
       },
       "a25": {
-        "value": "rgba(250, 236, 209, 0.25)",
+        "value": "rgba(255, 245, 245, 0.15)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
       }

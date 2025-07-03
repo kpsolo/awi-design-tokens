@@ -5811,7 +5811,7 @@
     "lg-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "{blur.0}",
@@ -5855,7 +5855,7 @@
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "{blur.0}",

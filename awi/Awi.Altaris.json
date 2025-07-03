@@ -4565,7 +4565,7 @@
         },
         "elipse": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a5}",
             "type": "color"
           },
           "hover": {
@@ -6038,7 +6038,7 @@
         "description": "replaceble.white 8%\n"
       },
       "a5": {
-        "value": "rgba(255, 255, 255, 0.05)",
+        "value": "#2E2E3A",
         "type": "color",
         "description": "replaceble.white 8%\n"
       },

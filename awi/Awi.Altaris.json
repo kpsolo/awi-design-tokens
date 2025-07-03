@@ -5811,11 +5811,11 @@
     "lg-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "letterSpacing": "{blur.0}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },

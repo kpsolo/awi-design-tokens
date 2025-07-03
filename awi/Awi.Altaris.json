@@ -6009,7 +6009,7 @@
         "description": "basic.sand 1000"
       },
       "a20": {
-        "value": "rgba(7, 7, 3, 0.20)",
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
         "description": "Black 20% (white)\n"
       },
@@ -6109,7 +6109,7 @@
         "type": "color"
       },
       "600": {
-        "value": "#816737",
+        "value": "#FFF4F4",
         "type": "color"
       },
       "700": {
@@ -6117,7 +6117,7 @@
         "type": "color"
       },
       "800": {
-        "value": "#593B03",
+        "value": "#FFF4F4",
         "type": "color",
         "description": "basic.sand 900"
       },
@@ -6555,7 +6555,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "linear-gradient(180deg, #FFF 0%, #FFF6EA 100%)",
+        "value": "#38373E",
         "type": "color",
         "description": "gradients.yellow 50"
       },
@@ -6637,7 +6637,7 @@
         "description": "gradient.Black 600"
       },
       "5": {
-        "value": "#231C12",
+        "value": "#14141C",
         "type": "color",
         "description": "menu"
       },

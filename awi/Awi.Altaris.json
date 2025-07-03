@@ -4525,7 +4525,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-60.900}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         },
@@ -6029,7 +6029,7 @@
         "description": "basic.white"
       },
       "a0": {
-        "value": "#2C2C31",
+        "value": "#1E1E22",
         "type": "color"
       },
       "a8": {

@@ -178,7 +178,7 @@
     },
     "button": {
       "sm": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       },
       "md": {

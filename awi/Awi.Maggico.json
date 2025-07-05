@@ -8075,7 +8075,7 @@
     }
   },
   "banner": {
-    "titleXXXL": {
+    "title-XXXL": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",

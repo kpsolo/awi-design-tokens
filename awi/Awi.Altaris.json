@@ -5878,8 +5878,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Medium}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
         "textCase": "{text-case.none}"
       },
       "type": "typography"

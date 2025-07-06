@@ -5372,11 +5372,11 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(80deg, #5B1986 -10%, #BE1FF1 40%, #331759 100%)",
+            "value": "linear-gradient(80deg, #5B1986 10%, #BE1FF1 40%, #331759 100%)",
             "type": "color"
           },
           "active": {
-            "value": "radial-gradient(190% 70% at 15% 40%, rgba(130, 110, 243, 1) 0%, rgba(253, 50, 124, 0) 100%), radial-gradient(130% 130% at 60% -10%, #489BDB 0%, rgba(86, 84, 74, 0) 100%), radial-gradient(50% 95% at 30% 40%, #C104E8 0%, #4E2FBF 100%), radial-gradient(20% 110% at 40% -30%, rgba(25, 20, 24, 1) 20%, #000 100%)",
+            "value": "radial-gradient(100% 70% at 15% 40%, rgba(100, 110, 240, 1) 10%, rgba(250, 50, 125, 0) 100%), radial-gradient(100% 100% at 60% 10%, #489BDB 1%, rgba(80, 80, 74, 0) 100%), radial-gradient(50% 90% at 30% 40%, #C104E8 1%, #4E2FBF 100%), radial-gradient(20% 100% at 40% 10%, rgba(25, 20, 24, 1) 20%, #000 100%)",
             "type": "color"
           }
         },

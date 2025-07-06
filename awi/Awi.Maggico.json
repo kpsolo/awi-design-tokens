@@ -5390,11 +5390,11 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{core.brand-30.100}",
+            "value": "{semantic.border.active.element}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },

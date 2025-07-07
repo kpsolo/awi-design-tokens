@@ -5573,7 +5573,7 @@
     "type": "lineHeights"
   },
   "xl": {
-    "value": "26px",
+    "value": "24px",
     "type": "lineHeights"
   },
   "xxl": {
@@ -5834,20 +5834,18 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
-        "fontSize": "{scale-7}",
+        "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
-        "fontSize": "{scale-7}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
         "textCase": "{text-case.none}"
       },
       "type": "typography"

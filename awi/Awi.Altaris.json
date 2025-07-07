@@ -5062,7 +5062,7 @@
         }
       },
       "text-overlay": {
-        "value": "linear-gradient(180deg, rgba(27, 24, 19, 0.00) 0%, #1B1813 100%)",
+        "value": "linear-gradient(180deg, rgba(26, 26, 34, 0.00) 0%, #1A1A22 100%)",
         "type": "color"
       }
     },

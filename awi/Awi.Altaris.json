@@ -7270,7 +7270,7 @@
     },
     "homepage": {
       "nav-menu": {
-        "value": "{blur.0}",
+        "value": "{blur.400}",
         "type": "dimension"
       }
     },

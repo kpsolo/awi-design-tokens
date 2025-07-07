@@ -5278,7 +5278,7 @@
             "description": "Tiket"
           },
           "text": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{core.brand-60.300}",
             "type": "color",
             "description": "Tiket"
           }
@@ -6100,7 +6100,7 @@
         "type": "color"
       },
       "400": {
-        "value": "#A29172",
+        "value": "#AD9E9E",
         "type": "color"
       },
       "500": {
@@ -6163,7 +6163,7 @@
         "type": "color"
       },
       "a25": {
-        "value": "rgba(255, 245, 245, 0.15)",
+        "value": "rgba(255, 245, 245, 0.10)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
       }

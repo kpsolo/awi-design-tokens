@@ -4260,17 +4260,17 @@
         "item": {
           "text": {
             "default": {
-              "value": "{core.brand-30.300}",
+              "value": "{core.brand-60.50}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             }
           },
           "icon": {
             "default": {
-              "value": "#D7D7D7",
+              "value": "{core.brand-60.100}",
               "type": "color"
             },
             "hover-active": {
@@ -4345,7 +4345,7 @@
         },
         "item": {
           "title": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-10.50}",
             "type": "color"
           }
         },

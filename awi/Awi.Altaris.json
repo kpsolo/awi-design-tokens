@@ -5545,7 +5545,7 @@
     "type": "fontSizes"
   },
   "scale-7": {
-    "value": "26px",
+    "value": "24px",
     "type": "fontSizes"
   },
   "scale-8": {
@@ -5573,7 +5573,7 @@
     "type": "lineHeights"
   },
   "xl": {
-    "value": "24px",
+    "value": "26px",
     "type": "lineHeights"
   },
   "xxl": {
@@ -5844,7 +5844,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Medium}",
-        "fontSize": "{scale-6}",
+        "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "textCase": "{text-case.none}"
       },
@@ -5854,7 +5854,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-6}",
+        "fontSize": "{scale-7}",
         "lineHeight": "{lg}",
         "letterSpacing": "{blur.0}",
         "textCase": "{text-case.none}"

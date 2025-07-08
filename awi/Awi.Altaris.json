@@ -4345,7 +4345,7 @@
         },
         "item": {
           "title": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         },
@@ -5273,12 +5273,12 @@
         },
         "label": {
           "fill": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Tiket"
           },
           "text": {
-            "value": "{core.brand-60.300}",
+            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Tiket"
           }
@@ -5421,15 +5421,15 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.a25}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           }
         },
@@ -6905,7 +6905,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.400}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         },
         "accent": {

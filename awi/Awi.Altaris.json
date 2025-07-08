@@ -5439,11 +5439,11 @@
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         }

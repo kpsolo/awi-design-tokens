@@ -277,7 +277,7 @@
     },
     "header": {
       "mobile-top-up": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       },
       "general": {
@@ -4044,7 +4044,7 @@
       },
       "scroll-horizontal": {
         "fill": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-60.a40}",
           "type": "color"
         },
         "static": {

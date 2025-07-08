@@ -6026,7 +6026,7 @@
         "description": "basic.white"
       },
       "a0": {
-        "value": "#2E2E3A",
+        "value": "#ffffff00",
         "type": "color"
       },
       "a8": {
@@ -6035,7 +6035,7 @@
         "description": "replaceble.white 8%\n"
       },
       "a5": {
-        "value": "#17171C",
+        "value": "rgba(255, 255, 255, 0.05)",
         "type": "color",
         "description": "replaceble.white 8%\n"
       },
@@ -6050,7 +6050,7 @@
         "description": "\n"
       },
       "a25": {
-        "value": "rgba(255, 245, 245, 0.15)",
+        "value": "rgba(255, 245, 245, 0.25)",
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
       },
@@ -6552,7 +6552,7 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "#38373E",
+        "value": "{core.brand-60.a30}",
         "type": "color",
         "description": "gradients.yellow 50"
       },

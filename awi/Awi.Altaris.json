@@ -6265,12 +6265,12 @@
           "description": "Secondary.red 500"
         },
         "500": {
-          "value": "#FE4C25",
+          "value": "{core.brand-10.600}",
           "type": "color",
           "description": "Secondary.red 500"
         },
         "600": {
-          "value": "#CB3D1E",
+          "value": "{core.brand-10.500}",
           "type": "color",
           "description": "Secondary.red 600"
         },
@@ -6379,12 +6379,12 @@
           "description": "Secondary.yellow 300"
         },
         "500": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.500}",
           "type": "color",
           "description": "Secondary.yellow 300"
         },
         "600": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.600}",
           "type": "color",
           "description": "Secondary.yellow 300"
         },

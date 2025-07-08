@@ -4325,11 +4325,11 @@
             },
             "text": {
               "active": {
-                "value": "{core.brand-10.500}",
+                "value": "{core.brand-10.400}",
                 "type": "color"
               },
               "default": {
-                "value": "{core.brand-30.300}",
+                "value": "{core.brand-60.50}",
                 "type": "color"
               }
             }
@@ -4384,7 +4384,7 @@
       },
       "title&show-all": {
         "icon": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "link": {

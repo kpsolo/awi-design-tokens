@@ -4411,7 +4411,7 @@
         },
         "card": {
           "text": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-10.50}",
             "type": "color"
           },
           "text-body": {
@@ -5030,7 +5030,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-10.50}",
             "type": "color"
           }
         }
@@ -5048,16 +5048,16 @@
         }
       },
       "heading": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-60.50}",
         "type": "color"
       },
       "text": {
         "secondary": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         },
         "primary": {
-          "value": "{core.brand-30.50}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         }
       },
@@ -5470,7 +5470,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         }
       },

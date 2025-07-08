@@ -5962,7 +5962,7 @@
         "description": "basic.sand 1100"
       },
       "100": {
-        "value": "{core.white.a80}",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "basic.sand 1100"
       },
@@ -6564,12 +6564,12 @@
       "3": {
         "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%);",
         "type": "color",
-        "description": "gradient. yellow 500"
+        "description": "+gradient. yellow 500"
       },
       "4": {
         "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
         "type": "color",
-        "description": "gradients.orange 500"
+        "description": "+gradients.orange 500"
       },
       "5": {
         "value": "linear-gradient(180deg, #EBB849 0%, #CE611B 100%)",
@@ -6599,7 +6599,7 @@
       "10": {
         "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
         "type": "color",
-        "description": "gradients.Emerald 600"
+        "description": "+gradients.Emerald 600"
       },
       "11": {
         "value": "#0F0F14",

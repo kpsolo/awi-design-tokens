@@ -6201,7 +6201,7 @@
         "description": "basic.sand 400"
       },
       "700": {
-        "value": "#C9B388",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "800": {
@@ -6213,27 +6213,27 @@
         "type": "color"
       },
       "a15": {
-        "value": "rgba(250, 236, 209, 0.15)",
+        "value": "rgba(255, 241, 170, 0.15)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(250, 209, 209, 0.25)",
+        "value": "rgba(255, 241, 170, 0.25)",
         "type": "color"
       },
       "a80": {
-        "value": "rgba(250, 236, 209, 0.8)",
+        "value": "rgba(255, 241, 170, 0.8)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(245, 244, 255, 0.6)",
+        "value": "rgba(255, 241, 170, 0.6)",
         "type": "color"
       },
       "a50": {
-        "value": "rgba(250, 236, 209, 0.5)",
+        "value": "rgba(255, 241, 170, 0.5)",
         "type": "color"
       },
       "a8": {
-        "value": "rgba(215, 197, 252, 0.08)",
+        "value": "rgba(255, 241, 170, 0.08)",
         "type": "color"
       }
     },

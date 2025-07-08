@@ -6835,19 +6835,19 @@
     "text": {
       "default": {
         "heading": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "primary": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.a70}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.a50}",
+          "value": "{core.brand-60.300}",
           "type": "color"
         }
       },

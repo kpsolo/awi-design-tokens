@@ -6437,12 +6437,12 @@
         "description": "Primary.amber 500, Primary.amber 700"
       },
       "600": {
-        "value": "#E58900",
+        "value": "#FA1313",
         "type": "color",
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "#D29846",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "Primary.Amber 800"
       },

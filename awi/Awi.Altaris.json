@@ -6082,108 +6082,108 @@
     },
     "brand-60": {
       "50": {
-        "value": "{core.white.a0}",
+        "value": "#E3E3ED",
         "type": "color"
       },
       "100": {
-        "value": "{core.white.a0}",
+        "value": "#C7C7DC",
         "type": "color"
       },
       "200": {
-        "value": "{core.white.a0}",
+        "value": "#AAAACA",
         "type": "color"
       },
       "300": {
-        "value": "#141420",
+        "value": "#8E8EB9",
         "type": "color"
       },
       "400": {
-        "value": "#2B2B46",
+        "value": "#7272A7",
         "type": "color"
       },
       "500": {
-        "value": "#030331",
+        "value": "#5A5A91",
         "type": "color"
       },
       "600": {
-        "value": "#111123",
+        "value": "#494975",
         "type": "color"
       },
       "700": {
-        "value": "#0F0F25",
+        "value": "#373758",
         "type": "color"
       },
       "800": {
-        "value": "{core.white.a0}",
+        "value": "#26263C",
         "type": "color",
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#070703",
+        "value": "#141420",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
       "a15": {
-        "value": "rgba(20, 20, 32, 0.15)",
+        "value": "rgba(142, 142, 185, 0.15)",
         "type": "color",
         "description": "replacement.sand 300 (15%)\n"
       },
       "a30": {
-        "value": "rgba(20, 20, 32, 0.30)",
+        "value": "rgba(142, 142, 185, 0.30)",
         "type": "color"
       },
       "a20": {
-        "value": "rgba(20, 20, 32, 0.20)",
+        "value": "rgba(142, 142, 185, 0.20)",
         "type": "color"
       },
       "a10": {
-        "value": "rgba(20, 20, 32, 0.10)",
+        "value": "rgba(142, 142, 185, 0.10)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(20, 20, 32, 0.40)",
+        "value": "rgba(142, 142, 185, 0.40)",
         "type": "color"
       },
       "a50": {
-        "value": "rgba(20, 20, 32, 0.50)",
+        "value": "rgba(142, 142, 185, 0.50)",
         "type": "color"
       },
       "a70": {
-        "value": "rgba(20, 20, 32, 0.70)",
+        "value": "rgba(142, 142, 185, 0.70)",
         "type": "color"
       },
       "a80": {
-        "value": "rgba(20, 20, 32, 0.80)",
+        "value": "rgba(142, 142, 185, 0.80)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(20, 20, 32, 0.80)",
+        "value": "rgba(38, 38, 60, 0.8)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(20, 20, 32, 0.3)",
+        "value": "rgba(38, 38, 60, 0.3)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
       }
     },
     "brand-30": {
       "50": {
-        "value": "#FFFAE3",
+        "value": "#FFFBE5",
         "type": "color",
         "description": "basic.sand 50"
       },
       "100": {
-        "value": "#FFF6C6",
+        "value": "#FFF2B2",
         "type": "color",
         "description": "basic.sand 100"
       },
       "200": {
-        "value": "#FFF1AA",
+        "value": "#FFEA7F",
         "type": "color",
         "description": "basic.sand 200"
       },
       "300": {
-        "value": "#FFEC8D",
+        "value": "#FFE14C",
         "type": "color",
         "description": "basic.sand 300"
       },
@@ -6192,48 +6192,48 @@
         "type": "color"
       },
       "500": {
-        "value": "#f1c900",
+        "value": "#FED400",
         "type": "color"
       },
       "600": {
-        "value": "#ffd500",
+        "value": "#E5BF00",
         "type": "color",
         "description": "basic.sand 400"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "#B29400",
         "type": "color"
       },
       "800": {
-        "value": "{core.white.a0}",
+        "value": "#7F6A00",
         "type": "color"
       },
       "900": {
-        "value": "{core.white.a0}",
+        "value": "#4C4000",
         "type": "color"
       },
       "a15": {
-        "value": "rgba(255, 241, 170, 0.15)",
+        "value": "rgba(255, 234, 127, 0.15)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(255, 241, 170, 0.25)",
+        "value": "rgba(255, 234, 127, 0.25)",
         "type": "color"
       },
       "a80": {
-        "value": "rgba(255, 241, 170, 0.8)",
+        "value": "rgba(255, 234, 127, 0.8)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(255, 241, 170, 0.6)",
+        "value": "rgba(255, 234, 127, 0.8)",
         "type": "color"
       },
       "a50": {
-        "value": "rgba(255, 241, 170, 0.5)",
+        "value": "rgba(255, 234, 127, 0.5)",
         "type": "color"
       },
       "a8": {
-        "value": "rgba(255, 241, 170, 0.08)",
+        "value": "rgba(255, 234, 127, 0.08)",
         "type": "color"
       }
     },

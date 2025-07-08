@@ -6094,15 +6094,15 @@
         "type": "color"
       },
       "300": {
-        "value": "{core.white.a0}",
+        "value": "#141420",
         "type": "color"
       },
       "400": {
-        "value": "#AD9E9E",
+        "value": "#2B2B46",
         "type": "color"
       },
       "500": {
-        "value": "#967E51",
+        "value": "#030331",
         "type": "color"
       },
       "600": {
@@ -6124,32 +6124,32 @@
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
       "a15": {
-        "value": "rgba(250, 236, 209, 0.15)",
+        "value": "rgba(20, 20, 32, 0.15)",
         "type": "color",
         "description": "replacement.sand 300 (15%)\n"
       },
       "a30": {
-        "value": "rgba(89, 59, 3, 0.30)",
+        "value": "rgba(20, 20, 32, 0.30)",
         "type": "color"
       },
       "a20": {
-        "value": "rgba(89, 59, 3, 0.20)",
+        "value": "rgba(20, 20, 32, 0.20)",
         "type": "color"
       },
       "a10": {
-        "value": "rgba(89, 59, 3, 0.10)",
+        "value": "rgba(20, 20, 32, 0.10)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(230, 220, 200, 0.40)",
+        "value": "rgba(20, 20, 32, 0.40)",
         "type": "color"
       },
       "a50": {
-        "value": "rgba(230, 220, 200, 0.50)",
+        "value": "rgba(20, 20, 32, 0.50)",
         "type": "color"
       },
       "a70": {
-        "value": "rgba(230, 220, 200, 0.70)",
+        "value": "rgba(20, 20, 32, 0.70)",
         "type": "color"
       },
       "a80": {

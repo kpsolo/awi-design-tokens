@@ -5026,11 +5026,11 @@
         },
         "icon": {
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-10.50}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         }

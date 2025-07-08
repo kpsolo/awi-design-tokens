@@ -6106,15 +6106,15 @@
         "type": "color"
       },
       "600": {
-        "value": "#FFF4F4",
+        "value": "#111123",
         "type": "color"
       },
       "700": {
-        "value": "#FFF5F5",
+        "value": "#0F0F25",
         "type": "color"
       },
       "800": {
-        "value": "#FFF4F4",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "basic.sand 900"
       },

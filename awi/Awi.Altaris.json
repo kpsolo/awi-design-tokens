@@ -6153,15 +6153,15 @@
         "type": "color"
       },
       "a80": {
-        "value": "rgba(255, 241, 241, 0.8)",
+        "value": "rgba(20, 20, 32, 0.80)",
         "type": "color"
       },
       "a60": {
-        "value": "rgba(230, 220, 200, 0.60)",
+        "value": "rgba(20, 20, 32, 0.80)",
         "type": "color"
       },
       "a25": {
-        "value": "rgba(255, 245, 245, 0.10)",
+        "value": "rgba(20, 20, 32, 0.3)",
         "type": "color",
         "description": "replacement.sand 300 (25%)"
       }

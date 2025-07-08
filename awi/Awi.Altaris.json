@@ -6407,51 +6407,51 @@
     },
     "brand-10": {
       "50": {
-        "value": "{core.white.a0}",
+        "value": "#FFEBEB",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "100": {
-        "value": "{core.white.a0}",
+        "value": "#FEC4C4",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "200": {
-        "value": "{core.white.a0}",
+        "value": "#FD9D9D",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "300": {
-        "value": "{core.white.a0}",
+        "value": "#FC7676",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "400": {
-        "value": "#FB4949",
+        "value": "#FB3C3C",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "500": {
-        "value": "#FB3C3C",
+        "value": "#FA1D1D",
         "type": "color",
         "description": "Primary.amber 500, Primary.amber 700"
       },
       "600": {
-        "value": "#FA1313",
+        "value": "#D50505",
         "type": "color",
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "#980303",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "800": {
-        "value": "{core.white.a0}",
+        "value": "#5B0202",
         "type": "color"
       },
       "900": {
-        "value": "{core.white.a0}",
+        "value": "#1E0101",
         "type": "color",
         "description": "Primary.Amber 800"
       },

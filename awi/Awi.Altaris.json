@@ -6168,35 +6168,35 @@
     },
     "brand-30": {
       "50": {
-        "value": "#EAE6E1",
+        "value": "#FFFAE3",
         "type": "color",
         "description": "basic.sand 50"
       },
       "100": {
-        "value": "#E2DCD5",
+        "value": "#FFF6C6",
         "type": "color",
         "description": "basic.sand 100"
       },
       "200": {
-        "value": "#FAF8FF",
+        "value": "#FFF1AA",
         "type": "color",
         "description": "basic.sand 200"
       },
       "300": {
-        "value": "#FFF5F5",
+        "value": "#FFEC8D",
         "type": "color",
         "description": "basic.sand 300"
       },
       "400": {
-        "value": "#E7D7B8",
+        "value": "#FFE771",
         "type": "color"
       },
       "500": {
-        "value": "#FEB600",
+        "value": "#f1c900",
         "type": "color"
       },
       "600": {
-        "value": "#C6C5C5",
+        "value": "#ffd500",
         "type": "color",
         "description": "basic.sand 400"
       },

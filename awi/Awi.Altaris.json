@@ -3844,7 +3844,7 @@
           "type": "color"
         },
         "text": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.brand-10.50}",
           "type": "color"
         }
       }
@@ -4503,7 +4503,7 @@
       "item": {
         "text": {
           "default": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "hover": {
@@ -4511,7 +4511,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "hover-active": {
@@ -4525,13 +4525,13 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-10.50}",
             "type": "color"
           }
         },
         "notification": {
           "text": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-10.50}",
             "type": "color"
           },
           "border": {
@@ -4540,7 +4540,7 @@
           }
         },
         "icon-left": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.brand-10.50}",
           "type": "color"
         },
         "prime": {
@@ -6793,7 +6793,7 @@
       },
       "default": {
         "primary": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "secondary": {

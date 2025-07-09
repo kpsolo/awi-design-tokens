@@ -1712,5 +1712,13 @@
     },
     "$figmaCollectionId": "VariableCollectionId:13:19544",
     "$figmaModeId": "13:0"
+  },
+  {
+    "id": "706cdeb5b99eadda274bb52ecdb39e9d20424ec5",
+    "name": "Altaris",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled"
+    }
   }
 ]

@@ -4894,7 +4894,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-60.800}",
         "type": "color"
       },
       "additional-block": {
@@ -4975,7 +4975,7 @@
       },
       "bottom": {
         "fill": {
-          "value": "{core.brand-30.100}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "border": {

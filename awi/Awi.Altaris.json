@@ -6572,7 +6572,7 @@
         "description": "+gradients.orange 500"
       },
       "5": {
-        "value": "linear-gradient(180deg, #EBB849 0%, #CE611B 100%)",
+        "value": "linear-gradient(180deg, #A60216 0%, #860D1C 100%)",
         "type": "color",
         "description": "gradients.orange 600"
       },
@@ -6664,15 +6664,15 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.gradients.5}",
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(0deg, rgba(245, 196, 92, 0.32) 0%, rgba(255, 228, 87, 0.32) 100%)",
+            "value": "{core.brand-10.a25}",
             "type": "color"
           }
         },
@@ -6722,19 +6722,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.tertiary.hover}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 246, 234, 0.32) 100%)",
+            "value": "{core.white.a30}",
             "type": "color"
           }
         },
@@ -6948,19 +6948,19 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{core.brand-10.a40}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.a40}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.a40}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-10.a5}",
+            "value": "{core.grey.a30}",
             "type": "color"
           }
         },

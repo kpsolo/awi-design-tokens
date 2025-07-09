@@ -4290,7 +4290,7 @@
           },
           "border": {
             "border-active-state": {
-              "value": "#FB3C3C",
+              "value": "{core.brand-10.400}",
               "type": "color"
             }
           }

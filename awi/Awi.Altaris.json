@@ -3754,7 +3754,7 @@
           },
           "fill-v2": {
             "close": {
-              "value": "{semantic.background.5}",
+              "value": "{core.brand-60.a20}",
               "type": "color"
             },
             "open": {

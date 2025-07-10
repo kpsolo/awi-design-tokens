@@ -6842,15 +6842,15 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.200}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.300}",
+          "value": "{core.grey.300}",
           "type": "color"
         }
       },
@@ -6900,19 +6900,19 @@
       },
       "static": {
         "primary": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.200}",
+          "value": "{core.brand-60.600}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.brand-60.300}",
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       },

@@ -2545,6 +2545,44 @@
         "slate-on-card": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "nornal": {
+          "fiill": {
+            "default": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "received": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "progress": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "get": {
+              "value": "#59492A",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "received": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "progress": {
+              "value": "#59492A",
+              "type": "color"
+            },
+            "get": {
+              "value": "#59492A",
+              "type": "color"
+            }
+          }
         }
       },
       "banner": {

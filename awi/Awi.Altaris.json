@@ -2082,7 +2082,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.secondary}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "hover": {
@@ -6856,11 +6856,11 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "on-brand": {

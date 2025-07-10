@@ -292,7 +292,7 @@
             "description": "contextual.header.desktop.special-menu-item"
           },
           "opened": {
-            "value": "{border-radius.core.300}",
+            "value": "20px",
             "type": "borderRadius"
           }
         }
@@ -362,7 +362,7 @@
     "wheel": {
       "popup": {
         "general": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.core.full}",
           "type": "borderRadius",
           "description": "shadow.wheel.popup.general"
         }

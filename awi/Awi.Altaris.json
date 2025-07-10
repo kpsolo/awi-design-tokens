@@ -318,7 +318,7 @@
     },
     "segment-control": {
       "item": {
-        "value": "{border-radius.core.300}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
       }
@@ -337,25 +337,25 @@
     },
     "profile": {
       "status": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
     },
     "loyalty": {
       "chips": {
-        "value": "{border-radius.core.100}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
     },
     "lootboxes": {
       "coefficient": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius",
         "description": "contextual.lootboxes.coefficient"
       }
     },
     "banner": {
-      "value": "{border-radius.core.300}",
+      "value": "{border-radius.core.full}",
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
     },

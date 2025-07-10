@@ -6682,24 +6682,24 @@
         "emphasizing": {
           "default": {
             "primary": {
-              "value": "{core.brand-10.500}",
+              "value": "{semantic.text.brand.primary}",
               "type": "color",
               "description": "emphasizing"
             },
             "secondary": {
-              "value": "{core.brand-30.500}",
+              "value": "{semantic.text.brand.secondary}",
               "type": "color",
               "description": "emphasizing"
             }
           },
           "static": {
             "primary": {
-              "value": "{core.brand-10.600}",
+              "value": "{core.brand-30.700}",
               "type": "color",
               "description": "emphasizing"
             },
             "secondary": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-10.600}",
               "type": "color",
               "description": "emphasizing"
             }

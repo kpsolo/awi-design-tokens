@@ -6526,12 +6526,12 @@
         "description": "Secondary.red 500"
       },
       "500": {
-        "value": "#FE4C25",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "Secondary.red 500"
       },
       "600": {
-        "value": "#CB3D1E",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "Secondary.red 600"
       },

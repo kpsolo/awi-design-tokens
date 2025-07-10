@@ -5005,7 +5005,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.grey.900}",
+        "value": "{core.brand-60.900}",
         "type": "color"
       },
       "border": {

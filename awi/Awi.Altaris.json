@@ -5470,7 +5470,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.400}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

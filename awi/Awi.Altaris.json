@@ -2718,7 +2718,7 @@
         "type": "color"
       },
       "close": {
-        "value": "{core.brand-60.400}",
+        "value": "{semantic.icon.default.secondary}",
         "type": "color"
       },
       "text": {

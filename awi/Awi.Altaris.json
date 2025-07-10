@@ -223,7 +223,7 @@
       "type": "borderRadius"
     },
     "popover": {
-      "value": "{border-radius.core.300}",
+      "value": "{border-radius.core.400}",
       "type": "borderRadius",
       "description": "\n\n\n"
     },
@@ -233,7 +233,7 @@
         "type": "borderRadius"
       },
       "item": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
     },
@@ -301,17 +301,17 @@
     "menu": {
       "item": {
         "new": {
-          "value": "{border-radius.core.100}",
+          "value": "{border-radius.core.full}",
           "type": "borderRadius"
         }
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.core.full}",
           "type": "borderRadius"
         },
         "large": {
-          "value": "{border-radius.core.300}",
+          "value": "24px",
           "type": "borderRadius"
         }
       }

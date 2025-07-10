@@ -1655,7 +1655,7 @@
             "y": "0",
             "blur": "4",
             "spread": "0",
-            "color": "rgba(255, 255, 255, 0.00)",
+            "color": "{core.brand-10.a60}",
             "type": "dropShadow"
           }
         ],

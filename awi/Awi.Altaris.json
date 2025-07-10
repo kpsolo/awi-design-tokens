@@ -6565,7 +6565,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%);",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "+gradient. yellow 500"
       },

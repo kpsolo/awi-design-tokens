@@ -5461,7 +5461,7 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "linear-gradient(180deg, rgba(65, 56, 48, 0.40) 0%, rgba(28, 25, 24, 0.40) 100%)",
+        "value": "linear-gradient(180deg, rgba(57, 55, 71, 0.40) 0%, rgba(25, 24, 28, 0.40) 100%)",
         "type": "color"
       },
       "text": {

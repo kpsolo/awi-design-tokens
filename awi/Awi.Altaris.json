@@ -6663,7 +6663,7 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{semantic.gradients.3}",
+            "value": "{semantic.gradients.4}",
             "type": "color"
           },
           "hover": {

@@ -4564,7 +4564,7 @@
         },
         "elipse": {
           "default": {
-            "value": "{core.white.a5}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {

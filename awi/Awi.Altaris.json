@@ -6325,12 +6325,12 @@
           "description": "Primary.emerald 500"
         },
         "500": {
-          "value": "#00e593",
+          "value": "#27DB13",
           "type": "color",
           "description": "Primary.emerald 500"
         },
         "600": {
-          "value": "#08C682",
+          "value": "#27BE13",
           "type": "color",
           "description": "Primary.emerald 500"
         },
@@ -6350,7 +6350,7 @@
           "description": "Primary.emerald 500"
         },
         "a20": {
-          "value": "rgba(0, 229, 147, 0.20)",
+          "value": "rgba(39, 219, 19, 0.2)",
           "type": "color",
           "description": "Primary.emerald 500 20%"
         }

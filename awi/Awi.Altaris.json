@@ -4476,7 +4476,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.a80}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         },
         "tertiary": {

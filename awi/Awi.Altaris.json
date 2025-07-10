@@ -3888,15 +3888,15 @@
     },
     "tag": {
       "text": {
-        "value": "{semantic.text.static.primary}",
+        "value": "{semantic.text.default.primary}",
         "type": "color"
       },
       "background": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-60.a15}",
         "type": "color"
       },
       "icon": {
-        "value": "{core.brand-60.500}",
+        "value": "{semantic.icon.default.secondary}",
         "type": "color"
       }
     },

@@ -6189,25 +6189,38 @@
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
+      "a10": {
+        "value": "rgba(142, 142, 185, 0.10)",
+        "type": "color"
+      },
       "a15": {
         "value": "rgba(142, 142, 185, 0.15)",
         "type": "color",
         "description": "replacement.sand 300 (15%)\n"
       },
-      "a30": {
-        "value": "rgba(142, 142, 185, 0.30)",
-        "type": "color"
-      },
       "a20": {
         "value": "rgba(142, 142, 185, 0.20)",
         "type": "color"
       },
-      "a10": {
-        "value": "rgba(142, 142, 185, 0.10)",
+      "a25": {
+        "value": "rgba(38, 38, 60, 0.3)",
+        "type": "color",
+        "description": "replacement.sand 300 (25%)"
+      },
+      "a30": {
+        "value": "rgba(142, 142, 185, 0.30)",
+        "type": "color"
+      },
+      "a40": {
+        "value": "rgba(142, 142, 185, 0.40)",
         "type": "color"
       },
       "a50": {
         "value": "rgba(142, 142, 185, 0.50)",
+        "type": "color"
+      },
+      "a60": {
+        "value": "rgba(38, 38, 60, 0.8)",
         "type": "color"
       },
       "a70": {
@@ -6217,15 +6230,6 @@
       "a80": {
         "value": "rgba(142, 142, 185, 0.80)",
         "type": "color"
-      },
-      "a60": {
-        "value": "rgba(38, 38, 60, 0.8)",
-        "type": "color"
-      },
-      "a25": {
-        "value": "rgba(38, 38, 60, 0.3)",
-        "type": "color",
-        "description": "replacement.sand 300 (25%)"
       }
     },
     "brand-30": {

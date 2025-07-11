@@ -6186,21 +6186,25 @@
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
+      "a10": {
+        "value": "rgba(89, 59, 3, 0.10)",
+        "type": "color"
+      },
       "a15": {
         "value": "rgba(250, 236, 209, 0.15)",
         "type": "color",
         "description": "replacement.sand 300 (15%)\n"
       },
-      "a30": {
-        "value": "rgba(89, 59, 3, 0.30)",
-        "type": "color"
-      },
       "a20": {
         "value": "rgba(89, 59, 3, 0.20)",
         "type": "color"
       },
-      "a10": {
-        "value": "rgba(89, 59, 3, 0.10)",
+      "a30": {
+        "value": "rgba(89, 59, 3, 0.30)",
+        "type": "color"
+      },
+      "a40": {
+        "value": "rgba(89, 59, 3, 0.40)",
         "type": "color"
       },
       "a50": {

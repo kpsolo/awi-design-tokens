@@ -4790,6 +4790,10 @@
           "activation": {
             "value": "{core.grey.100}",
             "type": "color"
+          },
+          "received": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
           }
         },
         "border": {
@@ -4802,6 +4806,10 @@
             "type": "color"
           },
           "activation": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
+          },
+          "received": {
             "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           }
@@ -4817,6 +4825,10 @@
           },
           "activation": {
             "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "received": {
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         }
@@ -4894,6 +4906,16 @@
       "banner": {
         "fill": {
           "value": "{semantic.gradients.6}",
+          "type": "color"
+        }
+      },
+      "offers-block": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{semantic.gradients.4}",
           "type": "color"
         }
       }

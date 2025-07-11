@@ -2468,6 +2468,10 @@
           "activation": {
             "value": "{semantic.gradients.1}",
             "type": "color"
+          },
+          "received": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
           }
         },
         "text": {
@@ -2482,6 +2486,10 @@
           "activation": {
             "value": "{semantic.text.default.primary}",
             "type": "color"
+          },
+          "received": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
           }
         },
         "border": {
@@ -2494,6 +2502,10 @@
             "type": "color"
           },
           "activation": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
+          },
+          "received": {
             "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           }
@@ -2549,37 +2561,37 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "#59492A",
+              "value": "{core.white.a0}",
               "type": "color"
             },
             "received": {
-              "value": "#59492A",
+              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
               "type": "color"
             },
             "get": {
-              "value": "#59492A",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
           "border": {
             "default": {
-              "value": "#59492A",
-              "type": "color"
-            },
-            "received": {
-              "value": "#59492A",
+              "value": "{core.brand-30.a25}",
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "{core.brand-10.a40}",
+              "type": "color"
+            },
+            "received": {
+              "value": "{core.brand-10.a40}",
               "type": "color"
             },
             "get": {
-              "value": "#59492A",
+              "value": "{core.brand-30.a25}",
               "type": "color"
             }
           }
@@ -2587,6 +2599,16 @@
       },
       "banner": {
         "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        }
+      },
+      "offers-block": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "border": {
           "value": "{semantic.gradients.4}",
           "type": "color"
         }

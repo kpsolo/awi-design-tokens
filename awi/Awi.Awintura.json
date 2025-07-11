@@ -2469,6 +2469,10 @@
           "activation": {
             "value": "{semantic.gradients.1}",
             "type": "color"
+          },
+          "received": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
           }
         },
         "text": {
@@ -2483,6 +2487,10 @@
           "activation": {
             "value": "{semantic.text.default.primary}",
             "type": "color"
+          },
+          "received": {
+            "value": "{core.validation.success.500}",
+            "type": "color"
           }
         },
         "border": {
@@ -2495,6 +2503,10 @@
             "type": "color"
           },
           "activation": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color"
+          },
+          "received": {
             "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           }
@@ -2558,11 +2570,11 @@
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
               "type": "color"
             },
             "get": {
-              "value": "#59492A",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
@@ -2576,7 +2588,7 @@
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "{core.brand-10.a40}",
               "type": "color"
             },
             "get": {
@@ -2589,6 +2601,16 @@
       "banner": {
         "fill": {
           "value": "{semantic.gradients.4}",
+          "type": "color"
+        }
+      },
+      "offers-block": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(250, 236, 209, 0.25) 0%, rgba(250, 236, 209, 0.03) 100%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.a25}",
           "type": "color"
         }
       }

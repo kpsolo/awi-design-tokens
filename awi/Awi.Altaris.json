@@ -3532,7 +3532,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.grey.a15}",
             "type": "color"
           },
           "filled": {
@@ -3552,7 +3552,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.grey.a15}",
             "type": "color"
           }
         },
@@ -6078,6 +6078,10 @@
       },
       "a8": {
         "value": "rgba(7, 7, 3, 0.08)",
+        "type": "color"
+      },
+      "a15": {
+        "value": "rgba(191, 191, 206, 0.15)",
         "type": "color"
       }
     },

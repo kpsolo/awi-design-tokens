@@ -7495,6 +7495,14 @@
       }
     }
   },
+  "achivments": {
+    "offers-block": {
+      "title": {
+        "value": "{heading.xl}",
+        "type": "typography"
+      }
+    }
+  },
   "letter-spacing": {
     "2": {
       "value": "2%",

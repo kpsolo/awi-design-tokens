@@ -8190,5 +8190,13 @@
       "type": "typography",
       "description": "Story"
     }
+  },
+  "achivments": {
+    "offers-block": {
+      "title": {
+        "value": "{heading.xl}",
+        "type": "typography"
+      }
+    }
   }
 }

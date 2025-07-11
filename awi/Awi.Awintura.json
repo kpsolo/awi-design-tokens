@@ -5025,7 +5025,7 @@
       },
       "icon": {
         "1": {
-          "value": "rgba(57, 38, 2, 0.30)",
+          "value": "{semantic.icon.static.tertiary}",
           "type": "color"
         }
       },

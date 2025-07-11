@@ -4780,7 +4780,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.200}",
+            "value": "{semantic.gradients.6}",
             "type": "color"
           },
           "done": {
@@ -4792,13 +4792,13 @@
             "type": "color"
           },
           "received": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.a25}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "done": {
@@ -4810,13 +4810,13 @@
             "type": "color"
           },
           "received": {
-            "value": "rgba(255, 255, 255, 0)",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "text": {
           "progress": {
-            "value": "{core.brand-30.200}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "done": {
@@ -4828,7 +4828,7 @@
             "type": "color"
           },
           "received": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         }
@@ -4867,37 +4867,37 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "#59492A",
+              "value": "{core.white.a0}",
               "type": "color"
             },
             "received": {
-              "value": "#59492A",
+              "value": "linear-gradient(132deg, rgba(129, 122, 242, 0.54) 17%, rgba(129, 122, 242, 0.16) 40%, rgba(129, 122, 242, 0.00) 57%)",
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "{core.brand-60.a15}",
               "type": "color"
             },
             "get": {
-              "value": "#59492A",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },
           "border": {
             "default": {
-              "value": "#59492A",
+              "value": "{semantic.background.slate-4}",
               "type": "color"
             },
             "received": {
-              "value": "#59492A",
+              "value": "{core.brand-30.400}",
               "type": "color"
             },
             "progress": {
-              "value": "#59492A",
+              "value": "{semantic.gradients.6}",
               "type": "color"
             },
             "get": {
-              "value": "#59492A",
+              "value": "{semantic.background.slate-4}",
               "type": "color"
             }
           }
@@ -4911,11 +4911,11 @@
       },
       "offers-block": {
         "fill": {
-          "value": "{semantic.gradients.4}",
+          "value": "linear-gradient(178deg, #302B77 7%, rgba(7, 5, 37, 0.00) 120%)",
           "type": "color"
         },
         "border": {
-          "value": "{semantic.gradients.4}",
+          "value": "{core.white.a0}",
           "type": "color"
         }
       }
@@ -6283,7 +6283,7 @@
         "type": "color"
       },
       "400": {
-        "value": "{core.white.a0}",
+        "value": "#B18AFF",
         "type": "color"
       },
       "500": {

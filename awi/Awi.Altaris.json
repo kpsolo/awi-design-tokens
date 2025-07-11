@@ -3532,7 +3532,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.grey.a15}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "filled": {
@@ -6709,7 +6709,7 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.a15}",
         "type": "color",
         "description": "text input 1"
       },
@@ -6863,15 +6863,15 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.a70}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.a50}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.brand-60.a50}",
+          "value": "{core.grey.600}",
           "type": "color"
         }
       },

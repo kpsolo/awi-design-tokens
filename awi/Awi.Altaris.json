@@ -4982,19 +4982,19 @@
       },
       "text": {
         "heading": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "content": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.static.secondary}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{semantic.text.static.tertiary}",
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         },
         "accent": {
@@ -5002,7 +5002,7 @@
           "type": "color"
         },
         "accent-2": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       },

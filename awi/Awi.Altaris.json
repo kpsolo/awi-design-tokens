@@ -8144,7 +8144,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.xl}",
+        "value": "{heading.lg-stronger}",
         "type": "typography"
       }
     }

@@ -4798,7 +4798,7 @@
         },
         "border": {
           "progress": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{core.brand-30.a50}",
             "type": "color"
           },
           "done": {

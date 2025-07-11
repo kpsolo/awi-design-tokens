@@ -4953,7 +4953,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{core.brand-60.900}",
+        "value": "{semantic.gradients.3}",
         "type": "color"
       },
       "additional-block": {
@@ -6632,7 +6632,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "{core.white.a0}",
+        "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
         "type": "color",
         "description": "+gradient. yellow 500"
       },

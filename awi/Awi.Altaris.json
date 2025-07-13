@@ -2642,7 +2642,7 @@
             "type": "color"
           },
           "active": {
-            "value": "radial-gradient(300% 80% at 15% 40%, rgba(242, 223, 203, 0.50) 0%, rgba(167, 115, 53, 1) 100%), radial-gradient(130% 130% at 60% -12%, #F3B16F 0%, rgba(255, 255, 255, 1) 100%), radial-gradient(50% 94% at 19% 40%, #F1DEC8 0%, #9F6C2D 100%), radial-gradient(23% 114.66% at 43% -30%, rgba(24, 17, 24, 1) 21%, #000 100%)",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         },

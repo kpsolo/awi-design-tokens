@@ -5460,11 +5460,11 @@
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.border.active.element}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{semantic.background.slate-5}",
             "type": "color"
           }
         }

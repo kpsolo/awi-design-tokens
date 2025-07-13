@@ -2639,17 +2639,17 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(90deg, #DEAA6C -40%, #F1D5B8 80%, #F2CEA9 100%)",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "active": {
-            "value": "radial-gradient(100% 80% at 15% 40%, rgba(240, 223, 203, 1) 0%, rgba(160, 115, 53, 1) 100%), radial-gradient(100% 100% at 60% 1%, #F3B16F 0%, rgba(255, 255, 255, 1) 100%), radial-gradient(50% 90% at 20% 40%, #F1DEC8 0%, #9F6C2D 100%), radial-gradient(20% 100% at 40% 1%, rgba(24, 17, 24, 1) 20%, #000 100%)",
+            "value": "{semantic.gradients.9}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "linear-gradient(89deg, #D29D61 0%, #FFEFDD 330%, #FAEDDF 70%, #B36D1E 100%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }

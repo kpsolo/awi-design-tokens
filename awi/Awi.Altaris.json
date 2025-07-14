@@ -1035,7 +1035,7 @@
           "y": "{depth.0}",
           "blur": "{blur.400}",
           "spread": "{depth.0}",
-          "color": "rgba(156, 110, 247, 0.56)",
+          "color": "rgba(247, 110, 110, 0.56)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -5043,7 +5043,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a25}",
+        "value": "{core.white.a15}",
         "type": "color"
       },
       "devider": {

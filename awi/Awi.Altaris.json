@@ -3964,7 +3964,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.gradients.6}",
             "type": "color"
           },
           "hover": {
@@ -4000,7 +4000,7 @@
         },
         "check": {
           "default": {
-            "value": "{core.brand-10.600}",
+            "value": "{semantic.gradients.6}",
             "type": "color"
           },
           "hover": {

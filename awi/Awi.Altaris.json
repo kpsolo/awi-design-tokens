@@ -5051,7 +5051,7 @@
         "type": "color"
       },
       "devider-2": {
-        "value": "rgba(57, 38, 2, 0.10)",
+        "value": "{core.grey.600}",
         "type": "color"
       }
     },

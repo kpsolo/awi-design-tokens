@@ -4773,15 +4773,15 @@
       "item": {
         "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "today": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "disabled": {
@@ -4811,7 +4811,7 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "selected-range": {
@@ -4829,7 +4829,7 @@
             "type": "color"
           },
           "today": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "disabled": {
@@ -4844,16 +4844,16 @@
       },
       "week-day": {
         "text": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
       "fill": {
-        "value": "{semantic.background.slate-1}",
+        "value": "{semantic.background.5}",
         "type": "color"
       },
       "bottom-fill": {
-        "value": "{core.brand-10.100}",
+        "value": "{core.brand-60.a25}",
         "type": "color"
       }
     },

@@ -4082,11 +4082,11 @@
         }
       },
       "fill": {
-        "value": "{semantic.background.5}",
+        "value": "#16161C",
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(20, 20, 28, 0.00) 0%, #14141C 50%)",
+        "value": "linear-gradient(180deg, rgba(22, 22, 28, 0.00) 0%, #16161C 91.01%)",
         "type": "color"
       }
     },

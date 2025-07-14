@@ -3964,15 +3964,15 @@
         },
         "border": {
           "default": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "validation": {
-            "value": "{core.red.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "disabled": {
@@ -3982,15 +3982,15 @@
         },
         "bullet": {
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.40) -5.21%, rgba(204, 111, 45, 0.40) 105.21%)",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "validation": {
-            "value": "{core.red.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "disabled": {

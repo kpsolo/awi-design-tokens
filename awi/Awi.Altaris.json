@@ -5945,6 +5945,76 @@
       "type": "typography"
     }
   },
+  "popup": {
+    "registration": {
+      "banner": {
+        "subtitle": {
+          "mob": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{scale-5}",
+              "lineHeight": "{md}",
+              "textCase": "{text-case.uppercase}",
+              "letterSpacing": "0%"
+            },
+            "type": "typography"
+          },
+          "desk": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{scale-8}",
+              "lineHeight": "{xxl}",
+              "textCase": "{text-case.uppercase}",
+              "letterSpacing": "-2%"
+            },
+            "type": "typography"
+          }
+        },
+        "title": {
+          "mob": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{scale-5}",
+              "lineHeight": "{md}",
+              "textCase": "{text-case.uppercase}",
+              "letterSpacing": "0%"
+            },
+            "type": "typography"
+          },
+          "desk": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{scale-8}",
+              "lineHeight": "{xxl}",
+              "textCase": "{text-case.uppercase}",
+              "letterSpacing": "-2%"
+            },
+            "type": "typography"
+          }
+        }
+      }
+    },
+    "title": {
+      "value": "{heading.xl-stronger}",
+      "type": "typography"
+    },
+    "bottom": {
+      "min-height": {
+        "value": "{size.800}",
+        "type": "sizing"
+      }
+    },
+    "loyalty": {
+      "map": {
+        "value": "1816px",
+        "type": "sizing"
+      }
+    }
+  },
   "error-pages": {
     "accent": {
       "s": {
@@ -7948,20 +8018,6 @@
       "padding-vertical": {
         "value": "{spacing.300}",
         "type": "spacing"
-      }
-    }
-  },
-  "popup": {
-    "bottom": {
-      "min-height": {
-        "value": "{size.800}",
-        "type": "sizing"
-      }
-    },
-    "loyalty": {
-      "map": {
-        "value": "1816px",
-        "type": "sizing"
       }
     }
   },

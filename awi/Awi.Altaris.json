@@ -1046,7 +1046,7 @@
           "y": "{blur.50}",
           "blur": "{blur.150}",
           "spread": "{depth.0}",
-          "color": "rgba(134, 132, 145, 0.10)",
+          "color": "rgba(38, 38, 60, 0.10)",
           "type": "dropShadow"
         },
         "type": "boxShadow"

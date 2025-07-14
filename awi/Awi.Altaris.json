@@ -3936,7 +3936,7 @@
       "controls": {
         "fill": {
           "default": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "banner": {
@@ -3958,17 +3958,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "{core.white.a8}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "validation": {
@@ -3976,7 +3976,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) 0%, rgba(204, 111, 45, 0.50) 100%)",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
@@ -3986,7 +3986,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           },
           "validation": {
@@ -3994,17 +3994,17 @@
             "type": "color"
           },
           "disabled": {
-            "value": "linear-gradient(130deg, rgba(255, 202, 43, 0.50) -5.21%, rgba(204, 111, 45, 0.50) 105.21%)",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
         "check": {
           "default": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(229, 137, 0, 0.40)",
+            "value": "{core.brand-30.100}",
             "type": "color"
           },
           "validation": {
@@ -4012,7 +4012,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "rgba(229, 137, 0, 0.50)",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         }

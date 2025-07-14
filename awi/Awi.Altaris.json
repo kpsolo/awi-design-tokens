@@ -3925,7 +3925,7 @@
     "selection-controls": {
       "label": {
         "default": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "disabled": {

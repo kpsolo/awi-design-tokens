@@ -4720,7 +4720,7 @@
       },
       "status": {
         "fill": {
-          "value": "rgba(254, 182, 0, 0.32)",
+          "value": "{core.brand-60.a20}",
           "type": "color"
         },
         "progress": {
@@ -4728,11 +4728,11 @@
           "type": "color"
         },
         "progress-start": {
-          "value": "#EBB849",
+          "value": "#C40119",
           "type": "color"
         },
         "progress-end": {
-          "value": "#CE611B",
+          "value": "#C40119",
           "type": "color"
         }
       }

@@ -3433,17 +3433,17 @@
       "popup": {
         "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color",
             "description": "Chips"
           },
           "hover": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color",
             "description": "Chips"
           },
           "active": {
-            "value": "{semantic.background.brand.emphasizing.static.secondary}",
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Chips"
           }
@@ -3455,12 +3455,12 @@
             "description": "Chips"
           },
           "hover": {
-            "value": "rgba(229, 137, 0, 0.50)",
+            "value": "{semantic.border.static.hover}",
             "type": "color",
             "description": "Chips"
           },
           "active": {
-            "value": "{semantic.background.brand.emphasizing.static.secondary}",
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Chips"
           }
@@ -4020,25 +4020,25 @@
       "selection-block": {
         "border": {
           "active": {
-            "value": "{core.brand-10.600}",
+            "value": "{semantic.border.static.active}",
             "type": "color"
           },
           "default": {
-            "value": "rgba(255, 255, 255, 0.00)",
+            "value": "{semantic.border.static.default}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(229, 137, 0, 0.40)",
+            "value": "{semantic.border.static.hover}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }

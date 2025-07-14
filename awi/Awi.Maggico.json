@@ -7825,7 +7825,7 @@
       }
     },
     "title": {
-      "value": "{heading.xl-stronger}",
+      "value": "{heading.xxl-stronger}",
       "type": "typography"
     },
     "registration": {

@@ -4048,7 +4048,7 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.grey.800}",
+            "value": "{semantic.background.5}",
             "type": "color"
           },
           "selected": {
@@ -4082,11 +4082,11 @@
         }
       },
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{semantic.background.5}",
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(29, 26, 50, 0.00) 0%, #1D1A32 50%)",
+        "value": "linear-gradient(180deg, rgba(20, 20, 28, 0.00) 0%, #14141C 50%)",
         "type": "color"
       }
     },

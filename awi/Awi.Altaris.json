@@ -3964,7 +3964,7 @@
         },
         "border": {
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
@@ -6634,7 +6634,7 @@
       "3": {
         "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
         "type": "color",
-        "description": "+gradient. yellow 500"
+        "description": "+gradient.(popup) yellow 500"
       },
       "4": {
         "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",

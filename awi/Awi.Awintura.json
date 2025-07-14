@@ -7970,56 +7970,28 @@
       }
     },
     "title": {
-      "value": "{heading.xl-stronger}",
+      "value": "{heading.xxl-stronger}",
       "type": "typography"
     },
     "registration": {
       "banner": {
         "subtitle": {
           "mob": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-5}",
-              "lineHeight": "{md}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "0%"
-            },
+            "value": "{heading.ml}",
             "type": "typography"
           },
           "desk": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-8}",
-              "lineHeight": "{xxl}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "-2%"
-            },
+            "value": "{heading.xxl-stronger}",
             "type": "typography"
           }
         },
         "title": {
           "mob": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-5}",
-              "lineHeight": "{md}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "0%"
-            },
+            "value": "{heading.xxl-stronger}",
             "type": "typography"
           },
           "desk": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{Bold}",
-              "fontSize": "{scale-8}",
-              "lineHeight": "{xxl}",
-              "textCase": "{text-case.uppercase}",
-              "letterSpacing": "-2%"
-            },
+            "value": "{banner.title-XXXL}",
             "type": "typography"
           }
         }

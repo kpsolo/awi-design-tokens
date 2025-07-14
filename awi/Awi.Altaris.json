@@ -5967,7 +5967,7 @@
               "fontSize": "{scale-8}",
               "lineHeight": "{xxl}",
               "textCase": "{text-case.uppercase}",
-              "letterSpacing": "-2%"
+              "letterSpacing": "-1%"
             },
             "type": "typography"
           }

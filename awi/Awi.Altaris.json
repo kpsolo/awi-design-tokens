@@ -5859,7 +5859,7 @@
     "ml": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Black}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "textCase": "{text-case.none}",

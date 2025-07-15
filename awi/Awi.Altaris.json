@@ -3365,7 +3365,7 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "{semantic.gradients.9}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "default": {
@@ -3375,11 +3375,11 @@
         },
         "text": {
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           }
         }
@@ -3387,32 +3387,32 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{semantic.gradients.9}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, rgba(141, 131, 123, 0.50) 0%, rgba(100, 80, 69, 0.50) 100%)",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
         "content": {
           "default": {
-            "value": "{core.brand-30.300}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
         "icon": {
           "sorting": {
             "default": {
-              "value": "{core.brand-30.700}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -3423,7 +3423,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         }
@@ -4869,7 +4869,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.brand-30.600}",
+        "value": "{core.grey.800}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -4891,31 +4891,31 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Segment Control"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color",
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.brand.on-brand-secondary}",
             "type": "color",
             "description": "Segment Control"
           }
         }
       },
       "border": {
-        "value": "{core.brand-60.300}",
+        "value": "{core.grey.800}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -4929,26 +4929,26 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{semantic.gradients.1}",
+                "value": "#45444C",
                 "type": "color",
                 "description": "Segment Control"
               }
             },
             "text": {
               "default": {
-                "value": "{semantic.text.static.secondary}",
+                "value": "{semantic.text.default.secondary}",
                 "type": "color",
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{semantic.text.static.primary}",
+                "value": "{semantic.text.default.primary}",
                 "type": "color",
                 "description": "Segment Control"
               }
             }
           },
           "fill": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.800}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5135,21 +5135,21 @@
     },
     "tabs": {
       "line": {
-        "value": "{core.brand-30.a15}",
+        "value": "{core.white.a15}",
         "type": "color"
       },
       "item": {
         "text": {
           "default": {
-            "value": "{semantic.icon.default.primary}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.icon.default.disabled}",
+            "value": "{core.white.a50}",
             "type": "color"
           }
         },
@@ -5197,7 +5197,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
@@ -5210,21 +5210,21 @@
         "item": {
           "text": {
             "default": {
-              "value": "{core.brand-60.800}",
+              "value": "{core.grey.200}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-60.a30}",
+              "value": "{core.brand-60.a50}",
               "type": "color"
             }
           },
           "line": {
             "active": {
-              "value": "{core.brand-10.600}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },

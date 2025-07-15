@@ -3844,17 +3844,17 @@
         },
         "button": {
           "border-1": {
-            "value": "{core.brand-60.900}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "border-2": {
-            "value": "{core.white.a5}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },
         "elements-border": {
           "border-1": {
-            "value": "{core.brand-60.900}",
+            "value": "{core.brand-60.a50}",
             "type": "color"
           },
           "border-2": {
@@ -3865,7 +3865,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(24, 18, 0, 0.73) 0%, rgba(23, 18, 1, 0.75) 25%, rgba(22, 17, 1, 0.61) 46.35%, rgba(28, 22, 4, 0.27) 76.04%, rgba(28, 22, 4, 0.11) 89.06%, rgba(28, 22, 4, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(25, 25, 36, 0.73) 0%, rgba(25, 25, 36, 0.75) 25%, rgba(25, 25, 36, 0.61) 46%, rgba(25, 25, 36, 0.27) 76.04%, rgba(25, 25, 36, 0.11) 89%, rgba(25, 25, 36, 0.00) 100%)",
           "type": "color"
         },
         "top-up": {

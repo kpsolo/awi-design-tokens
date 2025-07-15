@@ -2726,12 +2726,12 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-30.300}",
+        "value": "{semantic.gradients.8}",
         "type": "color"
       },
       "popover-action": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "{semantic.gradients.8}",
           "type": "color"
         }
       },
@@ -2745,11 +2745,11 @@
       },
       "text": {
         "primary": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.static.secondary}",
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         }
       },
@@ -2760,7 +2760,7 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.validation.warning.500}",
             "type": "color"
           },
           "error": {
@@ -2768,12 +2768,12 @@
             "type": "color"
           },
           "info": {
-            "value": "#2196F3",
+            "value": "#0F87E7",
             "type": "color"
           }
         },
         "icon": {
-          "value": "{core.white.a100}",
+          "value": "{semantic.icon.brand.on-brand-secondary}",
           "type": "color"
         }
       },
@@ -4086,7 +4086,7 @@
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(22, 22, 28, 0.00) 0%, #16161C 91.01%)",
+        "value": "linear-gradient(180deg, rgba(42, 42, 48, 0.00) 0%, #2A2A30 100%)",
         "type": "color"
       }
     },
@@ -4815,7 +4815,7 @@
             "type": "color"
           },
           "selected-range": {
-            "value": "{core.white.a8}",
+            "value": "{core.white.a30}",
             "type": "color"
           }
         },
@@ -4849,11 +4849,11 @@
         }
       },
       "fill": {
-        "value": "core.grey.800",
+        "value": "{core.grey.800}",
         "type": "color"
       },
       "bottom-fill": {
-        "value": "{core.brand-60.a25}",
+        "value": "{core.white.a8}",
         "type": "color"
       }
     },

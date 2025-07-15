@@ -4724,15 +4724,15 @@
           "type": "color"
         },
         "progress": {
-          "value": "{core.brand-30.500}",
+          "value": "linear-gradient(90deg, #987F00 0%, #FED400 100%)",
           "type": "color"
         },
         "progress-start": {
-          "value": "#C40119",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "progress-end": {
-          "value": "#C40119",
+          "value": "{core.brand-30.700}",
           "type": "color"
         }
       }

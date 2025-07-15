@@ -4546,11 +4546,11 @@
       "extender": {
         "elipce": {
           "default": {
-            "value": "{core.brand-10.a40}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.a50}",
             "type": "color"
           }
         }
@@ -4562,7 +4562,7 @@
       "item": {
         "text": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
@@ -4570,7 +4570,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover-active": {
@@ -4590,11 +4590,11 @@
         },
         "notification": {
           "text": {
-            "value": "{core.brand-10.50}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
@@ -4605,11 +4605,11 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, #190C0C 0%, #5E4747 100%)",
+              "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 0%, rgba(255, 242, 178, 0.50) 100%)",
               "type": "color"
             },
             "active": {
-              "value": "{semantic.gradients.4}",
+              "value": "linear-gradient(131deg, #FFF2B2 3.04%, rgba(76, 64, 0, 0.43) 48.98%, #4C4000 92.73%)",
               "type": "color"
             }
           },
@@ -4628,11 +4628,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(90deg, #554C3E 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "value": "linear-gradient(90deg, rgba(255, 242, 178, 0.20) 35%, rgba(255, 242, 178, 0.00) 81%)",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(90deg, rgba(126, 97, 97, 0.50) 35%, rgba(163, 132, 132, 0.00) 81%)",
+            "value": "linear-gradient(90deg, rgba(255, 242, 178, 0.12) 35%, rgba(255, 242, 178, 0.00) 81%)",
             "type": "color"
           }
         },
@@ -4645,11 +4645,11 @@
       },
       "balance-number": {
         "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, #E58900 0deg, rgba(229, 137, 0, 0.00) 0deg, #E58900 360deg)",
+          "value": "conic-gradient(from 90deg at 50% 50%, #FED400 0deg, rgba(229, 137, 0, 0.00) 0deg, #FED400 360deg)",
           "type": "color"
         },
         "indicator-start": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
@@ -6369,11 +6369,11 @@
         "type": "color"
       },
       "a8": {
-        "value": "rgba(255, 234, 127, 0.08)",
+        "value": "rgba(255, 234, 127, 0.8)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(215, 197, 252, 0.40)",
+        "value": "rgba(255, 234, 127, 0.40)",
         "type": "color"
       }
     },

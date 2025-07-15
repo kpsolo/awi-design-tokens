@@ -3532,7 +3532,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "filled": {
@@ -3552,7 +3552,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.a15}",
+            "value": "{core.grey.800}",
             "type": "color"
           }
         },
@@ -4048,7 +4048,7 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{semantic.background.5}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "selected": {
@@ -6128,14 +6128,14 @@
         "type": "color"
       },
       "800": {
-        "value": "#1D1A32",
+        "value": "#2A2A30",
         "type": "color",
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "#0D0A23",
+        "value": "#1A1A20",
         "type": "color",
-        "description": "basic.sand 1000"
+        "description": "basic.sand 1000 ( возможно поменять)"
       },
       "a20": {
         "value": "rgba(6, 4, 35, 0.20)",

@@ -7403,7 +7403,7 @@
       "type": "dimension"
     },
     "overlay": {
-      "value": "{blur.0}",
+      "value": "{blur.100}",
       "type": "dimension"
     },
     "homepage": {

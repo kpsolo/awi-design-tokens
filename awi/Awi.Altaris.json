@@ -4093,7 +4093,7 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.white.a60}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "transparent": {

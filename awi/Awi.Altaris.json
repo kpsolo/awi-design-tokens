@@ -4789,7 +4789,7 @@
             "type": "color"
           },
           "selected": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{core.grey.900}",
             "type": "color"
           }
         },
@@ -4811,7 +4811,7 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "selected-range": {
@@ -4825,11 +4825,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "today": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "disabled": {
@@ -4844,12 +4844,12 @@
       },
       "week-day": {
         "text": {
-          "value": "{core.brand-30.200}",
+          "value": "{semantic.icon.default.primary}",
           "type": "color"
         }
       },
       "fill": {
-        "value": "{semantic.background.5}",
+        "value": "core.grey.800",
         "type": "color"
       },
       "bottom-fill": {

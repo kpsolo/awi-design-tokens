@@ -4605,7 +4605,7 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 0%, rgba(255, 242, 178, 0.50) 100%)",
+              "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 0%, rgba(255, 242, 178, 0.20) 100%)",
               "type": "color"
             },
             "active": {
@@ -4614,7 +4614,7 @@
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, #342A1A 12.87%, #5E5547 49.23%, #342A1A 86.59%)",
+            "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 13%, rgba(255, 242, 178, 0.50) 49%, rgba(76, 64, 0, 0.50) 90%)",
             "type": "color"
           },
           "elipse": {

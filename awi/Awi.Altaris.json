@@ -5480,7 +5480,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.brand-30.a8}",
             "type": "color"
           },
           "border": {
@@ -5502,7 +5502,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           }
         }

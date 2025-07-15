@@ -1200,7 +1200,7 @@
               "y": "{depth.0}",
               "blur": "5px",
               "spread": "{depth.0}",
-              "color": "rgba(242, 255, 68, 0.30)",
+              "color": "rgba(254, 212, 0, 0.30)",
               "type": "dropShadow"
             },
             {
@@ -1208,7 +1208,7 @@
               "y": "{depth.0}",
               "blur": "{depth.200}",
               "spread": "{depth.0}",
-              "color": "rgba(242, 255, 68, 0.30)",
+              "color": "rgba(254, 212, 0, 0.30)",
               "type": "dropShadow"
             },
             {
@@ -1216,7 +1216,7 @@
               "y": "{depth.0}",
               "blur": "5px",
               "spread": "{depth.0}",
-              "color": "rgba(242, 255, 68, 0.30)",
+              "color": "rgba(254, 212, 0, 0.30)",
               "type": "dropShadow"
             }
           ],
@@ -4500,11 +4500,11 @@
       "banner": {
         "text-accent": {
           "fill": {
-            "value": "rgba(1, 82, 60, 0.40)",
+            "value": "{core.grey.a30}",
             "type": "color"
           },
           "border": {
-            "value": "#5CEDD1",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },

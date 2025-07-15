@@ -5494,11 +5494,11 @@
         },
         "smaller": {
           "fill": {
-            "value": "rgba(137, 102, 102, 0.40)",
+            "value": "{core.brand-30.a8}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-60.200}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "text": {
@@ -6369,7 +6369,7 @@
         "type": "color"
       },
       "a8": {
-        "value": "rgba(255, 234, 127, 0.8)",
+        "value": "rgba(255, 234, 127, 0.08)",
         "type": "color"
       },
       "a40": {

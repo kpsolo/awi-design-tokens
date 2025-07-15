@@ -3213,7 +3213,8 @@
       "shadow.timer.small.popup": "S:e58c18eb40bf1ac1b60046ef50d06b37833c2e08,",
       "shadow.timer.small.light": "S:3dd16885f3673435eaba96170cc4531b985036fe,",
       "shadow.welcome-bonus.progress": "S:c0c6bf98e30f166326f5c8e2f405d95bf9e59978,",
-      "shadow.tabs.popup": "S:8de180bfc924e8ef2af15774da353e73833b131f,"
+      "shadow.tabs.popup": "S:8de180bfc924e8ef2af15774da353e73833b131f,",
+      "contextual.dropdown-menu.border": "S:b3978940bcd0cb39eac6f3d29e589938edd0799e,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled"

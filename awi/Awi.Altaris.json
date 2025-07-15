@@ -4599,7 +4599,7 @@
           }
         },
         "icon-left": {
-          "value": "{core.brand-10.50}",
+          "value": "{semantic.icon.default.secondary}",
           "type": "color"
         },
         "prime": {

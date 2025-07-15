@@ -4527,7 +4527,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-10.500}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "warning": {
@@ -4535,11 +4535,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.100}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.a60}",
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         }
       },
@@ -4654,7 +4654,7 @@
         }
       },
       "icon": {
-        "value": "{core.brand-30.200}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "quick-pay": {
@@ -4724,7 +4724,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "{semantic.gradients.5}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "progress-start": {

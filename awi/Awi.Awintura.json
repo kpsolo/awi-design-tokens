@@ -4089,6 +4089,10 @@
       "ovelray-fill": {
         "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 50%)",
         "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "scroll": {

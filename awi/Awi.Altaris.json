@@ -1136,7 +1136,7 @@
         "y": "4px",
         "blur": "16px",
         "spread": "0px",
-        "color": "rgba(45, 37, 25, 0.20)",
+        "color": "rgba(45, 37, 25, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -4088,6 +4088,10 @@
       "ovelray-fill": {
         "value": "linear-gradient(180deg, rgba(42, 42, 48, 0.00) 0%, #2A2A30 100%)",
         "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a8}",
+        "type": "color"
       }
     },
     "scroll": {
@@ -4803,7 +4807,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.datepicker.item.fill.default}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "disabled": {
@@ -4811,11 +4815,11 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "selected-range": {
-            "value": "{core.white.a30}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         },
@@ -4825,11 +4829,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "today": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {

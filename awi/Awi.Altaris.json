@@ -4323,21 +4323,21 @@
         "item": {
           "text": {
             "default": {
-              "value": "{core.brand-60.50}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-10.400}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           },
           "icon": {
             "default": {
-              "value": "{core.brand-60.100}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-10.400}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           },
@@ -4353,7 +4353,7 @@
           },
           "border": {
             "border-active-state": {
-              "value": "{core.brand-10.400}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -6736,9 +6736,9 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "rgba(56, 56, 70, 0.85)",
+        "value": "rgba(25, 25, 36, 0.50)",
         "type": "color",
-        "description": "gradients.Brown 600"
+        "description": "+ "
       },
       "10": {
         "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",

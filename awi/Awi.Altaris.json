@@ -4421,16 +4421,16 @@
         "payment-block": {
           "text": {
             "text-primary": {
-              "value": "{semantic.text.static.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "text-secondary": {
-              "value": "{semantic.text.static.secondary}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color"
             }
           },
           "background": {
-            "value": "{core.brand-30.200}",
+            "value": "{semantic.gradients.8}",
             "type": "color"
           },
           "element": {
@@ -4447,7 +4447,7 @@
       },
       "title&show-all": {
         "icon": {
-          "value": "{core.brand-30.500}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "link": {
@@ -7920,9 +7920,9 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
           "fontSize": "{scale-4}",
-          "lineHeight": "{xs}",
           "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}"
+          "textCase": "{text-case.uppercase}",
+          "lineHeight": "22px"
         },
         "type": "typography"
       },
@@ -7930,8 +7930,8 @@
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "48px",
-          "lineHeight": "38px",
+          "fontSize": "30px",
+          "lineHeight": "32px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"
@@ -7940,8 +7940,8 @@
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "30px",
-          "lineHeight": "28px",
+          "fontSize": "24px",
+          "lineHeight": "26px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"

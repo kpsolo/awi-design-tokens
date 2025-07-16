@@ -4447,7 +4447,7 @@
       },
       "title&show-all": {
         "icon": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "link": {

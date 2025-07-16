@@ -4408,12 +4408,12 @@
         },
         "item": {
           "title": {
-            "value": "{core.brand-10.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
         "title": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

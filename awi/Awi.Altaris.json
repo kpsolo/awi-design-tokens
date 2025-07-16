@@ -4107,21 +4107,21 @@
       },
       "scroll-horizontal": {
         "fill": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.white.a25}",
           "type": "color"
         },
         "static": {
           "fill": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.white.a25}",
             "type": "color"
           },
           "dot": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
         "dot": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -4699,7 +4699,7 @@
             "type": "color"
           },
           "progress": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.700}",
             "type": "color"
           }
         },

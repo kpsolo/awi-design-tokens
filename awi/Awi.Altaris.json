@@ -4107,7 +4107,7 @@
       },
       "scroll-horizontal": {
         "fill": {
-          "value": "{core.brand-60.a40}",
+          "value": "{core.brand-30.a25}",
           "type": "color"
         },
         "static": {
@@ -4121,7 +4121,7 @@
           }
         },
         "dot": {
-          "value": "{core.brand-10.400}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       }

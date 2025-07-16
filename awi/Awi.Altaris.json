@@ -5498,11 +5498,11 @@
         },
         "smaller": {
           "fill": {
-            "value": "{core.brand-30.a8}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a50}",
             "type": "color"
           },
           "text": {

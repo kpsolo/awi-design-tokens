@@ -2726,7 +2726,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.8}",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "popover-action": {
@@ -3294,7 +3294,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{semantic.background.slate-on-card}",
+          "value": "{core.grey.800}",
           "type": "color"
         }
       }

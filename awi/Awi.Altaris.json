@@ -2726,7 +2726,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.white.a0}",
+        "value": "{semantic.gradients.8}",
         "type": "color"
       },
       "popover-action": {

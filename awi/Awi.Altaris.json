@@ -4112,11 +4112,11 @@
         },
         "static": {
           "fill": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           },
           "dot": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },

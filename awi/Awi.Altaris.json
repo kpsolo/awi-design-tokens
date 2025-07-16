@@ -725,7 +725,7 @@
         "item": {
           "active": {
             "value": {
-              "color": "{core.brand-10.600}",
+              "color": "{contextual.tabs.pop-up.item.line.active}",
               "width": "3px",
               "style": "solid"
             },
@@ -3365,7 +3365,7 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "default": {
@@ -3387,7 +3387,7 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "active": {
@@ -3401,7 +3401,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -3412,7 +3412,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           }
@@ -3423,7 +3423,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }
@@ -5173,7 +5173,7 @@
             }
           },
           "fill2": {
-            "value": "{semantic.gradients.9}",
+            "value": "{semantic.gradients.8}",
             "type": "color"
           },
           "fill": {

@@ -4402,7 +4402,7 @@
       "collection": {
         "background": {
           "background-card": {
-            "value": "linear-gradient(90deg, #2D532C 0%, #395128 11.11%, #424E25 22.22%, #494B24 33.33%, #504925 44.44%, #544627 55.56%, #58442A 66.67%, #5A422E 77.78%, #5B4033 88.89%, #5A3F37 100%)",
+            "value": "#1F1F28",
             "type": "color"
           }
         },

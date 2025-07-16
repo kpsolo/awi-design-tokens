@@ -4370,7 +4370,7 @@
             }
           },
           "content": {
-            "value": "{core.brand-60.50}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         },

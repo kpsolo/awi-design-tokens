@@ -5550,7 +5550,7 @@
     },
     "sticky-notifications": {
       "fill": {
-        "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
+        "value": "{core.brand-30.50}",
         "type": "color"
       }
     },

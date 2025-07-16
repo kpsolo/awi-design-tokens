@@ -4981,7 +4981,7 @@
         }
       },
       "overlay": {
-        "value": "rgba(234, 230, 225, 0.60)",
+        "value": "rgba(33, 33, 39, 0.70)",
         "type": "color"
       },
       "text": {

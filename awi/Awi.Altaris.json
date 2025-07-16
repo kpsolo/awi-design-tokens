@@ -1584,7 +1584,7 @@
               "y": "{depth.0}",
               "blur": "{depth.0}",
               "spread": "{depth.50}",
-              "color": "{core.brand-10.500}",
+              "color": "{core.white.a100}",
               "type": "dropShadow"
             }
           ],
@@ -3302,7 +3302,7 @@
     "progress": {
       "circle": {
         "border": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.white.a20}",
           "type": "color"
         },
         "progress": {
@@ -4138,7 +4138,7 @@
         },
         "border": {
           "fill": {
-            "value": "linear-gradient(180deg, rgba(148, 91, 1, 0.40) 0%, rgba(148, 91, 1, 0.40) 29.5%, rgba(58, 39, 3, 0.40) 100%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -5002,7 +5002,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "accent-2": {
@@ -5055,7 +5055,7 @@
         "type": "color"
       },
       "devider-2": {
-        "value": "{core.grey.600}",
+        "value": "{core.white.a8}",
         "type": "color"
       }
     },

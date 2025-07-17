@@ -6049,9 +6049,9 @@
     "numbers": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{text.stronger}",
         "lineHeight": "16px",
-        "fontSize": "14px"
+        "fontSize": "12px"
       },
       "type": "typography"
     }

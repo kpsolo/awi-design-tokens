@@ -1772,7 +1772,7 @@
             "y": "0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "{core.brand-10.a10}",
+            "color": "{core.white.a8}",
             "type": "innerShadow"
           },
           {
@@ -1780,7 +1780,7 @@
             "y": "-0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "{core.brand-60.a15}",
+            "color": "{core.white.a15}",
             "type": "innerShadow"
           },
           {
@@ -1788,7 +1788,7 @@
             "y": "0px",
             "blur": "8px",
             "spread": "0px",
-            "color": "{core.brand-30.a25}",
+            "color": "{core.white.a25}",
             "type": "innerShadow"
           },
           {
@@ -1796,7 +1796,7 @@
             "y": "0",
             "blur": "4",
             "spread": "0",
-            "color": "{core.brand-10.a25}",
+            "color": "{core.white.a25}",
             "type": "dropShadow"
           }
         ],
@@ -4152,11 +4152,11 @@
       "promo-code-button": {
         "fill": {
           "default": {
-            "value": "{semantic.gradients.9}",
+            "value": "linear-gradient(180deg, #494975 0%, #373758 33%, #26263C 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(0deg, #705830 0%, #CAAD8A 100%)",
+            "value": "linear-gradient(180deg, #56568E 0%, #3A3A6E 33%, #335 100%)",
             "type": "color"
           }
         },
@@ -5002,7 +5002,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "accent-2": {

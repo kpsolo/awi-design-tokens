@@ -5382,7 +5382,7 @@
       },
       "zero-block": {
         "fill": {
-          "value": "{core.brand-60.900}",
+          "value": "{semantic.background.5}",
           "type": "color",
           "description": "zero block"
         }

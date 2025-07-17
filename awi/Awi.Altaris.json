@@ -6797,7 +6797,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "rgba(55, 55, 88, 0.30)",
+        "value": "rgba(20, 20, 32, 0.30)",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

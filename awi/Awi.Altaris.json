@@ -4972,7 +4972,7 @@
       },
       "slate": {
         "1": {
-          "value": "{core.brand-30.100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "2": {
@@ -5038,7 +5038,7 @@
       },
       "bottom": {
         "fill": {
-          "value": "{core.grey.a20}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "border": {

@@ -6062,7 +6062,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "36",
-        "lineHeight": "42"
+        "lineHeight": "42px"
       },
       "type": "typography"
     },

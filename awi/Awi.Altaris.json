@@ -4663,7 +4663,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "text": {
@@ -6768,9 +6768,9 @@
         "description": "basic.replaceable.sand 1100"
       },
       "3": {
-        "value": "#2F2859",
+        "value": "#3D3B4F",
         "type": "color",
-        "description": "gradient.yellow 50"
+        "description": "+gradient.yellow 50"
       },
       "4": {
         "value": "#060423",

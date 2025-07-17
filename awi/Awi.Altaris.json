@@ -4129,11 +4129,11 @@
     "deals": {
       "progress": {
         "fill": {
-          "value": "{semantic.gradients.2}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "step": {
-          "value": "{semantic.gradients.4}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

@@ -7544,7 +7544,7 @@
     },
     "general": {
       "padding-top": {
-        "value": "{blur.50}",
+        "value": "{blur.100}",
         "type": "spacing"
       }
     }

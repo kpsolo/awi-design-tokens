@@ -7538,7 +7538,7 @@
     },
     "bonus": {
       "padding-bottom": {
-        "value": "{blur.100}",
+        "value": "3px",
         "type": "spacing"
       }
     },

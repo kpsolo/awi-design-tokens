@@ -4129,11 +4129,11 @@
     "deals": {
       "progress": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.white.a20}",
           "type": "color"
         },
         "step": {
-          "value": "{core.white.a100}",
+          "value": "linear-gradient(180deg, #FFFBE5 0%, #FFEA7F 100%)",
           "type": "color"
         },
         "border": {
@@ -6797,7 +6797,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "rgba(20, 20, 32, 0.30)",
+        "value": "rgba(76, 64, 0, 0.30)",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

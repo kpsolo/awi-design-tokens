@@ -6797,7 +6797,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "rgba(250, 236, 209, 0.25)",
+        "value": "rgba(55, 55, 88, 0.30)",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
@@ -7165,7 +7165,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, #534928 0%, rgba(232, 177, 82, 0.43) 46.5%, #F59300 95.5%)",
+          "value": "linear-gradient(311deg, #494975 3%, rgba(255, 251, 229, 0.43) 47%, #FED400 93%)",
           "type": "color"
         }
       },

@@ -2617,11 +2617,11 @@
     "mobile-application": {
       "reviews": {
         "fill": {
-          "value": "#1B1813",
+          "value": "{core.grey.a15}",
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(180deg, rgba(254, 182, 0, 0.20) 0%, rgba(254, 182, 0, 0.00) 100%)",
+          "value": "linear-gradient(177deg, rgba(255, 255, 255, 0.40) 2.75%, rgba(255, 255, 255, 0.00) 97.94%)",
           "type": "color"
         }
       },

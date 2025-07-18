@@ -2688,11 +2688,11 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.grey.a30}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         }
@@ -2700,13 +2700,13 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
         "active": {
           "fill": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           }
         }

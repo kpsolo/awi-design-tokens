@@ -4195,7 +4195,7 @@
         "widget": {
           "text": {
             "accent": {
-              "value": "{core.brand-10.600}",
+              "value": "{semantic.text.static.accent}",
               "type": "color"
             }
           }
@@ -4256,7 +4256,7 @@
             "type": "color"
           },
           "date-light": {
-            "value": "{core.brand-30.300}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         }

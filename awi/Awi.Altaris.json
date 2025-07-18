@@ -2638,11 +2638,11 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(90deg, #DEAA6C -40%, #F1D5B8 80%, #F2CEA9 120%)",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.600}",
+            "value": "linear-gradient(180deg, #E5BF00 0%, #7F6A00 100%)",
             "type": "color"
           }
         },
@@ -2656,7 +2656,7 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "default": {
@@ -2666,7 +2666,7 @@
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "default": {
@@ -4976,7 +4976,7 @@
           "type": "color"
         },
         "2": {
-          "value": "{core.white.a50}",
+          "value": "{core.grey.900}",
           "type": "color"
         }
       },

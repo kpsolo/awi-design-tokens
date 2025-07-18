@@ -1085,7 +1085,13 @@
       "shadow.timer.small.light": "S:80e088406c7cf7528441b31a49bd2514064bad4f,",
       "shadow.welcome-bonus.progress": "S:8e809afb01c9f929708d0c8c067b478628398ba1,",
       "shadow.tabs.popup": "S:19c1fa26950e2e0fd4e8eabe7ac0720053bde4e0,",
-      "shadow.wheel.general": "S:5347803c20c680cb387a3db396badb44f1aaf78b,"
+      "shadow.wheel.general": "S:5347803c20c680cb387a3db396badb44f1aaf78b,",
+      "contextual.dropdown-menu.border": "S:376fd22f62040b3e4ff0cae4c8da4531b038d88d,",
+      "popup.title": "S:869e668b6616812589fbefdeeb9944de9d0dbf7e,",
+      "popup.registration.banner.subtitle.mob": "S:da941b04348c81e781e478014d90a0beff292546,",
+      "popup.registration.banner.subtitle.desk": "S:f2114c577f04504f9299d1a713b566c7ae147a11,",
+      "popup.registration.banner.title.mob": "S:a537584db0ad18f48067d05baca6c4a58287e42c,",
+      "popup.registration.banner.title.desk": "S:1b7452f9eaef9447db4c3ac8e2f1be32c9d1f364,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

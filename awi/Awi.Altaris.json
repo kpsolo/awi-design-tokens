@@ -1655,7 +1655,7 @@
             "y": "0",
             "blur": "4",
             "spread": "0",
-            "color": "{core.brand-10.a60}",
+            "color": "{core.grey.a30}",
             "type": "dropShadow"
           }
         ],
@@ -2670,7 +2670,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         },
@@ -2680,14 +2680,14 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         }
       },
       "banner": {
         "fill": {
-          "value": "{core.brand-30.50}",
+          "value": "{semantic.gradients.8}",
           "type": "color"
         },
         "border": {

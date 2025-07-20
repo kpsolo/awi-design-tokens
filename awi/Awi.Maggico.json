@@ -5442,6 +5442,16 @@
           "active": {
             "value": "{semantic.gradients.6}",
             "type": "color"
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            " inactive": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
+            }
           }
         },
         "border": {

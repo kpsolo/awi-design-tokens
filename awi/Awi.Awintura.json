@@ -2642,6 +2642,16 @@
             "value": "{core.brand-60.600}",
             "type": "color"
           },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            " inactive": {
+              "value": "{semantic.text.brand.on-brand-secondary}",
+              "type": "color"
+            }
+          },
           "active": {
             "value": "{semantic.gradients.9}",
             "type": "color"

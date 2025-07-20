@@ -2638,12 +2638,22 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, #E5BF00 0%, #7F6A00 100%)",
+            "value": "linear-gradient(180deg, #FFF 0%, #726B4A 100%)",
             "type": "color"
+          },
+          "text": {
+            "active": {
+              "value": "{core.grey.800}",
+              "type": "color"
+            },
+            " inactive": {
+              "value": "{core.white.a50}",
+              "type": "color"
+            }
           }
         },
         "border": {

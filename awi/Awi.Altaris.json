@@ -4709,17 +4709,17 @@
             "type": "color"
           },
           "progress": {
-            "value": "{core.brand-30.700}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         },
         "inform": {
           "fill": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-60.800}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },

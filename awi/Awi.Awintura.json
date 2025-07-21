@@ -2072,11 +2072,11 @@
             "type": "color"
           },
           "active": {
-            "value": "button.secondary.fill.hover",
+            "value": "{contextual.button.secondary.fill.hover}",
             "type": "color"
           },
           "disabled": {
-            "value": "button.secondary.fill.default",
+            "value": "{contextual.button.secondary.fill.default}",
             "type": "color"
           }
         },

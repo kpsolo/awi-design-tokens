@@ -5566,7 +5566,7 @@
     },
     "error-pages": {
       "background-gradient-top": {
-        "value": "linear-gradient(180deg, rgba(204, 147, 0, 0.12) 0%, rgba(21, 21, 16, 0.20) 46.34%, rgba(24, 17, 10, 0.20) 46.34%)",
+        "value": "linear-gradient(180deg, rgba(204, 147, 0, 0.25) 0%, rgba(21, 21, 16, 0.20) 46.34%, rgba(24, 17, 10, 0.20) 46.34%)",
         "type": "color"
       },
       "background-gradient-bottom": {

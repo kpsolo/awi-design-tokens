@@ -3224,7 +3224,8 @@
       "shadow.tabs.popup": "S:8de180bfc924e8ef2af15774da353e73833b131f,",
       "contextual.dropdown-menu.border": "S:b3978940bcd0cb39eac6f3d29e589938edd0799e,",
       "contextual.mobile-application.switcher-button.fill.text.active": "S:3186122b17a721b88e28665b0fc8d45063d0c5c9,",
-      "contextual.mobile-application.switcher-button.fill.text. inactive": "S:e1bd34b3d7fbe5d524abbf36dc69670925f682bf,"
+      "contextual.mobile-application.switcher-button.fill.text. inactive": "S:e1bd34b3d7fbe5d524abbf36dc69670925f682bf,",
+      "core.white.a40": "S:2bbd141b5d602552124a8fc8ccec85c0c7bf22c4,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled"

@@ -6186,6 +6186,10 @@
         "value": "rgba(255, 255, 255, 0.30)",
         "type": "color",
         "description": "replaceble.sand 300 (25%)\n"
+      },
+      "a40": {
+        "value": "rgba(255, 255, 255, 0.40)",
+        "type": "color"
       }
     },
     "brand-60": {

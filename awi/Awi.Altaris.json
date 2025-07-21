@@ -1601,7 +1601,7 @@
               "y": "{depth.025}",
               "blur": "{depth.0}",
               "spread": "{depth.0}",
-              "color": "{core.brand-10.a50}",
+              "color": "{core.brand-30.a50}",
               "type": "innerShadow"
             }
           ],
@@ -3659,16 +3659,16 @@
     "ingame": {
       "navmenu": {
         "fill": {
-          "value": "{core.brand-60.900}",
+          "value": "{semantic.background.2}",
           "type": "color"
         },
         "icon": {
           "default": {
-            "value": "{core.brand-30.a50}",
+            "value": "{core.white.a30}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         }
@@ -3697,7 +3697,7 @@
           }
         },
         "bg": {
-          "value": "rgba(27, 24, 19, 0.88)",
+          "value": "rgba(20, 20, 32, 0.88)",
           "type": "color"
         },
         "overlay": {
@@ -3706,37 +3706,37 @@
         },
         "navmenu": {
           "fill": {
-            "value": "{core.brand-60.900}",
+            "value": "{semantic.background.2}",
             "type": "color"
           },
           "overlay": {
-            "value": "linear-gradient(180deg, rgba(7, 7, 3, 0.00) 0%, #070703 100%)",
+            "value": "linear-gradient(180deg, rgba(37, 35, 57, 0.00) 0%, #252339 100%)",
             "type": "color"
           },
           "close": {
             "fill": {
-              "value": "{core.grey.900}",
+              "value": "{core.brand-60.900}",
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.icon.brand.secondary}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           },
           "item": {
             "default": {
-              "value": "{semantic.text.default.secondary}",
+              "value": "{core.white.a60}",
               "type": "color"
             },
             "active": {
-              "value": "{semantic.text.brand.secondary}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.brand-30.a25}",
             "type": "color",
             "description": "Bonus/Talisman"
           },
@@ -3748,7 +3748,7 @@
       },
       "left-panel": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "border": {
@@ -6228,6 +6228,10 @@
         "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "replaceble.white 80%"
+      },
+      "a40": {
+        "value": "rgba(255, 255, 255, 0.40)",
+        "type": "color"
       }
     },
     "brand-60": {

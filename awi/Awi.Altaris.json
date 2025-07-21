@@ -3701,7 +3701,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, rgba(47, 34, 24, 0.00) 0%, #302419 100%)",
+          "value": "linear-gradient(180deg, rgba(20, 20, 32, 0.00) 0%, #141420 100%)",
           "type": "color"
         },
         "navmenu": {

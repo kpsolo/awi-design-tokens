@@ -4982,11 +4982,11 @@
       },
       "slate": {
         "1": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.900}",
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
+          "value": "{core.grey.800}",
           "type": "color"
         }
       },

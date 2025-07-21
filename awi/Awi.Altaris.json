@@ -4678,7 +4678,7 @@
         },
         "text": {
           "error": {
-            "value": "{core.red.600}",
+            "value": "{core.validation.danger.600}",
             "type": "color"
           },
           "primary": {
@@ -6448,7 +6448,7 @@
           "description": "Secondary.red 500"
         },
         "a20": {
-          "value": "rgba(254, 76, 37, 0.20)",
+          "value": "rgba(250, 29, 29, 0.20)",
           "type": "color",
           "description": "Secondary.red 500"
         }
@@ -6480,12 +6480,12 @@
           "description": "Primary.emerald 500"
         },
         "500": {
-          "value": "#27DB13",
+          "value": "#13BE66",
           "type": "color",
           "description": "Primary.emerald 500"
         },
         "600": {
-          "value": "#27BE13",
+          "value": "#13BE66",
           "type": "color",
           "description": "Primary.emerald 500"
         },
@@ -6505,7 +6505,7 @@
           "description": "Primary.emerald 500"
         },
         "a20": {
-          "value": "rgba(39, 219, 19, 0.2)",
+          "value": "rgba(19, 190, 102, 0.20)",
           "type": "color",
           "description": "Primary.emerald 500 20%"
         }

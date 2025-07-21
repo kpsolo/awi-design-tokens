@@ -4300,7 +4300,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "linear-gradient(259deg, #A97742 1.55%, #60492C 65.01%)",
+        "value": "linear-gradient(259deg, #494975 8%, #26263C 63%)",
         "type": "color"
       },
       "progressbar": {
@@ -4319,7 +4319,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, rgba(232, 177, 82, 0.43) 56%, #F59300 100%)",
+          "value": "linear-gradient(319deg, rgba(254, 212, 0, 0.43) 56%, #FED400 97%)",
           "type": "color"
         }
       }

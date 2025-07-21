@@ -4188,7 +4188,7 @@
             "type": "color"
           },
           "default": {
-            "value": "gba(255, 255, 255, 0.00)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },

@@ -7019,7 +7019,7 @@
           "type": "color"
         },
         "on-brand": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "on-brand-secondary": {

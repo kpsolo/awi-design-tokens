@@ -1091,7 +1091,9 @@
       "popup.registration.banner.subtitle.mob": "S:da941b04348c81e781e478014d90a0beff292546,",
       "popup.registration.banner.subtitle.desk": "S:f2114c577f04504f9299d1a713b566c7ae147a11,",
       "popup.registration.banner.title.mob": "S:a537584db0ad18f48067d05baca6c4a58287e42c,",
-      "popup.registration.banner.title.desk": "S:1b7452f9eaef9447db4c3ac8e2f1be32c9d1f364,"
+      "popup.registration.banner.title.desk": "S:1b7452f9eaef9447db4c3ac8e2f1be32c9d1f364,",
+      "contextual.mobile-application.switcher-button.fill.text.active": "S:2e62469688d7ba81770a3d2bd2ff834b6bb0809b,",
+      "contextual.mobile-application.switcher-button.fill.text. inactive": "S:560947ce48dc3401cba0da7e0fe64aafd679eb48,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

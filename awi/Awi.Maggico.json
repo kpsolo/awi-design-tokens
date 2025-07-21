@@ -5464,7 +5464,7 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.border.active.element}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {
@@ -5474,7 +5474,7 @@
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {

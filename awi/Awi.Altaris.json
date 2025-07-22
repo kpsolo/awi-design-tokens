@@ -1990,7 +1990,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.text.brand.on-brand-secondary}",
             "type": "color"
           },
           "hover": {
@@ -7040,7 +7040,7 @@
           "type": "color"
         },
         "on-brand": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "on-brand-secondary": {

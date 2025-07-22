@@ -3741,7 +3741,7 @@
             "description": "Bonus/Talisman"
           },
           "divider": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         }

@@ -5739,7 +5739,7 @@
             }
           },
           "text": {
-            "default-copy": {
+            "default": {
               "value": "{core.validation.danger.600}",
               "type": "color"
             }
@@ -5757,7 +5757,7 @@
             }
           },
           "text": {
-            "default-copy": {
+            "default": {
               "value": "{core.validation.success.500}",
               "type": "color"
             },

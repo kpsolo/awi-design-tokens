@@ -2313,7 +2313,7 @@
               "value": "{core.brand-10.500}",
               "type": "color"
             },
-            "animation-copy": {
+            "animation": {
               "value": "conic-gradient(from 80deg at 50% 50%, #FEB600 0deg, rgba(150, 110, 26, 0.00) 360deg)",
               "type": "color"
             }

@@ -3290,7 +3290,7 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
@@ -3312,11 +3312,11 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.grey.a30}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         }
@@ -7048,7 +7048,7 @@
           "type": "color"
         },
         "on-brand-tertiary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

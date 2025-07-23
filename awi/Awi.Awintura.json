@@ -3155,7 +3155,7 @@
       },
       "mob": {
         "bg": {
-          "value": "linear-gradient(171deg, #392602 7%, #A86E00 61%)",
+          "value": "linear-gradient(171deg, #26263C 12%, #131317 60%)",
           "type": "color"
         }
       },

@@ -4993,11 +4993,11 @@
       },
       "additional-block": {
         "fill": {
-          "value": "rgba(214, 157, 15, 0.32)",
+          "value": "rgba(254, 212, 0, 0.30)",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },
@@ -6413,6 +6413,10 @@
       },
       "a40": {
         "value": "rgba(255, 234, 127, 0.40)",
+        "type": "color"
+      },
+      "a30": {
+        "value": "rgba(255, 234, 127, 0.30)",
         "type": "color"
       }
     },

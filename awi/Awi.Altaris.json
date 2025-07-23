@@ -3190,11 +3190,11 @@
             "type": "color"
           },
           "error": {
-            "value": "{core.red.500}",
+            "value": "{core.validation.danger.500}",
             "type": "color"
           },
           "error-2": {
-            "value": "{core.red.600}",
+            "value": "{core.validation.danger.600}",
             "type": "color"
           },
           "pending": {
@@ -3228,19 +3228,19 @@
         },
         "border": {
           "success": {
-            "value": "rgba(8, 198, 130, 0.32)",
+            "value": "rgba(19, 190, 102, 0.32)",
             "type": "color"
           },
           "error": {
-            "value": "rgba(254, 76, 37, 0.32)",
+            "value": "rgba(213, 5, 5, 0.32)",
             "type": "color"
           },
           "pending": {
-            "value": "rgba(229, 137, 0, 0.32)",
+            "value": "rgba(229, 191, 0, 0.32)",
             "type": "color"
           },
           "on-review": {
-            "value": "rgba(254, 182, 0, 0.32)",
+            "value": "rgba(254, 212, 0, 0.32)",
             "type": "color"
           },
           "declined": {

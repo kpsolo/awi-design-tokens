@@ -1862,7 +1862,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(250, 236, 209, 0.12)",
+              "color": "rgba(199, 199, 220, 0.24)",
               "type": "dropShadow"
             },
             {
@@ -1870,7 +1870,7 @@
               "y": "-4px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(250, 236, 209, 0.16)",
+              "color": "rgba(199, 199, 220, 0.24)",
               "type": "dropShadow"
             },
             {
@@ -4297,7 +4297,7 @@
       "number-cell": {
         "fill": {
           "light": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "popup": {

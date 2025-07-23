@@ -3134,7 +3134,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-60.600}",
           "type": "color"
         },
         "border": {
@@ -3143,7 +3143,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "accent": {

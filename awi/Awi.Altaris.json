@@ -2419,7 +2419,7 @@
     },
     "top-up": {
       "banner": {
-        "value": "linear-gradient(99deg, #036959 0%, #064238 100%)",
+        "value": "{semantic.gradients.2}",
         "type": "color"
       }
     },
@@ -3252,7 +3252,7 @@
       "nav-item": {
         "fill": {
           "active": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "default": {
@@ -3266,15 +3266,15 @@
         },
         "text": {
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }
@@ -5003,11 +5003,11 @@
       },
       "slate": {
         "1": {
-          "value": "{core.grey.900}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.800}",
+          "value": "{core.grey.900}",
           "type": "color"
         }
       },
@@ -6736,7 +6736,7 @@
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(154deg, #FBF4E0 8%, #E7CF85 92%)",
+        "value": "linear-gradient(103deg, #87681E 2%, #33333B 96%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },

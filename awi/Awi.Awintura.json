@@ -7900,7 +7900,7 @@
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "48px",
+          "fontSize": "40px",
           "lineHeight": "38px",
           "textCase": "{text-case.uppercase}"
         },
@@ -7908,10 +7908,10 @@
       },
       "title2": {
         "value": {
-          "fontFamily": "{accent}",
+          "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "30px",
-          "lineHeight": "28px",
+          "fontSize": "16px",
+          "lineHeight": "18px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"

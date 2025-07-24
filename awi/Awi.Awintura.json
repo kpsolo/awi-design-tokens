@@ -5187,7 +5187,7 @@
         },
         "number": {
           "text2": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "text": {
@@ -5205,7 +5205,7 @@
             }
           },
           "fill2": {
-            "value": "{semantic.gradients.9}",
+            "value": "{semantic.gradients.5}",
             "type": "color"
           },
           "fill": {

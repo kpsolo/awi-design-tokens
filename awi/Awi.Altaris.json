@@ -7969,8 +7969,8 @@
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "30px",
-          "lineHeight": "32px",
+          "fontSize": "36px",
+          "lineHeight": "38px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"
@@ -7979,8 +7979,8 @@
         "value": {
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
-          "fontSize": "24px",
-          "lineHeight": "26px",
+          "fontSize": "20px",
+          "lineHeight": "20px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"

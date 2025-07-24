@@ -7984,6 +7984,28 @@
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"
+      },
+      "mob": {
+        "title": {
+          "value": {
+            "fontFamily": "{accent}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "40px",
+            "lineHeight": "38px",
+            "textCase": "{text-case.uppercase}"
+          },
+          "type": "typography"
+        },
+        "title2": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "16px",
+            "lineHeight": "18px",
+            "textCase": "{text-case.uppercase}"
+          },
+          "type": "typography"
+        }
       }
     },
     "nav-menu": {

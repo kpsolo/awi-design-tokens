@@ -5386,7 +5386,7 @@
             "description": "Tiket"
           },
           "winning": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Tiket"
           }
@@ -5400,7 +5400,7 @@
         },
         "border": {
           "winning": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Tiket"
           },

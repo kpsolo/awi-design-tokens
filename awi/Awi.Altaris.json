@@ -4922,7 +4922,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -4939,7 +4939,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.text.default.heading}",
             "type": "color",
             "description": "Segment Control"
           }

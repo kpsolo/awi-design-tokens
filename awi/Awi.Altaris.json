@@ -3160,24 +3160,24 @@
       },
       "header": {
         "fill": {
-          "value": "{contextual.popup.additional-block.fill}",
+          "value": "{core.brand-60.a30}",
           "type": "color"
         }
       },
       "loyalty_points": {
         "fill": {
-          "value": "{semantic.gradients.3}",
+          "value": "{core.brand-60.700}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
         "points": {
           "slate-1": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.grey.900}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           },
           "slate-2": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.700}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }

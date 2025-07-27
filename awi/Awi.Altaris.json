@@ -1580,7 +1580,7 @@
             "y": "0",
             "blur": "16px",
             "spread": "0",
-            "color": "rgba(250,45,45,0.2)",
+            "color": "rgba(255,201,99,0.3)",
             "type": "dropShadow"
           },
           {
@@ -1588,7 +1588,7 @@
             "y": "0",
             "blur": "66px",
             "spread": "0",
-            "color": "#ed0e0e",
+            "color": "rgba(255,201,99,0.9)",
             "type": "dropShadow"
           },
           {
@@ -2217,7 +2217,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.brand-10.700}",
+            "value": "#FFC94B",
             "type": "color"
           }
         },
@@ -2235,7 +2235,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           }
         }

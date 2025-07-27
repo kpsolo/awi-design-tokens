@@ -2205,7 +2205,7 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(166deg, #48484A 10.21%, #2A282B 100%)",
+            "value": "linear-gradient(166deg, #585858 47.55%, #3A3A3A 92.51%)",
             "type": "color"
           },
           "dark": {

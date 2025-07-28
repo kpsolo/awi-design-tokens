@@ -2753,7 +2753,7 @@
     "messages": {
       "bottom": {
         "fill": {
-          "value": "{core.brand-30.100}",
+          "value": "{semantic.gradients.8}",
           "type": "color"
         },
         "icon": {
@@ -5066,7 +5066,7 @@
       },
       "icon": {
         "1": {
-          "value": "rgba(57, 38, 2, 0.30)",
+          "value": "{core.white.a30}",
           "type": "color"
         }
       },
@@ -5211,7 +5211,7 @@
             }
           },
           "fill2": {
-            "value": "{semantic.gradients.8}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "fill": {

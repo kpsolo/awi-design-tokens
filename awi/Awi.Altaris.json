@@ -2213,7 +2213,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.validation.danger.600}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "active-vip": {
@@ -2231,7 +2231,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
             "type": "color"
           },
           "active-vip": {

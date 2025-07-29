@@ -4765,6 +4765,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "card": {
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "pregame": {

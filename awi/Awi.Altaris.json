@@ -5466,7 +5466,7 @@
       },
       "inner-page": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{core.grey.700}",
           "type": "color",
           "description": "status-inactive"
         }

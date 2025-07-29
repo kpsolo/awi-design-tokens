@@ -1412,7 +1412,7 @@
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "{core.brand-10.a25}",
+              "color": "#FFE6AF",
               "type": "innerShadow"
             },
             {
@@ -1420,7 +1420,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "color": "rgba(245,208,27,0.5)",
               "type": "innerShadow"
             },
             {
@@ -1428,7 +1428,7 @@
               "y": "0",
               "blur": "16",
               "spread": "0",
-              "color": "{core.brand-10.a50}",
+              "color": "rgba(204,156,22,0.5)",
               "type": "dropShadow"
             }
           ],
@@ -5482,7 +5482,7 @@
     "news": {
       "inner-page": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{core.grey.700}",
           "type": "color",
           "description": "status-inactive"
         }

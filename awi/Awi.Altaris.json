@@ -7696,7 +7696,7 @@
     },
     "icon-size": {
       "sm": {
-        "value": "{size.200}",
+        "value": "{size.300}",
         "type": "sizing"
       },
       "md": {

@@ -5429,11 +5429,11 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{core.grey.800}",
+              "value": "{core.brand-60.800}",
               "type": "color"
             },
             "active": {
-              "value": "{core.grey.700}",
+              "value": "{core.brand-60.900}",
               "type": "color"
             }
           },

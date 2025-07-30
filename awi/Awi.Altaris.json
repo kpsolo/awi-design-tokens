@@ -5466,7 +5466,7 @@
       },
       "inner-page": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -5482,7 +5482,7 @@
     "news": {
       "inner-page": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
           "type": "color",
           "description": "status-inactive"
         }

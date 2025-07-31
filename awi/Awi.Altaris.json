@@ -2558,23 +2558,23 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "#59492A",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "inactive": {
-            "value": "rgba(161, 150, 130, 0.10)",
+            "value": "rgba(160,160,160,0.1)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-60.a20}",
             "type": "color"
           }
         },
         "divider": {
           "1": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "2": {
@@ -2607,19 +2607,19 @@
           },
           "border": {
             "default": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.white.a25}",
               "type": "color"
             },
             "progress": {
-              "value": "{core.brand-10.a40}",
+              "value": "{core.brand-30.a40}",
               "type": "color"
             },
             "received": {
-              "value": "{core.brand-10.a40}",
+              "value": "{core.brand-30.a40}",
               "type": "color"
             },
             "get": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.white.a25}",
               "type": "color"
             }
           }
@@ -2633,11 +2633,11 @@
       },
       "offers-block": {
         "fill": {
-          "value": "{semantic.gradients.4}",
+          "value": "linear-gradient(180deg, rgba(217, 220, 255, 0.25) 0%, rgba(222, 222, 248, 0.10) 100%)",
           "type": "color"
         },
         "border": {
-          "value": "{semantic.gradients.4}",
+          "value": "{core.white.a8}",
           "type": "color"
         }
       }

@@ -1412,7 +1412,7 @@
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "#FFE6AF",
+              "color": "#fff",
               "type": "innerShadow"
             },
             {
@@ -1420,7 +1420,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "rgba(245,208,27,0.5)",
+              "color": "rgba(255,255,255,0.16)",
               "type": "innerShadow"
             },
             {
@@ -1428,7 +1428,7 @@
               "y": "0",
               "blur": "16",
               "spread": "0",
-              "color": "rgba(204,156,22,0.5)",
+              "color": "rgba(134,134,134,0.5)",
               "type": "dropShadow"
             }
           ],
@@ -5492,6 +5492,12 @@
           "value": "{core.brand-60.a20}",
           "type": "color",
           "description": "status-inactive"
+        }
+      },
+      "welcome-bonus": {
+        "fill": {
+          "value": "{core.white.a20}",
+          "type": "color"
         }
       }
     },

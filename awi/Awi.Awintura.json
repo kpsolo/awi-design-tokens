@@ -5487,6 +5487,12 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "welcome-bonus": {
+        "fill": {
+          "value": "rgba(143,143,186,0.2)",
+          "type": "color"
+        }
       }
     },
     "thumb-games ": {

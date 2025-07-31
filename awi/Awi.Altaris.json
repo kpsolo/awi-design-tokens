@@ -2611,11 +2611,11 @@
               "type": "color"
             },
             "progress": {
-              "value": "{core.brand-30.a40}",
+              "value": "{core.brand-30.a50}",
               "type": "color"
             },
             "received": {
-              "value": "{core.brand-30.a40}",
+              "value": "{core.brand-30.a50}",
               "type": "color"
             },
             "get": {

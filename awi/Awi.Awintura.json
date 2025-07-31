@@ -7637,11 +7637,11 @@
     },
     "padding-right": {
       "sm": {
-        "value": "{spacing.400}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.400}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "joint": {

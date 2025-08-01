@@ -1659,7 +1659,7 @@
               "y": "0px",
               "blur": "2px",
               "spread": "0px",
-              "color": "{core.brand-10.500}",
+              "color": "{core.brand-30.500}",
               "type": "dropShadow"
             },
             {
@@ -1667,7 +1667,7 @@
               "y": "0",
               "blur": "4",
               "spread": "0",
-              "color": "{core.brand-10.500}",
+              "color": "{core.brand-30.500}",
               "type": "dropShadow"
             }
           ],
@@ -2486,29 +2486,29 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.5}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "done": {
-            "value": "{semantic.gradients.5}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "activation": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.white.a60}",
             "type": "color"
           },
           "received": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "text": {
           "progress": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "done": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "activation": {
@@ -2516,13 +2516,13 @@
             "type": "color"
           },
           "received": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{core.validation.success.500}",
             "type": "color"
           }
         },
         "border": {
           "progress": {
-            "value": "rgba(235, 184, 73, 0.15)",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           },
           "done": {
@@ -2545,7 +2545,7 @@
           "type": "color"
         },
         "step": {
-          "value": "{semantic.gradients.6}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

@@ -3031,12 +3031,12 @@
     "strip": {
       "progress": {
         "fill": {
-          "value": "rgba(254, 76, 37, 0.40)",
+          "value": "{core.brand-10.a25}",
           "type": "color",
           "description": "Lootboxes"
         },
         "step": {
-          "value": "{core.red.500}",
+          "value": "{core.brand-10.600}",
           "type": "color",
           "description": "Lootboxes"
         }

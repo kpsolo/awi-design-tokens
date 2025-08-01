@@ -2627,7 +2627,7 @@
       },
       "banner": {
         "fill": {
-          "value": "{semantic.gradients.4}",
+          "value": "{semantic.gradients.2}",
           "type": "color"
         }
       },

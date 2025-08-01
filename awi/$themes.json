@@ -3806,7 +3806,8 @@
       "core.brand-30.a30": "S:e792321aa856329706c1e1cec84af0c87871c439,",
       "homepage.payment-block.mob.title": "S:f1ef2f05f628e115d2b6a35f3dbd2e6bcc7d04fa,",
       "homepage.payment-block.mob.title2": "S:a8a6b19a3f1ba73f0689d15bd7b47f9ba231033e,",
-      "contextual.news.card.fill": "S:4d44d0b661baf381c6c7a405e9849857511367dc,"
+      "contextual.news.card.fill": "S:4d44d0b661baf381c6c7a405e9849857511367dc,",
+      "contextual.news.welcome-bonus.fill": "S:fefbc29cb00b0fdeabfd1c02e2fc75e4f90f4403,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled"

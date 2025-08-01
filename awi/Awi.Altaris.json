@@ -3058,7 +3058,7 @@
       "steps": {
         "line": {
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color",
             "description": "Lootboxes"
           },

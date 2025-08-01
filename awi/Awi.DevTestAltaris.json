@@ -1982,6 +1982,19 @@
             "value": "{semantic.background.brand.primary.default}",
             "type": "color"
           },
+          "modify-test": {
+            "value": "{contextual.accordion.fill.1}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
           "hover": {
             "value": "{semantic.background.brand.primary.hover}",
             "type": "color"
@@ -6770,9 +6783,9 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.600} 100%)",
         "type": "color",
-        "description": "+gradients.orange 500"
+        "description": "+gradients.orange 500\nsemantic.gradients.4\nlinear-gradient(180deg, #D1021B 0%, #A71023 100%)"
       },
       "5": {
         "value": "linear-gradient(180deg, #A60216 0%, #860D1C 100%)",
@@ -7068,8 +7081,9 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{core.brand-10.900}",
+          "type": "color",
+          "description": "{core.white.a100}"
         },
         "on-brand-tertiary": {
           "value": "{core.white.a100}",

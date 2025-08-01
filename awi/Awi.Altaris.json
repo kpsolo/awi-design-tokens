@@ -2593,11 +2593,11 @@
               "type": "color"
             },
             "received": {
-              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
+              "value": "linear-gradient(132deg, rgba(139, 136, 154, 0.09) 10.93%, rgba(255, 255, 255, 0.00) 43.33%, rgba(117, 117, 117, 0.18) 81.44%)",
               "type": "color"
             },
             "progress": {
-              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
+              "value": "{core.white.a5}",
               "type": "color"
             },
             "get": {
@@ -2611,11 +2611,11 @@
               "type": "color"
             },
             "progress": {
-              "value": "{core.brand-30.a50}",
+              "value": "{core.white.a80}",
               "type": "color"
             },
             "received": {
-              "value": "{core.brand-30.a50}",
+              "value": "{core.white.a60}",
               "type": "color"
             },
             "get": {

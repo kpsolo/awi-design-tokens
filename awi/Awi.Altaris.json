@@ -1379,7 +1379,7 @@
               "y": "0",
               "blur": "9px",
               "spread": "0",
-              "color": "rgba(253, 34, 34, 0.20)",
+              "color": "rgba(254, 212, 0, 0.20)",
               "type": "innerShadow"
             },
             {
@@ -1387,7 +1387,7 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "rgba(253, 34, 34, 0.12)",
+              "color": "rgba(254, 212, 0, 0.12)",
               "type": "innerShadow"
             },
             {
@@ -1395,7 +1395,7 @@
               "y": "0",
               "blur": "16px",
               "spread": "0",
-              "color": "rgba(253, 34, 34, 0.20)",
+              "color": "rgba(254, 212, 0, 0.20)",
               "type": "dropShadow"
             }
           ],
@@ -3050,7 +3050,7 @@
       },
       "card": {
         "border": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.brand-30.a15}",
           "type": "color",
           "description": "Lootboxes"
         }

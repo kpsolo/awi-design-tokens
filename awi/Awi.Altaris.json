@@ -2317,7 +2317,7 @@
         "time": {
           "icon": {
             "default": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "animation": {
@@ -2327,7 +2327,7 @@
           },
           "text": {
             "default": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -2371,7 +2371,7 @@
       },
       "frame": {
         "line": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.white.a25}",
           "type": "color"
         },
         "fill": {

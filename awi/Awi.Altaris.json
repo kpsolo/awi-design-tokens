@@ -3109,7 +3109,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, rgba(58, 47, 39, 0.00) 0%, #3A2F27 100%)",
+          "value": "linear-gradient(180deg, rgba(39, 39, 54, 0.00) 0%, #272736 100%)",
           "type": "color"
         },
         "text": {

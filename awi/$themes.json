@@ -2482,7 +2482,10 @@
       "shadow.tabs.popup": "S:1e05bb224662fc25876702b7048d52ba8f6995d7,",
       "contextual.verification.verification-status.time.icon.animation": "S:b2de0f2cf53b03430db69848c72dfb28a7796230,",
       "homepage.payment-block.mob.title": "S:d8b62dbd6cf21bc96f4209932a87500a1ce4840a,",
-      "homepage.payment-block.mob.title2": "S:7b3a67d8da70276c97fb035b46664098c7c8a7c7,"
+      "homepage.payment-block.mob.title2": "S:7b3a67d8da70276c97fb035b46664098c7c8a7c7,",
+      "contextual.profile.notification.illustration": "S:abb6bde931b0559b17e35c0b216edfecd3786414,",
+      "contextual.news.card.fill": "S:7dde516f2d1c82f489735cf1191fcf4d601c5411,",
+      "contextual.news.welcome-bonus.fill": "S:ee887dc4b3461906eb79fdb939e6023e1e076fd0,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"

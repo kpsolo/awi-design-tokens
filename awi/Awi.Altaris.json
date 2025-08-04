@@ -4529,15 +4529,15 @@
     "referal": {
       "step": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a15}",
           "type": "color"
         },
         "text": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       }

@@ -1099,7 +1099,10 @@
       "contextual.verification.verification-status.error.text.default": "S:80616abbf1c1643d29d583e472e8482e76379075,",
       "contextual.verification.verification-status.check.text.default": "S:9c7a08624feb069918fae955ce135213c095f5ef,",
       "homepage.payment-block.mob.title": "S:ce6b4c057898ff2bfc2f5e0f63869546d7cb8b98,",
-      "homepage.payment-block.mob.title2": "S:5294960ad5618dc0090160bf7842ad6243e6cdd9,"
+      "homepage.payment-block.mob.title2": "S:5294960ad5618dc0090160bf7842ad6243e6cdd9,",
+      "contextual.profile.notification.illustration": "S:9fd1b2f904d39b047f7da8f6f5f3dcce680a0062,",
+      "contextual.news.card.fill": "S:49da6c229eb1855e212c4c0a18af8e1dce8edeac,",
+      "contextual.news.welcome-bonus.fill": "S:477921dc79ed2e2e56595294c01b23290be815bc,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

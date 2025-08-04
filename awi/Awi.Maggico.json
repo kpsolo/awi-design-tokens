@@ -4628,6 +4628,10 @@
         "border": {
           "value": "{semantic.gradients.5}",
           "type": "color"
+        },
+        "illustration": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
         }
       },
       "nav-item": {

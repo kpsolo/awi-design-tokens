@@ -3144,6 +3144,10 @@
           "value": "{core.brand-60.600}",
           "type": "color"
         },
+        "illustration": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
         "border": {
           "value": "{core.brand-10.600}",
           "type": "color"

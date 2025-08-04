@@ -3151,6 +3151,10 @@
             "value": "{semantic.text.static.accent}",
             "type": "color"
           }
+        },
+        "illustration": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
         }
       },
       "mob": {

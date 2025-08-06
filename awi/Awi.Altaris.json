@@ -3577,22 +3577,6 @@
             "value": "{core.grey.800}",
             "type": "color"
           },
-          "filled": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
-          },
-          "validation": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
-          },
           "disabled": {
             "value": "{core.grey.800}",
             "type": "color"

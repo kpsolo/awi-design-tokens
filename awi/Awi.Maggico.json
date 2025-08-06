@@ -3002,6 +3002,12 @@
         "type": "color"
       }
     },
+    "payment-method": {
+      "fill": {
+        "value": "{core.brand-30.a15}",
+        "type": "color"
+      }
+    },
     "scroll": {
       "fill": {
         "default": {

@@ -2485,7 +2485,8 @@
       "homepage.payment-block.mob.title2": "S:7b3a67d8da70276c97fb035b46664098c7c8a7c7,",
       "contextual.profile.notification.illustration": "S:abb6bde931b0559b17e35c0b216edfecd3786414,",
       "contextual.news.card.fill": "S:7dde516f2d1c82f489735cf1191fcf4d601c5411,",
-      "contextual.news.welcome-bonus.fill": "S:ee887dc4b3461906eb79fdb939e6023e1e076fd0,"
+      "contextual.news.welcome-bonus.fill": "S:ee887dc4b3461906eb79fdb939e6023e1e076fd0,",
+      "contextual.payment-method.fill": "S:02c76fb0f19e7ba76f8bffa43b26607d55ace844,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"

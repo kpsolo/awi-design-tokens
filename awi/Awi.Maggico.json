@@ -3004,7 +3004,7 @@
     },
     "payment-method": {
       "fill": {
-        "value": "{core.brand-30.a15}",
+        "value": "{core.white.a100}",
         "type": "color"
       }
     },

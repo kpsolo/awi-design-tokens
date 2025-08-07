@@ -5617,7 +5617,7 @@
     },
     "payment-method": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{core.brand-30.50}",
         "type": "color"
       }
     }

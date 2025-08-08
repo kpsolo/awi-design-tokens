@@ -4057,5 +4057,14 @@
     },
     "$figmaCollectionId": "VariableCollectionId:3998:152888",
     "$figmaModeId": "3998:0"
+  },
+  {
+    "id": "37faf7d4b172f2111f50c9cf6f8026a77c8cf642",
+    "name": "Altaris.green",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled",
+      "Altaris.preset.green": "enabled"
+    }
   }
 ]

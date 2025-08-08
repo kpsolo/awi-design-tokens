@@ -2018,6 +2018,10 @@
             "value": "{semantic.border.brand.primary.default}",
             "type": "color"
           },
+          "default-copy": {
+            "value": "{semantic.border.brand.primary.default}",
+            "type": "color"
+          },
           "hover": {
             "value": "{semantic.border.brand.primary.hover}",
             "type": "color"

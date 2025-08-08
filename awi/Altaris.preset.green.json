@@ -1,0 +1,14 @@
+{
+  "contextual": {
+    "button": {
+      "primary": {
+        "border-color": {
+          "default-copy": {
+            "value": "{semantic.border.brand.primary.default}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

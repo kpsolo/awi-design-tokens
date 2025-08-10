@@ -37,7 +37,7 @@
         "description": "basic.sand 1100"
       },
       "700": {
-        "value": "#3D3B4F",
+        "value": "#2C3C43",
         "type": "color"
       },
       "800": {
@@ -270,7 +270,7 @@
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "#980303",
+        "value": "#284e35",
         "type": "color",
         "description": "Primary.Amber 800"
       },
@@ -420,106 +420,6 @@
         "value": "rgba(25, 25, 36, 0.30)",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
-      },
-      "brand": {
-        "primary": {
-          "default": {
-            "value": "{semantic.gradients.4}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.gradients.5}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{core.brand-10.a25}",
-            "type": "color"
-          }
-        },
-        "emphasizing": {
-          "default": {
-            "primary": {
-              "value": "{semantic.text.brand.primary}",
-              "type": "color",
-              "description": "emphasizing"
-            },
-            "secondary": {
-              "value": "{semantic.text.brand.secondary}",
-              "type": "color",
-              "description": "emphasizing"
-            }
-          },
-          "static": {
-            "primary": {
-              "value": "{core.brand-30.700}",
-              "type": "color",
-              "description": "emphasizing"
-            },
-            "secondary": {
-              "value": "{core.brand-10.600}",
-              "type": "color",
-              "description": "emphasizing"
-            }
-          }
-        },
-        "secondary": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.background.brand.secondary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.background.brand.secondary.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.background.brand.secondary.default}",
-            "type": "color"
-          }
-        },
-        "tertiary": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
-          }
-        },
-        "ghost-popup": {
-          "default": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.background.brand.tertiary.hover}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.background.brand.tertiary.active}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.background.brand.tertiary.disabled}",
-            "type": "color"
-          }
-        }
       },
       "slate-4": {
         "value": "{semantic.background.slate-on-card}",

@@ -138,7 +138,7 @@
         "type": "color"
       },
       "a50": {
-        "value": "rgba(142, 142, 185, 0.50)",
+        "value": "rgba(21,38,46,0.5)",
         "type": "color"
       },
       "a60": {
@@ -310,6 +310,70 @@
       "a60": {
         "value": "rgba(250, 29, 29, 0.6)",
         "type": "color"
+      }
+    }
+  },
+  "semantic": {
+    "gradients": {
+      "1": {
+        "value": "{core.brand-60.a30}",
+        "type": "color",
+        "description": "gradients.yellow 50"
+      },
+      "2": {
+        "value": "linear-gradient(103deg, #87681E 2%, #33333B 96%)",
+        "type": "color",
+        "description": "gradients.yellow 200"
+      },
+      "3": {
+        "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
+        "type": "color",
+        "description": "+gradient popup"
+      },
+      "4": {
+        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "type": "color",
+        "description": "+gradients.orange 500"
+      },
+      "5": {
+        "value": "linear-gradient(180deg, #A60216 0%, #860D1C 100%)",
+        "type": "color",
+        "description": "gradients.orange 600"
+      },
+      "6": {
+        "value": "linear-gradient(180deg, rgba(245, 190, 61, 0.00) 0%, #F3BC3F 100%), linear-gradient(180deg, #FED234 0%, rgba(243, 192, 73, 0.00) 100%)",
+        "type": "color",
+        "description": "gradients.Border button"
+      },
+      "7": {
+        "value": "rgba(40, 40, 51, 0.85)",
+        "type": "color",
+        "description": "gradients.Brown"
+      },
+      "8": {
+        "value": "{core.brand-60.a50}",
+        "type": "color",
+        "description": "gradients.Brown 550"
+      },
+      "9": {
+        "value": "{core.brand-60.a50}",
+        "type": "color",
+        "description": "+ "
+      },
+      "10": {
+        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "type": "color",
+        "description": "+gradients.Emerald 600"
+      },
+      "11": {
+        "value": "#0F0F14",
+        "type": "color",
+        "description": "+gradients.Black 600"
+      },
+      "12": {
+        "value": "radial-gradient(50% 50% at 50% 50%, rgba(227, 227, 237, 0.15) 0%, rgba(227, 227, 237, 0.00) 100%)",
+        "type": "color",
+        "description": "gradients.Radial"
       }
     }
   }

@@ -331,7 +331,7 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.500} , {core.brand-10.600} )",
         "type": "color",
         "description": "+gradients.orange 500"
       },

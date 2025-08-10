@@ -102,12 +102,12 @@
         "type": "color"
       },
       "800": {
-        "value": "#26263C",
+        "value": "#15262E",
         "type": "color",
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#141420",
+        "value": "#071820",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
@@ -366,7 +366,7 @@
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "#0F0F14",
+        "value": "{core.brand-60.900}",
         "type": "color",
         "description": "+gradients.Black 600"
       },
@@ -374,6 +374,162 @@
         "value": "radial-gradient(50% 50% at 50% 50%, rgba(227, 227, 237, 0.15) 0%, rgba(227, 227, 237, 0.00) 100%)",
         "type": "color",
         "description": "gradients.Radial"
+      }
+    },
+    "background": {
+      "1": {
+        "value": "#1C1548",
+        "type": "color",
+        "description": "basic.sand 900"
+      },
+      "2": {
+        "value": "#252339",
+        "type": "color",
+        "description": "basic.replaceable.sand 1100"
+      },
+      "3": {
+        "value": "#3D3B4F",
+        "type": "color",
+        "description": "+gradient.yellow 50"
+      },
+      "4": {
+        "value": "#060423",
+        "type": "color",
+        "description": "gradient.Black 600"
+      },
+      "5": {
+        "value": "#191924",
+        "type": "color",
+        "description": "menu"
+      },
+      "6": {
+        "value": "{core.grey.900}",
+        "type": "color"
+      },
+      "slate-1": {
+        "value": "{core.grey.a15}",
+        "type": "color",
+        "description": "text input 1"
+      },
+      "slate-2": {
+        "value": "{core.brand-10.100}",
+        "type": "color",
+        "description": "text input 2"
+      },
+      "slate-on-card": {
+        "value": "rgba(25, 25, 36, 0.30)",
+        "type": "color",
+        "description": "should be used as a surface color for text, labels"
+      },
+      "brand": {
+        "primary": {
+          "default": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.5}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-10.a25}",
+            "type": "color"
+          }
+        },
+        "emphasizing": {
+          "default": {
+            "primary": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{semantic.text.brand.secondary}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          },
+          "static": {
+            "primary": {
+              "value": "{core.brand-30.700}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{core.brand-10.600}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.secondary.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.secondary.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.secondary.default}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          }
+        },
+        "ghost-popup": {
+          "default": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.tertiary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.tertiary.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.tertiary.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "slate-4": {
+        "value": "{semantic.background.slate-on-card}",
+        "type": "color",
+        "description": "text input 2"
+      },
+      "slate-5": {
+        "value": "{core.brand-10.800}",
+        "type": "color",
+        "description": "text input 2"
       }
     }
   }

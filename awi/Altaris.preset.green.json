@@ -398,7 +398,7 @@
         "description": "gradient.Black 600"
       },
       "5": {
-        "value": "#191924",
+        "value": "#15262E",
         "type": "color",
         "description": "menu"
       },
@@ -530,6 +530,14 @@
         "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
+      }
+    }
+  },
+  "blur": {
+    "homepage": {
+      "nav-menu": {
+        "value": "{blur.400}",
+        "type": "dimension"
       }
     }
   }

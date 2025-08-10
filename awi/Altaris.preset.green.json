@@ -1,16 +1,4 @@
 {
-  "contextual": {
-    "button": {
-      "primary": {
-        "border-color": {
-          "default-copy": {
-            "value": "{semantic.border.brand.primary.default}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
   "core": {
     "grey": {
       "50": {
@@ -163,6 +151,164 @@
       },
       "a80": {
         "value": "rgba(142, 142, 185, 0.80)",
+        "type": "color"
+      }
+    },
+    "brand-30": {
+      "50": {
+        "value": "#FFFBE5",
+        "type": "color",
+        "description": "basic.sand 50"
+      },
+      "100": {
+        "value": "#FFF2B2",
+        "type": "color",
+        "description": "basic.sand 100"
+      },
+      "200": {
+        "value": "#FFEA7F",
+        "type": "color",
+        "description": "basic.sand 200"
+      },
+      "300": {
+        "value": "#FFE14C",
+        "type": "color",
+        "description": "basic.sand 300"
+      },
+      "400": {
+        "value": "#FFE771",
+        "type": "color"
+      },
+      "500": {
+        "value": "#FFEA7F",
+        "type": "color"
+      },
+      "600": {
+        "value": "#f8e170",
+        "type": "color",
+        "description": "basic.sand 400"
+      },
+      "700": {
+        "value": "#B29400",
+        "type": "color"
+      },
+      "800": {
+        "value": "#7F6A00",
+        "type": "color"
+      },
+      "900": {
+        "value": "#4C4000",
+        "type": "color"
+      },
+      "a15": {
+        "value": "rgba(255, 234, 127, 0.15)",
+        "type": "color"
+      },
+      "a25": {
+        "value": "rgba(255, 234, 127, 0.25)",
+        "type": "color"
+      },
+      "a80": {
+        "value": "rgba(255, 234, 127, 0.8)",
+        "type": "color"
+      },
+      "a60": {
+        "value": "rgba(255, 234, 127, 0.8)",
+        "type": "color"
+      },
+      "a50": {
+        "value": "rgba(255, 234, 127, 0.5)",
+        "type": "color"
+      },
+      "a8": {
+        "value": "rgba(255, 234, 127, 0.08)",
+        "type": "color"
+      },
+      "a40": {
+        "value": "rgba(255, 234, 127, 0.40)",
+        "type": "color"
+      },
+      "a30": {
+        "value": "rgba(255, 234, 127, 0.30)",
+        "type": "color"
+      }
+    },
+    "brand-10": {
+      "50": {
+        "value": "#C5EBD2",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "100": {
+        "value": "#9EDDB4",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "200": {
+        "value": "#78CF97",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "300": {
+        "value": "#25A151",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "400": {
+        "value": "#51C279",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "500": {
+        "value": "#3EBB6A",
+        "type": "color",
+        "description": "Primary.amber 500, Primary.amber 700"
+      },
+      "600": {
+        "value": "#45895D",
+        "type": "color",
+        "description": "Primary.amber 600"
+      },
+      "700": {
+        "value": "#980303",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "800": {
+        "value": "#5B0202",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1E0101",
+        "type": "color",
+        "description": "Primary.Amber 800"
+      },
+      "a5": {
+        "value": "rgba(250, 29, 29, 0.05)",
+        "type": "color"
+      },
+      "a30": {
+        "value": "rgba(250, 29, 29, 0.03)",
+        "type": "color"
+      },
+      "a25": {
+        "value": "rgba(250, 29, 29, 0.25)",
+        "type": "color"
+      },
+      "a10": {
+        "value": "rgba(250, 29, 29, 0.1)",
+        "type": "color"
+      },
+      "a40": {
+        "value": "rgba(250, 29, 29, 0.4)",
+        "type": "color"
+      },
+      "a50": {
+        "value": "rgba(250, 29, 29, 0.5)",
+        "type": "color"
+      },
+      "a60": {
+        "value": "rgba(250, 29, 29, 0.6)",
         "type": "color"
       }
     }

@@ -70,35 +70,35 @@
     },
     "brand-60": {
       "50": {
-        "value": "#E3E3ED",
+        "value": "#E6E8E9",
         "type": "color"
       },
       "100": {
-        "value": "#C7C7DC",
+        "value": "#CDD1D2",
         "type": "color"
       },
       "200": {
-        "value": "#AAAACA",
+        "value": "#9CA3A6",
         "type": "color"
       },
       "300": {
-        "value": "#8E8EB9",
+        "value": "#838B8F",
         "type": "color"
       },
       "400": {
-        "value": "#7272A7",
+        "value": "#6A7479",
         "type": "color"
       },
       "500": {
-        "value": "#5A5A91",
+        "value": "#515D63",
         "type": "color"
       },
       "600": {
-        "value": "#494975",
+        "value": "#445158",
         "type": "color"
       },
       "700": {
-        "value": "#373758",
+        "value": "#2C3C43",
         "type": "color"
       },
       "800": {

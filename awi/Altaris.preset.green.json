@@ -496,5 +496,19 @@
         }
       }
     }
+  },
+  "contextual": {
+    "header": {
+      "desktop": {
+        "special-menu-item": {
+          "fill-v2": {
+            "open": {
+              "value": "rgba(20,25,28,0.85)",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
   }
 }

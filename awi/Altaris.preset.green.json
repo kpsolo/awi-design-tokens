@@ -107,7 +107,7 @@
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#071820",
+        "value": "#031219",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },

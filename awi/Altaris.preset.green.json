@@ -355,7 +355,7 @@
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "{core.brand-60.a50}",
+        "value": "linear-gradient(180deg, {core.brand-60.700}, {core.brand-60.800} )",
         "type": "color",
         "description": "gradients.Brown 550"
       },

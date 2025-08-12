@@ -4509,7 +4509,7 @@
           },
           "background": {
             "fill": {
-              "value": "{core.brand-10.a12}",
+              "value": "{core.brand-10.a45}",
               "type": "color"
             },
             "border": {
@@ -6682,8 +6682,8 @@
         "value": "rgba(250, 29, 29, 0.25)",
         "type": "color"
       },
-      "a12": {
-        "value": "rgba(255,191,191,0.12)",
+      "a45": {
+        "value": "rgba(199,74,92,0.45)",
         "type": "color"
       },
       "a10": {

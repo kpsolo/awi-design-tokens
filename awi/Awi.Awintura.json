@@ -4500,6 +4500,16 @@
           "text-body": {
             "value": "{core.brand-60.600}",
             "type": "color"
+          },
+          "background": {
+            "fill": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            }
           }
         }
       }

@@ -4111,6 +4111,16 @@
           "text-body": {
             "value": "{core.grey.100}",
             "type": "color"
+          },
+          "background": {
+            "fill": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            }
           }
         }
       },

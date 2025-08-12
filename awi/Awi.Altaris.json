@@ -4507,6 +4507,16 @@
             "value": "{core.brand-10.50}",
             "type": "color"
           },
+          "background": {
+            "fill": {
+              "value": "{core.brand-10.a12}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a15}",
+              "type": "color"
+            }
+          },
           "text-body": {
             "value": "{core.brand-10.100}",
             "type": "color"
@@ -6670,6 +6680,10 @@
       },
       "a25": {
         "value": "rgba(250, 29, 29, 0.25)",
+        "type": "color"
+      },
+      "a12": {
+        "value": "rgba(255,191,191,0.12)",
         "type": "color"
       },
       "a10": {

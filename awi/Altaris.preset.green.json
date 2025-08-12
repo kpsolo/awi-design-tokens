@@ -292,7 +292,7 @@
         "type": "color"
       },
       "a25": {
-        "value": "rgba(250, 29, 29, 0.25)",
+        "value": "rgba(61,186,105,0.25)",
         "type": "color"
       },
       "a10": {
@@ -326,7 +326,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
+        "value": "linear-gradient(180deg, #213C48 0.14%, #1C333D 20%, #182B35 49%, #15272E 77.06%, #0E1C20 100%)",
         "type": "color",
         "description": "+gradient popup"
       },

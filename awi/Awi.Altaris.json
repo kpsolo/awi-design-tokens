@@ -4445,6 +4445,18 @@
         "title": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "card": {
+          "background": {
+            "fill": {
+              "value": "{core.brand-10.a45}",
+              "type": "color"
+            },
+            "border": {
+              "value": "linear-gradient(99deg, {core.brand-10.400} , {core.brand-30.a40} , {core.brand-30.a40} , {core.brand-10.400} )",
+              "type": "color"
+            }
+          }
         }
       },
       "slider": {

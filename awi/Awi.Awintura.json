@@ -4435,6 +4435,18 @@
         "title": {
           "value": "{core.brand-30.300}",
           "type": "color"
+        },
+        "card": {
+          "background": {
+            "fill": {
+              "value": "{core.brand-10.a45}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-10.a45}",
+              "type": "color"
+            }
+          }
         }
       },
       "slider": {

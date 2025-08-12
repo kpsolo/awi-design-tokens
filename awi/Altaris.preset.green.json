@@ -239,12 +239,12 @@
     },
     "brand-10": {
       "50": {
-        "value": "#C5EBD2",
+        "value": "#daf0e7",
         "type": "color",
         "description": "Primary.Amber 800"
       },
       "100": {
-        "value": "#9EDDB4",
+        "value": "#b0e7c3",
         "type": "color",
         "description": "Primary.Amber 800"
       },
@@ -316,7 +316,7 @@
         "type": "color"
       },
       "a45": {
-        "value": "rgba(158,222,180,0.12)",
+        "value": "rgba(135,171,152,0.45)",
         "type": "color"
       }
     }

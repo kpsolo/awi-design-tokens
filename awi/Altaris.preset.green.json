@@ -46,7 +46,7 @@
         "description": "basic.sand 1100"
       },
       "900": {
-        "value": "#1A1A20",
+        "value": "#031219",
         "type": "color",
         "description": "basic.sand 1000 ( возможно поменять)"
       },
@@ -478,6 +478,14 @@
       "lg": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
+      }
+    },
+    "homepage": {
+      "nav-menu": {
+        "general": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius"
+        }
       }
     }
   }

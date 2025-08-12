@@ -438,5 +438,47 @@
       "value": "16px",
       "type": "dimension"
     }
+  },
+  "border-radius": {
+    "core": {
+      "0": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "100": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "300": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "400": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "9999",
+        "type": "borderRadius"
+      }
+    },
+    "button-copy": {
+      "sm": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      }
+    }
   }
 }

@@ -66,6 +66,10 @@
       "a15": {
         "value": "rgba(191, 191, 206, 0.15)",
         "type": "color"
+      },
+      "a0": {
+        "value": "rgba(21,38,46,0)",
+        "type": "color"
       }
     },
     "brand-60": {

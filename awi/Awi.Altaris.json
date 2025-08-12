@@ -4116,7 +4116,7 @@
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(42, 42, 48, 0.00) 0%, #2A2A30 100%)",
+        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.800} )",
         "type": "color"
       },
       "border": {
@@ -6201,6 +6201,10 @@
       },
       "a8": {
         "value": "rgba(7, 7, 3, 0.08)",
+        "type": "color"
+      },
+      "a0": {
+        "value": "rgba(8,8,3,0)",
         "type": "color"
       },
       "a15": {

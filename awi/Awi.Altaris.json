@@ -7222,7 +7222,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, #191924 3%, rgba(255, 251, 229, 0.43) 47%, #FED400 93%)",
+          "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
           "type": "color"
         }
       },

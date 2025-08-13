@@ -561,5 +561,105 @@
         "type": "color"
       }
     }
+  },
+  "heading": {
+    "ml": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{md}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "lg-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "lg-stronger": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "xl": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Expanded}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xl-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xl-stronger": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "xxl-strong": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-8}",
+        "lineHeight": "{xxl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "xxl-stronger": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-8}",
+        "lineHeight": "{xxl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "-2%"
+      },
+      "type": "typography"
+    }
+  },
+  "main": {
+    "value": "Mariupol",
+    "type": "fontFamilies",
+    "description": "font family for main content"
+  },
+  "accent": {
+    "value": "Mariupol",
+    "type": "fontFamilies",
+    "description": "font family for accent, header"
   }
 }

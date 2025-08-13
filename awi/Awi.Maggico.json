@@ -4816,7 +4816,7 @@
       },
       "welcome-bonus": {
         "fill": {
-          "value": "rgba(143,143,186,0.2)",
+          "value": "{semantic.background.slate-on-card}",
           "type": "color"
         }
       }

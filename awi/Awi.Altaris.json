@@ -5476,7 +5476,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-30.a25}",
+              "value": "{semantic.text.disabled.on-brand-secondary}",
               "type": "color"
             },
             "active": {

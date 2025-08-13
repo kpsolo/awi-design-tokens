@@ -653,12 +653,12 @@
     }
   },
   "main": {
-    "value": "Mariupol",
+    "value": "Figtree",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Mariupol",
+    "value": "Tf Grotesk",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   }

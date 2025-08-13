@@ -4107,11 +4107,11 @@
         "card": {
           "background": {
             "fill": {
-              "value": "{core.brand-10.a45}",
+              "value": "{semantic.gradients.9}",
               "type": "color"
             },
             "border": {
-              "value": "{core.brand-10.a45}",
+              "value": "{semantic.gradients.6}",
               "type": "color"
             }
           }

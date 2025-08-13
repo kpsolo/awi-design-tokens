@@ -5033,7 +5033,7 @@
         }
       },
       "overlay": {
-        "value": "rgba(33, 33, 39, 0.70)",
+        "value": "rgba(33,33,38,0.7)",
         "type": "color"
       },
       "text": {

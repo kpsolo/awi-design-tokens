@@ -509,6 +509,12 @@
           }
         }
       }
+    },
+    "popup": {
+      "overlay": {
+        "value": "rgba(24,43,54,0.6)",
+        "type": "color"
+      }
     }
   }
 }

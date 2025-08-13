@@ -546,6 +546,14 @@
               "type": "color"
             }
           }
+        },
+        "welcome-bonus": {
+          "timer": {
+            "fill": {
+              "value": "linear-gradient(180deg, #48CF77 0%, #337A4C 100%)",
+              "type": "color"
+            }
+          }
         }
       }
     },

@@ -4524,6 +4524,18 @@
             }
           }
         }
+      },
+      "thumb-providers": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        }
       }
     },
     "referal": {

@@ -4133,11 +4133,11 @@
           },
           "background": {
             "fill": {
-              "value": "{core.brand-10.100}",
+              "value": "{semantic.gradients.7}",
               "type": "color"
             },
             "border": {
-              "value": "{core.brand-10.100}",
+              "value": "{semantic.gradients.6}",
               "type": "color"
             }
           }

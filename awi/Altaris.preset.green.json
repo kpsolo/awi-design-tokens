@@ -369,7 +369,7 @@
         "description": "+ "
       },
       "10": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, #51C279 0%, #3EBB6A 100%)",
         "type": "color",
         "description": "+gradients.Emerald 600"
       },
@@ -511,6 +511,21 @@
         "large": {
           "value": "{border-radius.core.300}",
           "type": "borderRadius"
+        }
+      }
+    },
+    "header": {
+      "mobile-top-up": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      },
+      "desktop": {
+        "special-menu-item": {
+          "close": {
+            "value": "{border-radius.core.300}",
+            "type": "borderRadius",
+            "description": "contextual.header.desktop.special-menu-item"
+          }
         }
       }
     }

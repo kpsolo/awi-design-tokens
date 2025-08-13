@@ -3900,6 +3900,13 @@
             "type": "color",
             "description": "Tiket"
           }
+        },
+        "background": {
+          "fill": {
+            "value": "{core.grey.600}",
+            "type": "color",
+            "description": "Tiket"
+          }
         }
       },
       "zero-block": {

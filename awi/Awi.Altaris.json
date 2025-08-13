@@ -5398,6 +5398,13 @@
             "description": "Tiket"
           }
         },
+        "background": {
+          "fill": {
+            "value": "{core.grey.600}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
         "label": {
           "fill": {
             "value": "{core.white.a100}",

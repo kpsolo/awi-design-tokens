@@ -3903,7 +3903,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.grey.600}",
+            "value": "linear-gradient(319deg, #8651F0 5.49%, #7968EF 35.98%, #7769EF 40%, #D22EDC 100%)",
             "type": "color",
             "description": "Tiket"
           }

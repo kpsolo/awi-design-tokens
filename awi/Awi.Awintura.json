@@ -5402,7 +5402,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.grey.600}",
+            "value": "{core.white.a0}",
             "type": "color",
             "description": "Tiket"
           }

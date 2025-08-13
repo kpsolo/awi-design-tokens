@@ -4439,11 +4439,11 @@
         "card": {
           "background": {
             "fill": {
-              "value": "{core.brand-10.a45}",
+              "value": "{core.white.a0}",
               "type": "color"
             },
             "border": {
-              "value": "{core.brand-10.a45}",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           }

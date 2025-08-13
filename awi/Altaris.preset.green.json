@@ -111,7 +111,7 @@
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#031219",
+        "value": "#071820",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
@@ -445,6 +445,12 @@
     "400": {
       "value": "16px",
       "type": "dimension"
+    },
+    "homepage": {
+      "nav-menu": {
+        "value": "{blur.400}",
+        "type": "dimension"
+      }
     }
   },
   "border-radius": {
@@ -546,6 +552,12 @@
     "popup": {
       "overlay": {
         "value": "rgba(24,43,54,0.6)",
+        "type": "color"
+      }
+    },
+    "footer": {
+      "fill": {
+        "value": "{core.grey.900}",
         "type": "color"
       }
     }

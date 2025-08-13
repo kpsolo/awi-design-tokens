@@ -3269,6 +3269,12 @@
             "value": "{core.white.a5}",
             "type": "color"
           }
+        },
+        "background": {
+          "fill": {
+            "value": "#1C1548",
+            "type": "color"
+          }
         }
       },
       "notification": {

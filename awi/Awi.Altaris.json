@@ -3816,6 +3816,12 @@
             "type": "color"
           }
         },
+        "background": {
+          "fill": {
+            "value": "{semantic.background.5}",
+            "type": "color"
+          }
+        },
         "special-menu-item": {
           "fill": {
             "value": "rgba(27, 24, 19, 0.50)",

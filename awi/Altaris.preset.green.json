@@ -575,7 +575,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Regular}",
-        "fontSize": "{scale-5}",
+        "fontSize": "16px",
         "lineHeight": "{md}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
@@ -586,7 +586,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "Regular",
-        "fontSize": "{scale-6}",
+        "fontSize": "18px",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
@@ -630,7 +630,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Regular}",
-        "fontSize": "{scale-7}",
+        "fontSize": "20px",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"

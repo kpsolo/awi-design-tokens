@@ -3946,6 +3946,10 @@
       "icon": {
         "value": "{core.brand-60.500}",
         "type": "color"
+      },
+      "icon-hover": {
+        "value": "{core.brand-60.800}",
+        "type": "color"
       }
     },
     "selection-controls": {

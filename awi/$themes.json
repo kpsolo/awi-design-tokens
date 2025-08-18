@@ -4067,5 +4067,15 @@
       "Altaris.preset.green": "enabled"
     },
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "1f335a04ee38f359e1aa518df3f36847b6a66896",
+    "name": "Altaris.preset",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled",
+      "Altaris.preset.default": "enabled"
+    },
+    "$figmaVariableReferences": {}
   }
 ]

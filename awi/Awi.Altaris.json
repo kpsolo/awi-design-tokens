@@ -2219,15 +2219,15 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
             "type": "color"
           },
           "active-vip": {

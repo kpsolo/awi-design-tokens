@@ -1962,7 +1962,7 @@
           "type": "color"
         },
         "info": {
-          "value": "#FED400",
+          "value": "#0F87E7",
           "type": "color"
         }
       }
@@ -1981,7 +1981,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
+        "value": "linear-gradient(180deg, {core.grey.700} 0%, {core.grey.800} 29%, {core.grey.800} 67%, {core.grey.800} 83%, {core.grey.900} 100%);",
         "type": "color",
         "description": "+gradient popup"
       },
@@ -1996,7 +1996,7 @@
         "description": "gradients.orange 600"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(245, 190, 61, 0.00) 0%, #F3BC3F 100%), linear-gradient(180deg, #FED234 0%, rgba(243, 192, 73, 0.00) 100%)",
+        "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.600} 100%)",
         "type": "color",
         "description": "gradients.Border button"
       },

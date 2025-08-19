@@ -6827,12 +6827,12 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
         "type": "color",
         "description": "+gradients.orange 500"
       },
       "5": {
-        "value": "linear-gradient(180deg, #A60216 0%, #860D1C 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",
         "type": "color",
         "description": "gradients.orange 600"
       },

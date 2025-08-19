@@ -2448,7 +2448,7 @@
             "type": "color"
           },
           "default": {
-            "value": "rgba(255, 255, 255, 0.00)",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
@@ -2462,11 +2462,11 @@
             "type": "color"
           },
           "default": {
-            "value": "rgba(255, 255, 255, 0.00)",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(255, 255, 255, 0.00)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -2522,15 +2522,15 @@
             "type": "color"
           },
           "done": {
-            "value": "rgba(255, 255, 255, 0)",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "activation": {
-            "value": "rgba(255, 255, 255, 0)",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "received": {
-            "value": "rgba(255, 255, 255, 0)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -2715,7 +2715,7 @@
           "type": "color"
         },
         "border": {
-          "value": "rgba(255, 255, 255, 0.00)",
+          "value": "{core.white.a0}",
           "type": "color"
         }
       },

@@ -2317,7 +2317,7 @@
               "type": "color"
             },
             "animation": {
-              "value": "conic-gradient(from 80deg at 50% 50%, #FEB600 0deg, rgba(150, 110, 26, 0.00) 360deg)",
+              "value": "conic-gradient(from 80deg at 50% 50%, {core.brand-30.500} 0deg, {core.brand-30.700a0} 360deg)",
               "type": "color"
             }
           },

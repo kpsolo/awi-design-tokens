@@ -1937,6 +1937,11 @@
         "value": "#EB7F44",
         "type": "color",
         "description": "basic.bronze"
+      },
+      "vip": {
+        "value": "#FFC94B",
+        "type": "color",
+        "description": "vip"
       }
     },
     "brand-preset": {

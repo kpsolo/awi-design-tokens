@@ -2213,7 +2213,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "#FFC94B",
+            "value": "{core.additionals.vip}",
             "type": "color"
           }
         },

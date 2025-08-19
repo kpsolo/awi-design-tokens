@@ -1102,7 +1102,17 @@
       "homepage.payment-block.mob.title2": "S:5294960ad5618dc0090160bf7842ad6243e6cdd9,",
       "contextual.profile.notification.illustration": "S:9fd1b2f904d39b047f7da8f6f5f3dcce680a0062,",
       "contextual.news.card.fill": "S:49da6c229eb1855e212c4c0a18af8e1dce8edeac,",
-      "contextual.news.welcome-bonus.fill": "S:477921dc79ed2e2e56595294c01b23290be815bc,"
+      "contextual.news.welcome-bonus.fill": "S:477921dc79ed2e2e56595294c01b23290be815bc,",
+      "contextual.header.desktop.background.fill": "S:8e55309e65fec27c10a1d31a7d53fff928043fea,",
+      "contextual.tag.icon-hover": "S:6454140b3c1cb3895dca8186c8e7c56a3e32595b,",
+      "contextual.homepage.collection.card.background.fill": "S:f56ea88124eed45349a599c7acd6eae118992b39,",
+      "contextual.homepage.collection.card.background.border": "S:0b47a352215ff76ace8e864756f9927088f2253c,",
+      "contextual.homepage.winning-now.card.background.fill": "S:89fdc30237c21a0ce7ebd40417f9e5b59c7d6d4f,",
+      "contextual.homepage.winning-now.card.background.border": "S:b7c498f3ca760cc43d9124b6e5d4b8d6037c4dc2,",
+      "contextual.homepage.thumb-providers.background.fill": "S:90dd2298d662189838f738ab555100eda4c9913a,",
+      "contextual.homepage.thumb-providers.background.border": "S:0b45658d629e2c60f270f2283759c724285b508f,",
+      "contextual.lottery-tournament.tiket.background.fill": "S:03683c6e0fd1a3580ea16e4b3832bc03bfef9750,",
+      "contextual.payment-method.fill": "S:51207fa061b13db296cab6327ef37c9ff2834f01,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

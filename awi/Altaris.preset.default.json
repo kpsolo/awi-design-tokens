@@ -1164,6 +1164,20 @@
           }
         }
       },
+      "a0": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "for radial gradient"
+      },
       "a40": {
         "value": "{core.brand-60.300}",
         "type": "color",
@@ -1986,12 +2000,12 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
         "type": "color",
         "description": "+gradients.orange 500"
       },
       "5": {
-        "value": "linear-gradient(180deg, #A60216 0%, #860D1C 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",
         "type": "color",
         "description": "gradients.orange 600"
       },
@@ -2001,32 +2015,50 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "rgba(40, 40, 51, 0.85)",
+        "value": "{core.brand-60.700}",
         "type": "color",
-        "description": "gradients.Brown"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.85",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "no used"
       },
       "8": {
-        "value": "linear-gradient(180deg, #2E2E3F 0%, #252533 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.800} 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "rgba(38, 38, 60, 0.50)",
+        "value": "{core.brand-60.700}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
         "description": "+ "
       },
       "10": {
-        "value": "linear-gradient(180deg, #D1021B 0%, #A71023 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
         "type": "color",
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "#0F0F14",
+        "value": "{core.brand-60.900}",
         "type": "color",
         "description": "+gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(227, 227, 237, 0.15) 0%, rgba(227, 227, 237, 0.00) 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a30} 0%, {core.brand-60.a0} 100%)",
         "type": "color",
         "description": "gradients.Radial"
       }
@@ -2035,25 +2067,25 @@
       "1": {
         "value": "#1C1548",
         "type": "color",
-        "description": "basic.sand 900"
+        "description": "not used"
       },
       "2": {
-        "value": "#252339",
+        "value": "{core.brand-60.700}",
         "type": "color",
         "description": "basic.replaceable.sand 1100"
       },
       "3": {
         "value": "#3D3B4F",
         "type": "color",
-        "description": "+gradient.yellow 50"
+        "description": "not used"
       },
       "4": {
         "value": "#060423",
         "type": "color",
-        "description": "gradient.Black 600"
+        "description": "gradient.Black 600\nnot used"
       },
       "5": {
-        "value": "#191924",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "menu"
       },

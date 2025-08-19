@@ -2201,11 +2201,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(166deg, #585858 47.55%, #3A3A3A 92.51%)",
+            "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(164deg, #232220 4.96%, #221C1E 100%)",
+            "value": "linear-gradient(164deg, {core.grey.800} 5%, {core.brand-60.800} 100%)",
             "type": "color"
           },
           "active": {

@@ -8123,9 +8123,9 @@
         "md": {
           "value": {
             "fontFamily": "{main}",
-            "fontWeight": "{text.normal}",
-            "fontSize": "{scale-3}",
-            "lineHeight": "{ml}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "{scale-2}",
+            "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"

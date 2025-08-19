@@ -497,14 +497,6 @@
         },
         "type": "border"
       },
-      "filled": {
-        "value": {
-          "color": "{contextual.input.border-color.filled}",
-          "width": "{border-width.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
       "hover": {
         "value": {
           "color": "{contextual.input.border-color.hover}",
@@ -3606,10 +3598,6 @@
       "border-color": {
         "default": {
           "value": "{semantic.border.static.default}",
-          "type": "color"
-        },
-        "filled": {
-          "value": "{semantic.border.static.filled}",
           "type": "color"
         },
         "hover": {

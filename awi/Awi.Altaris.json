@@ -5443,7 +5443,7 @@
             "description": "Tiket"
           },
           "default": {
-            "value": "rgba(255, 255, 255, 0)",
+            "value": "{core.white.a0}",
             "type": "color",
             "description": "Tiket"
           }
@@ -5642,7 +5642,7 @@
         "type": "color"
       },
       "background-gradient-bottom": {
-        "value": "rgba(255, 255, 255, 0.00)",
+        "value": "{core.white.a0}",
         "type": "color"
       }
     },

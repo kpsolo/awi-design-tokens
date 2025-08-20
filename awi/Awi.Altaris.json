@@ -2558,7 +2558,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "rgba(160,160,160,0.1)",
+            "value": "{core.grey.a10}",
             "type": "color"
           }
         },
@@ -2574,7 +2574,7 @@
             "type": "color"
           },
           "2": {
-            "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 50%, rgba(255, 255, 255, 0.00) 100%)",
+            "value": "linear-gradient(90deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%)",
             "type": "color"
           }
         },
@@ -2589,7 +2589,7 @@
               "type": "color"
             },
             "received": {
-              "value": "linear-gradient(132deg, rgba(139, 136, 154, 0.09) 10.93%, rgba(255, 255, 255, 0.00) 43.33%, rgba(117, 117, 117, 0.18) 81.44%)",
+              "value": "linear-gradient(132deg,  {core.grey.a8} 11%, {core.white.a0} 43%, {core.grey.a20} 82%)",
               "type": "color"
             },
             "progress": {
@@ -2645,7 +2645,7 @@
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(177deg, rgba(255, 255, 255, 0.40) 2.75%, rgba(255, 255, 255, 0.00) 97.94%)",
+          "value": "linear-gradient(177deg, {core.white.a40} 3%, {core.white.a0} 98%)",
           "type": "color"
         }
       },

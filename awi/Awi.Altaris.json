@@ -3161,7 +3161,7 @@
       },
       "mob": {
         "bg": {
-          "value": "linear-gradient(171deg, #26263C 12%, #5A5A91 60%)",
+          "value": "linear-gradient(171deg, {core.brand-60.700} 12%, {core.brand-60.500} 60%)",
           "type": "color"
         }
       },
@@ -3235,11 +3235,11 @@
         },
         "border": {
           "success": {
-            "value": "rgba(19, 190, 102, 0.32)",
+            "value": "{core.validation.success.a30}",
             "type": "color"
           },
           "error": {
-            "value": "rgba(213, 5, 5, 0.32)",
+            "value": "{core.validation.danger.a30}",
             "type": "color"
           },
           "pending": {

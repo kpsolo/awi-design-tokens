@@ -3039,7 +3039,7 @@
       },
       "header": {
         "overlay": {
-          "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
+          "value": "linear-gradient(91deg, #181E3E 0%, rgba(0, 18, 109, 0.00) 98%)",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -3086,7 +3086,7 @@
     },
     "pregame": {
       "overlay": {
-        "value": "linear-gradient(180deg, rgba(20, 20, 32, 0.30) 0%, rgba(38, 38, 60, 0.30) 100%)",
+        "value": "{core.grey.a30}",
         "type": "color"
       },
       "background": {

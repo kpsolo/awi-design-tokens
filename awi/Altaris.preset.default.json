@@ -2096,9 +2096,9 @@
     },
     "background": {
       "1": {
-        "value": "#1C1548",
+        "value": "{core.brand-60.800}",
         "type": "color",
-        "description": "not used"
+        "description": "not used\nold #1C1548\n"
       },
       "2": {
         "value": "{core.brand-60.700}",
@@ -2106,14 +2106,14 @@
         "description": "basic.replaceable.sand 1100"
       },
       "3": {
-        "value": "#3D3B4F",
+        "value": "{core.brand-60.700}",
         "type": "color",
-        "description": "not used"
+        "description": "not used\n#3D3B4F\n"
       },
       "4": {
-        "value": "#060423",
+        "value": "{core.brand-60.900}",
         "type": "color",
-        "description": "gradient.Black 600\nnot used"
+        "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
         "value": "{core.brand-60.800}",

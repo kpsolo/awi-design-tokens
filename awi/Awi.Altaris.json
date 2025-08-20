@@ -2628,10 +2628,6 @@
         }
       },
       "offers-block": {
-        "fill": {
-          "value": "linear-gradient(180deg, rgba(217, 220, 255, 0.25) 0%, rgba(222, 222, 248, 0.10) 100%)",
-          "type": "color"
-        },
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
@@ -2651,11 +2647,11 @@
       },
       "overlay": {
         "upper": {
-          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
           "type": "color"
         },
         "bottom": {
-          "value": "rgba(0, 0, 0, 0.80)",
+          "value": "{core.grey.a80}",
           "type": "color"
         }
       },

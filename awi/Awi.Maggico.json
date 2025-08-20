@@ -4981,10 +4981,6 @@
         }
       },
       "offers-block": {
-        "fill": {
-          "value": "linear-gradient(178deg, #302B77 7%, rgba(7, 5, 37, 0.00) 120%)",
-          "type": "color"
-        },
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
@@ -5519,12 +5515,6 @@
               "value": "{semantic.text.default.tertiary}",
               "type": "color"
             }
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
           }
         }
       },

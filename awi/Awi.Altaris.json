@@ -3239,11 +3239,11 @@
             "type": "color"
           },
           "pending": {
-            "value": "rgba(229, 191, 0, 0.32)",
+            "value": "{core.validation.warning.600a30}",
             "type": "color"
           },
           "on-review": {
-            "value": "rgba(254, 212, 0, 0.32)",
+            "value": "{core.validation.warning.a30}",
             "type": "color"
           },
           "declined": {

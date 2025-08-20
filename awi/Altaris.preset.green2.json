@@ -2085,7 +2085,7 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#315d40",
+        "value": "#51C279",
         "type": "color"
       },
       "secondary": {
@@ -2093,7 +2093,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#5A5A91",
+        "value": "#2B4957",
         "type": "color",
         "description": "tertiary"
       },
@@ -2102,7 +2102,7 @@
         "type": "color"
       },
       "grey": {
-        "value": "#6E6C7B",
+        "value": "#607075",
         "type": "color",
         "description": "500"
       },
@@ -2197,7 +2197,7 @@
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "{core.brand-60.900}",
+        "value": "#031219",
         "type": "color",
         "description": "+gradients.Black 600"
       },
@@ -2229,7 +2229,7 @@
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.brand-60.800}",
+        "value": "#15262E",
         "type": "color",
         "description": "menu"
       },

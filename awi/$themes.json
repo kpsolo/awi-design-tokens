@@ -1115,8 +1115,7 @@
       "contextual.payment-method.fill": "S:51207fa061b13db296cab6327ef37c9ff2834f01,"
     },
     "selectedTokenSets": {
-      "Awi.Maggico": "enabled",
-      "Altaris.preset.green2": "disabled"
+      "Awi.Maggico": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "161c0b10d358db6a9be9f3c99a796d8a5ddd9fb1",
@@ -2500,8 +2499,7 @@
       "contextual.payment-method.fill": "S:02c76fb0f19e7ba76f8bffa43b26607d55ace844,"
     },
     "selectedTokenSets": {
-      "Awi.Awintura": "enabled",
-      "Altaris.preset.green2": "disabled"
+      "Awi.Awintura": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "cdb0ca55423feb882cf8b177770fb8793c672dda",
@@ -3830,8 +3828,7 @@
       "contextual.profile.notification.illustration": "S:8915df6dec784784a0df2c42e8b81681796003db,"
     },
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green2": "disabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaVariableReferences": {
       "main": "6c8e59e335221291c6c862e0d85172318c1e552e",
@@ -4077,8 +4074,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",
-      "Altaris.preset.green": "enabled",
-      "Altaris.preset.green2": "disabled"
+      "Altaris.preset.green": "enabled"
     },
     "$figmaVariableReferences": {}
   },
@@ -4088,8 +4084,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",
-      "Altaris.preset.default": "enabled",
-      "Altaris.preset.green2": "disabled"
+      "Altaris.preset.default": "enabled"
     },
     "$figmaVariableReferences": {}
   },

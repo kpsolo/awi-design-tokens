@@ -2085,11 +2085,11 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#FA1D1D",
+        "value": "#315d40",
         "type": "color"
       },
       "secondary": {
-        "value": "#00ff19",
+        "value": "#FFE14C",
         "type": "color"
       },
       "tertiary": {

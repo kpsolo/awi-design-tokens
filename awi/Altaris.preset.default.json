@@ -760,6 +760,19 @@
           }
         }
       },
+      "a90": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a80": {
         "value": "{core.grey.900}",
         "type": "color",
@@ -853,6 +866,19 @@
             "modify": {
               "type": "alpha",
               "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a1": {
+        "value": "{core.brand-preset.white}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.01",
               "space": "lch"
             }
           }

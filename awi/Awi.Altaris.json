@@ -3340,7 +3340,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "rgba(254, 182, 0, 0.01)",
+          "value": "{core.white.a1}",
           "type": "color"
         },
         "text": {
@@ -3701,11 +3701,11 @@
           }
         },
         "bg": {
-          "value": "rgba(20, 20, 32, 0.88)",
+          "value": "{core.grey.a90}",
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, rgba(20, 20, 32, 0.00) 0%, #141420 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
           "type": "color"
         },
         "navmenu": {

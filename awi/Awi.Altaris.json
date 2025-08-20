@@ -3247,7 +3247,7 @@
             "type": "color"
           },
           "declined": {
-            "value": "rgba(164, 174, 200, 0.32)",
+            "value": "{core.grey.100a10}",
             "type": "color"
           }
         }
@@ -5602,7 +5602,7 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "linear-gradient(180deg, rgba(57, 55, 71, 0.40) 0%, rgba(25, 24, 28, 0.40) 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.700a40} 0%, {core.brand-60.900a40} 100%)",
         "type": "color"
       },
       "text": {

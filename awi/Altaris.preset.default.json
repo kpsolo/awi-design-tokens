@@ -2009,6 +2009,11 @@
         "value": "#FFC94B",
         "type": "color",
         "description": "vip"
+      },
+      "pending": {
+        "value": "#E5BF00",
+        "type": "color",
+        "description": "pending"
       }
     },
     "brand-preset": {

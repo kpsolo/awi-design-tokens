@@ -3035,7 +3035,7 @@
       },
       "header": {
         "overlay": {
-          "value": "linear-gradient(91deg, #181E3E 0%, rgba(0, 18, 109, 0.00) 98%)",
+          "value": "linear-gradient(91deg, {core.brand-60.800} 0%, {core.brand-60.a0} 98%)",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -3101,7 +3101,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, rgba(39, 39, 54, 0.00) 0%, #272736 100%)",
+          "value": "linear-gradient(180deg, {core.brand-60.a0} 0%, {core.brand-60.800} 100%)",
           "type": "color"
         },
         "text": {

@@ -142,7 +142,7 @@
         "welcome-bonus": {
           "timer": {
             "fill": {
-              "value": "linear-gradient(0deg, #6A0808 0%, #FF0202 100%)",
+              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
               "type": "color"
             }
           }
@@ -781,6 +781,32 @@
             "modify": {
               "type": "alpha",
               "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a70": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a60": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
               "space": "lch"
             }
           }

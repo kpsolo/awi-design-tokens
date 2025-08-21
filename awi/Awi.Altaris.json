@@ -3837,7 +3837,7 @@
               "type": "color"
             },
             "open": {
-              "value": "rgba(27, 24, 19, 0.85)",
+              "value": "{core.grey.a90}",
               "type": "color"
             }
           },
@@ -3857,7 +3857,7 @@
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(0deg, #6A0808 0%, #FF0202 100%)",
+              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
               "type": "color"
             }
           }
@@ -3885,7 +3885,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(25, 25, 36, 0.73) 0%, rgba(25, 25, 36, 0.75) 25%, rgba(25, 25, 36, 0.61) 46%, rgba(25, 25, 36, 0.27) 76.04%, rgba(25, 25, 36, 0.11) 89%, rgba(25, 25, 36, 0.00) 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a70} 0%, {core.grey.a70} 25%, {core.grey.a60} 46%, {core.grey.a30} 76%, {core.grey.a10} 89%, {core.grey.a0} 100%)",
           "type": "color"
         },
         "top-up": {
@@ -4157,7 +4157,7 @@
           "type": "color"
         },
         "step": {
-          "value": "linear-gradient(180deg, #FFFBE5 0%, #FFEA7F 100%)",
+          "value": "linear-gradient(180deg, {core.brand-30.50} 0%, {core.brand-30.200} 100%)",
           "type": "color"
         },
         "border": {
@@ -4176,11 +4176,11 @@
       "promo-code-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, #494975 0%, #373758 33%, #26263C 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.700} 33%, {core.brand-60.800} 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(180deg, #56568E 0%, #3A3A6E 33%, #335 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.500} 0%, {core.brand-60.600} 33%, {core.brand-60.700} 100%)",
             "type": "color"
           }
         },

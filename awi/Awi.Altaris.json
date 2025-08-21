@@ -4394,12 +4394,14 @@
           "tab": {
             "highlight": {
               "active": {
-                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a10}) 60%, {core.brand-30.a0} 80%)",
-                "type": "color"
+                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a8} 60%, {core.brand-30.a0} 80%)",
+                "type": "color",
+                "description": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a10} 60%, {core.brand-30.a0} 80%)"
               },
               "default": {
-                "value": "radial-gradient(58% 58% at 50% 50%, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0.16) 7%, rgba(255, 255, 255, 0.15) 13%, rgba(255, 255, 255, 0.15) 20%, rgba(255, 255, 255, 0.14) 27%, rgba(255, 255, 255, 0.12) 33%, rgba(255, 255, 255, 0.11) 40%, rgba(255, 255, 255, 0.09) 47%, rgba(255, 255, 255, 0.07) 53%, rgba(255, 255, 255, 0.05) 60%, rgba(255, 255, 255, 0.04) 67%, rgba(255, 255, 255, 0.02) 73%, rgba(255, 255, 255, 0.01) 80%, rgba(255, 255, 255, 0.01) 87%, rgba(255, 255, 255, 0.00) 93%, rgba(255, 255, 255, 0.00) 100%)",
-                "type": "color"
+                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.white.a25} 0%, {core.white.a20} 20%, {core.white.a15} 40%, {core.white.a10} 53%, {core.white.a8} 60%, {core.white.a0} 80%)",
+                "type": "color",
+                "description": "radial-gradient(57.87% 57.87% at 50% 50%, {core.white.a25} 0%, {core.white.a20} 20%, {core.white.a15} 40%, {core.white.a10} 53%, {core.white.a10} 60%, {core.white.a0} 80%)"
               }
             },
             "text": {
@@ -4430,7 +4432,7 @@
       "collection": {
         "background": {
           "background-card": {
-            "value": "#1F1F28",
+            "value": "{core.brand-60.800}",
             "type": "color"
           }
         },
@@ -6251,6 +6253,11 @@
       },
       "a8": {
         "value": "rgba(255, 255, 255, 0.08)",
+        "type": "color",
+        "description": "replaceble.white 8%\n"
+      },
+      "a10": {
+        "value": "rgba(255, 255, 255, 0.1)",
         "type": "color",
         "description": "replaceble.white 8%\n"
       },

@@ -4565,7 +4565,7 @@
           }
         },
         "elipse-bg": {
-          "value": "rgba(51, 233, 198, 0.35)",
+          "value": "{core.validation.success.a30}",
           "type": "color"
         }
       },

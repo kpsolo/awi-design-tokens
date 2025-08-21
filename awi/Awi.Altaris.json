@@ -3713,10 +3713,6 @@
             "value": "{semantic.background.2}",
             "type": "color"
           },
-          "overlay": {
-            "value": "linear-gradient(180deg, rgba(37, 35, 57, 0.00) 0%, #252339 100%)",
-            "type": "color"
-          },
           "close": {
             "fill": {
               "value": "{core.brand-60.900}",
@@ -3774,10 +3770,6 @@
           "value": "{core.grey.900}",
           "type": "color"
         },
-        "overlay": {
-          "value": "linear-gradient(180deg, rgba(27, 24, 19, 0.00) 0%, rgba(27, 24, 19, 0.80) 100%)",
-          "type": "color"
-        },
         "border": {
           "value": "{core.white.a15}",
           "type": "color"
@@ -3808,7 +3800,7 @@
         },
         "special-menu-item": {
           "fill": {
-            "value": "rgba(27, 24, 19, 0.50)",
+            "value": "{core.grey.a50}",
             "type": "color"
           },
           "border": {

@@ -4095,6 +4095,7 @@
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",
       "Altaris.preset.green2": "enabled"
-    }
+    },
+    "$figmaVariableReferences": {}
   }
 ]

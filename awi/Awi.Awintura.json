@@ -5396,7 +5396,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.white.a0}",
+            "value": "rgba(223, 195, 150, 1)",
             "type": "color",
             "description": "Tiket"
           }

@@ -4394,7 +4394,7 @@
           "tab": {
             "highlight": {
               "active": {
-                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a8} 60%, {core.brand-30.a0} 80%)",
+                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.600a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a8} 60%, {core.brand-30.a0} 80%)",
                 "type": "color",
                 "description": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a10} 60%, {core.brand-30.a0} 80%)"
               },
@@ -4674,7 +4674,7 @@
             "type": "color"
           },
           "elipse": {
-            "value": "linear-gradient(90deg, rgba(85, 76, 62, 0.60) 35%, rgba(85, 76, 62, 0.00) 81%)",
+            "value": "linear-gradient(90deg, {core.brand-30.800a50} 35%, {core.brand-30.800a0} 81%)",
             "type": "color"
           }
         },
@@ -4684,11 +4684,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(90deg, rgba(255, 242, 178, 0.20) 35%, rgba(255, 242, 178, 0.00) 81%)",
+            "value": "linear-gradient(90deg, {core.brand-30.a20} 35%, {core.brand-30.a0} 81%)",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(90deg, rgba(255, 242, 178, 0.12) 35%, rgba(255, 242, 178, 0.00) 81%)",
+            "value": "linear-gradient(90deg, {core.brand-30.a10} 35%, {core.brand-30.a0} 81%)",
             "type": "color"
           }
         },
@@ -4701,7 +4701,7 @@
       },
       "balance-number": {
         "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, #FED400 0deg, rgba(229, 137, 0, 0.00) 0deg, #FED400 360deg)",
+          "value": "conic-gradient(from 90deg at 50% 50%, {core.brand-30.500} 0deg, {core.brand-30.a0} 0deg, {core.brand-30.500} 360deg)",
           "type": "color"
         },
         "indicator-start": {
@@ -4770,10 +4770,6 @@
           "type": "color"
         }
       },
-      "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
-        "type": "color"
-      },
       "status": {
         "fill": {
           "value": "{core.brand-60.a20}",
@@ -4796,7 +4792,7 @@
     "status-icon": {
       "success": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(19, 190, 102, 0.12) 0%, rgba(19, 190, 102, 0.00) 100%)",
+          "value": "linear-gradient(180deg, {core.validation.success.a10} 0%, {core.validation.success.a0} 100%)",
           "type": "color"
         },
         "icon": {
@@ -4810,13 +4806,13 @@
           "type": "color"
         },
         "fill": {
-          "value": "linear-gradient(180deg, rgba(213, 5, 5, 0.12) 0%, rgba(213, 5, 5, 0.00) 100%)",
+          "value": "linear-gradient(180deg, {core.validation.danger.a10} 0%, {core.validation.danger.a0} 100%)",
           "type": "color"
         }
       },
       "warning": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(229, 191, 0, 0.12) 0%, rgba(229, 191, 0, 0.00) 100%)",
+          "value": "linear-gradient(180deg, {core.validation.warning.a10} 0%, {core.validation.warning.a0} 100%)",
           "type": "color"
         },
         "icon": {
@@ -4981,7 +4977,7 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "#45444C",
+                "value": "{core.grey.700}",
                 "type": "color",
                 "description": "Segment Control"
               }
@@ -5112,7 +5108,7 @@
       }
     },
     "overlay": {
-      "value": "rgba(3, 3, 7, 0.5)",
+      "value": "{core.grey.a60}",
       "type": "color"
     },
     "divider": {
@@ -5177,7 +5173,7 @@
         }
       },
       "text-overlay": {
-        "value": "linear-gradient(180deg, rgba(26, 26, 34, 0.00) 0%, #1A1A22 100%)",
+        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
         "type": "color"
       }
     },
@@ -5310,10 +5306,6 @@
               }
             }
           }
-        },
-        "line": {
-          "value": "rgba(57, 38, 2, 0.15)",
-          "type": "color"
         }
       }
     },
@@ -5421,7 +5413,7 @@
         },
         "fill": {
           "winning": {
-            "value": "rgba(254, 182, 0, 0.15)",
+            "value": "{core.brand-30.a15}",
             "type": "color",
             "description": "Tiket"
           }
@@ -5535,7 +5527,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(45, 45, 53, 0.00) 0%, rgba(45, 45, 53, 0.60) 20.83%, #2D2D35 100%)",
+          "value": "linear-gradient(180deg, {core.grey.800a0} 0%, {core.grey.800a60} 21%, {core.grey.800} 100%)",
           "type": "color"
         }
       },
@@ -5550,7 +5542,7 @@
         }
       },
       "overlay": {
-        "value": "linear-gradient(0deg, #2D2D35 0%, rgba(45, 45, 53, 0.60) 79.69%, rgba(45, 45, 53, 0.35) 100%)",
+        "value": "linear-gradient(0deg, {core.grey.800} 0%, {core.grey.800a60} 79.69%, {core.grey.800a40} 100%)",
         "type": "color"
       },
       "show-more": {
@@ -5628,7 +5620,7 @@
     },
     "error-pages": {
       "background-gradient-top": {
-        "value": "linear-gradient(180deg, rgba(204, 147, 0, 0.25) 0%, rgba(21, 21, 16, 0.20) 46.34%, rgba(24, 17, 10, 0.20) 46.34%)",
+        "value": "linear-gradient(180deg, {core.brand-30.600a25} 0%, {core.grey.a20} 46%)",
         "type": "color"
       },
       "background-gradient-bottom": {

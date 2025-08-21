@@ -3463,10 +3463,6 @@
         "value": "{core.brand-60.a25}",
         "type": "color"
       },
-      "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
-        "type": "color"
-      },
       "quick-pay": {
         "fill": {
           "value": "{semantic.gradients.1}",
@@ -3691,10 +3687,6 @@
         "type": "color"
       },
       "pop-up": {
-        "line": {
-          "value": "{core.brand-30.a15}",
-          "type": "color"
-        },
         "item": {
           "number": {
             "text": {

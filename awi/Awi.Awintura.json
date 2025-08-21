@@ -4766,10 +4766,6 @@
           "type": "color"
         }
       },
-      "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
-        "type": "color"
-      },
       "status": {
         "fill": {
           "value": "rgba(254, 182, 0, 0.32)",
@@ -5306,10 +5302,6 @@
               }
             }
           }
-        },
-        "line": {
-          "value": "rgba(57, 38, 2, 0.15)",
-          "type": "color"
         }
       }
     },

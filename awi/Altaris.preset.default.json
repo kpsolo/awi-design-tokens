@@ -889,6 +889,45 @@
             }
           }
         }
+      },
+      "800a60": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.60",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a40": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.40",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a0": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "white": {
@@ -1553,6 +1592,19 @@
           }
         }
       },
+      "600a25": {
+        "value": "{core.brand-30.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a80": {
         "value": "{core.brand-30.200}",
         "type": "color",
@@ -1587,6 +1639,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a0": {
+        "value": "{core.brand-30.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
               "space": "lch"
             }
           }
@@ -1720,6 +1785,34 @@
           },
           "description": "Secondary.red 500"
         },
+        "a10": {
+          "value": "{core.brand-preset.validation.danger}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.red 500"
+        },
+        "a0": {
+          "value": "{core.brand-preset.validation.danger}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.red 500"
+        },
         "a30": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
@@ -1809,6 +1902,34 @@
           },
           "description": "Primary.emerald 500 20%"
         },
+        "a10": {
+          "value": "{core.brand-preset.validation.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Primary.emerald 500 20%"
+        },
+        "a0": {
+          "value": "{core.brand-preset.validation.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Primary.emerald 500 20%"
+        },
         "a30": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
@@ -1892,6 +2013,34 @@
               "modify": {
                 "type": "alpha",
                 "value": "0.3",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a10": {
+          "value": "{core.brand-preset.validation.warning}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a0": {
+          "value": "{core.brand-preset.validation.warning}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
                 "space": "lch"
               }
             }

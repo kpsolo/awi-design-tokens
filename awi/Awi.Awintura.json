@@ -3759,6 +3759,13 @@
           }
         }
       },
+      "slotmachine": {
+        "border": {
+          "value": "{core.brand-10.500}",
+          "type": "color",
+          "description": "slotmachine"
+        }
+      },
       "game-search": {
         "fill": {
           "value": "{core.grey.900}",

@@ -4572,6 +4572,13 @@
           "value": "linear-gradient(180deg, rgba(6, 4, 35, 0.00) 0%, #060423 100%)",
           "type": "color"
         }
+      },
+      "slotmachine": {
+        "border": {
+          "value": "#4B9FFF",
+          "type": "color",
+          "description": "slotmachine"
+        }
       }
     },
     "progressbar": {

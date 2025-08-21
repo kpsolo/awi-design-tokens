@@ -1579,8 +1579,8 @@
           }
         }
       },
-      "a50": {
-        "value": "{core.brand-30.200}",
+      "800a50": {
+        "value": "{core.brand-30.800}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

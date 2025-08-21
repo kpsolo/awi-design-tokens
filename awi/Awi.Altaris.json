@@ -1621,7 +1621,7 @@
               "y": "{depth.025}",
               "blur": "{depth.0}",
               "spread": "{depth.0}",
-              "color": "{core.brand-30.a50}",
+              "color": "{core.brand-30.800a50}",
               "type": "innerShadow"
             }
           ],
@@ -2839,7 +2839,7 @@
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-30.a50}",
+              "value": "{core.brand-30.800a50}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -2926,7 +2926,7 @@
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-30.a50}",
+              "value": "{core.brand-30.800a50}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -4606,7 +4606,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.a50}",
+            "value": "{core.brand-30.800a50}",
             "type": "color"
           }
         }
@@ -4661,16 +4661,16 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 0%, rgba(255, 242, 178, 0.20) 100%)",
+              "value": "linear-gradient(90deg, {core.brand-30.800a50} 0%, {core.brand-30.a20} 100%)",
               "type": "color"
             },
             "active": {
-              "value": "linear-gradient(131deg, #FFF2B2 3.04%, rgba(76, 64, 0, 0.43) 48.98%, #4C4000 92.73%)",
+              "value": "linear-gradient(131deg, {core.brand-30.100} 3%, {core.brand-30.800a50} 49%, {core.brand-30.800} 93%)",
               "type": "color"
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, rgba(76, 64, 0, 0.50) 13%, rgba(255, 242, 178, 0.50) 49%, rgba(76, 64, 0, 0.50) 90%)",
+            "value": "linear-gradient(90deg, {core.brand-30.800a50} 13%, {core.brand-30.a50} 49%, {core.brand-30.800a50} 90%)",
             "type": "color"
           },
           "elipse": {
@@ -7134,7 +7134,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-30.a50}",
+          "value": "{core.brand-30.800a50}",
           "type": "color"
         }
       },
@@ -7221,7 +7221,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.a50}",
+            "value": "{core.brand-30.800a50}",
             "type": "color"
           }
         },

@@ -134,7 +134,7 @@
         "description": "replacement.sand 300 (25%)"
       },
       "a30": {
-        "value": "rgba(142, 142, 185, 0.30)",
+        "value": "rgba(104,124,135,0.3)",
         "type": "color"
       },
       "a40": {
@@ -533,6 +533,13 @@
             "description": "contextual.header.desktop.special-menu-item"
           }
         }
+      }
+    },
+    "segment-control": {
+      "item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.segment-control.item"
       }
     }
   },

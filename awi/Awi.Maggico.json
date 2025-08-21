@@ -3203,7 +3203,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color"
             },
             "hover": {
@@ -3222,11 +3222,11 @@
             }
           },
           "border-v2": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "devider": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         },
@@ -4568,7 +4568,7 @@
             "description": "Bonus/Talisman"
           },
           "divider": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         },
@@ -4595,7 +4595,7 @@
     "progress": {
       "circle": {
         "border": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "progress": {
@@ -4609,7 +4609,7 @@
       },
       "progress-thumb": {
         "border": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "progress": {
@@ -4629,7 +4629,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "text": {
@@ -5806,7 +5806,7 @@
       },
       "frame": {
         "line": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "fill": {

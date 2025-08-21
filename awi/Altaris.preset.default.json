@@ -1508,20 +1508,33 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.15",
+              "value": "0.10",
               "space": "lch"
             }
           }
         }
       },
-      "a25": {
+      "a10": {
         "value": "{core.brand-30.200}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.25",
+              "value": "0.10",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a20": {
+        "value": "{core.brand-30.200}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.20",
               "space": "lch"
             }
           }

@@ -1802,7 +1802,7 @@
             "y": "0px",
             "blur": "8px",
             "spread": "0px",
-            "color": "{core.brand-30.a25}",
+            "color": "{core.brand-30.a20}",
             "type": "innerShadow"
           },
           {
@@ -2357,7 +2357,7 @@
       },
       "frame": {
         "line": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "fill": {
@@ -2554,13 +2554,13 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         },
         "divider": {
           "1": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "2": {
@@ -2593,7 +2593,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color"
             },
             "received": {
@@ -2605,7 +2605,7 @@
               "type": "color"
             },
             "get": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color"
             }
           }
@@ -2619,7 +2619,7 @@
       },
       "offers-block": {
         "border": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         }
       }
@@ -2824,7 +2824,7 @@
           },
           "border": {
             "normal": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3359,7 +3359,7 @@
         "type": "color"
       },
       "header": {
-        "value": "{core.brand-30.a25}",
+        "value": "{core.brand-30.a20}",
         "type": "color"
       }
     },
@@ -4121,7 +4121,7 @@
       },
       "scroll-horizontal": {
         "fill": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         },
         "static": {
@@ -5460,7 +5460,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color"
             },
             "active": {

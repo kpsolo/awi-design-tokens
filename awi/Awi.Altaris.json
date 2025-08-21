@@ -2834,7 +2834,7 @@
           },
           "border": {
             "normal": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -2921,7 +2921,7 @@
           },
           "border": {
             "normal": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.a20}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3740,7 +3740,7 @@
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color",
             "description": "Bonus/Talisman"
           },
@@ -4248,7 +4248,7 @@
         },
         "text": {
           "bonus": {
-            "value": "#FFD284",
+            "value": "{core.brand-30.200}",
             "type": "color"
           }
         }
@@ -4314,7 +4314,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "linear-gradient(259deg, #494975 8%, #26263C 63%)",
+        "value": "linear-gradient(259deg, {core.brand-60.600} 8%, {core.brand-60.700} 63%)",
         "type": "color"
       },
       "progressbar": {
@@ -4333,7 +4333,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, rgba(254, 212, 0, 0.43) 56%, #FED400 97%)",
+          "value": "linear-gradient(319deg, {core.brand-30.a40} 56%, {core.brand-30.500} 97%)",
           "type": "color"
         }
       }
@@ -4402,7 +4402,7 @@
           "tab": {
             "highlight": {
               "active": {
-                "value": "radial-gradient(58% 58% at 50% 50%, rgba(255, 242, 178, 0.24) 0%, rgba(255, 242, 178, 0.24) 7%, rgba(255, 242, 178, 0.23) 13%, rgba(255, 242, 178, 0.22) 20%, rgba(255, 242, 178, 0.20) 27%, rgba(255, 242, 178, 0.18) 33%, rgba(255, 242, 178, 0.16) 40%, rgba(255, 242, 178, 0.13) 47%, rgba(255, 242, 178, 0.11) 53%, rgba(255, 242, 178, 0.08) 60%, rgba(255, 242, 178, 0.06) 67%, rgba(255, 242, 178, 0.04) 73%, rgba(255, 242, 178, 0.02) 80%, rgba(255, 242, 178, 0.01) 87%, rgba(255, 242, 178, 0.00) 93%, rgba(255, 242, 178, 0.00) 100%)",
+                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a10}) 60%, {core.brand-30.a0} 80%)",
                 "type": "color"
               },
               "default": {
@@ -4608,7 +4608,7 @@
       "extender": {
         "elipce": {
           "default": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "hover": {

@@ -4198,7 +4198,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "linear-gradient(128deg, #FFF2B2 14%, #FED400 51%, #373758 87%)",
+            "value": "linear-gradient(128deg, {core.brand-30.100} 14%, {core.brand-30.500} 51%, {core.brand-60.700} 87%)",
             "type": "color"
           },
           "default": {

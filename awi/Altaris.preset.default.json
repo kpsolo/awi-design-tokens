@@ -128,40 +128,6 @@
       }
     }
   },
-  "contextual": {
-    "header": {
-      "desktop": {
-        "special-menu-item": {
-          "fill-v2": {
-            "open": {
-              "value": "rgba(27, 24, 19, 0.85)",
-              "type": "color"
-            }
-          }
-        },
-        "welcome-bonus": {
-          "timer": {
-            "fill": {
-              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
-              "type": "color"
-            }
-          }
-        }
-      }
-    },
-    "popup": {
-      "overlay": {
-        "value": "rgba(33,33,38,0.7)",
-        "type": "color"
-      }
-    },
-    "footer": {
-      "fill": {
-        "value": "{core.brand-60.900}",
-        "type": "color"
-      }
-    }
-  },
   "scale-1": {
     "value": "10px",
     "type": "fontSizes"

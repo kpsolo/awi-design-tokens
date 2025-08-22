@@ -5654,6 +5654,20 @@
         "value": "{core.brand-30.50}",
         "type": "color"
       }
+    },
+    "gamehall": {
+      "thumb-providers": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

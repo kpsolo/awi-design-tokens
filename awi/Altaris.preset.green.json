@@ -406,7 +406,7 @@
         "description": "gradient.Black 600"
       },
       "5": {
-        "value": "#15262E",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "menu"
       },

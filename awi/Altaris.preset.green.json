@@ -279,11 +279,11 @@
         "description": "Primary.Amber 800"
       },
       "800": {
-        "value": "#5B0202",
+        "value": "#21402c",
         "type": "color"
       },
       "900": {
-        "value": "#1E0101",
+        "value": "#0b160f",
         "type": "color",
         "description": "Primary.Amber 800"
       },

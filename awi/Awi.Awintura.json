@@ -2730,6 +2730,14 @@
             "type": "color"
           }
         }
+      },
+      "card": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.a15}",
+            "type": "color"
+          }
+        }
       }
     },
     "messages": {

@@ -2645,6 +2645,14 @@
           "type": "color"
         }
       },
+      "card": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.a15}",
+            "type": "color"
+          }
+        }
+      },
       "overlay": {
         "upper": {
           "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",

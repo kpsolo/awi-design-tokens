@@ -3290,6 +3290,12 @@
           "type": "color"
         }
       },
+      "pop-up": {
+        "background": {
+          "value": "{core.brand-10.900}",
+          "type": "color"
+        }
+      },
       "points": {
         "default": {
           "border": {

@@ -3313,6 +3313,12 @@
             "type": "color"
           }
         }
+      },
+      "pop-up": {
+        "background": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
+        }
       }
     },
     "accordion": {

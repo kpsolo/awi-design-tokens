@@ -5162,6 +5162,16 @@
           "not-filled": {
             "value": "{core.grey.600}",
             "type": "color"
+          },
+          "direction": {
+            "fill1": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
+            },
+            "fill2": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
           }
         }
       },

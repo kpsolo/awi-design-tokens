@@ -2648,7 +2648,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{core.grey.a15}",
+            "value": "linear-gradient(3560deg, {core.brand-60.800} 8%, {core.brand-60.800} 30%, {core.brand-30.800} 80%, {core.brand-30.700} 120%)",
             "type": "color"
           }
         }

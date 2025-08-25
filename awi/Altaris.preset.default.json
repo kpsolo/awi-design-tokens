@@ -1246,6 +1246,19 @@
           }
         }
       },
+      "500a12": {
+        "value": "{core.brand-60.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.12",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a15": {
         "value": "{core.brand-60.300}",
         "type": "color",
@@ -1274,6 +1287,19 @@
         }
       },
       "a25": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a25": {
         "value": "{core.brand-60.800}",
         "type": "color",
         "$extensions": {

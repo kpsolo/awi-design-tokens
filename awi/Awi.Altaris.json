@@ -1733,7 +1733,7 @@
               "y": "-3.5px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "{core.brand-60.500a12}",
               "type": "dropShadow"
             },
             {
@@ -1741,7 +1741,7 @@
               "y": "-1.75px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "{core.brand-60.500a12}",
               "type": "dropShadow"
             },
             {
@@ -1749,7 +1749,7 @@
               "y": "-0.44",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1762,7 +1762,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(250, 236, 209, 0.12)",
+              "color": "{core.brand-30.a10}",
               "type": "dropShadow"
             },
             {
@@ -1770,7 +1770,7 @@
               "y": "-4px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(250, 236, 209, 0.16)",
+              "color": "{core.brand-30.a15}",
               "type": "dropShadow"
             },
             {
@@ -1778,7 +1778,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1832,7 +1832,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(199, 199, 220, 0.24)",
+              "color": "{core.brand-60.a25}",
               "type": "dropShadow"
             },
             {
@@ -1840,7 +1840,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(199, 199, 220, 0.24)",
+              "color": "{core.brand-60.a25}",
               "type": "dropShadow"
             },
             {
@@ -1848,7 +1848,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1877,7 +1877,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1892,7 +1892,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(199, 199, 220, 0.24)",
+              "color": "{core.brand-60.a25}",
               "type": "dropShadow"
             },
             {
@@ -1900,7 +1900,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(199, 199, 220, 0.24)",
+              "color": "{core.brand-60.a25}",
               "type": "dropShadow"
             },
             {
@@ -1908,7 +1908,7 @@
               "y": "-0.44",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1921,7 +1921,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(250, 236, 209, 0.12)",
+              "color": "{core.brand-30.a10}",
               "type": "dropShadow"
             },
             {
@@ -1929,7 +1929,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(250, 236, 209, 0.16)",
+              "color": "{core.brand-30.a15}",
               "type": "dropShadow"
             },
             {
@@ -1937,7 +1937,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -4636,7 +4636,7 @@
         }
       },
       "devider": {
-        "value": "{core.brand-60.a25}",
+        "value": "{core.brand-60.800a25}",
         "type": "color"
       },
       "item": {

@@ -6892,7 +6892,7 @@
         "description": "basic.sand 900"
       },
       "2": {
-        "value": "#252339",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "basic.replaceable.sand 1100"
       },

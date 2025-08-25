@@ -3334,8 +3334,9 @@
       },
       "pop-up": {
         "background": {
-          "value": "{core.brand-60.a50}",
-          "type": "color"
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "L theme green"
         }
       }
     },

@@ -1551,7 +1551,7 @@
             "y": "0px",
             "blur": "16px",
             "spread": "0px",
-            "color": "rgba(255,255,255,0.15)",
+            "color": "{core.white.a15}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -1564,7 +1564,7 @@
             "y": "4px",
             "blur": "8px",
             "spread": "0",
-            "color": "rgba(15,0,0,0.25)",
+            "color": "{core.grey.a25}",
             "type": "dropShadow"
           },
           {
@@ -1572,7 +1572,7 @@
             "y": "0",
             "blur": "16px",
             "spread": "0",
-            "color": "rgba(255,201,99,0.3)",
+            "color": "{core.brand-30.a30}",
             "type": "dropShadow"
           },
           {
@@ -1580,7 +1580,7 @@
             "y": "0",
             "blur": "66px",
             "spread": "0",
-            "color": "rgba(255,201,99,0.5)",
+            "color": "{core.brand-30.a50}",
             "type": "dropShadow"
           },
           {
@@ -1588,7 +1588,7 @@
             "y": "-4px",
             "blur": "8px",
             "spread": "0",
-            "color": "rgba(0, 0, 0, 0.25)",
+            "color": "{core.grey.a25}",
             "type": "dropShadow"
           }
         ],
@@ -1636,7 +1636,7 @@
           "y": "2px",
           "blur": "6px",
           "spread": "0px",
-          "color": "#6249001a",
+          "color": "{core.brand-60.300a60}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1691,7 +1691,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "rgba(89, 80, 69, 0.12)",
+              "color": "{core.brand-60.a10}",
               "type": "dropShadow"
             },
             {
@@ -1699,7 +1699,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(89, 80, 69, 0.16)",
+              "color": "{core.brand-60.a15}",
               "type": "dropShadow"
             },
             {
@@ -1707,7 +1707,7 @@
               "y": "-1",
               "blur": "0",
               "spread": "0",
-              "color": "rgba(0, 0, 0, 0.04)",
+              "color": "{core.grey.a5}",
               "type": "innerShadow"
             }
           ],
@@ -1720,7 +1720,7 @@
               "y": "2px",
               "blur": "6px",
               "spread": "0px",
-              "color": "rgba(98, 73, 0, 0.1)",
+              "color": "{core.brand-60.a10}",
               "type": "dropShadow"
             }
           ],

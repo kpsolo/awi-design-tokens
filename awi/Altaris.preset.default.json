@@ -1260,6 +1260,20 @@
         },
         "description": "replacement.sand 300 (25%)"
       },
+      "800a10": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (25%)"
+      },
       "a30": {
         "value": "{core.brand-60.300}",
         "type": "color",

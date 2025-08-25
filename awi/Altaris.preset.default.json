@@ -2297,6 +2297,11 @@
         "type": "color",
         "description": "vip"
       },
+      "gold": {
+        "value": "#FFC94B",
+        "type": "color",
+        "description": "vip"
+      },
       "pending": {
         "value": "#E5BF00",
         "type": "color",

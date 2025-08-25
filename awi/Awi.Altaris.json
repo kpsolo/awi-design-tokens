@@ -1263,7 +1263,7 @@
             "y": "1px",
             "blur": "1px",
             "spread": "0",
-            "color": "rgba(255, 255, 255, 0.40)",
+            "color": "{core.white.a40}",
             "type": "dropShadow"
           },
           {
@@ -1271,7 +1271,7 @@
             "y": "8px",
             "blur": "8px",
             "spread": "0",
-            "color": "rgba(8, 19, 31, 0.05)",
+            "color": "{core.grey.a8}",
             "type": "innerShadow"
           }
         ],
@@ -1299,7 +1299,7 @@
                     "y": "2px",
                     "blur": "6px",
                     "spread": "0px",
-                    "color": "rgba(215, 197, 252, 0.15)",
+                    "color": "{core.brand-30.a15}",
                     "type": "dropShadow"
                   },
                   {
@@ -1307,7 +1307,7 @@
                     "y": "1px",
                     "blur": "0px",
                     "spread": "0px",
-                    "color": "#ffffff4d",
+                    "color": "{core.white.a30}",
                     "type": "innerShadow"
                   }
                 ],
@@ -1341,7 +1341,7 @@
             "y": "{depth.200}",
             "blur": "{blur.200}",
             "spread": "{depth.0}",
-            "color": "rgba(9, 10, 11, 0.05)",
+            "color": "{core.grey.a8}",
             "type": "dropShadow"
           },
           {
@@ -1349,7 +1349,7 @@
             "y": "{depth.025}",
             "blur": "{blur.0}",
             "spread": "{depth.0}",
-            "color": "rgba(255, 255, 255, 0.30)",
+            "color": "{core.white.a30}",
             "type": "innerShadow"
           }
         ],
@@ -1371,7 +1371,7 @@
               "y": "0",
               "blur": "9px",
               "spread": "0",
-              "color": "rgba(254, 212, 0, 0.20)",
+              "color": "{core.brand-30.a20}",
               "type": "innerShadow"
             },
             {
@@ -1379,7 +1379,7 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "rgba(254, 212, 0, 0.12)",
+              "color": "{core.brand-30.a10}",
               "type": "innerShadow"
             },
             {
@@ -1387,7 +1387,7 @@
               "y": "0",
               "blur": "16px",
               "spread": "0",
-              "color": "rgba(254, 212, 0, 0.20)",
+              "color": "{core.brand-30.a20}",
               "type": "dropShadow"
             }
           ],
@@ -1404,7 +1404,7 @@
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "#fff",
+              "color": "{core.white.a100}",
               "type": "innerShadow"
             },
             {
@@ -1412,7 +1412,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "rgba(255,255,255,0.16)",
+              "color": "{core.white.a15}",
               "type": "innerShadow"
             },
             {
@@ -1420,7 +1420,7 @@
               "y": "0",
               "blur": "16",
               "spread": "0",
-              "color": "rgba(134,134,134,0.5)",
+              "color": "{core.grey.a50}",
               "type": "dropShadow"
             }
           ],
@@ -1449,7 +1449,7 @@
               "y": "{depth.100}",
               "blur": "{blur.200}",
               "spread": "0",
-              "color": "rgba(45, 39, 25, 0.40)",
+              "color": "{core.brand-60.700a40}",
               "type": "dropShadow"
             }
           ],
@@ -1464,7 +1464,7 @@
             "y": "{depth.0}",
             "blur": "{blur.200}",
             "spread": "0px",
-            "color": "{core.brand-30.500}",
+            "color": "{core.additionals.gold}",
             "type": "innerShadow"
           },
           "type": "boxShadow",
@@ -1501,7 +1501,7 @@
           "y": "2px",
           "blur": "6px",
           "spread": "0px",
-          "color": "rgba(47, 40, 89, 0.10)",
+          "color": "{core.brand-60.800a10}",
           "type": "dropShadow"
         },
         {
@@ -1509,7 +1509,7 @@
           "y": "1px",
           "blur": "0px",
           "spread": "0px",
-          "color": "rgba(255, 255, 255, 0.30)",
+          "color": "{core.white.a30}",
           "type": "innerShadow"
         }
       ],

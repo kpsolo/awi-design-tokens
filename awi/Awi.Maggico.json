@@ -5604,7 +5604,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{core.grey.a15}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           }
         }

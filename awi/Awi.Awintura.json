@@ -2734,7 +2734,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{core.grey.a15}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }

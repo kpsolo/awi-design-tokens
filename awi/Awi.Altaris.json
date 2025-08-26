@@ -6930,6 +6930,10 @@
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
+      "footer": {
+        "value": "{core.brand-60.900}",
+        "type": "color"
+      },
       "brand": {
         "primary": {
           "default": {

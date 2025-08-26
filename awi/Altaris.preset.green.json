@@ -438,6 +438,10 @@
         "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
+      },
+      "footer": {
+        "value": "{core.brand-60.900}",
+        "type": "color"
       }
     }
   },

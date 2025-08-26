@@ -329,7 +329,7 @@
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(103deg, #87681E 2%, #33333B 96%)",
+        "value": "linear-gradient(103deg, #1E8780 8.92%, #33333B 89.36%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },

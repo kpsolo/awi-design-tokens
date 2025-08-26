@@ -979,6 +979,17 @@
       },
       "type": "boxShadow"
     },
+    "icon-graphic2": {
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{blur.100}",
+        "spread": "{depth.0}",
+        "color": "{contextual.icon-graphic.glow2}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    },
     "selection-controls": {
       "controls": {
         "fill": {
@@ -2404,8 +2415,16 @@
         "value": "{core.white.a100}",
         "type": "color"
       },
+      "fill2": {
+        "value": "{core.white.a30}",
+        "type": "color"
+      },
       "glow": {
         "value": "{core.brand-30.200}",
+        "type": "color"
+      },
+      "glow2": {
+        "value": "{core.brand-30.50}",
         "type": "color"
       }
     },

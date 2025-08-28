@@ -128,38 +128,6 @@
       }
     }
   },
-  "scale-1": {
-    "value": "{base} * 0.625",
-    "type": "fontSizes"
-  },
-  "scale-2": {
-    "value": "{base} * 0.75",
-    "type": "fontSizes"
-  },
-  "scale-3": {
-    "value": "{base} * 0.875",
-    "type": "fontSizes"
-  },
-  "scale-4": {
-    "value": "{base}",
-    "type": "fontSizes"
-  },
-  "scale-5": {
-    "value": "{base} * 1.125",
-    "type": "fontSizes"
-  },
-  "scale-6": {
-    "value": "{base} * 1.25",
-    "type": "fontSizes"
-  },
-  "scale-7": {
-    "value": "{base} * 1.5",
-    "type": "fontSizes"
-  },
-  "scale-8": {
-    "value": "{base} * 1.75",
-    "type": "fontSizes"
-  },
   "text": {
     "xs": {
       "value": {

@@ -128,38 +128,6 @@
       }
     }
   },
-  "scale-1": {
-    "value": "10px",
-    "type": "fontSizes"
-  },
-  "scale-2": {
-    "value": "12px",
-    "type": "fontSizes"
-  },
-  "scale-3": {
-    "value": "14px",
-    "type": "fontSizes"
-  },
-  "scale-4": {
-    "value": "16px",
-    "type": "fontSizes"
-  },
-  "scale-5": {
-    "value": "18px",
-    "type": "fontSizes"
-  },
-  "scale-6": {
-    "value": "20px",
-    "type": "fontSizes"
-  },
-  "scale-7": {
-    "value": "24px",
-    "type": "fontSizes"
-  },
-  "scale-8": {
-    "value": "28px",
-    "type": "fontSizes"
-  },
   "text": {
     "xs": {
       "value": {
@@ -2567,5 +2535,9 @@
         "type": "typography"
       }
     }
+  },
+  "base": {
+    "value": "16px",
+    "type": "fontSizes"
   }
 }

@@ -830,5 +830,9 @@
         "type": "color"
       }
     }
+  },
+  "base": {
+    "value": "16px",
+    "type": "fontSizes"
   }
 }

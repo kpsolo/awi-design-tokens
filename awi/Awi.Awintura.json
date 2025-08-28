@@ -4640,7 +4640,7 @@
         }
       },
       "devider": {
-        "value": "{core.brand-60.800a25}",
+        "value": "{core.brand-30.a25}",
         "type": "color"
       },
       "item": {
@@ -5576,7 +5576,7 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-60.800a25}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           },
           "border": {

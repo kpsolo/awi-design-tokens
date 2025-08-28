@@ -2496,7 +2496,23 @@
       "contextual.profile.notification.illustration": "S:abb6bde931b0559b17e35c0b216edfecd3786414,",
       "contextual.news.card.fill": "S:7dde516f2d1c82f489735cf1191fcf4d601c5411,",
       "contextual.news.welcome-bonus.fill": "S:ee887dc4b3461906eb79fdb939e6023e1e076fd0,",
-      "contextual.payment-method.fill": "S:02c76fb0f19e7ba76f8bffa43b26607d55ace844,"
+      "contextual.payment-method.fill": "S:02c76fb0f19e7ba76f8bffa43b26607d55ace844,",
+      "contextual.mobile-application.card.background.fill": "S:4fbdf36f4684fb034e2a8eef7fb88124801b5977,",
+      "contextual.loyalty.pop-up.background": "S:264be54bafad55447718f7f83b52f17a4079b04b,",
+      "contextual.loyalty.route.line.direction.fill1": "S:21ebbe37b012d0f5e5cfa7800298063472b37897,",
+      "contextual.loyalty.route.line.direction.fill2": "S:9659600652a7e5d29d4a45f07ec74d04883129c4,",
+      "contextual.header.desktop.background.fill": "S:6a14543b251bb060f0ca03cfd6ef3662706e97e7,",
+      "contextual.tag.icon-hover": "S:fbebe96c68d9849db17f57866c0d0edb14a58e25,",
+      "contextual.homepage.thumb-providers.background.fill": "S:59cae3804ed57ba710188a95c5dced831b9dee06,",
+      "contextual.homepage.thumb-providers.background.border": "S:e891fb0d3da193650ea0f66741b45231ebc74d91,",
+      "contextual.homepage.collection.card.background.fill": "S:9f484980f4d038e9bddc014fcb2aaef84125d983,",
+      "contextual.homepage.collection.card.background.border": "S:04df2c5956263380a3ff701ba7b6ed6b67b66b53,",
+      "contextual.homepage.winning-now.card.background.fill": "S:ffe72732ca1ce112bc27af21a3d99a2377f2e7e7,",
+      "contextual.homepage.winning-now.card.background.border": "S:4a9d354aa245fdfeb8182d5427d723e4f80ae06d,",
+      "contextual.lottery-tournament.tiket.background.fill": "S:4c6953896d31dff0724ef4fea4d31026ae670c84,",
+      "contextual.gamehall.thumb-providers.background.fill": "S:50ce16e02f89f975bf2a5169a7a3396529d6fa52,",
+      "contextual.gamehall.thumb-providers.background.border": "S:b7dd4e96c3f9f1dfdab31f29eacdd510b13cb586,",
+      "contextual.ingame.slotmachine.border": "S:93ac7facb4d3918f32a10d594efc43e8b7c29a91,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"

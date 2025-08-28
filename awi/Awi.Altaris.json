@@ -5732,35 +5732,35 @@
     }
   },
   "scale-1": {
-    "value": "10px",
+    "value": "{base} * 0.625",
     "type": "fontSizes"
   },
   "scale-2": {
-    "value": "12px",
+    "value": "{base} * 0.75",
     "type": "fontSizes"
   },
   "scale-3": {
-    "value": "14px",
+    "value": "{base} * 0.875",
     "type": "fontSizes"
   },
   "scale-4": {
-    "value": "16px",
+    "value": "{base}",
     "type": "fontSizes"
   },
   "scale-5": {
-    "value": "18px",
+    "value": "{base} * 1.125",
     "type": "fontSizes"
   },
   "scale-6": {
-    "value": "20px",
+    "value": "{base} * 1.25",
     "type": "fontSizes"
   },
   "scale-7": {
-    "value": "24px",
+    "value": "{base} * 1.5",
     "type": "fontSizes"
   },
   "scale-8": {
-    "value": "28px",
+    "value": "{base} * 1.75",
     "type": "fontSizes"
   },
   "xs": {

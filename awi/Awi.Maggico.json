@@ -989,7 +989,7 @@
           },
           "default": {
             "value": {
-              "color": "{contextual.tabs.pop-up.line}",
+              "color": "{core.white.a0}",
               "width": "1px",
               "style": "solid"
             },
@@ -6422,6 +6422,10 @@
       },
       "a15": {
         "value": "rgba(215, 197, 252, 0.15)",
+        "type": "color"
+      },
+      "a20": {
+        "value": "rgba(215, 197, 252, 0.20)",
         "type": "color"
       },
       "a8": {

@@ -725,7 +725,7 @@
           },
           "default": {
             "value": {
-              "color": "{contextual.tabs.pop-up.line}",
+              "color": "{core.white.a0}",
               "width": "1px",
               "style": "solid"
             },

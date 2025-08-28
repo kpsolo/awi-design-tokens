@@ -725,7 +725,7 @@
           },
           "default": {
             "value": {
-              "color": "{contextual.tabs.pop-up.line}",
+              "color": "{core.white.a0}",
               "width": "1px",
               "style": "solid"
             },
@@ -6398,6 +6398,10 @@
         "value": "rgba(250, 236, 209, 0.15)",
         "type": "color"
       },
+      "a20": {
+        "value": "rgba(250, 236, 209, 0.20)",
+        "type": "color"
+      },
       "a25": {
         "value": "rgba(250, 236, 209, 0.25)",
         "type": "color"
@@ -6415,11 +6419,11 @@
         "type": "color"
       },
       "a8": {
-        "value": "rgba(215, 197, 252, 0.08)",
+        "value": "rgba(250, 236, 209, 0.08)",
         "type": "color"
       },
       "a40": {
-        "value": "rgba(215, 197, 252, 0.40)",
+        "value": "rgba(250, 236, 209, 0.40)",
         "type": "color"
       }
     },

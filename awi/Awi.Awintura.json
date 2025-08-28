@@ -2837,7 +2837,7 @@
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-30.800a50}",
+              "value": "{core.brand-30.a50}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -3683,7 +3683,7 @@
         },
         "icon": {
           "default": {
-            "value": "{core.brand-30.800a50}",
+            "value": "{core.brand-30.a50}",
             "type": "color"
           },
           "active": {

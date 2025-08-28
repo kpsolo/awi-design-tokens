@@ -4868,7 +4868,7 @@
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.800a50}",
+            "value": "{semantic.gradients.6}",
             "type": "color"
           },
           "done": {
@@ -5100,7 +5100,7 @@
             "description": "Chips"
           },
           "hover": {
-            "value": "{core.brand-30.800a50}",
+            "value": "{core.brand-30.a50}",
             "type": "color",
             "description": "Chips"
           },

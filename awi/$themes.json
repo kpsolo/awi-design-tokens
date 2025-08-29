@@ -4116,11 +4116,11 @@
   },
   {
     "id": "e22e53727044a4811884a288fe0858c1cc146ad6",
-    "name": "preset.light",
+    "name": "Altaris.preset.light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",
-      "Altaris.preset.default": "enabled"
+      "Altaris.preset.default_light": "enabled"
     }
   }
 ]

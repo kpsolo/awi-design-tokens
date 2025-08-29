@@ -4686,11 +4686,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "hover-active": {

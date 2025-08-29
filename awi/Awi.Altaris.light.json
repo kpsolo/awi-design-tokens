@@ -4710,11 +4710,11 @@
         },
         "notification": {
           "text": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
         },
@@ -4729,7 +4729,7 @@
               "type": "color"
             },
             "active": {
-              "value": "linear-gradient(131deg, {core.brand-30.100} 3%, {core.brand-30.800a50} 49%, {core.brand-30.800} 93%)",
+              "value": "linear-gradient(131deg, {core.brand-10.50} 6%, {core.brand-10.a45} 49%, {core.brand-10.500} 90%)",
               "type": "color"
             }
           },

@@ -2,8 +2,10 @@
   "tokenSetOrder": [
     "Awi.Awintura",
     "Awi.Altaris",
+    "Awi.Altaris.light",
     "Awi.Maggico",
     "Altaris.preset.default",
+    "Altaris.preset.default_light",
     "Altaris.preset.green2",
     "Altaris.preset.green"
   ]

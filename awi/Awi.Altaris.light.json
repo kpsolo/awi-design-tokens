@@ -3889,7 +3889,7 @@
           },
           "fill-v2": {
             "close": {
-              "value": "{core.brand-60.a20}",
+              "value": "{core.brand-60.50}",
               "type": "color"
             },
             "open": {
@@ -7152,19 +7152,19 @@
     "text": {
       "default": {
         "heading": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.900}",
           "type": "color"
         },
         "primary": {
-          "value": "{core.grey.50}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.grey.500}",
           "type": "color"
         }
       },

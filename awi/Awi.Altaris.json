@@ -4760,6 +4760,14 @@
           "active": {
             "value": "{core.white.a5}",
             "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
           }
         }
       },

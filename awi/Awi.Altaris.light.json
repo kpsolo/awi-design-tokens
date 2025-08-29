@@ -4397,7 +4397,7 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{semantic.gradients.9}",
+          "value": "{semantic.background.5}",
           "type": "color"
         },
         "item": {
@@ -4725,7 +4725,7 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, {core.brand-30.800a50} 0%, {core.brand-30.a20} 100%)",
+              "value": "linear-gradient(90deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
               "type": "color"
             },
             "active": {
@@ -4779,7 +4779,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "text": {
@@ -4830,7 +4830,7 @@
           }
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         }
       },
@@ -7110,19 +7110,19 @@
       },
       "default": {
         "primary": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.600}",
+          "value": "{core.grey.300}",
           "type": "color"
         }
       },

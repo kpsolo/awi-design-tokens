@@ -4625,7 +4625,7 @@
           }
         },
         "elipse-bg": {
-          "value": "{core.validation.success.a30}",
+          "value": "{core.brand-10.a25}",
           "type": "color"
         }
       },

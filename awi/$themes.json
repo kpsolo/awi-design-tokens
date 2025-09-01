@@ -5283,7 +5283,8 @@
       "contextual.tooltip.text.primary": "S:60962d8595d8e7398592e3b6f5ca0ce05145dca7,",
       "contextual.tooltip.text.secondary": "S:9c4a89e27373456c6b71c782926340242652540e,",
       "contextual.tooltip.text.tertiary": "S:591186a023cea3557f142381ac49dd4e1a7c6326,",
-      "contextual.tooltip.text.accent": "S:967e37f3d70e8a0d584121b1488d8d6620e6a878,"
+      "contextual.tooltip.text.accent": "S:967e37f3d70e8a0d584121b1488d8d6620e6a878,",
+      "shadow.menu.desktop": "S:293cd015ef94e31abcb59f4bbbcd06fe860fc175,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

@@ -6696,7 +6696,11 @@
       "semantic.text.banner-cart.primary": "S:f4561f4dcee645c1f785eba322eac3781246a293,",
       "semantic.text.banner-cart.secondary": "S:d94c157f1158cce243b32d4782196626cf8478f3,",
       "semantic.text.banner-cart.tertiary": "S:a4208639fb05a665184b75e93b954c88de6d2d5c,",
-      "semantic.text.banner-cart.accent": "S:598da3bc6239d1f32b784cb13682d190845d612a,"
+      "semantic.text.banner-cart.accent": "S:598da3bc6239d1f32b784cb13682d190845d612a,",
+      "contextual.tooltip.text.primary": "S:bd687b4260da58445a63ec8fe7c4480a5ede2109,",
+      "contextual.tooltip.text.secondary": "S:8e8c47f54f66171c0b11441e014e449b4764682a,",
+      "contextual.tooltip.text.tertiary": "S:b93944d0360b7286c9e449be6ef39f2aa939efe6,",
+      "contextual.tooltip.text.accent": "S:e1e8815d2b072bfb0413469a0e6105ba20bcd1f1,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

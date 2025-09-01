@@ -4981,6 +4981,24 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "text": {
+        "primary": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.brand-60.300}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        }
       }
     },
     "segment-control": {

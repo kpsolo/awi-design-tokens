@@ -3898,14 +3898,14 @@
             "type": "color"
           },
           "devider": {
-            "value": "{core.white.a30}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         },
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "fill": {

@@ -2413,7 +2413,7 @@
         "type": "color"
       },
       "secondary": {
-        "value": "#FED400",
+        "value": "#FFAA00",
         "type": "color"
       },
       "tertiary": {
@@ -2440,7 +2440,7 @@
           "type": "color"
         },
         "warning": {
-          "value": "#FED400",
+          "value": "#FFAA00",
           "type": "color"
         },
         "info": {

@@ -5599,7 +5599,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(180deg, {core.grey.800a0} 0%, {core.grey.800a60} 21%, {core.grey.800} 100%)",
+          "value": "linear-gradient(180deg, {core.grey.800a0} 0%, {core.grey.800a60} 21%, {core.brand-60.800} 100%)",
           "type": "color"
         }
       },

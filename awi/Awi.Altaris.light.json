@@ -1251,6 +1251,17 @@
             "type": "boxShadow"
           }
         }
+      },
+      "desktop": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.100}",
+          "blur": "{blur.100}",
+          "spread": "",
+          "color": "{core.brand-60.800a10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "profile": {

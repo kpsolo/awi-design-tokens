@@ -1181,10 +1181,10 @@
       "value": [
         {
           "x": "{depth.0}",
-          "y": "{depth.0}",
-          "blur": "0px",
+          "y": "4px",
+          "blur": "4px",
           "spread": "{depth.0}",
-          "color": "{core.white.a0}",
+          "color": "{core.brand-60.800a10}",
           "type": "dropShadow"
         }
       ],

@@ -3898,7 +3898,7 @@
             "type": "color"
           },
           "devider": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.a25}",
             "type": "color"
           }
         },
@@ -4700,7 +4700,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-10.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -4778,7 +4778,7 @@
         }
       },
       "icon": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.icon.default.tertiary}",
         "type": "color"
       },
       "quick-pay": {

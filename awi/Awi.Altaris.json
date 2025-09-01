@@ -7263,6 +7263,24 @@
           "value": "{core.validation.warning.600}",
           "type": "color"
         }
+      },
+      "banner-cart": {
+        "heading": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "primary": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.grey.300}",
+          "type": "color"
+        }
       }
     },
     "border": {

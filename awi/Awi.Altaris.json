@@ -4984,15 +4984,15 @@
       },
       "text": {
         "primary": {
-          "value": "{core.brand-60.800}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.600}",
+          "value": "{semantic.text.static.secondary}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.300}",
+          "value": "{semantic.text.static.tertiary}",
           "type": "color"
         },
         "accent": {

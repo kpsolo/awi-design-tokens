@@ -4983,20 +4983,20 @@
         "type": "color"
       },
       "text": {
-        "heading": {
-          "value": "{core.grey.900}",
-          "type": "color"
-        },
         "primary": {
-          "value": "{core.grey.800}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.700}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.500}",
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       }

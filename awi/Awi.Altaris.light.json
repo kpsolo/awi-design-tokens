@@ -4710,11 +4710,11 @@
         },
         "notification": {
           "text": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.300}",
             "type": "color"
           }
         },

@@ -5279,7 +5279,11 @@
       "shadow.welcome-bonus.progress": "S:c0c6bf98e30f166326f5c8e2f405d95bf9e59978,",
       "shadow.tabs.popup": "S:8de180bfc924e8ef2af15774da353e73833b131f,",
       "shadow.icon-graphic": "S:5a25bf8cc92e905f27f669b3fda8c9fa6ea9f778,",
-      "shadow.icon-graphic2": "S:7d377f114d017a841a4cc9f9a53e06a8fb487930,"
+      "shadow.icon-graphic2": "S:7d377f114d017a841a4cc9f9a53e06a8fb487930,",
+      "contextual.tooltip.text.primary": "S:60962d8595d8e7398592e3b6f5ca0ce05145dca7,",
+      "contextual.tooltip.text.secondary": "S:9c4a89e27373456c6b71c782926340242652540e,",
+      "contextual.tooltip.text.tertiary": "S:591186a023cea3557f142381ac49dd4e1a7c6326,",
+      "contextual.tooltip.text.accent": "S:967e37f3d70e8a0d584121b1488d8d6620e6a878,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

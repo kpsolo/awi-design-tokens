@@ -1085,7 +1085,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.9",
+              "value": "0.94",
               "space": "lch"
             }
           }
@@ -1098,7 +1098,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.7",
+              "value": "0.76",
               "space": "lch"
             }
           }
@@ -1408,6 +1408,32 @@
             "modify": {
               "type": "alpha",
               "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "700a60": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "700a0": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
               "space": "lch"
             }
           }

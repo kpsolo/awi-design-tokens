@@ -4598,7 +4598,7 @@
       },
       "sport": {
         "fill": {
-          "value": "{core.brand-60.900}",
+          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
           "type": "color"
         },
         "item": {

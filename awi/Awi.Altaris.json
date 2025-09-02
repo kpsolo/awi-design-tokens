@@ -4619,7 +4619,7 @@
         },
         "item": {
           "fill": {
-            "value": "{core.brand-60.900}",
+            "value": "linear-gradient(0deg, {core.brand-60.700a0} 22%, {core.brand-60.800a80} 72%, {core.brand-60.800a90} 100%)",
             "type": "color"
           }
         }

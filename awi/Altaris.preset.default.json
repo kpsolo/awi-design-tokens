@@ -1439,14 +1439,27 @@
           }
         }
       },
-      "a80": {
-        "value": "{core.brand-60.300}",
+      "800a80": {
+        "value": "{core.brand-60.800}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a90": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
               "space": "lch"
             }
           }

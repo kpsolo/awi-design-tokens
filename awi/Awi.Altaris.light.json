@@ -1105,7 +1105,7 @@
             "y": "{depth.100}",
             "blur": "{depth.200}",
             "spread": "{depth.0}",
-            "color": "rgba(0, 0, 0, 0.20)",
+            "color": "{core.brand-60.800a25}",
             "type": "dropShadow"
           },
           {
@@ -1113,7 +1113,7 @@
             "y": "{depth.025}",
             "blur": "{depth.0}",
             "spread": "{depth.0}",
-            "color": "rgba(255, 255, 255, 0.30)",
+            "color": "{core.white.a30}",
             "type": "innerShadow"
           }
         ],

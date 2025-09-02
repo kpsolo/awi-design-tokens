@@ -5284,7 +5284,11 @@
       "contextual.tooltip.text.secondary": "S:9c4a89e27373456c6b71c782926340242652540e,",
       "contextual.tooltip.text.tertiary": "S:591186a023cea3557f142381ac49dd4e1a7c6326,",
       "contextual.tooltip.text.accent": "S:967e37f3d70e8a0d584121b1488d8d6620e6a878,",
-      "shadow.menu.desktop": "S:293cd015ef94e31abcb59f4bbbcd06fe860fc175,"
+      "shadow.menu.desktop": "S:293cd015ef94e31abcb59f4bbbcd06fe860fc175,",
+      "contextual.homepage.nav-menu.star.text": "S:bcc0311be44cdc2eb2e65b9bdf0bd823ad31660e,",
+      "core.brand-60.700a60": "S:026763556804b385255c074187253cd45efc2c84,",
+      "core.brand-60.700a0": "S:3bd8abd3584efacde20c6404118d1b6f339de1fc,",
+      "shadow.header.general": "S:639d44065c851e093aae4d59d51e97a19a8ab6a9,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

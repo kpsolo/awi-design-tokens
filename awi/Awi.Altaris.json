@@ -4497,6 +4497,12 @@
               }
             }
           }
+        },
+        "star": {
+          "text": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
         }
       },
       "thumb-providers": {

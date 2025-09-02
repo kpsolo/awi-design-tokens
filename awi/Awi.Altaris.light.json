@@ -1385,16 +1385,8 @@
             "y": "{depth.200}",
             "blur": "{blur.200}",
             "spread": "{depth.0}",
-            "color": "{core.grey.a8}",
+            "color": "{core.brand-60.800a10}",
             "type": "dropShadow"
-          },
-          {
-            "x": "{depth.0}",
-            "y": "{depth.025}",
-            "blur": "{blur.0}",
-            "spread": "{depth.0}",
-            "color": "{core.white.a30}",
-            "type": "innerShadow"
           }
         ],
         "type": "boxShadow"
@@ -4468,6 +4460,12 @@
             }
           },
           "content": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
+        },
+        "star": {
+          "text": {
             "value": "{semantic.text.default.primary}",
             "type": "color"
           }

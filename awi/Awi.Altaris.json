@@ -966,6 +966,17 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "general": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "7px",
+          "blur": "12px",
+          "spread": "{depth.0}",
+          "color": "{core.grey.800a40}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "icon-graphic": {

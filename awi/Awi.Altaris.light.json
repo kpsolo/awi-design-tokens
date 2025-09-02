@@ -933,6 +933,17 @@
         },
         "type": "boxShadow"
       },
+      "general": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "7px",
+          "blur": "12px",
+          "spread": "{depth.0}",
+          "color": "{core.brand-60.800a10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "welcome-bonus": {
         "timer": {
           "value": {

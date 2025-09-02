@@ -4571,7 +4571,7 @@
       },
       "title&show-all": {
         "icon": {
-          "value": "{semantic.text.default.heading}",
+          "value": "{core.brand-10.600}",
           "type": "color"
         },
         "link": {

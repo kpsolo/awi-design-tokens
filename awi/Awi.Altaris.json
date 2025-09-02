@@ -1398,6 +1398,27 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "nav-menu-button": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.200}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "{core.grey.a8}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a30}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "bonus": {

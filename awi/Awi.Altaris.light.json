@@ -1390,6 +1390,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "nav-menu-button": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "bonus": {
@@ -4451,11 +4464,11 @@
         "button": {
           "fill": {
             "default": {
-              "value": "{core.white.a8}",
+              "value": "{core.brand-60.50}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-60.a15}",
+              "value": "{core.brand-30.50}",
               "type": "color"
             }
           },

@@ -6714,7 +6714,8 @@
       "shadow.header.general": "S:dcb55fb52a21d4a5035bac6234734da326eaaf61,",
       "core.brand-60.700a60": "S:090cf67a8e4dddfc7ed01009b2647a55e4ced20c,",
       "core.brand-60.700a0": "S:25f72be3b5085e8ae5cfa6a8e57f1b2b9fe4de3a,",
-      "contextual.homepage.nav-menu.star.text": "S:fa680ade2fe750d0fe33d30b11621ee4c2e254e3,"
+      "contextual.homepage.nav-menu.star.text": "S:fa680ade2fe750d0fe33d30b11621ee4c2e254e3,",
+      "shadow.homepage.nav-menu-button": "S:1238f8191a22edf308ec0ee54afc407cf0e32ea9,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

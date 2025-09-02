@@ -4616,6 +4616,12 @@
         "fill": {
           "value": "{core.brand-60.900}",
           "type": "color"
+        },
+        "item": {
+          "fill": {
+            "value": "{core.brand-60.900}",
+            "type": "color"
+          }
         }
       },
       "winning-now": {

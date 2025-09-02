@@ -6715,7 +6715,10 @@
       "core.brand-60.700a60": "S:090cf67a8e4dddfc7ed01009b2647a55e4ced20c,",
       "core.brand-60.700a0": "S:25f72be3b5085e8ae5cfa6a8e57f1b2b9fe4de3a,",
       "contextual.homepage.nav-menu.star.text": "S:fa680ade2fe750d0fe33d30b11621ee4c2e254e3,",
-      "shadow.homepage.nav-menu-button": "S:1238f8191a22edf308ec0ee54afc407cf0e32ea9,"
+      "shadow.homepage.nav-menu-button": "S:1238f8191a22edf308ec0ee54afc407cf0e32ea9,",
+      "contextual.homepage.sport.item.fill": "S:736de00d230e0f66d4988577e775da1e4002b470,",
+      "core.brand-60.800a80": "S:7ca355ca72befc991e7226d6736b1e1b48a14340,",
+      "core.brand-60.800a90": "S:84375ed973e18ba27b1409a4e11bdbde0ac412a7,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

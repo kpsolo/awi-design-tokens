@@ -4807,7 +4807,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "tertiary": {
@@ -4817,7 +4817,7 @@
           }
         },
         "devider": {
-          "value": "{core.white.a20}",
+          "value": "{core.grey.a20}",
           "type": "color"
         },
         "indicator": {

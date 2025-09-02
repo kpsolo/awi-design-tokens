@@ -6707,7 +6707,9 @@
       "contextual.tooltip.text.tertiary": "S:b93944d0360b7286c9e449be6ef39f2aa939efe6,",
       "contextual.tooltip.text.accent": "S:e1e8815d2b072bfb0413469a0e6105ba20bcd1f1,",
       "shadow.menu.desktop": "S:ef13a7ba8ad00c415250c5498a1f49437b2429a2,",
-      "shadow.header.general": "S:dcb55fb52a21d4a5035bac6234734da326eaaf61,"
+      "shadow.header.general": "S:dcb55fb52a21d4a5035bac6234734da326eaaf61,",
+      "core.brand-60.700a60": "S:090cf67a8e4dddfc7ed01009b2647a55e4ced20c,",
+      "core.brand-60.700a0": "S:25f72be3b5085e8ae5cfa6a8e57f1b2b9fe4de3a,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

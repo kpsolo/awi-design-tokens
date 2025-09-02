@@ -4421,7 +4421,7 @@
         "item": {
           "text": {
             "default": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.tertiary}",
               "type": "color"
             },
             "hover-active": {

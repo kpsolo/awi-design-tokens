@@ -4852,7 +4852,7 @@
             "type": "color"
           },
           "tertiary": {
-            "value": "{semantic.text.static.tertiary}",
+            "value": "{semantic.text.default.tertiary}",
             "type": "color",
             "description": "\n\n"
           }
@@ -4863,25 +4863,25 @@
         },
         "indicator": {
           "success": {
-            "value": "{core.validation.success.a20}",
+            "value": "{core.validation.success.a10}",
             "type": "color"
           },
           "error": {
-            "value": "{core.validation.danger.a20}",
+            "value": "{core.validation.danger.a10}",
             "type": "color"
           },
           "progress": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         },
         "inform": {
           "fill": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "border": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           }
         },

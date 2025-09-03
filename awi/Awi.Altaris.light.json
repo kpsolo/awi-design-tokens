@@ -4877,7 +4877,7 @@
         },
         "inform": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           },
           "border": {

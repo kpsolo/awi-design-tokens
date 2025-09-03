@@ -5164,7 +5164,7 @@
       },
       "additional-block": {
         "fill": {
-          "value": "rgba(254, 212, 0, 0.30)",
+          "value": "{core.brand-30.a30}",
           "type": "color"
         },
         "border": {
@@ -5183,7 +5183,7 @@
         }
       },
       "overlay": {
-        "value": "rgba(33,33,38,0.7)",
+        "value": "{core.grey.a70}",
         "type": "color"
       },
       "text": {

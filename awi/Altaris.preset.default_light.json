@@ -2536,7 +2536,7 @@
         "description": "no used"
       },
       "8": {
-        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.800} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },
@@ -2823,7 +2823,8 @@
         "fontWeight": "{Medium}",
         "fontSize": "9px",
         "lineHeight": "9px",
-        "letterSpacing": "3%"
+        "letterSpacing": "3%",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     }

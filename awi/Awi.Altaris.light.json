@@ -3666,17 +3666,17 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.grey.800}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.800}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{semantic.background.slate-2}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
@@ -3703,7 +3703,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{semantic.border.static.default}",
+          "value": "{core.brand-60.50a25}",
           "type": "color"
         },
         "hover": {

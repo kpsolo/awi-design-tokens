@@ -1403,6 +1403,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "sport": {
+        "item": {
+          "value": {
+            "x": "1px",
+            "y": "2px",
+            "blur": "4px",
+            "spread": "0px",
+            "color": "{core.brand-60.a60}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "bonus": {

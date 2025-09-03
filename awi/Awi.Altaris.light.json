@@ -3703,7 +3703,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.brand-60.50a25}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "hover": {

@@ -5270,16 +5270,16 @@
       },
       "social": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "icon": {
           "hover": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           }
         }
@@ -5297,16 +5297,16 @@
         }
       },
       "heading": {
-        "value": "{core.brand-60.50}",
+        "value": "{semantic.text.default.heading}",
         "type": "color"
       },
       "text": {
         "secondary": {
-          "value": "{core.brand-60.100}",
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         },
         "primary": {
-          "value": "{core.brand-60.50}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         }
       },
@@ -7045,7 +7045,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "footer": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.brand-60.50a25}",
         "type": "color"
       },
       "brand": {

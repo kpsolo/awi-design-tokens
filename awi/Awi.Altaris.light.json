@@ -4213,11 +4213,11 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.white.a50}",
+          "value": "{core.brand-60.700a50}",
           "type": "color"
         },
         "transparent": {
-          "value": "{core.white.a25}",
+          "value": "{core.brand-60.a50}",
           "type": "color"
         }
       },

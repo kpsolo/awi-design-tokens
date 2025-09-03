@@ -6725,7 +6725,8 @@
       "core.brand-60.800a80": "S:7ca355ca72befc991e7226d6736b1e1b48a14340,",
       "core.brand-60.800a90": "S:84375ed973e18ba27b1409a4e11bdbde0ac412a7,",
       "shadow.homepage.sport.item": "S:501d0a1f268cdb5c9eb7885d1871aaba390ca9f2,",
-      "core.brand-60.900a30": "S:030a33a267ec62461b0e19de5e3528e51f55b0f3,"
+      "core.brand-60.900a30": "S:030a33a267ec62461b0e19de5e3528e51f55b0f3,",
+      "semantic.background.page": "S:15bf78664bc4b5f7e40ff3e05f6f7214b79a1ccc,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

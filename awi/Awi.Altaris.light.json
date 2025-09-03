@@ -7048,6 +7048,10 @@
         "value": "{core.brand-60.50a25}",
         "type": "color"
       },
+      "page": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      },
       "brand": {
         "primary": {
           "default": {

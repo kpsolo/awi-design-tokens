@@ -7173,6 +7173,10 @@
         "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
+      },
+      "page": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     },
     "icon": {

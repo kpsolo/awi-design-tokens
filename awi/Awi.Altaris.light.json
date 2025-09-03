@@ -7436,11 +7436,11 @@
       },
       "static": {
         "default": {
-          "value": "{core.white.a15}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "filled": {
-          "value": "{core.white.a15}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "hover": {
@@ -7448,7 +7448,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "validation": {
@@ -7456,7 +7456,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.a15}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         }
       },

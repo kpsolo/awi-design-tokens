@@ -2107,11 +2107,11 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "active": {
@@ -7397,15 +7397,15 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "disabled": {

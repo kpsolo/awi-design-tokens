@@ -5506,19 +5506,19 @@
       "tiket": {
         "text": {
           "primary": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color",
             "description": "Tiket"
           },
           "secondary": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.static.tertiary}",
             "type": "color",
             "description": "Tiket"
           }
         },
         "background": {
           "fill": {
-            "value": "{core.grey.600}",
+            "value": "linear-gradient(150deg, {core.brand-60.500} 2%, {core.brand-60.800} 99%)",
             "type": "color",
             "description": "Tiket"
           }
@@ -5530,7 +5530,7 @@
             "description": "Tiket"
           },
           "text": {
-            "value": "{core.brand-60.600}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Tiket"
           }

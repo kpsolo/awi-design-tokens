@@ -6962,13 +6962,5 @@
       "wheel.popup.vip-bet-amount.width": "24fd20a435c0448e5cbff4e97994164e0027e35a",
       "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
     }
-  },
-  {
-    "id": "7457ded9937c9a5ff663196ac39b8e19f9d5eaa1",
-    "name": "Awi.Altaris.Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled"
-    }
   }
 ]

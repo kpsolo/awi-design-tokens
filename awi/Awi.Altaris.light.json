@@ -2283,7 +2283,7 @@
       },
       "popup": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "linear-gradient(180deg, {core.brand-preset.white} 0%, {core.brand-preset.white} 51.44%, {core.brand-60.50} 100%)",
           "type": "color"
         },
         "divider": {

@@ -5336,21 +5336,21 @@
     },
     "tabs": {
       "line": {
-        "value": "{core.white.a15}",
+        "value": "{core.grey.a8}",
         "type": "color"
       },
       "item": {
         "text": {
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.a30}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "{core.grey.a30}",
             "type": "color"
           }
         },
@@ -5374,7 +5374,7 @@
             }
           },
           "fill2": {
-            "value": "{core.grey.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "fill": {
@@ -5398,7 +5398,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "disabled": {
@@ -5411,21 +5411,21 @@
         "item": {
           "text": {
             "default": {
-              "value": "{core.grey.200}",
+              "value": "{core.grey.a30}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-60.a50}",
+              "value": "{core.grey.a30}",
               "type": "color"
             }
           },
           "line": {
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           },

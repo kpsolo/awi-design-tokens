@@ -4164,15 +4164,15 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.grey.800}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "selected": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.brand-30.a25}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         },
@@ -4198,11 +4198,11 @@
         }
       },
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.800} )",
+        "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a100} )",
         "type": "color"
       },
       "border": {
@@ -7001,7 +7001,7 @@
     },
     "background": {
       "1": {
-        "value": "#1C1548",
+        "value": "{core.brand-30.a25}",
         "type": "color",
         "description": "basic.sand 900"
       },
@@ -7030,7 +7030,7 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.a15}",
+        "value": "{core.brand-30.a25}",
         "type": "color",
         "description": "text input 1"
       },

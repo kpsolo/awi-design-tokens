@@ -1391,14 +1391,29 @@
         ],
         "type": "boxShadow"
       },
+      "mobile": {
+        "nav-menu-category": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.100}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-60.800a10}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
       "nav-menu-button": {
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.100}",
-            "blur": "{blur.100}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
             "spread": "{depth.0}",
-            "color": "{core.brand-60.800a10}",
+            "color": "{core.white.a0}",
             "type": "innerShadow"
           }
         ],
@@ -4512,7 +4527,7 @@
             },
             "text": {
               "active": {
-                "value": "{core.brand-30.500}",
+                "value": "{core.brand-10.600}",
                 "type": "color"
               },
               "default": {

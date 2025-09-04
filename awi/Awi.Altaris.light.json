@@ -3992,7 +3992,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, {core.grey.a70} 0%, {core.grey.a70} 25%, {core.grey.a60} 46%, {core.grey.a30} 76%, {core.grey.a10} 89%, {core.grey.a0} 100%)",
+          "value": "linear-gradient(180deg, {core.white.a70} 0%, {core.white.a70} 25%, {core.white.a60} 46%, {core.white.a30} 76%, {core.white.a10} 89%, {core.white.a0} 100%)",
           "type": "color"
         },
         "top-up": {

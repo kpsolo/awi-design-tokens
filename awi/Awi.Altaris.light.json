@@ -1681,7 +1681,7 @@
               "y": "{depth.0}",
               "blur": "{depth.0}",
               "spread": "{depth.50}",
-              "color": "{core.white.a100}",
+              "color": "{core.brand-30.400}",
               "type": "dropShadow"
             }
           ],
@@ -3451,7 +3451,7 @@
     "progress": {
       "circle": {
         "border": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-30.a30}",
           "type": "color"
         },
         "progress": {
@@ -5137,12 +5137,12 @@
             },
             "text": {
               "default": {
-                "value": "{semantic.text.default.secondary}",
+                "value": "{semantic.text.brand.on-brand-secondary}",
                 "type": "color",
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{semantic.text.default.primary}",
+                "value": "{semantic.text.brand.on-brand}",
                 "type": "color",
                 "description": "Segment Control"
               }
@@ -7275,7 +7275,7 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "on-brand-tertiary": {

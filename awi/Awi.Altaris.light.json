@@ -3615,7 +3615,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a25}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         },
@@ -3625,7 +3625,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a25}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "invert": {
@@ -3670,7 +3670,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

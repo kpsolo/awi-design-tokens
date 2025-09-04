@@ -951,7 +951,7 @@
             "y": "{depth.025}",
             "blur": "{blur.0}",
             "spread": "{depth.0}",
-            "color": "{core.grey.900}",
+            "color": "{core.grey.a20}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -3960,11 +3960,11 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.static.primary}",
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
+              "value": "linear-gradient(180deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
               "type": "color"
             }
           }
@@ -3997,7 +3997,7 @@
         },
         "top-up": {
           "fill": {
-            "value": "{core.white.a15}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "button": {

@@ -1161,7 +1161,7 @@
         "y": "4px",
         "blur": "16px",
         "spread": "0px",
-        "color": "{core.brand-60.700a40}",
+        "color": "{core.grey.a15}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

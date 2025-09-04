@@ -2066,7 +2066,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
@@ -3443,7 +3443,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{core.grey.800}",
+          "value": "{core.brand-60.a20}",
           "type": "color"
         }
       }
@@ -3536,7 +3536,7 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.a15}",
             "type": "color"
           },
           "active": {
@@ -4990,7 +4990,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a15}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "disabled": {
@@ -4998,7 +4998,7 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "selected-range": {
@@ -5016,7 +5016,7 @@
             "type": "color"
           },
           "today": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "disabled": {
@@ -5070,7 +5070,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{core.grey.100}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -5092,7 +5092,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.50}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5116,7 +5116,7 @@
         }
       },
       "border": {
-        "value": "{core.grey.800}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -5130,7 +5130,7 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{core.grey.700}",
+                "value": "{core.grey.100}",
                 "type": "color",
                 "description": "Segment Control"
               }
@@ -5149,7 +5149,7 @@
             }
           },
           "fill": {
-            "value": "{core.grey.800}",
+            "value": "{core.grey.50}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5177,7 +5177,7 @@
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
+          "value": "{core.brand-60.a20}",
           "type": "color"
         }
       },
@@ -7233,7 +7233,7 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.brand-60.800}",
+          "value": "{core.white.a90}",
           "type": "color"
         },
         "on-brand-tertiary": {

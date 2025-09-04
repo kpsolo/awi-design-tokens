@@ -1105,7 +1105,7 @@
             "y": "{depth.100}",
             "blur": "{depth.200}",
             "spread": "{depth.0}",
-            "color": "{core.brand-60.800a25}",
+            "color": "{core.brand-60.800a10}",
             "type": "dropShadow"
           },
           {
@@ -5675,7 +5675,7 @@
           "type": "color"
         },
         "fill-light": {
-          "value": "{semantic.gradients.8}",
+          "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-60.100} 100%)",
           "type": "color"
         }
       },

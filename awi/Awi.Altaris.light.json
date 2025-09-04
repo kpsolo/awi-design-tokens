@@ -1071,7 +1071,7 @@
           "y": "{blur.50}",
           "blur": "{blur.150}",
           "spread": "{depth.0}",
-          "color": "rgba(38, 38, 60, 0.10)",
+          "color": "{core.grey.a8}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -3703,7 +3703,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.brand-60.a10}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         },
         "hover": {
@@ -4411,11 +4411,11 @@
       },
       "progressbar": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         }
       },
@@ -5241,7 +5241,7 @@
         "type": "color"
       },
       "devider-2": {
-        "value": "{core.white.a8}",
+        "value": "{core.brand-60.a15}",
         "type": "color"
       }
     },

@@ -5224,11 +5224,11 @@
       },
       "bottom": {
         "fill": {
-          "value": "{core.grey.800}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "border": {
-          "value": "{core.grey.600}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         }
       },

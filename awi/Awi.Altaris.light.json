@@ -7192,7 +7192,7 @@
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.grey.800}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "secondary": {
@@ -7240,11 +7240,11 @@
           "type": "color"
         },
         "on-brand": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.white.a90}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "on-brand-tertiary": {

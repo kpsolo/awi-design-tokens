@@ -5565,7 +5565,7 @@
       "tiket-number": {
         "text": {
           "defoult": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{semantic.text.static.secondary}",
             "type": "color",
             "description": "Tiket"
           },

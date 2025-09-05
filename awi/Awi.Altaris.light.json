@@ -145,7 +145,7 @@
       }
     },
     "padding-bottom": {
-      "value": "14px",
+      "value": "8px",
       "type": "spacing"
     }
   },
@@ -3992,7 +3992,7 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, {core.white.a70} 0%, {core.white.a70} 25%, {core.white.a60} 46%, {core.white.a30} 76%, {core.white.a10} 89%, {core.white.a0} 100%)",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "top-up": {
@@ -5741,16 +5741,16 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "linear-gradient(180deg, {core.brand-60.700a40} 0%, {core.brand-60.900a40} 100%)",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "text": {
         "default": {
-          "value": "{core.white.a80}",
+          "value": "{semantic.text.default.tertiary}",
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       },

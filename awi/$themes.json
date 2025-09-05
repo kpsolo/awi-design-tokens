@@ -6733,7 +6733,8 @@
       "core.brand-60.900a30": "S:030a33a267ec62461b0e19de5e3528e51f55b0f3,",
       "semantic.background.page": "S:15bf78664bc4b5f7e40ff3e05f6f7214b79a1ccc,",
       "shadow.homepage.mobile.nav-menu-category": "S:405b3b20910ca0247f75b0ab52e78350c7680a85,",
-      "core.white.a70": "S:a0a5eb64bd9bee00ede2c69e09222ab53b736018,"
+      "core.white.a70": "S:a0a5eb64bd9bee00ede2c69e09222ab53b736018,",
+      "shadow.header.mobile": "S:6499f6a6ee3cbc69a7aea9920f5271ae63d011e2,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

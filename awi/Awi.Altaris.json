@@ -977,6 +977,17 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "mobile": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "icon-graphic": {

@@ -944,6 +944,17 @@
         },
         "type": "boxShadow"
       },
+      "mobile": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "4px",
+          "blur": "4px",
+          "spread": "{depth.0}",
+          "color": "{core.brand-60.800a10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "welcome-bonus": {
         "timer": {
           "value": {

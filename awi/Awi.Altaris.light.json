@@ -5469,7 +5469,7 @@
           "type": "color"
         },
         "text-heading": {
-          "value": "{semantic.text.default.heading}",
+          "value": "{semantic.text.banner-cart.primary}",
           "type": "color"
         },
         "text-type": {

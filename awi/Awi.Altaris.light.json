@@ -5261,7 +5261,7 @@
       }
     },
     "overlay": {
-      "value": "{core.grey.a60}",
+      "value": "{core.grey.a50}",
       "type": "color"
     },
     "divider": {

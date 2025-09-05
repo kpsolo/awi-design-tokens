@@ -5293,7 +5293,12 @@
       "core.brand-60.800a80": "S:a036abb6a6578e30179851298968f0e06315d3de,",
       "core.brand-60.800a90": "S:d85d8c0a41feb6d07621da5e56184b64587f6a31,",
       "shadow.homepage.nav-menu-button": "S:ca9f047e872933e29c98f9292fadabf54064b387,",
-      "shadow.homepage.sport.item": "S:eaa7746bd8a423bbba4dabb83dd499c16e6b130b,"
+      "shadow.homepage.sport.item": "S:eaa7746bd8a423bbba4dabb83dd499c16e6b130b,",
+      "semantic.background.page": "S:7609186a06c3dfc584b1ca7d97d508c62f12b183,",
+      "core.brand-60.900a30": "S:aec7695725b159399a4139fa3d03c18f0c32f945,",
+      "core.brand-60.100a50": "S:903e1b8ab89e0fde2c40bb97c83637831f162f22,",
+      "core.brand-60.700a50": "S:7dd1bc7be739cfde5cf3d7c46aa5a0980bd0b4af,",
+      "shadow.homepage.mobile.nav-menu-category": "S:2a443358d69b85ae2759b4d85f10d04f575c3809,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

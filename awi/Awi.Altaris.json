@@ -7190,7 +7190,7 @@
         "description": "text input 2"
       },
       "page": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.gradients.11}",
         "type": "color"
       }
     },

@@ -3525,11 +3525,11 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "{core.grey.a15}",
+            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
             "type": "color"
           },
           "default": {
-            "value": "{core.white.a8}",
+            "value": "{core.grey.a8}",
             "type": "color"
           }
         },
@@ -3547,11 +3547,11 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{core.grey.a15}",
+            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.a15}",
+            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
             "type": "color"
           }
         },

@@ -5353,7 +5353,7 @@
       "item": {
         "text": {
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "active": {
@@ -5361,7 +5361,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         },

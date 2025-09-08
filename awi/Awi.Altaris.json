@@ -732,6 +732,26 @@
             "type": "border"
           }
         }
+      },
+      "banner": {
+        "item": {
+          "active": {
+            "value": {
+              "color": "{contextual.tabs.pop-up.item.line.active}",
+              "width": "3px",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{core.white.a0}",
+              "width": "1px",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        }
       }
     },
     "devider2": {
@@ -5453,6 +5473,60 @@
           "line": {
             "active": {
               "value": "{core.white.a100}",
+              "type": "color"
+            }
+          },
+          "number": {
+            "text": {
+              "active": {
+                "value": "{core.brand-60.800}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.brand-60.800}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.a30}",
+                "type": "color"
+              }
+            },
+            "fill": {
+              "active": {
+                "value": "{core.brand-60.a20}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{core.brand-60.a20}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.a20}",
+                "type": "color"
+              }
+            }
+          }
+        }
+      },
+      "banner": {
+        "item": {
+          "text": {
+            "default": {
+              "value": "{core.grey.a30}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.600}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.grey.a30}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "active": {
+              "value": "{core.brand-10.600}",
               "type": "color"
             }
           },

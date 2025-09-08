@@ -214,6 +214,19 @@
             }
           }
         }
+      },
+      "800a60": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.60",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-60": {
@@ -420,6 +433,19 @@
             }
           }
         }
+      },
+      "900a40": {
+        "value": "{core.brand-60.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-30": {
@@ -573,6 +599,19 @@
             "modify": {
               "type": "alpha",
               "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "600a25": {
+        "value": "{core.brand-30.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
               "space": "lch"
             }
           }

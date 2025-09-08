@@ -2866,12 +2866,12 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.8}",
+        "value": "{semantic.gradients.3}",
         "type": "color"
       },
       "popover-action": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "{semantic.gradients.3}",
           "type": "color"
         }
       },

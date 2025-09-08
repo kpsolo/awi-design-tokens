@@ -70,6 +70,45 @@
       "a0": {
         "value": "rgba(21,38,46,0)",
         "type": "color"
+      },
+      "800a40": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.40",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a10": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.10",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a5": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.05",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-60": {
@@ -156,6 +195,33 @@
       "a80": {
         "value": "rgba(142, 142, 185, 0.80)",
         "type": "color"
+      },
+      "700a40": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a10": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (25%)"
       }
     },
     "brand-30": {
@@ -235,6 +301,19 @@
       "a30": {
         "value": "rgba(255, 234, 127, 0.30)",
         "type": "color"
+      },
+      "800a50": {
+        "value": "{core.brand-30.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-10": {
@@ -318,6 +397,14 @@
       "a45": {
         "value": "rgba(135,171,152,0.45)",
         "type": "color"
+      }
+    },
+    "brand-preset": {
+      "validation": {
+        "info": {
+          "value": "#0F87E7",
+          "type": "color"
+        }
       }
     }
   },

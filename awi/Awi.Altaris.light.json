@@ -1506,32 +1506,7 @@
     "news": {
       "welcome-bonus-card": {
         "background": {
-          "value": [
-            {
-              "x": "0px",
-              "y": "0px",
-              "blur": "9px",
-              "spread": "0px",
-              "color": "{core.white.a100}",
-              "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "0",
-              "blur": "45",
-              "spread": "0",
-              "color": "{core.white.a15}",
-              "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "0",
-              "blur": "16",
-              "spread": "0",
-              "color": "{core.grey.a50}",
-              "type": "dropShadow"
-            }
-          ],
+          "value": "{shadow.drop.medium}",
           "type": "boxShadow"
         }
       }

@@ -5733,14 +5733,14 @@
     "news": {
       "inner-page": {
         "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "status-inactive"
         }
       },
       "card": {
         "fill": {
-          "value": "{core.brand-60.a20}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "status-inactive"
         }

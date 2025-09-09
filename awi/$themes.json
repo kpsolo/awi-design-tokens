@@ -6734,7 +6734,17 @@
       "semantic.background.page": "S:15bf78664bc4b5f7e40ff3e05f6f7214b79a1ccc,",
       "shadow.homepage.mobile.nav-menu-category": "S:405b3b20910ca0247f75b0ab52e78350c7680a85,",
       "core.white.a70": "S:a0a5eb64bd9bee00ede2c69e09222ab53b736018,",
-      "shadow.header.mobile": "S:6499f6a6ee3cbc69a7aea9920f5271ae63d011e2,"
+      "shadow.header.mobile": "S:6499f6a6ee3cbc69a7aea9920f5271ae63d011e2,",
+      "contextual.tabs.banner.item.text.default": "S:97cf1ed1271109b2c95d67dbef80a79d1b085e17,",
+      "contextual.tabs.banner.item.text.active": "S:db2ce7d30a66304b59cea94bfdc9f9c4e5124c65,",
+      "contextual.tabs.banner.item.text.disabled": "S:33289c9e02ea115b6d2ffbc371ac5f366740c01a,",
+      "contextual.tabs.banner.item.line.active": "S:9db0d654bcf6617b1d353e13391f794119f24562,",
+      "contextual.tabs.banner.item.number.text.active": "S:1aba6089a74e1d5ff60d967dc3dc55ab3687ec79,",
+      "contextual.tabs.banner.item.number.text.default": "S:8dff7583884b2002236a560cf8f127f6266b5121,",
+      "contextual.tabs.banner.item.number.text.disabled": "S:dfd15912e11aa7618d3e32bacb75f951d197e4ee,",
+      "contextual.tabs.banner.item.number.fill.active": "S:818288093f2a399b025f6a01cef6bb3f0617655c,",
+      "contextual.tabs.banner.item.number.fill.default": "S:8e08f15c04e91eb81e40793d698383f13920715c,",
+      "contextual.tabs.banner.item.number.fill.disabled": "S:70562b97b07eabbb9d4b9aeb806f6f9f902eb310,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

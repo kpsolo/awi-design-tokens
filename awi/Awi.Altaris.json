@@ -2524,6 +2524,10 @@
       "glow2": {
         "value": "{core.brand-30.50}",
         "type": "color"
+      },
+      "icon-text": {
+        "value": "{semantic.icon.static.primary}",
+        "type": "color"
       }
     },
     "up-button": {

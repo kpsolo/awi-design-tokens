@@ -2497,6 +2497,10 @@
         "value": "{core.white.a100}",
         "type": "color"
       },
+      "icon-text": {
+        "value": "{semantic.text.default.primary}",
+        "type": "color"
+      },
       "fill2": {
         "value": "{core.white.a30}",
         "type": "color"

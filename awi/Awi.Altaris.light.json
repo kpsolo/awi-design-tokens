@@ -5659,25 +5659,25 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{core.brand-60.800}",
+              "value": "{core.brand-60.50}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
           "text": {
             "default": {
-              "value": "{core.brand-60.200}",
+              "value": "{semantic.text.default.tertiary}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-60.a30}",
+              "value": "{semantic.text.disabled.primary}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             }
           }

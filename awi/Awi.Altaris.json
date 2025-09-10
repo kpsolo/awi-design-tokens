@@ -5797,6 +5797,16 @@
         "fill-light": {
           "value": "{semantic.gradients.8}",
           "type": "color"
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "overlay": {

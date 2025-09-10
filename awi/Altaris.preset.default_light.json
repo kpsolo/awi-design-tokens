@@ -2563,7 +2563,7 @@
         "description": "no used"
       },
       "8": {
-        "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
+        "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-60.100} 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },

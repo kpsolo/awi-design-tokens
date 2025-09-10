@@ -2099,6 +2099,18 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a15}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "selection-controls.controls.fill.banner."
       }
     },
     "tabs": {
@@ -4403,12 +4415,12 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.grey.a5}",
             "type": "color"
           },
           "border": {
             "active": {
-              "value": "{core.brand-30.100}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "inactive": {

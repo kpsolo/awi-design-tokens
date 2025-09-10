@@ -986,6 +986,31 @@
         }
       }
     },
+    "welcome-bonus": {
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "selection-controls.controls.fill.banner."
+      },
+      "progress": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
     "input": {
       "default": {
         "value": "{shadow.drop.small}",
@@ -1937,19 +1962,6 @@
           ],
           "type": "boxShadow"
         }
-      }
-    },
-    "welcome-bonus": {
-      "progress": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.0}",
-          "blur": "{blur.0}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a0}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
       }
     },
     "tabs": {

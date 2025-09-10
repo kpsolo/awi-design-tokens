@@ -2110,6 +2110,18 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "selection-controls.controls.fill.banner."
       }
     },
     "tabs": {

@@ -2448,13 +2448,41 @@
     },
     "additionals": {
       "silver": {
-        "value": "#A4AEC8",
+        "value": "#919DBC",
         "type": "color",
+        "description": "basic.silver"
+      },
+      "silver-a25": {
+        "value": "{core.additionals.silver}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        },
         "description": "basic.silver"
       },
       "bronze": {
         "value": "#EB7F44",
         "type": "color",
+        "description": "basic.bronze"
+      },
+      "bronze-a25": {
+        "value": "{core.additionals.bronze}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        },
         "description": "basic.bronze"
       },
       "vip": {
@@ -2465,6 +2493,20 @@
       "gold": {
         "value": "#FFC94B",
         "type": "color",
+        "description": "vip"
+      },
+      "gold-a25": {
+        "value": "{core.additionals.gold}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        },
         "description": "vip"
       },
       "pending": {

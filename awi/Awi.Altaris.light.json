@@ -1542,37 +1542,67 @@
       },
       "players-prizes": {
         "gold": {
-          "value": {
-            "x": "{depth.0}",
-            "y": "{depth.0}",
-            "blur": "{blur.200}",
-            "spread": "0px",
-            "color": "{core.additionals.gold}",
-            "type": "innerShadow"
-          },
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "0px",
+              "color": "{core.additionals.gold}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{blur.100}",
+              "spread": "0",
+              "color": "{core.additionals.gold-a25}",
+              "type": "dropShadow"
+            }
+          ],
           "type": "boxShadow",
           "description": "contextual.lottery-tournament.players-prizes"
         },
         "silver": {
-          "value": {
-            "x": "{depth.0}",
-            "y": "{depth.0}",
-            "blur": "{blur.200}",
-            "spread": "0px",
-            "color": "{core.additionals.silver}",
-            "type": "innerShadow"
-          },
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "0px",
+              "color": "{core.additionals.silver}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{blur.100}",
+              "spread": "0",
+              "color": "{core.additionals.silver-a25}",
+              "type": "dropShadow"
+            }
+          ],
           "type": "boxShadow"
         },
         "bronze": {
-          "value": {
-            "x": "{depth.0}",
-            "y": "{depth.0}",
-            "blur": "{blur.200}",
-            "spread": "0px",
-            "color": "{core.additionals.bronze}",
-            "type": "innerShadow"
-          },
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "0px",
+              "color": "{core.additionals.bronze}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.025}",
+              "blur": "{blur.100}",
+              "spread": "0",
+              "color": "{core.additionals.bronze-a25}",
+              "type": "innerShadow"
+            }
+          ],
           "type": "boxShadow"
         }
       }
@@ -5529,11 +5559,11 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "text-heading": {
-          "value": "{semantic.text.banner-cart.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "text-type": {

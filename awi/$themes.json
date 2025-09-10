@@ -6747,7 +6747,8 @@
       "contextual.tabs.banner.item.number.fill.disabled": "S:70562b97b07eabbb9d4b9aeb806f6f9f902eb310,",
       "contextual.icon-graphic.icon-text": "S:169fe6d551c3a248c753d127ea134ef2d96a6096,",
       "contextual.thumb-games .empty.border.default": "S:ccfb744f2d92a2e47d806cb59773dd174a4b45bb,",
-      "contextual.thumb-games .empty.border.light": "S:8fb141c9ac2c26492ec9a1388fda9bf745167a6c,"
+      "contextual.thumb-games .empty.border.light": "S:8fb141c9ac2c26492ec9a1388fda9bf745167a6c,",
+      "contextual.lottery-tournament.tiket.background.border": "S:2f3a545bc640816b954734887a6da1d62cbed9e5,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

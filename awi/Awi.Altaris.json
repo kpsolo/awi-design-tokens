@@ -5597,6 +5597,11 @@
           "value": "{core.white.a8}",
           "type": "color",
           "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "status-inactive"
         }
       },
       "top-inner-page": {

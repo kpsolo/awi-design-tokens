@@ -5583,7 +5583,12 @@
       },
       "status-inactive": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-30.a15}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.brand-30.300}",
           "type": "color",
           "description": "status-inactive"
         }

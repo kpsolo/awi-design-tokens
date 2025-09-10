@@ -1540,6 +1540,36 @@
           "description": "contextual.tabs.lottery-tournament.item"
         }
       },
+      "cart": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.100}",
+            "blur": "{blur.100}",
+            "spread": "0",
+            "color": "{core.brand-60.800a10}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "contextual.tabs.lottery-tournament.item"
+      },
+      "desktop": {
+        "block": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.100}",
+              "blur": "{blur.100}",
+              "spread": "0",
+              "color": "{core.brand-60.800a10}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "contextual.tabs.lottery-tournament.item"
+        }
+      },
       "players-prizes": {
         "gold": {
           "value": [

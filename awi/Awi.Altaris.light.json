@@ -4325,11 +4325,11 @@
         },
         "background": {
           "inactive": {
-            "value": "linear-gradient(180deg, {core.brand-60.200} 0%, {core.brand-60.500} 100%)",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.brand-60.300} 0%, {core.brand-60.500} 100%)",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

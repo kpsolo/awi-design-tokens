@@ -4343,7 +4343,7 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.white.a30}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "border": {

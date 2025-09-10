@@ -1133,10 +1133,10 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.100}",
-            "blur": "{depth.200}",
+            "y": "{depth.50}",
+            "blur": "{depth.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-60.800a10}",
+            "color": "{core.white.a0}",
             "type": "dropShadow"
           },
           {

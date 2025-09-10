@@ -4329,7 +4329,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.brand-60.200} 0%, {core.brand-60.500} 100%)",
+            "value": "linear-gradient(180deg, {core.brand-60.300} 0%, {core.brand-60.500} 100%)",
             "type": "color"
           }
         },
@@ -4343,7 +4343,7 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "border": {
@@ -4411,7 +4411,7 @@
             "type": "color"
           },
           "popup": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-60.300}",
             "type": "color",
             "description": "AWI light bg MG dark"
           }

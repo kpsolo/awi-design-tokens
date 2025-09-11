@@ -5845,7 +5845,7 @@
           }
         },
         "border": {
-          "value": "{core.brand-10.100}",
+          "value": "{core.brand-10.50}",
           "type": "color"
         }
       }

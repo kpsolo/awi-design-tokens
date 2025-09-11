@@ -5894,15 +5894,15 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{core.brand-30.a8}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },

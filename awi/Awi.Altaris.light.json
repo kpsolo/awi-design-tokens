@@ -1975,7 +1975,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "{core.brand-60.a25}",
+              "color": "{core.grey.a15}",
               "type": "dropShadow"
             },
             {
@@ -1983,7 +1983,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "{core.brand-60.a25}",
+              "color": "{core.grey.a15}",
               "type": "dropShadow"
             },
             {
@@ -2035,7 +2035,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "{core.brand-60.a25}",
+              "color": "{core.grey.a15}",
               "type": "dropShadow"
             },
             {
@@ -2043,7 +2043,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "{core.brand-60.a25}",
+              "color": "{core.grey.a15}",
               "type": "dropShadow"
             },
             {
@@ -4483,7 +4483,7 @@
             "type": "color"
           },
           "popup": {
-            "value": "{core.brand-60.200}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "AWI light bg MG dark"
           }

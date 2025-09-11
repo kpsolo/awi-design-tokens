@@ -1633,6 +1633,20 @@
           }
         }
       },
+      "50a50": {
+        "value": "{core.brand-30.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "basic.sand 50"
+      },
       "700a0": {
         "value": "{core.brand-30.700}",
         "type": "color",
@@ -2680,7 +2694,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.brand-60.900a30}",
+        "value": "{core.brand-30.50a50}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

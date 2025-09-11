@@ -4365,17 +4365,17 @@
       "promo-code-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.700} 33%, {core.brand-60.800} 100%)",
+            "value": "linear-gradient(180deg, {core.grey.50} 0%, {core.grey.200} 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(180deg, {core.brand-60.500} 0%, {core.brand-60.600} 33%, {core.brand-60.700} 100%)",
+            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.grey.a8}",
             "type": "color"
           },
           "hover": {

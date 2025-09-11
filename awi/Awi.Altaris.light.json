@@ -1511,7 +1511,7 @@
             "y": "2px",
             "blur": "12px",
             "spread": "-1px",
-            "color": "{core.brand-30.a40}",
+            "color": "{core.brand-10.a25}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -5845,7 +5845,7 @@
           }
         },
         "border": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-10.100}",
           "type": "color"
         }
       }

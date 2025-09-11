@@ -1975,7 +1975,7 @@
               "y": "-8px",
               "blur": "0px",
               "spread": "0px",
-              "color": "{core.grey.a15}",
+              "color": "{core.grey.a10}",
               "type": "dropShadow"
             },
             {
@@ -1983,7 +1983,7 @@
               "y": "-4",
               "blur": "0",
               "spread": "0",
-              "color": "{core.grey.a15}",
+              "color": "{core.grey.a10}",
               "type": "dropShadow"
             },
             {

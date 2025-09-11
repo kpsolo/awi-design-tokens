@@ -7563,7 +7563,7 @@
           "value": "{core.grey.100}",
           "type": "color"
         },
-        "tertiary": {
+        "accent": {
           "value": "{core.brand-30.500}",
           "type": "color"
         }

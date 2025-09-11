@@ -1506,7 +1506,14 @@
     "news": {
       "welcome-bonus-card": {
         "background": {
-          "value": "{shadow.drop.medium}",
+          "value": {
+            "x": "0px",
+            "y": "2px",
+            "blur": "12px",
+            "spread": "-1px",
+            "color": "{core.brand-30.a40}",
+            "type": "dropShadow"
+          },
           "type": "boxShadow"
         }
       }
@@ -5828,7 +5835,11 @@
       },
       "welcome-bonus": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.300}",
           "type": "color"
         }
       }

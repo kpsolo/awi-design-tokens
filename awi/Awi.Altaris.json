@@ -5834,6 +5834,10 @@
         "fill": {
           "value": "{core.white.a20}",
           "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color"
         }
       },
       "banner": {

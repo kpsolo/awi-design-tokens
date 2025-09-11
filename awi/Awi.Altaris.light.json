@@ -5812,6 +5812,13 @@
           "description": "status-inactive"
         }
       },
+      "banner": {
+        "fill": {
+          "value": "{core.brand-60.800}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      },
       "card": {
         "fill": {
           "value": "{core.white.a100}",

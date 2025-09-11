@@ -5835,6 +5835,13 @@
           "value": "{core.white.a20}",
           "type": "color"
         }
+      },
+      "banner": {
+        "fill": {
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "thumb-games ": {

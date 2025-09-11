@@ -6755,7 +6755,10 @@
       "contextual.lottery-tournament.status-inactive.border": "S:cb0e484eab1a7ca74236e10ffc135c0eaf77a409,",
       "shadow.lottery-tournament.cart": "S:3a3fca9843a5cd7a8773ceb4dcfdbdd3422dd5da,",
       "shadow.lottery-tournament.desktop.block": "S:83a0c62acb05a38c761999b81c3e86448958cbee,",
-      "shadow.welcome-bonus.card": "S:1e6834ffd6d10d465682479ddd86df5b662cdb2d,"
+      "shadow.welcome-bonus.card": "S:1e6834ffd6d10d465682479ddd86df5b662cdb2d,",
+      "contextual.news.banner.fill": "S:95dc426b28b6826d5a04cfe96761c743277c38ff,",
+      "core.brand-30.50a50": "S:8554faaa54e62842423ac2147ec10aa08e715df0,",
+      "shadow.timer.lower": "S:933f1d71d8073983a7a7234c5da5528b3d8292ce,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

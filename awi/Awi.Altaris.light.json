@@ -4745,7 +4745,7 @@
         },
         "card": {
           "text": {
-            "value": "{semantic.text.banner-cart.heading}",
+            "value": "{semantic.text.banner-cart.primary}",
             "type": "color"
           },
           "background": {

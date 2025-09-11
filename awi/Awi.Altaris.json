@@ -7551,15 +7551,15 @@
         }
       },
       "banner-cart": {
-        "heading": {
+        "primary": {
           "value": "{core.white.a100}",
           "type": "color"
         },
-        "primary": {
+        "secondary": {
           "value": "{core.grey.50}",
           "type": "color"
         },
-        "secondary": {
+        "tertiary": {
           "value": "{core.grey.100}",
           "type": "color"
         },

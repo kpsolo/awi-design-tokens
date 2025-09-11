@@ -6759,7 +6759,8 @@
       "contextual.news.banner.fill": "S:95dc426b28b6826d5a04cfe96761c743277c38ff,",
       "core.brand-30.50a50": "S:8554faaa54e62842423ac2147ec10aa08e715df0,",
       "shadow.timer.lower": "S:933f1d71d8073983a7a7234c5da5528b3d8292ce,",
-      "contextual.news.welcome-bonus.border": "S:c4faf3f09f74a101070055c196911fc5b08891e0,"
+      "contextual.news.welcome-bonus.border": "S:c4faf3f09f74a101070055c196911fc5b08891e0,",
+      "contextual.news.welcome-bonus.text.accent": "S:9f8a6a6e5eb5df6f7c73c666be125353d2f31717,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

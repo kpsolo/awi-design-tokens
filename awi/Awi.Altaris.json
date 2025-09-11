@@ -5838,6 +5838,12 @@
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "text": {
+          "accent": {
+            "value": "{semantic.text.brand.secondary}",
+            "type": "color"
+          }
         }
       },
       "banner": {

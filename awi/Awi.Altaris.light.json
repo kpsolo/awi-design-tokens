@@ -5838,6 +5838,12 @@
           "value": "{core.white.a100}",
           "type": "color"
         },
+        "text": {
+          "accent": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
+        },
         "border": {
           "value": "{core.brand-30.300}",
           "type": "color"

@@ -5322,7 +5322,11 @@
       "shadow.timer.lower": "S:a75ff9e53e7bd295a0ddd4f616b1cab3780555eb,",
       "shadow.header.mobile": "S:66461d8df4b290d9981480936c98e5f4fdd5db74,",
       "shadow.lottery-tournament.cart": "S:71ae25a3b577049c62aa96bd9de9126192fcd439,",
-      "shadow.lottery-tournament.desktop.block": "S:c6d2dc3eb8eaec8dffc7da5fc25dbe911814f20c,"
+      "shadow.lottery-tournament.desktop.block": "S:c6d2dc3eb8eaec8dffc7da5fc25dbe911814f20c,",
+      "semantic.icon.banner-cart.primary": "S:bc563247777c1a78352ee1055e6f92b4720e8aed,",
+      "semantic.icon.banner-cart.secondary": "S:a5ea36ec21a96987c1904ed6a24430dbc451599c,",
+      "semantic.icon.banner-cart.tertiary": "S:adf2a1a9b6ed55355cf6f4ff74f5787b40fc62ba,",
+      "semantic.icon.banner-cart.accent": "S:cfa8f658c907d31d325af42d82c9eadd4e4d0b2d,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

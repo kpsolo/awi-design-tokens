@@ -4523,7 +4523,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "linear-gradient(259deg, {core.brand-60.600} 8%, {core.brand-60.700} 63%)",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "progressbar": {
@@ -4538,11 +4538,11 @@
       },
       "border": {
         "default": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, {core.brand-30.a40} 56%, {core.brand-30.500} 97%)",
+          "value": "linear-gradient(319deg, {core.brand-30.a60} 56%, {core.brand-30.500} 97%)",
           "type": "color"
         }
       }
@@ -5458,7 +5458,7 @@
         },
         "number": {
           "text2": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "text": {
@@ -7400,11 +7400,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.400}",
           "type": "color"
         },
         "disabled": {
@@ -7464,11 +7464,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.400}",
           "type": "color"
         }
       },

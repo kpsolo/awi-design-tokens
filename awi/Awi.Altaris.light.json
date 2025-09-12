@@ -7433,6 +7433,24 @@
           "value": "{semantic.background.2}",
           "type": "color"
         }
+      },
+      "banner-cart": {
+        "primary": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
       }
     },
     "text": {

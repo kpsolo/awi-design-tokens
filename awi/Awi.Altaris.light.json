@@ -5172,7 +5172,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.grey.100}",
+        "value": "{core.brand-60.500a12}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -5194,7 +5194,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.grey.50}",
+            "value": "{core.brand-60.500a12}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5218,7 +5218,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a100}",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "Segment Control"
       },

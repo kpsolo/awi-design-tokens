@@ -3684,34 +3684,34 @@
       "popup": {
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Chips"
           },
           "hover": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Chips"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color",
             "description": "Chips"
           }
         },
         "border": {
           "default": {
-            "value": "{contextual.popup.devider-2}",
+            "value": "{core.brand-60.a30}",
             "type": "color",
             "description": "Chips"
           },
           "hover": {
-            "value": "{semantic.border.static.hover}",
+            "value": "{core.brand-30.300}",
             "type": "color",
             "description": "Chips"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color",
             "description": "Chips"
           }

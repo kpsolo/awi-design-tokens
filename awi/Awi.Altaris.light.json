@@ -3334,7 +3334,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-60.600}",
+          "value": "{core.brand-30.a15}",
           "type": "color"
         },
         "illustration": {
@@ -3342,16 +3342,16 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.static.accent}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         }

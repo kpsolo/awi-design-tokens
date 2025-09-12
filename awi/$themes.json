@@ -6784,7 +6784,12 @@
       "core.brand-30.50a50": "S:8554faaa54e62842423ac2147ec10aa08e715df0,",
       "shadow.timer.lower": "S:933f1d71d8073983a7a7234c5da5528b3d8292ce,",
       "contextual.news.welcome-bonus.border": "S:c4faf3f09f74a101070055c196911fc5b08891e0,",
-      "contextual.news.welcome-bonus.text.accent": "S:9f8a6a6e5eb5df6f7c73c666be125353d2f31717,"
+      "contextual.news.welcome-bonus.text.accent": "S:9f8a6a6e5eb5df6f7c73c666be125353d2f31717,",
+      "semantic.icon.banner-cart.primary": "S:a8df68a51d3eb48746f37d3475957bdec71a8a16,",
+      "semantic.icon.banner-cart.secondary": "S:f00afb7498b6037325fb65c72b326a48fb71732d,",
+      "semantic.icon.banner-cart.tertiary": "S:63b6c739e45e91687289b9f1536e6eaf59bacb49,",
+      "semantic.icon.banner-cart.accent": "S:e72d24ec6caec5b9a16c11f4ccebdb7714cf8974,",
+      "core.brand-60.a5": "S:fb8d2087b06203005ae8cd438cb08e7ca0e22c5e,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

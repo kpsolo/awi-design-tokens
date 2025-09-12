@@ -1110,10 +1110,10 @@
       "medium": {
         "value": {
           "x": "{depth.0}",
-          "y": "{depth.200}",
-          "blur": "{blur.200}",
+          "y": "{depth.025}",
+          "blur": "{blur.100}",
           "spread": "{depth.0}",
-          "color": "{core.grey.a5}",
+          "color": "{core.grey.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -3456,7 +3456,7 @@
       "nav-item": {
         "fill": {
           "active": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "default": {
@@ -3474,7 +3474,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.tertiary}",
             "type": "color"
           },
           "hover": {
@@ -5275,11 +5275,11 @@
       },
       "slate": {
         "1": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-60.a5}",
           "type": "color"
         },
         "2": {
-          "value": "{core.brand-60.a20}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         }
       },

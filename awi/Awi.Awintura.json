@@ -3784,6 +3784,13 @@
             "type": "color",
             "description": "Bonus/Talisman"
           },
+          "text": {
+            "accent": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Bonus/Talisman"
+            }
+          },
           "divider": {
             "value": "{core.brand-10.a25}",
             "type": "color"

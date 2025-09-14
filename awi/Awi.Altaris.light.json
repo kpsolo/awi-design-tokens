@@ -3880,16 +3880,16 @@
     "ingame": {
       "navmenu": {
         "fill": {
-          "value": "{semantic.background.2}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "icon": {
           "default": {
-            "value": "{core.white.a30}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
         }
@@ -3927,7 +3927,7 @@
         },
         "navmenu": {
           "fill": {
-            "value": "{semantic.background.2}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "close": {
@@ -3942,7 +3942,7 @@
           },
           "item": {
             "default": {
-              "value": "{core.white.a60}",
+              "value": "{core.grey.400}",
               "type": "color"
             },
             "active": {
@@ -3965,7 +3965,7 @@
       },
       "left-panel": {
         "fill": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.grey.50}",
           "type": "color"
         },
         "border": {

@@ -3370,18 +3370,18 @@
       },
       "loyalty_points": {
         "fill": {
-          "value": "{core.brand-60.700}",
+          "value": "{core.brand-60.50}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
         "points": {
           "slate-1": {
-            "value": "{core.grey.900}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           },
           "slate-2": {
-            "value": "{core.grey.700}",
+            "value": "{core.brand-60.a15}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }

@@ -1771,7 +1771,7 @@
               "y": "{depth.025}",
               "blur": "{depth.0}",
               "spread": "{depth.0}",
-              "color": "{core.brand-30.800a50}",
+              "color": "{core.white.a60}",
               "type": "innerShadow"
             }
           ],
@@ -3922,7 +3922,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
+          "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a90} 100%)",
           "type": "color"
         },
         "navmenu": {
@@ -3932,7 +3932,7 @@
           },
           "close": {
             "fill": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.grey.50}",
               "type": "color"
             },
             "icon": {
@@ -3953,7 +3953,7 @@
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.brand-30.a20}",
+            "value": "{semantic.background.slate-on-card}",
             "type": "color",
             "description": "Bonus/Talisman"
           },
@@ -3984,7 +3984,7 @@
       },
       "game-search": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

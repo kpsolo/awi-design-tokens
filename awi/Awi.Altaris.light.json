@@ -3921,8 +3921,24 @@
           "value": "{core.grey.a90}",
           "type": "color"
         },
+        "tournament": {
+          "text": {
+            "primary": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{core.white.a80}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{core.white.a60}",
+              "type": "color"
+            }
+          }
+        },
         "overlay": {
-          "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a90} 100%)",
+          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
           "type": "color"
         },
         "navmenu": {

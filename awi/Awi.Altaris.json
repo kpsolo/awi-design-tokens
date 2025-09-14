@@ -3965,6 +3965,22 @@
             "value": "{core.white.a20}",
             "type": "color"
           }
+        },
+        "tournament": {
+          "text": {
+            "primary": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{core.white.a80}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{core.white.a60}",
+              "type": "color"
+            }
+          }
         }
       },
       "left-panel": {

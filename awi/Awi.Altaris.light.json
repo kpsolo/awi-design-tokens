@@ -3936,7 +3936,7 @@
               "type": "color"
             },
             "icon": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.grey.400}",
               "type": "color"
             }
           },
@@ -3946,7 +3946,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-10.500}",
               "type": "color"
             }
           }

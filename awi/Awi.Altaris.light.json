@@ -3897,7 +3897,7 @@
       "mob": {
         "menu-btn": {
           "fill": {
-            "value": "{core.brand-60.900}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "badge": {
@@ -3913,7 +3913,7 @@
             }
           },
           "icon": {
-            "value": "{semantic.icon.brand.secondary}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         },

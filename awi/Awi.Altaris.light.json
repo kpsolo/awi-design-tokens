@@ -3962,14 +3962,14 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-10.600}",
               "type": "color"
             }
           }
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{semantic.background.slate-on-card}",
+            "value": "{core.white.a50}",
             "type": "color",
             "description": "Bonus/Talisman"
           },

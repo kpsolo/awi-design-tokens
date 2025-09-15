@@ -6793,7 +6793,11 @@
       "semantic.icon.banner-cart.secondary": "S:f00afb7498b6037325fb65c72b326a48fb71732d,",
       "semantic.icon.banner-cart.tertiary": "S:63b6c739e45e91687289b9f1536e6eaf59bacb49,",
       "semantic.icon.banner-cart.accent": "S:e72d24ec6caec5b9a16c11f4ccebdb7714cf8974,",
-      "core.brand-60.a5": "S:fb8d2087b06203005ae8cd438cb08e7ca0e22c5e,"
+      "core.brand-60.a5": "S:fb8d2087b06203005ae8cd438cb08e7ca0e22c5e,",
+      "contextual.ingame.mob.bonus-talisman.text.accent": "S:b76731b9f546d5b86d5066bfde02c00499138be3,",
+      "contextual.ingame.mob.tournament.text.primary": "S:42382c98c590b8e278e3b3d3b79291f2af2f6934,",
+      "contextual.ingame.mob.tournament.text.secondary": "S:fb3c38fdd1f7b8c88aed99fe9c29c133cecfbb9c,",
+      "contextual.ingame.mob.tournament.text.tertiary": "S:29f38ccc7d7359a59bce24552b6980166d47d3e7,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

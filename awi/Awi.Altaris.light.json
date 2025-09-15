@@ -1648,14 +1648,6 @@
       "value": [
         {
           "x": "0px",
-          "y": "2px",
-          "blur": "6px",
-          "spread": "0px",
-          "color": "{core.grey.a10}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0px",
           "y": "1px",
           "blur": "0px",
           "spread": "0px",
@@ -5507,7 +5499,7 @@
             }
           },
           "fill2": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "fill": {

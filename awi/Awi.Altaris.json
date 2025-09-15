@@ -4011,6 +4011,14 @@
           "value": "{core.white.a15}",
           "type": "color"
         }
+      },
+      "view-mode": {
+        "icon": {
+          "primari": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
       }
     },
     "header": {

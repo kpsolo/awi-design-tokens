@@ -2707,7 +2707,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.brand-30.50a50}",
+        "value": "{core.white.a80}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

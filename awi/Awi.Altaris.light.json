@@ -4389,7 +4389,7 @@
           "type": "color"
         },
         "step": {
-          "value": "linear-gradient(180deg, {core.brand-30.50} 0%, {core.brand-30.200} 100%)",
+          "value": "linear-gradient(90deg, {core.brand-30.50} 0%, {core.brand-30.100} 100%)",
           "type": "color"
         },
         "border": {
@@ -4565,7 +4565,7 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, {core.brand-30.a60} 56%, {core.brand-30.500} 97%)",
+          "value": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)",
           "type": "color"
         }
       }
@@ -7683,7 +7683,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
+          "value": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)",
           "type": "color"
         }
       },

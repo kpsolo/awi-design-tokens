@@ -7773,7 +7773,7 @@
       },
       "static": {
         "default": {
-          "value": "{semantic.text.default.secondary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "hover": {

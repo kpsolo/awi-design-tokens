@@ -2411,17 +2411,17 @@
         "multiplier": {
           "fill": {
             "normal": {
-              "value": "{core.white.a0}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.a50}",
               "type": "color"
             },
             "active": {
@@ -2431,11 +2431,11 @@
           },
           "text": {
             "normal": {
-              "value": "{core.white.a80}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
@@ -2457,7 +2457,7 @@
             "description": "vip bet amount"
           },
           "text": {
-            "value": "{semantic.icon.brand.on-brand}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "vip bet amount"
           },

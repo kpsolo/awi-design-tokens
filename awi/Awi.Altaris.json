@@ -2481,6 +2481,16 @@
             }
           }
         }
+      },
+      "border": {
+        "outer": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "bg": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "verification": {

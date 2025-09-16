@@ -4242,7 +4242,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "validation": {

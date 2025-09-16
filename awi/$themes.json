@@ -5326,7 +5326,12 @@
       "semantic.icon.banner-cart.primary": "S:bc563247777c1a78352ee1055e6f92b4720e8aed,",
       "semantic.icon.banner-cart.secondary": "S:a5ea36ec21a96987c1904ed6a24430dbc451599c,",
       "semantic.icon.banner-cart.tertiary": "S:adf2a1a9b6ed55355cf6f4ff74f5787b40fc62ba,",
-      "semantic.icon.banner-cart.accent": "S:cfa8f658c907d31d325af42d82c9eadd4e4d0b2d,"
+      "semantic.icon.banner-cart.accent": "S:cfa8f658c907d31d325af42d82c9eadd4e4d0b2d,",
+      "contextual.ingame.view-mode.icon.primari": "S:a59f228a57fa6f72b83cf0fa0d13bfd0d429ef25,",
+      "contextual.ingame.mob.tournament.text.primary": "S:5cc24a73e2f218046278ba7b6fb1952904502f6f,",
+      "contextual.ingame.mob.tournament.text.secondary": "S:2aa59be7018a90e7ea6d8945dc15a8f0f7bb93c1,",
+      "contextual.ingame.mob.tournament.text.tertiary": "S:18f61704d2cc5dba543430feb4c19eeaf556da6e,",
+      "contextual.shop.banner.fill": "S:c77e0649988d0aea957999a841db9e705d730e7e,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

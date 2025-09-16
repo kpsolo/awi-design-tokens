@@ -6039,6 +6039,14 @@
           }
         }
       }
+    },
+    "shop": {
+      "banner": {
+        "fill": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

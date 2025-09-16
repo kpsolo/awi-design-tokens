@@ -3460,7 +3460,7 @@
       "nav-item": {
         "fill": {
           "active": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           },
           "default": {
@@ -5303,11 +5303,11 @@
       },
       "slate": {
         "1": {
-          "value": "{core.grey.800}",
+          "value": "{core.white.a5}",
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
+          "value": "{core.grey.a50}",
           "type": "color"
         }
       },

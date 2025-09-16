@@ -2410,7 +2410,7 @@
       },
       "border": {
         "outer": {
-          "value": "linear-gradient(225deg, {core.brand-30.400} 0%, {core.brand-30.600} 104.83%)",
+          "value": "linear-gradient(225deg, {core.brand-30.400} 0%, {core.brand-30.600} 100%)",
           "type": "color"
         },
         "inner": {

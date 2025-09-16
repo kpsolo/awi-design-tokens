@@ -2499,6 +2499,10 @@
         "middle": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "inner-2": {
+          "value": "{core.brand-30.800}",
+          "type": "color"
         }
       },
       "bg": {

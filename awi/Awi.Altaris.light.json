@@ -2417,6 +2417,10 @@
           "value": "{core.brand-30.800}",
           "type": "color"
         },
+        "inner-2": {
+          "value": "{core.brand-30.800}",
+          "type": "color"
+        },
         "middle": {
           "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
           "type": "color"

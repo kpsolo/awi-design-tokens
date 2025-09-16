@@ -4613,11 +4613,11 @@
       },
       "progressbar": {
         "fill": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.brand-60.a30}",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.brand-60.a30}",
           "type": "color"
         }
       },
@@ -4627,8 +4627,9 @@
           "type": "color"
         },
         "active": {
-          "value": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)",
-          "type": "color"
+          "value": "linear-gradient(319deg, {core.brand-30.500} 50%, {core.brand-10.100} 97%)",
+          "type": "color",
+          "description": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)"
         }
       }
     },

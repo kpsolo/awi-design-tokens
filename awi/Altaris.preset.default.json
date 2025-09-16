@@ -2968,13 +2968,5 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
-  },
-  "contextual": {
-    "wheel": {
-      "bg": {
-        "value": "{core.white.a0}",
-        "type": "color"
-      }
-    }
   }
 }

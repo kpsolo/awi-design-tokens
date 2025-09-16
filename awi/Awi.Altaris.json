@@ -2510,19 +2510,19 @@
       },
       "border": {
         "outer": {
-          "value": "{core.white.a0}",
+          "value": "linear-gradient(225deg, {core.brand-30.500a60} 0%, {core.brand-30.600} 100%)",
           "type": "color"
         },
         "inner": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-30.900}",
           "type": "color"
         },
         "middle": {
-          "value": "{core.white.a0}",
+          "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
           "type": "color"
         },
         "inner-2": {
-          "value": "{core.brand-30.800}",
+          "value": "{core.brand-30.800a50}",
           "type": "color"
         }
       },
@@ -2540,7 +2540,7 @@
           "type": "color"
         },
         "icon": {
-          "value": "{core.brand-30.900}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       }

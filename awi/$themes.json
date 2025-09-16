@@ -5331,7 +5331,18 @@
       "contextual.ingame.mob.tournament.text.primary": "S:5cc24a73e2f218046278ba7b6fb1952904502f6f,",
       "contextual.ingame.mob.tournament.text.secondary": "S:2aa59be7018a90e7ea6d8945dc15a8f0f7bb93c1,",
       "contextual.ingame.mob.tournament.text.tertiary": "S:18f61704d2cc5dba543430feb4c19eeaf556da6e,",
-      "contextual.shop.banner.fill": "S:c77e0649988d0aea957999a841db9e705d730e7e,"
+      "contextual.shop.banner.fill": "S:c77e0649988d0aea957999a841db9e705d730e7e,",
+      "contextual.wheel.bg": "S:b2b49e8751e2d3fedfcfa9c09b35808c0c87f651,",
+      "contextual.wheel.button.fill": "S:defcde2ee4a4e2a10312322a3dbd388a328611e0,",
+      "contextual.wheel.button.border": "S:083eef86f7aa651ea9a20d3059aca7b8a9af4f03,",
+      "contextual.wheel.button.icon": "S:73ad5c32d2f91f30816fc1013bc8864cc45ee752,",
+      "contextual.wheel.border.outer": "S:7bc8961096fb927c1d57c4a0d387cb78246f38ba,",
+      "contextual.wheel.border.inner": "S:bc1cea0e64a337f07af7a9e12715cec0f659ccf1,",
+      "contextual.wheel.border.inner-2": "S:762ec42e9af0b95ff0820773d9da520e85e4c70e,",
+      "contextual.wheel.border.middle": "S:c35e1d1445895f3e3fde230448bee115c8322bb9,",
+      "core.brand-30.500a60": "S:ec274813bd8e0aa1faf09bd4bb53bdab3d6e969f,",
+      "core.brand-30.500a30": "S:38a428cf2be70dd3655ded90c8e278ff7e749afe,",
+      "shadow.wheel.button": "S:4097635052786d4502249dda160b31eb0c426fac,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",
@@ -5571,6 +5582,7 @@
       "deals.promo-code-button.padding-left": "db41cd603f296cabf5e78c549cc05eece937f769",
       "deals.promo-code-button.padding-right": "b5845352fe4a7166c38d72e1f5e61e3082708c6d",
       "wheel.popup.vip-bet-amount.width": "931b171274d57eaecd7efe2dd8bde0df1df81b4c",
+      "border-radius.wheel.block": "c909be979c64d409906f42b4319f474cc9c0a0e4",
       "base": "bfd84947b44dc9e4659de09e9d8ed44b962679e9"
     },
     "$figmaCollectionId": "VariableCollectionId:42677:395025",

@@ -1752,6 +1752,27 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "button": {
+        "value": [
+          {
+            "x": "3px",
+            "y": "-5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-30.500a30}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "-3px",
+            "y": "5px",
+            "blur": "20px",
+            "spread": "0",
+            "color": "{core.brand-30.500a60}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "progress": {
@@ -2508,6 +2529,20 @@
       "bg": {
         "value": "{core.white.a0}",
         "type": "color"
+      },
+      "button": {
+        "fill": {
+          "value": "{core.brand-30.900}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-30.900}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.brand-30.900}",
+          "type": "color"
+        }
       }
     },
     "verification": {

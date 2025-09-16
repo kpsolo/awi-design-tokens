@@ -6808,7 +6808,14 @@
       "contextual.wheel.border.outer": "S:7e3442d68985e9d6e1797ceb716c4cea68c6b763,",
       "contextual.wheel.bg": "S:d738b8d6dca1f397a2052355d56052f2cc90f1ec,",
       "contextual.wheel.border.inner": "S:aec80daebf4b45b4c252e999a511578d54d5a22e,",
-      "contextual.wheel.border.middle": "S:a332038e400e18585b1c2c3bd26b25a2bbf311d2,"
+      "contextual.wheel.border.middle": "S:a332038e400e18585b1c2c3bd26b25a2bbf311d2,",
+      "contextual.wheel.border.inner-2": "S:da2715b847b6557fe385e4af3d0c7ebdff266dba,",
+      "contextual.wheel.button.fill": "S:0b54e8069827d8f9187726e6b44814c089dac61d,",
+      "contextual.wheel.button.border": "S:02efaff6bf01a28773605bac35dff70a148c744f,",
+      "contextual.wheel.button.icon": "S:b3ee937f667b7526f6d785082ecf436e11c8cdfa,",
+      "shadow.wheel.button": "S:4e3bb2096422db70fcb79c33b82662ab0434d4b5,",
+      "core.brand-30.500a60": "S:ff53b6a719972566866cd19c49eb374279f3c39f,",
+      "core.brand-30.500a30": "S:c91f016f412fe150bfe5b8f98859ba4c9fe46e04,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

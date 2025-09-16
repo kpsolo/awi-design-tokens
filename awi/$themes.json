@@ -6803,7 +6803,8 @@
       "contextual.ingame.mob.tournament.text.primary": "S:42382c98c590b8e278e3b3d3b79291f2af2f6934,",
       "contextual.ingame.mob.tournament.text.secondary": "S:fb3c38fdd1f7b8c88aed99fe9c29c133cecfbb9c,",
       "contextual.ingame.mob.tournament.text.tertiary": "S:29f38ccc7d7359a59bce24552b6980166d47d3e7,",
-      "contextual.ingame.view-mode.icon.primari": "S:4cc568bd20ee1604169b4c359a8af1c3fcb21673,"
+      "contextual.ingame.view-mode.icon.primari": "S:4cc568bd20ee1604169b4c359a8af1c3fcb21673,",
+      "contextual.shop.banner.fill": "S:9f46e5a5c3bfc7cc3fe7841abdc5d4292b4261e8,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

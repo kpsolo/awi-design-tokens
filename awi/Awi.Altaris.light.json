@@ -2364,15 +2364,15 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(166deg, {core.grey.600} 48%, {core.grey.700} 93%)",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(164deg, {core.grey.800} 5%, {core.brand-60.800} 100%)",
+            "value": "{core.brand-30.800}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "active-vip": {
@@ -2382,19 +2382,19 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active-vip": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{core.grey.800}",
             "type": "color"
           }
         }

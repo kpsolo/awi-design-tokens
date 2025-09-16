@@ -4181,7 +4181,7 @@
     "selection-controls": {
       "label": {
         "default": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "disabled": {
@@ -4232,7 +4232,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.600}",
+            "value": "{semantic.border.default.disabled}",
             "type": "color"
           }
         },
@@ -4250,7 +4250,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.a8}",
             "type": "color"
           }
         },
@@ -4276,7 +4276,7 @@
       "selection-block": {
         "border": {
           "active": {
-            "value": "{semantic.border.static.active}",
+            "value": "{core.grey.a15}",
             "type": "color"
           },
           "default": {
@@ -7735,7 +7735,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.a0}",
+          "value": "{core.grey.a8}",
           "type": "color"
         }
       }

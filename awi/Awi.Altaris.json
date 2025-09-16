@@ -2532,11 +2532,11 @@
       },
       "button": {
         "fill": {
-          "value": "{core.brand-30.900}",
+          "value": "linear-gradient(154deg, {core.grey.700} 14%, {core.grey.900} 85%);",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.900}",
+          "value": "{core.white.a5}",
           "type": "color"
         },
         "icon": {

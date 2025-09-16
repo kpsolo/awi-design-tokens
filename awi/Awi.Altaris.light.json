@@ -3608,11 +3608,11 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
+            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.200} 100%)",
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.a8}",
+            "value": "{core.grey.a5}",
             "type": "color"
           }
         },
@@ -4206,7 +4206,7 @@
             }
           },
           "hover": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.grey.a5}",
             "type": "color"
           },
           "validation": {
@@ -4238,11 +4238,11 @@
         },
         "bullet": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "validation": {

@@ -298,6 +298,20 @@
         }
       }
     },
+    "wheel": {
+      "block": {
+        "value": "{border-radius.core.400}",
+        "type": "borderRadius",
+        "description": "contextual.wheel.sector"
+      },
+      "popup": {
+        "general": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius",
+          "description": "shadow.wheel.popup.general"
+        }
+      }
+    },
     "menu": {
       "item": {
         "new": {
@@ -358,15 +372,6 @@
       "value": "{border-radius.core.full}",
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
-    },
-    "wheel": {
-      "popup": {
-        "general": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius",
-          "description": "shadow.wheel.popup.general"
-        }
-      }
     }
   },
   "border": {
@@ -2400,12 +2405,20 @@
         }
       },
       "bg": {
-        "value": "{core.white.a0}",
+        "value": "{core.brand-30.900}",
         "type": "color"
       },
       "border": {
         "outer": {
-          "value": "{core.white.a0}",
+          "value": "linear-gradient(225deg, {core.brand-30.400} 0%, {core.brand-30.600} 104.83%)",
+          "type": "color"
+        },
+        "inner": {
+          "value": "{core.brand-30.800}",
+          "type": "color"
+        },
+        "middle": {
+          "value": "linear-gradient(146deg, {core.grey.800} 14%, {core.white.a100} 42%, {core.grey.800} 67%, {core.white.a100} 90%)",
           "type": "color"
         }
       },

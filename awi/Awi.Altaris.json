@@ -366,6 +366,11 @@
           "type": "borderRadius",
           "description": "shadow.wheel.popup.general"
         }
+      },
+      "block": {
+        "value": "{border-radius.core.400}",
+        "type": "borderRadius",
+        "description": "contextual.wheel.sector"
       }
     }
   },
@@ -2484,6 +2489,14 @@
       },
       "border": {
         "outer": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "inner": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "middle": {
           "value": "{core.white.a0}",
           "type": "color"
         }

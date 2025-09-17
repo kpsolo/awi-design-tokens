@@ -4996,6 +4996,10 @@
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(178deg, #302B77 7%, rgba(7, 5, 37, 0.00) 100%)",
+          "type": "color"
         }
       }
     },

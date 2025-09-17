@@ -2646,6 +2646,10 @@
         "border": {
           "value": "{core.brand-30.a20}",
           "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(250, 236, 209, 0.25) 0%, rgba(250, 236, 209, 0.03) 100%)",
+          "type": "color"
         }
       }
     },

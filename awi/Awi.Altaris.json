@@ -2890,6 +2890,10 @@
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(180deg, {core.brand-60.a20} 0%, {core.brand-60.a10}  100%)",
+          "type": "color"
         }
       }
     },

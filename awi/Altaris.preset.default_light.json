@@ -2702,7 +2702,7 @@
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(103deg, {core.brand-30.a30} 2%, {core.brand-30.50} 96%)",
+        "value": "linear-gradient(103deg, {core.brand-30.a20} 2%, {core.brand-30.50} 96%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },

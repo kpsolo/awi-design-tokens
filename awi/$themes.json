@@ -6816,18 +6816,18 @@
       "contextual.ingame.mob.tournament.text.secondary": "S:fb3c38fdd1f7b8c88aed99fe9c29c133cecfbb9c,",
       "contextual.ingame.mob.tournament.text.tertiary": "S:29f38ccc7d7359a59bce24552b6980166d47d3e7,",
       "contextual.ingame.view-mode.icon.primari": "S:4cc568bd20ee1604169b4c359a8af1c3fcb21673,",
-      "contextual.shop.banner.fill": "S:9f46e5a5c3bfc7cc3fe7841abdc5d4292b4261e8,",
-      "contextual.wheel.border.outer": "S:7e3442d68985e9d6e1797ceb716c4cea68c6b763,",
-      "contextual.wheel.bg": "S:d738b8d6dca1f397a2052355d56052f2cc90f1ec,",
-      "contextual.wheel.border.inner": "S:aec80daebf4b45b4c252e999a511578d54d5a22e,",
-      "contextual.wheel.border.middle": "S:a332038e400e18585b1c2c3bd26b25a2bbf311d2,",
-      "contextual.wheel.border.inner-2": "S:da2715b847b6557fe385e4af3d0c7ebdff266dba,",
-      "contextual.wheel.button.fill": "S:0b54e8069827d8f9187726e6b44814c089dac61d,",
-      "contextual.wheel.button.border": "S:02efaff6bf01a28773605bac35dff70a148c744f,",
-      "contextual.wheel.button.icon": "S:b3ee937f667b7526f6d785082ecf436e11c8cdfa,",
-      "shadow.wheel.button": "S:4e3bb2096422db70fcb79c33b82662ab0434d4b5,",
-      "core.brand-30.500a60": "S:ff53b6a719972566866cd19c49eb374279f3c39f,",
-      "core.brand-30.500a30": "S:c91f016f412fe150bfe5b8f98859ba4c9fe46e04,"
+      "contextual.shop.banner.fill": "S:31be31ba3a84d07a3939952ca0eec173097281e8,",
+      "contextual.wheel.border.outer": "S:d76ea91bc30a74863a236744786ef85a0ebb1a87,",
+      "contextual.wheel.bg": "S:113f54cd6ada31757f62322ca8103108d9ed1014,",
+      "contextual.wheel.border.inner": "S:d2567a1594d614301cc0df22e9f07a32a0b67ef0,",
+      "contextual.wheel.border.middle": "S:2611c70dffcdf345caa1be8b16faa523cbd166ff,",
+      "contextual.wheel.border.inner-2": "S:30eb21be0fff467aa6e7011224c3f75008fe0bf8,",
+      "contextual.wheel.button.fill": "S:af9d34a9be9d4bfa0cace3f67a368ca306bf89bf,",
+      "contextual.wheel.button.border": "S:dcc216c6ae08d9c14bb4f671a9beaaf2c3f15656,",
+      "contextual.wheel.button.icon": "S:2e3ed354602b1f6cc46a7cbaa3f15715c6e4d6b0,",
+      "shadow.wheel.button": "S:a4ba8ca27e9d57dcb6f8a35d7f6822a3af1cd50a,",
+      "core.brand-30.500a60": "S:1ca4afced118baf6f40abf46f0daf4ee982d3dc2,",
+      "core.brand-30.500a30": "S:51a8f957487bb1e67e164cbf8f6c6abbbdf35c5c,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",
@@ -7069,7 +7069,7 @@
       "deals.promo-code-button.padding-left": "b112c1df5972ea89431f7abd13925e5ca83c3aaa",
       "deals.promo-code-button.padding-right": "21612816a52f3a7e85ba81df2b0bbd68cff433e3",
       "wheel.popup.vip-bet-amount.width": "24fd20a435c0448e5cbff4e97994164e0027e35a",
-      "border-radius.wheel.block": "7b25e18f11b2b5a87ba7f653858e9c58321fd847",
+      "border-radius.wheel.block": "2aed90deb9ef0aecc4eda521a60024c42b453e0f",
       "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
     }
   }

@@ -4300,7 +4300,7 @@
         },
         "bullet": {
           "default": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "hover": {

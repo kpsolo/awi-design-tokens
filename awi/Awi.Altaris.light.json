@@ -2238,7 +2238,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "hover": {
@@ -2350,7 +2350,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "hover": {
@@ -7717,7 +7717,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "hover": {

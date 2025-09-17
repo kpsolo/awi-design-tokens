@@ -2738,7 +2738,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "slate-4": {
-        "value": "{semantic.background.slate-on-card}",
+        "value": "{core.brand-60.a10}",
         "type": "color",
         "description": "text input 2"
       },

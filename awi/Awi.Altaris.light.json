@@ -3599,7 +3599,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{core.brand-60.a20}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         }
       }

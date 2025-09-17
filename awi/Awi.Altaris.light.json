@@ -3640,11 +3640,11 @@
     },
     "table": {
       "fill": {
-        "value": "{core.white.a8}",
+        "value": "{core.brand-60.a10}",
         "type": "color"
       },
       "header": {
-        "value": "{core.white.a25}",
+        "value": "{core.brand-60.a10}",
         "type": "color"
       }
     },

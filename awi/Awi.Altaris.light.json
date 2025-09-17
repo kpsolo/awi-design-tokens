@@ -2157,6 +2157,17 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
+    },
+    "icon-graphic-bonus": {
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{blur.100}",
+        "spread": "{depth.0}",
+        "color": "{contextual.icon-graphic.welcome-bonus.glow2}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -2633,6 +2644,38 @@
       "glow2": {
         "value": "{core.brand-30.50}",
         "type": "color"
+      },
+      "welcome-bonus": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{core.brand-60.200}",
+            "type": "color"
+          },
+          "active2": {
+            "value": "{core.brand-60.200}",
+            "type": "color"
+          },
+          "inactive2": {
+            "value": "{core.white.a1}",
+            "type": "color"
+          }
+        },
+        "icon-text": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "glow": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "glow2": {
+          "value": "{core.brand-60.50}",
+          "type": "color"
+        }
       }
     },
     "up-button": {

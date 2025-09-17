@@ -2850,7 +2850,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.brand-60.a10}",
+              "value": "{core.brand-60.a15}",
               "type": "color"
             },
             "progress": {
@@ -2876,7 +2876,11 @@
       },
       "offers-block": {
         "border": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-60.a20}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
           "type": "color"
         }
       }

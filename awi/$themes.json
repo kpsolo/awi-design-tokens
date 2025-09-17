@@ -6831,7 +6831,8 @@
       "core.validation.danger.a5": "S:52f54d6d5d7f4d0779040f4a04e32428a1769cec,",
       "core.validation.success.a5": "S:2671e882e639512508ae9be7470295015acf85fd,",
       "core.validation.warning.a5": "S:3c02492921ccd595fec793767ecb0036ff83951c,",
-      "core.validation.warning.a20": "S:f68053c65b9176159c7a9ac96c2cdb1b12fcc475,"
+      "core.validation.warning.a20": "S:f68053c65b9176159c7a9ac96c2cdb1b12fcc475,",
+      "contextual.achivments.offers-block.fill": "S:dbdef0c329f2aac92d18fc889a9d5c287fc4ce65,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

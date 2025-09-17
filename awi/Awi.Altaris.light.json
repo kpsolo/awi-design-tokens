@@ -4776,7 +4776,7 @@
               "type": "color"
             },
             "text-secondary": {
-              "value": "{semantic.text.static.secondary}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color"
             }
           },

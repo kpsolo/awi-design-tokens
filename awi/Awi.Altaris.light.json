@@ -2449,11 +2449,11 @@
           "type": "color"
         },
         "inner": {
-          "value": "{core.brand-30.900}",
+          "value": "{core.brand-30.800}",
           "type": "color"
         },
         "inner-2": {
-          "value": "{core.brand-30.800a50}",
+          "value": "{core.brand-30.500a30}",
           "type": "color"
         },
         "middle": {

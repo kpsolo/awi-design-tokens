@@ -6827,7 +6827,11 @@
       "contextual.wheel.button.icon": "S:2e3ed354602b1f6cc46a7cbaa3f15715c6e4d6b0,",
       "shadow.wheel.button": "S:a4ba8ca27e9d57dcb6f8a35d7f6822a3af1cd50a,",
       "core.brand-30.500a60": "S:1ca4afced118baf6f40abf46f0daf4ee982d3dc2,",
-      "core.brand-30.500a30": "S:51a8f957487bb1e67e164cbf8f6c6abbbdf35c5c,"
+      "core.brand-30.500a30": "S:51a8f957487bb1e67e164cbf8f6c6abbbdf35c5c,",
+      "core.validation.danger.a5": "S:52f54d6d5d7f4d0779040f4a04e32428a1769cec,",
+      "core.validation.success.a5": "S:2671e882e639512508ae9be7470295015acf85fd,",
+      "core.validation.warning.a5": "S:3c02492921ccd595fec793767ecb0036ff83951c,",
+      "core.validation.warning.a20": "S:f68053c65b9176159c7a9ac96c2cdb1b12fcc475,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

@@ -1859,8 +1859,17 @@
     "validation": {
       "danger": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.94",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.red 500"
         },
         "100": {
@@ -1945,6 +1954,20 @@
           },
           "description": "Secondary.red 500"
         },
+        "a5": {
+          "value": "{core.brand-preset.validation.danger}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.05",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.red 500"
+        },
         "a0": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
@@ -1976,8 +1999,17 @@
       },
       "success": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.94",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Primary.emerald 500"
         },
         "100": {
@@ -2062,6 +2094,20 @@
           },
           "description": "Primary.emerald 500 20%"
         },
+        "a5": {
+          "value": "{core.brand-preset.validation.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.05",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Primary.emerald 500 20%"
+        },
         "a0": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
@@ -2093,8 +2139,17 @@
       },
       "warning": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.94",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.yellow 300"
         },
         "100": {
@@ -2165,6 +2220,20 @@
           },
           "description": "Secondary.yellow 300"
         },
+        "a20": {
+          "value": "{core.brand-preset.validation.warning}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
         "a10": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
@@ -2173,6 +2242,20 @@
               "modify": {
                 "type": "alpha",
                 "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a5": {
+          "value": "{core.brand-preset.validation.warning}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.05",
                 "space": "lch"
               }
             }

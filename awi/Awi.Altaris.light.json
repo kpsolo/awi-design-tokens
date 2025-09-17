@@ -1819,7 +1819,7 @@
               "y": "0px",
               "blur": "2px",
               "spread": "0px",
-              "color": "{core.brand-30.500}",
+              "color": "{core.brand-30.600}",
               "type": "dropShadow"
             },
             {
@@ -1827,7 +1827,7 @@
               "y": "0",
               "blur": "4",
               "spread": "0",
-              "color": "{core.brand-30.500}",
+              "color": "{core.brand-30.600}",
               "type": "dropShadow"
             }
           ],
@@ -2729,11 +2729,11 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "done": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "activation": {
@@ -2747,11 +2747,11 @@
         },
         "text": {
           "progress": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "done": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "activation": {
@@ -2765,7 +2765,7 @@
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.brand-30.a40}",
             "type": "color"
           },
           "done": {
@@ -2784,11 +2784,11 @@
       },
       "progress": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         },
         "step": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.a40}",
           "type": "color"
         },
         "border": {
@@ -2832,37 +2832,37 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "{core.white.a0}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "received": {
-              "value": "linear-gradient(132deg,  {core.grey.a8} 11%, {core.white.a0} 43%, {core.grey.a20} 82%)",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "progress": {
-              "value": "{core.white.a5}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "get": {
-              "value": "{core.white.a0}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
           "border": {
             "default": {
-              "value": "{core.white.a25}",
+              "value": "{core.brand-60.a10}",
               "type": "color"
             },
             "progress": {
-              "value": "{core.white.a80}",
+              "value": "{core.validation.warning.a20}",
               "type": "color"
             },
             "received": {
-              "value": "{core.white.a60}",
+              "value": "{core.validation.success.a20}",
               "type": "color"
             },
             "get": {
-              "value": "{core.white.a25}",
+              "value": "{core.brand-60.a10}",
               "type": "color"
             }
           }

@@ -2409,6 +2409,20 @@
         }
       }
     },
+    "welcome-bonus": {
+      "progress": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "wheel": {
       "sector": {
         "fill": {

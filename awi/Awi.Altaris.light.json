@@ -6224,6 +6224,20 @@
           }
         }
       }
+    },
+    "welcome-bonus": {
+      "progress": {
+        "fill": {
+          "active": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

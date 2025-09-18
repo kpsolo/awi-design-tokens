@@ -3427,7 +3427,7 @@
     "cashbox": {
       "bonus": {
         "fill": {
-          "value": "linear-gradient(0deg, {core.brand-60.a50} 0%, {core.brand-60.a10} 100%)",
+          "value": "linear-gradient(0deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
           "type": "color"
         },
         "elipse": {

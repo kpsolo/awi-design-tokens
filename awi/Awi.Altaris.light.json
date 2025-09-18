@@ -3452,6 +3452,16 @@
             "type": "color"
           }
         }
+      },
+      "support-block": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-60.a20}",
+          "type": "color"
+        }
       }
     },
     "stepper": {
@@ -4678,7 +4688,7 @@
             "type": "color"
           },
           "popup": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "AWI light bg MG dark"
           }

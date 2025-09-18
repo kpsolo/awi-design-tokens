@@ -3464,6 +3464,16 @@
             "type": "color"
           }
         }
+      },
+      "support-block": {
+        "fill": {
+          "value": "{semantic.gradients.8}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
       }
     },
     "stepper": {

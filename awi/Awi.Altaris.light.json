@@ -3367,6 +3367,30 @@
           "description": "Lootboxes"
         }
       },
+      "girl": {
+        "light": {
+          "value": "{core.brand-10.a25}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "bottom": {
+          "elipse-1": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "elipse-2": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "elipse-3": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        }
+      },
       "header": {
         "overlay": {
           "value": "linear-gradient(91deg, {core.brand-60.800} 0%, {core.brand-60.a0} 98%)",

@@ -3410,6 +3410,30 @@
             "type": "color"
           }
         }
+      },
+      "girl": {
+        "light": {
+          "value": "{core.brand-10.a25}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "bottom": {
+          "elipse-1": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "elipse-2": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "elipse-3": {
+            "value": "{core.brand-10.a25}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        }
       }
     },
     "popover": {

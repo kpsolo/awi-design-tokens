@@ -6857,7 +6857,10 @@
       "contextual.achivments.first-block.fill.secondary": "S:7202f5d942d9dab74aedaee9509ab6c092cbe591,",
       "contextual.achivments.first-block.border.primary": "S:a200d35516d963dc1eae7bd769a2e3fd14c2e4df,",
       "contextual.achivments.first-block.border.secondary": "S:c5ca9c0182063ab8321270f624bc20c2afaa0ea2,",
-      "shadow.icon-graphic-bonus": "S:06187a3d26057ce0466e733ace3112eafef367a1,"
+      "shadow.icon-graphic-bonus": "S:06187a3d26057ce0466e733ace3112eafef367a1,",
+      "contextual.wheel.glow.up": "S:b6ff4b9000d7a883a4d58bd66f9f6fd759f715e4,",
+      "contextual.wheel.glow.down": "S:0127e5923f2eeb6bc46d21154f9ad4ba7d203443,",
+      "core.brand-30.500a0": "S:7ae42a903a2c0bf7751fe2163eb0ee68ac93a03b,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

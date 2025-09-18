@@ -2436,6 +2436,16 @@
           }
         }
       },
+      "glow": {
+        "up": {
+          "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.500a0} 60%)",
+          "type": "color"
+        },
+        "down": {
+          "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.500a0} 81%)",
+          "type": "color"
+        }
+      },
       "bg": {
         "value": "{core.brand-30.900}",
         "type": "color"

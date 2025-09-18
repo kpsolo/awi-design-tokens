@@ -6832,7 +6832,19 @@
       "core.validation.success.a5": "S:2671e882e639512508ae9be7470295015acf85fd,",
       "core.validation.warning.a5": "S:3c02492921ccd595fec793767ecb0036ff83951c,",
       "core.validation.warning.a20": "S:f68053c65b9176159c7a9ac96c2cdb1b12fcc475,",
-      "contextual.achivments.offers-block.fill": "S:dbdef0c329f2aac92d18fc889a9d5c287fc4ce65,"
+      "contextual.achivments.offers-block.fill": "S:dbdef0c329f2aac92d18fc889a9d5c287fc4ce65,",
+      "contextual.icon-graphic.welcome-bonus.fill.active": "S:ab1ed3fad79382e78073167a3eacc61665af0d58,",
+      "contextual.icon-graphic.welcome-bonus.fill.active2": "S:cff19232378824b4452b20f638d1d31d05f9ad83,",
+      "contextual.icon-graphic.welcome-bonus.fill.inactive": "S:fe853ab04694aa33e83d9221ba1fded886ca5388,",
+      "contextual.icon-graphic.welcome-bonus.fill.inactive2": "S:304d064fa0cfbc72a29dec76217711a2c61a2cf6,",
+      "contextual.icon-graphic.welcome-bonus.icon-text": "S:3825ce0d718ef92779d3c9f7297d20556e50c449,",
+      "contextual.icon-graphic.welcome-bonus.glow": "S:5b624069e78383b8ed59bfb5dbab8982afeb035f,",
+      "contextual.icon-graphic.welcome-bonus.glow2": "S:60442373df2dd4685fc6fdf2664104f159314ade,",
+      "contextual.achivments.first-block.fill.primary": "S:25b3450f58bd476552ddb43ccd86b5ab81ee84bd,",
+      "contextual.achivments.first-block.fill.secondary": "S:7202f5d942d9dab74aedaee9509ab6c092cbe591,",
+      "contextual.achivments.first-block.border.primary": "S:a200d35516d963dc1eae7bd769a2e3fd14c2e4df,",
+      "contextual.achivments.first-block.border.secondary": "S:c5ca9c0182063ab8321270f624bc20c2afaa0ea2,",
+      "shadow.icon-graphic-bonus": "S:06187a3d26057ce0466e733ace3112eafef367a1,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

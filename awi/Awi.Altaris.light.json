@@ -2926,6 +2926,28 @@
           "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
           "type": "color"
         }
+      },
+      "first-block": {
+        "fill": {
+          "primary": {
+            "value": "{core.brand-30.a10}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.white.a80}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "primary": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-60.a20}",
+            "type": "color"
+          }
+        }
       }
     },
     "mobile-application": {

@@ -6197,6 +6197,12 @@
           "value": "{core.brand-60.800}",
           "type": "color"
         }
+      },
+      "cost-indicator": {
+        "text": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },

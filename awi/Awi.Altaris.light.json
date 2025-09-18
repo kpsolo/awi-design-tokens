@@ -4536,16 +4536,16 @@
     "deals": {
       "progress": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "step": {
-          "value": "linear-gradient(90deg, {core.brand-30.50} 0%, {core.brand-30.100} 100%)",
+          "value": "linear-gradient(90deg, {core.brand-30.100} 0%, {core.brand-30.100} 100%)",
           "type": "color"
         },
         "border": {
           "fill": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a5}",
             "type": "color"
           }
         }
@@ -6029,6 +6029,12 @@
       "banner": {
         "fill": {
           "value": "{core.brand-60.800}",
+          "type": "color"
+        }
+      },
+      "cost-indicator": {
+        "text": {
+          "value": "{core.brand-10.600}",
           "type": "color"
         }
       }

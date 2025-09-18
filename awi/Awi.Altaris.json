@@ -2942,21 +2942,21 @@
       "first-block": {
         "fill": {
           "primary": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         },
         "border": {
           "primary": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         }

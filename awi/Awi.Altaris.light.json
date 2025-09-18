@@ -3435,7 +3435,7 @@
           "type": "color"
         },
         "overlay": {
-          "value": "linear-gradient(180deg, {core.brand-60.a0} 0%, {core.brand-60.800} 100%)",
+          "value": "linear-gradient(180deg, {core.brand-60.100a0} 0%, {core.brand-60.100} 100%)",
           "type": "color"
         },
         "text": {
@@ -5480,7 +5480,7 @@
       },
       "validation": {
         "danger": {
-          "value": "{semantic.text.danger.static}",
+          "value": "{semantic.text.danger.default}",
           "type": "color"
         },
         "success": {

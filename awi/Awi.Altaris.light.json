@@ -7719,7 +7719,7 @@
       },
       "danger": {
         "default": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.validation.danger.600}",
           "type": "color"
         },
         "static": {

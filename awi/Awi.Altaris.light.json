@@ -3440,11 +3440,11 @@
         },
         "text": {
           "primary": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "secondary": {

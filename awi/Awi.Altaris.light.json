@@ -3427,11 +3427,11 @@
     "cashbox": {
       "bonus": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "linear-gradient(0deg, {core.brand-60.a50} 0%, {core.brand-60.a10} 100%)",
           "type": "color"
         },
         "elipse": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.brand-60.a25}",
           "type": "color"
         },
         "overlay": {
@@ -4663,7 +4663,7 @@
       "number-cell": {
         "fill": {
           "light": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "popup": {
@@ -4674,7 +4674,7 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "popup": {

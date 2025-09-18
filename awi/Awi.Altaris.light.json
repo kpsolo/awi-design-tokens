@@ -1656,7 +1656,7 @@
           "y": "1px",
           "blur": "0px",
           "spread": "0px",
-          "color": "{core.white.a50}",
+          "color": "{core.white.a0}",
           "type": "innerShadow"
         }
       ],
@@ -3759,21 +3759,21 @@
       "chips": {
         "fill": {
           "active": {
-            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.200} 100%)",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.a5}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         },
         "text": {
           "active": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         }
@@ -3781,21 +3781,21 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{core.grey.100}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.200} 100%)",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },
         "content": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.900}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           }
         },
@@ -3813,11 +3813,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.grey.100}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.a5}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }

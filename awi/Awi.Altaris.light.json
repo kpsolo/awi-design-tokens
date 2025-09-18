@@ -6229,11 +6229,11 @@
       "progress": {
         "fill": {
           "active": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           },
           "inactive": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           }
         }

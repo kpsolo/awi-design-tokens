@@ -6870,7 +6870,9 @@
       "contextual.strip.girl.bottom.elipse-1": "S:e1954b79b1914cf68a8b02fa403650559a834675,",
       "contextual.strip.girl.bottom.elipse-2": "S:55e640f90c617e863a1efb18a32a617d624eb3fd,",
       "contextual.strip.girl.bottom.elipse-3": "S:9f6e787280b8056b5226c3b3fcd31adcfca94042,",
-      "contextual.shop.cost-indicator.text": "S:f97cf5f3bdc322ab29e036f27ef69e9975f2d0a2,"
+      "contextual.shop.cost-indicator.text": "S:f97cf5f3bdc322ab29e036f27ef69e9975f2d0a2,",
+      "contextual.content.desktop.fill": "S:86428bd2feb0ad1324c7b4f3b2ca7d1c1e1ca97e,",
+      "shadow.content.desktop": "S:ca9e7de066137f7c314b391a61fd02ce9cad72c8,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

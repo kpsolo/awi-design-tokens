@@ -2180,6 +2180,22 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
+    },
+    "content": {
+      "desktop": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
+            "spread": "0",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "contextual.tabs.lottery-tournament.item"
+      }
     }
   },
   "contextual": {

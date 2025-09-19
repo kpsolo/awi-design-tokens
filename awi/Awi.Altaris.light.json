@@ -1021,7 +1021,7 @@
         "y": "{depth.0}",
         "blur": "{blur.100}",
         "spread": "{depth.0}",
-        "color": "{contextual.icon-graphic.glow}",
+        "color": "{core.brand-30.500}",
         "type": "innerShadow"
       },
       "type": "boxShadow"

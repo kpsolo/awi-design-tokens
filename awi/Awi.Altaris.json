@@ -6242,6 +6242,14 @@
           "type": "color"
         }
       }
+    },
+    "content": {
+      "desktop": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

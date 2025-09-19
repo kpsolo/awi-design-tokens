@@ -3369,23 +3369,23 @@
       },
       "girl": {
         "light": {
-          "value": "{core.brand-10.a25}",
+          "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.white.a0} 100%)",
           "type": "color",
           "description": "Lootboxes"
         },
         "bottom": {
           "elipse-1": {
-            "value": "{core.brand-10.a25}",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a50} 0%, {core.brand-10.a5} 100%)",
             "type": "color",
             "description": "Lootboxes"
           },
           "elipse-2": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.brand-10.a50}",
             "type": "color",
             "description": "Lootboxes"
           },
           "elipse-3": {
-            "value": "{core.brand-10.a25}",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a50} 0%, {core.brand-10.a5} 100%)",
             "type": "color",
             "description": "Lootboxes"
           }
@@ -3844,6 +3844,14 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        }
+      }
+    },
+    "content": {
+      "desktop": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
         }
       }
     },

@@ -6863,7 +6863,14 @@
       "core.brand-30.500a0": "S:7ae42a903a2c0bf7751fe2163eb0ee68ac93a03b,",
       "core.brand-60.100a0": "S:c23c01dcfe6f598bea7f4d89f70821bde0b2cac8,",
       "contextual.cashbox.support-block.fill": "S:fc131d19aaefdf4e6365b3bb8b9806f7f19b5cad,",
-      "contextual.cashbox.support-block.border": "S:6e6d06425a56df1a0f5cada3fa67d20873cac567,"
+      "contextual.cashbox.support-block.border": "S:6e6d06425a56df1a0f5cada3fa67d20873cac567,",
+      "contextual.welcome-bonus.progress.fill.active": "S:91d338df835f09593eb3b23594c45a72eda7b11f,",
+      "contextual.welcome-bonus.progress.fill.inactive": "S:38fd1c17409ba046c7976295a8e2e060ad84ef16,",
+      "contextual.strip.girl.light": "S:f6845f0e92732f82ac58ea1e74e5f58583267ed0,",
+      "contextual.strip.girl.bottom.elipse-1": "S:e1954b79b1914cf68a8b02fa403650559a834675,",
+      "contextual.strip.girl.bottom.elipse-2": "S:55e640f90c617e863a1efb18a32a617d624eb3fd,",
+      "contextual.strip.girl.bottom.elipse-3": "S:9f6e787280b8056b5226c3b3fcd31adcfca94042,",
+      "contextual.shop.cost-indicator.text": "S:f97cf5f3bdc322ab29e036f27ef69e9975f2d0a2,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

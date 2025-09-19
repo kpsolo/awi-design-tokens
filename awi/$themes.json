@@ -6872,7 +6872,11 @@
       "contextual.strip.girl.bottom.elipse-3": "S:9f6e787280b8056b5226c3b3fcd31adcfca94042,",
       "contextual.shop.cost-indicator.text": "S:f97cf5f3bdc322ab29e036f27ef69e9975f2d0a2,",
       "contextual.content.desktop.fill": "S:86428bd2feb0ad1324c7b4f3b2ca7d1c1e1ca97e,",
-      "shadow.content.desktop": "S:ca9e7de066137f7c314b391a61fd02ce9cad72c8,"
+      "shadow.content.desktop": "S:ca9e7de066137f7c314b391a61fd02ce9cad72c8,",
+      "contextual.icon-graphic.slate-1.fill.default": "S:1534f48cd4e0391ec48a43d5908bd1e9b19e997d,",
+      "contextual.icon-graphic.slate-1.fill.hover": "S:19ee8819629ba6601b0de30f836782264c1306d5,",
+      "shadow.icon-graphic.slate-1.default": "S:d29c0c8b3caa2318ce3a51d86a78b13e10802447,",
+      "shadow.icon-graphic.slate-1.hover": "S:b3cb3d95723b784a233206fb5117032d32cab66c,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

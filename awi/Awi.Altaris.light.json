@@ -1016,26 +1016,30 @@
       }
     },
     "icon-graphic": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{blur.100}",
-        "spread": "{depth.0}",
-        "color": "{core.brand-30.500}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
-    },
-    "icon-graphic2": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{blur.100}",
-        "spread": "{depth.0}",
-        "color": "{core.brand-30.600}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
+      "slate-1": {
+        "default": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.500}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.400}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
     },
     "selection-controls": {
       "controls": {
@@ -2180,7 +2184,7 @@
         "y": "{depth.0}",
         "blur": "{blur.100}",
         "spread": "{depth.0}",
-        "color": "{contextual.icon-graphic.welcome-bonus.glow2}",
+        "color": "{core.brand-30.200}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
@@ -2651,24 +2655,20 @@
       }
     },
     "icon-graphic": {
-      "fill": {
-        "value": "{core.brand-30.50}",
-        "type": "color"
+      "slate-1": {
+        "fill": {
+          "default": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
       },
       "icon-text": {
         "value": "{semantic.text.default.primary}",
-        "type": "color"
-      },
-      "fill2": {
-        "value": "{core.white.a30}",
-        "type": "color"
-      },
-      "glow": {
-        "value": "{core.brand-30.500}",
-        "type": "color"
-      },
-      "glow2": {
-        "value": "{core.brand-30.200}",
         "type": "color"
       },
       "welcome-bonus": {

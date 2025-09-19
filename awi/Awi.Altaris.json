@@ -1016,15 +1016,30 @@
       }
     },
     "icon-graphic": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{blur.100}",
-        "spread": "{depth.0}",
-        "color": "{contextual.icon-graphic.glow}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
+      "slate-1": {
+        "default": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.200}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
     },
     "icon-graphic-bonus": {
       "value": {
@@ -1033,17 +1048,6 @@
         "blur": "{blur.100}",
         "spread": "{depth.0}",
         "color": "{core.white.a30}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
-    },
-    "icon-graphic2": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{blur.100}",
-        "spread": "{depth.0}",
-        "color": "{contextual.icon-graphic.glow2}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
@@ -2677,21 +2681,17 @@
       }
     },
     "icon-graphic": {
-      "fill": {
-        "value": "{core.white.a100}",
-        "type": "color"
-      },
-      "fill2": {
-        "value": "{core.white.a30}",
-        "type": "color"
-      },
-      "glow": {
-        "value": "{core.brand-30.200}",
-        "type": "color"
-      },
-      "glow2": {
-        "value": "{core.brand-30.50}",
-        "type": "color"
+      "slate-1": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a30}",
+            "type": "color"
+          }
+        }
       },
       "icon-text": {
         "value": "{semantic.icon.static.primary}",

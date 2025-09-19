@@ -3385,7 +3385,7 @@
       },
       "girl": {
         "light": {
-          "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.white.a0} 100%)",
+          "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a50} 0%, {core.brand-10.a5} 100%)",
           "type": "color",
           "description": "Lootboxes"
         },

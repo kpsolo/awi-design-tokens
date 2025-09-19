@@ -2676,11 +2676,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         }

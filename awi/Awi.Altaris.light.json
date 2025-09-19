@@ -1032,7 +1032,7 @@
         "y": "{depth.0}",
         "blur": "{blur.100}",
         "spread": "{depth.0}",
-        "color": "{contextual.icon-graphic.glow2}",
+        "color": "{core.brand-30.600}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
@@ -2652,7 +2652,7 @@
         "type": "color"
       },
       "glow2": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-30.200}",
         "type": "color"
       },
       "welcome-bonus": {
@@ -2662,7 +2662,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{core.brand-60.200}",
+            "value": "{core.brand-30.200}",
             "type": "color"
           },
           "active2": {
@@ -2679,11 +2679,11 @@
           "type": "color"
         },
         "glow": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-30.700}",
           "type": "color"
         },
         "glow2": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-30.900}",
           "type": "color"
         }
       }
@@ -3490,7 +3490,7 @@
     },
     "stepper": {
       "fill": {
-        "value": "{core.brand-60.a40}",
+        "value": "{core.white.a30}",
         "type": "color"
       },
       "step": {
@@ -4626,7 +4626,7 @@
         "widget": {
           "text": {
             "accent": {
-              "value": "{semantic.text.static.accent}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -6229,7 +6229,7 @@
       "progress": {
         "fill": {
           "active": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "inactive": {

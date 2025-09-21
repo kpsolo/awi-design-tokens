@@ -1047,6 +1047,56 @@
           },
           "type": "boxShadow"
         }
+      },
+      "welcome-bonus": {
+        "slate-1": {
+          "active": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-10.400}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          },
+          "inactive": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.grey.a15}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "slate-2": {
+          "active": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-30.400}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          },
+          "inactive": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.grey.100}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
       }
     },
     "selection-controls": {
@@ -2185,17 +2235,6 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
-    },
-    "icon-graphic-bonus": {
-      "value": {
-        "x": "{depth.0}",
-        "y": "{depth.0}",
-        "blur": "{blur.100}",
-        "spread": "{depth.0}",
-        "color": "{core.brand-30.200}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -2690,35 +2729,33 @@
         "type": "color"
       },
       "welcome-bonus": {
-        "fill": {
-          "active": {
-            "value": "{core.brand-30.50}",
-            "type": "color"
-          },
-          "inactive": {
-            "value": "{core.grey.200}",
-            "type": "color"
-          },
-          "active2": {
-            "value": "{core.brand-60.200}",
-            "type": "color"
-          },
-          "inactive2": {
-            "value": "{core.white.a1}",
-            "type": "color"
+        "slate1": {
+          "fill": {
+            "active": {
+              "value": "{core.brand-10.400}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{core.grey.200}",
+              "type": "color"
+            }
           }
         },
         "icon-text": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
-        "glow": {
-          "value": "{core.brand-30.700}",
-          "type": "color"
-        },
-        "glow2": {
-          "value": "{core.brand-30.900}",
-          "type": "color"
+        "slate2": {
+          "fill": {
+            "active": {
+              "value": "{core.brand-10.a10}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{core.grey.a15}",
+              "type": "color"
+            }
+          }
         }
       },
       "slate-2": {

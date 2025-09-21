@@ -4782,6 +4782,10 @@
             "type": "color"
           }
         }
+      },
+      "background": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     },
     "timer": {

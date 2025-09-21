@@ -4700,7 +4700,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.a8}",
             "type": "color"
           }
         },
@@ -7986,7 +7986,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)",
+          "value": "linear-gradient(113deg, {core.brand-30.600} 0%, {core.brand-30.500} 48.56%, {core.brand-30.100} 100%)",
           "type": "color"
         }
       },

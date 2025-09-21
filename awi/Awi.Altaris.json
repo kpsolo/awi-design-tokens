@@ -2499,6 +2499,10 @@
             "type": "color"
           }
         }
+      },
+      "background": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "wheel": {

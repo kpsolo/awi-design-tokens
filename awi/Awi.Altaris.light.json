@@ -6320,7 +6320,7 @@
       "progress": {
         "fill": {
           "active": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "inactive": {
@@ -6328,6 +6328,10 @@
             "type": "color"
           }
         }
+      },
+      "background": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     }
   },

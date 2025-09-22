@@ -3355,14 +3355,14 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-60.700}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.brand-30.a20}",
+              "value": "{core.brand-60.a40}",
               "type": "color",
               "description": "Lootboxes"
             },

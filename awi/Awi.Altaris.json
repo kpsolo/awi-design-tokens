@@ -2780,11 +2780,11 @@
       "slate-1": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a30}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

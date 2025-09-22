@@ -1570,7 +1570,7 @@
               "y": "0",
               "blur": "9px",
               "spread": "0",
-              "color": "{core.brand-30.a20}",
+              "color": "{core.brand-10.a10}",
               "type": "innerShadow"
             },
             {
@@ -1578,7 +1578,7 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "{core.brand-30.a10}",
+              "color": "{core.brand-10.a10}",
               "type": "innerShadow"
             },
             {
@@ -1586,7 +1586,7 @@
               "y": "0",
               "blur": "16px",
               "spread": "0",
-              "color": "{core.brand-30.a20}",
+              "color": "{core.brand-10.a10}",
               "type": "dropShadow"
             }
           ],
@@ -3507,9 +3507,38 @@
       },
       "card": {
         "border": {
-          "value": "{core.brand-30.a15}",
+          "value": "{core.brand-60.a15}",
           "type": "color",
           "description": "Lootboxes"
+        },
+        "status": {
+          "value": "{core.brand-60.50a25}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a5}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.white.a5}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "stroke": {
+          "default": {
+            "value": "{core.brand-60.a15}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.brand-10.a10}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
         }
       },
       "steps": {
@@ -4278,7 +4307,7 @@
       },
       "left-panel": {
         "fill": {
-          "value": "{core.grey.50}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "border": {

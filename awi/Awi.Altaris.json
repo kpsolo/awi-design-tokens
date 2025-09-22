@@ -3537,6 +3537,35 @@
           "value": "{core.brand-30.a15}",
           "type": "color",
           "description": "Lootboxes"
+        },
+        "fill": {
+          "default": {
+            "value": "{contextual.achivments.card.slate-on-card}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{contextual.achivments.card.slate-on-card}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "stroke": {
+          "default": {
+            "value": "{core.brand-60.a15}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "hover": {
+            "value": "{core.brand-60.a15}",
+            "type": "color",
+            "description": "Lootboxes"
+          }
+        },
+        "status": {
+          "value": "{contextual.achivments.card.slate-on-card}",
+          "type": "color",
+          "description": "Lootboxes"
         }
       },
       "steps": {

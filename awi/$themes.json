@@ -6926,7 +6926,11 @@
       "shadow.icon-graphic.welcome-bonus.slate-1.active": "S:95d0c961da12f8e70cca5dd053c755c9b29bc694,",
       "shadow.icon-graphic.welcome-bonus.slate-1.inactive": "S:4a922c6e513335c100a7c7587a52b51ed244537a,",
       "shadow.icon-graphic.welcome-bonus.slate-2.active": "S:f87b20296bfbf81f4ba0007839280c0c1960330a,",
-      "shadow.icon-graphic.welcome-bonus.slate-2.inactive": "S:35964ee558c57457fc550d6f18c244b5bab109c9,"
+      "shadow.icon-graphic.welcome-bonus.slate-2.inactive": "S:35964ee558c57457fc550d6f18c244b5bab109c9,",
+      "contextual.strip.card.fill.default": "S:2b89c79e9c61a3c47f4dfe71faf1b9b5d9bec0aa,",
+      "contextual.strip.card.fill.hover": "S:463845b8492334ed21335db88456870964665506,",
+      "contextual.strip.card.stroke.default": "S:8e15ae72f131829f91a3b6f2d9e875e13ae62bd5,",
+      "contextual.strip.card.stroke.hover": "S:9752e6da06343274f92c4cee02f4a3291ac81589,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

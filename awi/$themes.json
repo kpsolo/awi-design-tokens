@@ -5389,7 +5389,12 @@
       "shadow.icon-graphic.welcome-bonus-copy.slate-1.active": "S:e919feaa58fb1e3fa681300f18735454150d629c,",
       "shadow.icon-graphic.welcome-bonus-copy.slate-1.inactive": "S:bbc1fd8cc703128464aafd59530126be8a408428,",
       "shadow.icon-graphic.welcome-bonus-copy.slate-2.active": "S:b6e0360276d991f6d4ddb18c1aa37ca5961b73a3,",
-      "shadow.icon-graphic.welcome-bonus-copy.slate-2.inactive": "S:7c9632244a29589f613f74abdd438f0e02d21c20,"
+      "shadow.icon-graphic.welcome-bonus-copy.slate-2.inactive": "S:7c9632244a29589f613f74abdd438f0e02d21c20,",
+      "contextual.strip.card.status": "S:02341f77a19562bed64658b4dddea2f7dbc971bf,",
+      "contextual.strip.card.fill.default": "S:f24639727ce29bf439b5896929c2d1c7ba1d1490,",
+      "contextual.strip.card.fill.hover": "S:c2e2c62f4c3cb5b62d4951c724b023f9d74b5776,",
+      "contextual.strip.card.stroke.default": "S:ee363c641348f71d9beba9959a70c0b394f18f59,",
+      "contextual.strip.card.stroke.hover": "S:50a338cd4df5f98383f996803d98eab6d0998960,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

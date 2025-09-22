@@ -3552,12 +3552,12 @@
         },
         "stroke": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-30.a15}",
             "type": "color",
             "description": "Lootboxes"
           },
           "hover": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-30.a15}",
             "type": "color",
             "description": "Lootboxes"
           }

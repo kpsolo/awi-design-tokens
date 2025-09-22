@@ -2797,7 +2797,7 @@
         "description": "+gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a30} 0%, {core.brand-60.a0} 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a10} 0%, {core.brand-60.a0} 100%)",
         "type": "color",
         "description": "gradients.Radial"
       }

@@ -1107,6 +1107,30 @@
             "type": "boxShadow"
           }
         }
+      },
+      "slate-2": {
+        "default": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-30.50}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "icon-graphic-bonus": {

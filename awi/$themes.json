@@ -6897,7 +6897,19 @@
       "contextual.icon-graphic.slate-2.fill.default": "S:6b1112be917f743529d513624610452f5c7b6a6c,",
       "contextual.icon-graphic.slate-2.fill.hover": "S:a3775e68ccdb18b74c027d122a234fa7d7e8e6f7,",
       "contextual.icon-graphic.slate-1.border.default": "S:a7fc73c1344dd9b8045cc7c7069583fcba60c320,",
-      "contextual.icon-graphic.slate-1.border.hover": "S:d0a35cbad94107e6bf68c01a04362b24fbb345fb,"
+      "contextual.icon-graphic.slate-1.border.hover": "S:d0a35cbad94107e6bf68c01a04362b24fbb345fb,",
+      "contextual.welcome-bonus.background": "S:84c6b47644c71b8f2985912c9e9c19d148caf4d4,",
+      "contextual.icon-graphic.welcome-bonus.slate1.fill.active": "S:4ed71ec4e54a6fc803549bbd4219047bd82dbd5c,",
+      "contextual.icon-graphic.welcome-bonus.slate1.fill.inactive": "S:dd15b9cab85886a7e2620763754f6ab4de05fadd,",
+      "contextual.icon-graphic.welcome-bonus.slate2.fill.active": "S:69c1fb473bf3a14691c5f268aa2227a37ec6a387,",
+      "contextual.icon-graphic.welcome-bonus.slate2.fill.inactive": "S:3fa20ab6e9bd3f98306f7b86dfa1314a61711757,",
+      "contextual.deals.background": "S:bb4c16e993ddc710df3b21c414715ce63ff37b24,",
+      "shadow.icon-graphic.slate-2.default": "S:e2470ef355f0717c93225982af9cf83510eea63d,",
+      "shadow.icon-graphic.slate-2.hover": "S:0212ec390cbb9b2c09b3797aeb40f3be7e45e74a,",
+      "shadow.icon-graphic.welcome-bonus.slate-1.active": "S:95d0c961da12f8e70cca5dd053c755c9b29bc694,",
+      "shadow.icon-graphic.welcome-bonus.slate-1.inactive": "S:4a922c6e513335c100a7c7587a52b51ed244537a,",
+      "shadow.icon-graphic.welcome-bonus.slate-2.active": "S:f87b20296bfbf81f4ba0007839280c0c1960330a,",
+      "shadow.icon-graphic.welcome-bonus.slate-2.inactive": "S:35964ee558c57457fc550d6f18c244b5bab109c9,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

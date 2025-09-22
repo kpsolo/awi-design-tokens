@@ -1042,7 +1042,7 @@
             "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-30.50}",
+            "color": "{core.brand-30.200}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -2806,11 +2806,11 @@
       "slate-2": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           }
         }

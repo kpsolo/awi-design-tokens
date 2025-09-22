@@ -5394,7 +5394,8 @@
       "contextual.strip.card.fill.default": "S:f24639727ce29bf439b5896929c2d1c7ba1d1490,",
       "contextual.strip.card.fill.hover": "S:c2e2c62f4c3cb5b62d4951c724b023f9d74b5776,",
       "contextual.strip.card.stroke.default": "S:ee363c641348f71d9beba9959a70c0b394f18f59,",
-      "contextual.strip.card.stroke.hover": "S:50a338cd4df5f98383f996803d98eab6d0998960,"
+      "contextual.strip.card.stroke.hover": "S:50a338cd4df5f98383f996803d98eab6d0998960,",
+      "contextual.content.fill": "S:3955e7435ea3688a70b57a1f3b214b30ed915671,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

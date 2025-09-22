@@ -6409,11 +6409,9 @@
       }
     },
     "content": {
-      "desktop": {
-        "fill": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
+      "fill": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     }
   },

@@ -2829,7 +2829,7 @@
         "description": "menu"
       },
       "6": {
-        "value": "{core.grey.900}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "slate-1": {

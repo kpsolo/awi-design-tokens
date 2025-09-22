@@ -3953,6 +3953,10 @@
         "small": {
           "value": "{semantic.icon.default.primary}",
           "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-60.500a12}",
+          "type": "color"
         }
       }
     },

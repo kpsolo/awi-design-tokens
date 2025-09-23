@@ -2398,31 +2398,13 @@
         "description": "Primary.amber 500, Primary.amber 700"
       },
       "600": {
-        "value": "{core.brand-preset.primary}",
+        "value": "#9DD501",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.15",
-              "space": "lch"
-            }
-          }
-        },
         "description": "Primary.amber 600"
       },
       "700": {
-        "value": "{core.brand-preset.primary}",
+        "value": "#539401",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.5",
-              "space": "lch"
-            }
-          }
-        },
         "description": "Primary.Amber 800"
       },
       "800": {

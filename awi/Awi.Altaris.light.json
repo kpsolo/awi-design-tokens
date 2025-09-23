@@ -3796,7 +3796,7 @@
       },
       "pop-up": {
         "background": {
-          "value": "{core.brand-10.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },
@@ -3809,7 +3809,7 @@
         },
         "active": {
           "fill": {
-            "value": "{core.grey.800}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }
@@ -3817,7 +3817,7 @@
       "level": {
         "text": {
           "accent": {
-            "value": "{core.validation.danger.500}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }
@@ -3839,7 +3839,7 @@
             }
           },
           "not-filled": {
-            "value": "{core.white.a25}",
+            "value": "{core.brand-60.a20}",
             "type": "color"
           }
         }

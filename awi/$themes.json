@@ -6940,9 +6940,9 @@
       "contextual.strip.card.status": "S:5def8d906bce4effdccc1a32cebfcca9e7a12a29,",
       "contextual.content.fill": "S:99631d20a38526d1d015b2b95f8681c15941c4d3,",
       "contextual.bullet.fill.active": "S:b199d52d963ae16a1509896e74105bfbc81c2620,",
-      "contextual.lootboxes.price.text": "S:f3c7360c86804ce29d29ae656706b3d3f5b17e05,",
-      "contextual.deals.bonus-card.border.active": "S:979f3136735fdbb2ffc36de8f8a1a181ba8c7369,",
-      "contextual.deals.bonus-card.border.default": "S:e79957b497248b2086a16604ec81ef099f9eab29,"
+      "contextual.lootboxes.price.text": "S:99653dfcb340f8a61e3a2f31b5027b8f94b7ff93,",
+      "contextual.deals.bonus-card.border.active": "S:69ed32964458a025f5b50e3f780d1cd598c8e56a,",
+      "contextual.deals.bonus-card.border.default": "S:e55284a4cb1b9d6f3567457614c4bd2ca8e5e528,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

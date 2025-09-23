@@ -3453,6 +3453,13 @@
           "description": "Lootboxes"
         }
       },
+      "price": {
+        "text": {
+          "value": "{core.brand-10.600}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      },
       "block": {
         "line": {
           "value": "linear-gradient(92deg, {core.brand-30.200} 4%, {core.brand-30.700a0} 97%)",

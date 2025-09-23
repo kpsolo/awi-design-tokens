@@ -3510,6 +3510,13 @@
           "type": "color",
           "description": "Lootboxes"
         }
+      },
+      "price": {
+        "text": {
+          "value": "{core.brand-10.600}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     },
     "strip": {

@@ -3900,7 +3900,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-60.500a12}",
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
           "type": "color"
         },
         "small": {

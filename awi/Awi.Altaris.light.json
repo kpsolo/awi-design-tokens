@@ -3275,7 +3275,7 @@
           },
           "border": {
             "normal": {
-              "value": "{core.brand-60.a40}",
+              "value": "{core.grey.a20}",
               "type": "color",
               "description": "Lootboxes"
             },

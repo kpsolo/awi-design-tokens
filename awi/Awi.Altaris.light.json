@@ -4717,7 +4717,7 @@
           "type": "color"
         },
         "step": {
-          "value": "linear-gradient(90deg, {core.brand-30.100} 0%, {core.brand-30.100} 100%)",
+          "value": "linear-gradient(90deg, {core.brand-30.400} 0%, {core.brand-30.500} 100%)",
           "type": "color"
         },
         "border": {

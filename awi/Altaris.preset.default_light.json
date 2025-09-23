@@ -2680,17 +2680,17 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#9DD501",
+        "value": "#FA1D1D",
         "type": "color"
       },
       "secondary": {
-        "value": "#F07504",
+        "value": "#FFAA00",
         "type": "color"
       },
       "tertiary": {
-        "value": "#6E6C7B",
+        "value": "#5A5A91",
         "type": "color",
-        "description": "tertiary"
+        "description": "tertiary.    "
       },
       "white": {
         "value": "#FFFFFF",
@@ -2703,16 +2703,19 @@
       },
       "validation": {
         "danger": {
-          "value": "#FF3E33",
-          "type": "color"
+          "value": "#FA1D1D",
+          "type": "color",
+          "description": ".  "
         },
         "success": {
-          "value": "#43AD5E",
-          "type": "color"
+          "value": "#13BE66",
+          "type": "color",
+          "description": ".   "
         },
         "warning": {
-          "value": "#FFA800",
-          "type": "color"
+          "value": "#FFAA00",
+          "type": "color",
+          "description": ".    "
         },
         "info": {
           "value": "#0F87E7",

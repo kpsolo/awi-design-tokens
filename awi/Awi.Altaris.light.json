@@ -4848,6 +4848,18 @@
       "background": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "bonus-card": {
+        "border": {
+          "active": {
+            "value": "{semantic.border.active.element}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.a8}",
+            "type": "color"
+          }
+        }
       }
     },
     "timer": {

@@ -7184,5 +7184,14 @@
       "border-radius.wheel.block": "2aed90deb9ef0aecc4eda521a60024c42b453e0f",
       "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
     }
+  },
+  {
+    "id": "c5961ee3862628a78e1a3db69b66797ac5498b0d",
+    "name": "Altaris.preset.light-green",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris.light": "enabled",
+      "Altaris.preset.green_light": "enabled"
+    }
   }
 ]

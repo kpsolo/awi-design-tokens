@@ -6942,7 +6942,20 @@
       "contextual.bullet.fill.active": "S:b199d52d963ae16a1509896e74105bfbc81c2620,",
       "contextual.lootboxes.price.text": "S:4b89c578719af019626b9820cb29c3235895fb4a,",
       "contextual.deals.bonus-card.border.active": "S:b4fb7f5a7e56109cd680aaa4fb292992520ec0ec,",
-      "contextual.deals.bonus-card.border.default": "S:1cfd2abe629ee0d58652272d74b51bc416da66a0,"
+      "contextual.deals.bonus-card.border.default": "S:1cfd2abe629ee0d58652272d74b51bc416da66a0,",
+      "contextual.lottery-tournament.zero-block.border": "S:2fd6704690120b1ea4c924ac1b2fc5cc024adb32,",
+      "contextual.shop.card.border.active": "S:09930e2b0f705522ca72f506f79478a8641a1e75,",
+      "contextual.shop.card.border.default": "S:f7d20efc34ad38d0ee720bb9feef98c01cd4ed2d,",
+      "contextual.contextual.error-pages.slate.border": "S:bc3050201311115e6c2a145c26a53848f20c298f,",
+      "contextual.contextual.error-pages.slate.fill": "S:7409598dbdcd3db60e4ebd4cb0bf5807026157ce,",
+      "contextual.homepage.sport.item.icon.bg": "S:a18f4e55e55375035b353e83e1340782b1b036e7,",
+      "contextual.homepage.sport.item.icon.stroke.1": "S:862a862f9bcf5cbad1bbe7fd37a2d18ff6dbe277,",
+      "contextual.homepage.sport.item.icon.stroke.2": "S:2240a47f5f325f14f3bab9717d62396ec911b90d,",
+      "contextual.homepage.sport.item.icon.stroke.3": "S:f94d67c67385cf8fe02befb6b10b1323bcbb1a21,",
+      "contextual.homepage.sport.item.icon.stroke.4": "S:7cce46f2961870f671b45bd86ad99816472f8acb,",
+      "contextual.homepage.sport.item.icon.stroke.5": "S:940dad929dcef58ecf57d533875473486fce8e43,",
+      "contextual.homepage.sport.item.icon.bg-2": "S:ac8aca4ad3834d1b027b0b1a4dc12f1a64653d68,",
+      "shadow.homepage.sport.icon": "S:4203126411301cc3713dd1672b53b0c38999d933,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

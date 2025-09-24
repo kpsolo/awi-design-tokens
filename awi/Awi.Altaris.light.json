@@ -1552,6 +1552,35 @@
             "type": "dropShadow"
           },
           "type": "boxShadow"
+        },
+        "icon": {
+          "value": [
+            {
+              "x": "-0.08",
+              "y": "0.16",
+              "blur": "0.08",
+              "spread": "0px",
+              "color": "{core.white.a50}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1.2",
+              "blur": "1.56",
+              "spread": "0",
+              "color": "{core.brand-10.500}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0.78",
+              "blur": "0.6",
+              "spread": "0",
+              "color": "{core.grey.a70}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       }
     },

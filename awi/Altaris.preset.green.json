@@ -699,6 +699,19 @@
       "a45": {
         "value": "rgba(135,171,152,0.45)",
         "type": "color"
+      },
+      "300a0": {
+        "value": "{core.brand-10.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-preset": {

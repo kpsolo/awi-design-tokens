@@ -6373,6 +6373,20 @@
         "type": "color"
       }
     },
+    "contextual": {
+      "error-pages": {
+        "slate": {
+          "border": {
+            "value": "{core.grey.a8}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{semantic.background.slate-on-card}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "onboarding": {
       "progress-button": {
         "progress": {

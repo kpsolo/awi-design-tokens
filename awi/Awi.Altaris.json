@@ -6453,6 +6453,20 @@
         "value": "{core.white.a0}",
         "type": "color"
       }
+    },
+    "contextual": {
+      "error-pages": {
+        "slate": {
+          "border": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {

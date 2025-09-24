@@ -469,7 +469,7 @@
       "s": {
         "value": {
           "fontFamily": "{accent}",
-          "fontWeight": "{Expanded}",
+          "fontWeight": "{Medium}",
           "fontSize": "56px",
           "lineHeight": "56px",
           "letterSpacing": "{letter-spacing.2}",
@@ -480,7 +480,7 @@
       "l": {
         "value": {
           "fontFamily": "{accent}",
-          "fontWeight": "{Expanded}",
+          "fontWeight": "{Medium}",
           "fontSize": "130px",
           "lineHeight": "130px",
           "letterSpacing": "{letter-spacing.2}",

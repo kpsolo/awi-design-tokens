@@ -6348,7 +6348,7 @@
     },
     "error-pages": {
       "background-gradient-top": {
-        "value": "linear-gradient(180deg, {core.brand-30.600a25} 0%, {core.grey.a20} 46%)",
+        "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a0} 46%)",
         "type": "color"
       },
       "background-gradient-bottom": {

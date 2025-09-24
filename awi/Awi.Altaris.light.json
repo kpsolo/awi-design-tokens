@@ -5103,6 +5103,38 @@
           "fill": {
             "value": "linear-gradient(0deg, {core.brand-60.700a0} 22%, {core.brand-60.800a80} 72%, {core.brand-60.800a90} 100%)",
             "type": "color"
+          },
+          "icon": {
+            "bg": {
+              "value": "{core.brand-10.800}",
+              "type": "color"
+            },
+            "bg-2": {
+              "value": "{core.brand-10.a25}",
+              "type": "color"
+            },
+            "stroke": {
+              "1": {
+                "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-10.500} 56%, {core.brand-10.100} 100%)",
+                "type": "color"
+              },
+              "2": {
+                "value": "{core.brand-10.200}",
+                "type": "color"
+              },
+              "3": {
+                "value": "{core.brand-10.a25}",
+                "type": "color"
+              },
+              "4": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              },
+              "5": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              }
+            }
           }
         }
       },

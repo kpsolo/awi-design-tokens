@@ -6160,6 +6160,11 @@
           "value": "{semantic.background.5}",
           "type": "color",
           "description": "zero block"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "zero block border"
         }
       },
       "tabs": {
@@ -6428,6 +6433,18 @@
         "text": {
           "value": "{semantic.text.brand.primary}",
           "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "active": {
+            "value": "{semantic.border.active.element}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.a8}",
+            "type": "color"
+          }
         }
       }
     },

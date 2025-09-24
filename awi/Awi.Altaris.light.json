@@ -6123,6 +6123,11 @@
           "value": "{semantic.background.5}",
           "type": "color",
           "description": "zero block"
+        },
+        "border": {
+          "value": "{core.grey.a8}",
+          "type": "color",
+          "description": "zero block border"
         }
       },
       "tabs": {
@@ -6229,6 +6234,18 @@
         "text": {
           "value": "{core.brand-10.600}",
           "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "active": {
+            "value": "{semantic.border.active.element}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.a8}",
+            "type": "color"
+          }
         }
       }
     },

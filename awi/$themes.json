@@ -5416,7 +5416,10 @@
       "contextual.shop.card.border.default": "S:569d118ec1c0dd7b5089dc9de19a370c1b69634d,",
       "contextual.contextual.error-pages.slate.border": "S:2fbf8b675df621936b4b5498b156ef1e70de148b,",
       "contextual.contextual.error-pages.slate.fill": "S:d61472eb12f9580a86ab86b7bc9159dab236b6f5,",
-      "shadow.homepage.sport.icon": "S:a9ab119658cfa5d34edc8ef50906d924f25ce44c,"
+      "shadow.homepage.sport.icon": "S:a9ab119658cfa5d34edc8ef50906d924f25ce44c,",
+      "contextual.mobile-application.button.fill": "S:73de49b83ffc5434a5ed9cafc766ccb1a034892e,",
+      "contextual.mobile-application.button.text": "S:cbe8cce65b5150bce86f66faa6a3ce54a1e9f57d,",
+      "core.brand-10.300a0": "S:a1d80f700bd0adf1dea6e7311d885d63a686699e,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

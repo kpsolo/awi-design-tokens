@@ -6374,20 +6374,20 @@
       },
       "empty": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "fill-light": {
-          "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-60.100} 100%)",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-60.a20}",
             "type": "color"
           },
           "light": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-60.a20}",
             "type": "color"
           }
         }

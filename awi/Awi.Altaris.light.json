@@ -5261,15 +5261,15 @@
     "referal": {
       "step": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "linear-gradient(90deg, {core.brand-30.100} 0%, {core.white.a100} 100%)",
           "type": "color"
         },
         "line": {
-          "value": "{core.brand-10.400}",
+          "value": "{core.grey.200}",
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(128deg, {core.brand-10.200} 14%, {core.brand-30.400} 51%, {core.brand-30.a60} 87%)",
+          "value": "{core.brand-30.a40}",
           "type": "color"
         },
         "text": {

@@ -5259,6 +5259,18 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "inner-pafe": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
       }
     },
     "menu": {

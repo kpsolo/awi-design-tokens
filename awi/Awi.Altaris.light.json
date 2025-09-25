@@ -5210,6 +5210,10 @@
           "value": "{core.white.a100}",
           "type": "color"
         },
+        "line": {
+          "value": "{core.grey.300}",
+          "type": "color"
+        },
         "border": {
           "value": "{core.white.a15}",
           "type": "color"

@@ -5254,6 +5254,10 @@
         "text": {
           "value": "{semantic.text.default.heading}",
           "type": "color"
+        },
+        "line": {
+          "value": "{core.white.a100}",
+          "type": "color"
         }
       }
     },

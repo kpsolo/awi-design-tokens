@@ -2334,6 +2334,47 @@
         },
         "type": "boxShadow"
       }
+    },
+    "shadow": {
+      "mobile-application": {
+        "button": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "17",
+              "spread": "{depth.0}",
+              "color": "{core.white.a30}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "-4",
+              "y": "-4",
+              "blur": "20",
+              "spread": "0",
+              "color": "{core.brand-10.a25}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "20",
+              "spread": "0",
+              "color": "{core.brand-10.a10}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "20",
+              "spread": "0",
+              "color": "{core.brand-10.a40}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {

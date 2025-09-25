@@ -5211,11 +5211,11 @@
           "type": "color"
         },
         "line": {
-          "value": "{core.grey.300}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a15}",
+          "value": "linear-gradient(128deg, {core.brand-10.200} 14%, {core.brand-30.400} 51%, {core.brand-30.a60} 87%)",
           "type": "color"
         },
         "text": {

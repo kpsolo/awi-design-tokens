@@ -1638,6 +1638,19 @@
         }
       }
     },
+    "referal": {
+      "step-card": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "{core.grey.a8}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
     "notification": {
       "value": "{shadow.drop.medium}",
       "type": "boxShadow"
@@ -5233,6 +5246,12 @@
         "fill": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "text": {
+          "accent": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
         }
       }
     },

@@ -2321,6 +2321,19 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
+    },
+    "referal": {
+      "step-card": {
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "{core.grey.a15}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -5270,6 +5283,12 @@
         "fill": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "text": {
+          "accent": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     },

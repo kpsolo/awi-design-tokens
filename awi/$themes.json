@@ -6989,7 +6989,8 @@
       "contextual.referal.banner.fill": "S:82a9f8c43110c732daafc2734db021fe375bca3e,",
       "contextual.referal.banner.text.accent": "S:37d72d310475a5c23045ed65277e4e9bbbab5a33,",
       "core.brand-10.300a0": "S:cf496bde8a0c47eb34930f7200ecfa5048e6b6fe,",
-      "shadow.referal.step-card": "S:11b84674a83ce0221cd1a65fd21c38e007126662,"
+      "shadow.referal.step-card": "S:11b84674a83ce0221cd1a65fd21c38e007126662,",
+      "shadow.shadow.mobile-application.button": "S:40508e243cfa6846bb48b124fa0550de82cf72cf,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

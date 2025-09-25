@@ -1158,7 +1158,7 @@
               "y": "-4",
               "blur": "20",
               "spread": "0",
-              "color": "{core.brand-10.a25}",
+              "color": "{core.brand-10.a10}",
               "type": "dropShadow"
             },
             {
@@ -1174,7 +1174,7 @@
               "y": "4",
               "blur": "20",
               "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "color": "{core.brand-10.a25}",
               "type": "dropShadow"
             }
           ],

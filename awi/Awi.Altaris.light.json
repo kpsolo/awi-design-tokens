@@ -3199,7 +3199,7 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.white.a90}",
             "type": "color"
           },
           "active": {

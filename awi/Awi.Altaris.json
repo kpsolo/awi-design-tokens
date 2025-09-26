@@ -3217,6 +3217,10 @@
           "fill": {
             "value": "linear-gradient(317deg, {core.brand-60.800} 0%, {core.brand-60.800} 35%, {core.brand-30.800} 100%)",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.grey.a8}",
+            "type": "color"
           }
         }
       },
@@ -3254,6 +3258,10 @@
         "border": {
           "default": {
             "value": "linear-gradient(89deg, #D29D61 0%, #FFEFDD 330%, #FAEDDF 70%, #B36D1E 100%)",
+            "type": "color"
+          },
+          "general": {
+            "value": "{core.grey.a8}",
             "type": "color"
           }
         }

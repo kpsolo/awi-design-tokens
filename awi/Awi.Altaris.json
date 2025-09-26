@@ -1996,6 +1996,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "4",
+            "spread": "0",
+            "color": "{core.grey.a15}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "deals": {

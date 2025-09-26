@@ -2041,7 +2041,7 @@
             "y": "0",
             "blur": "8",
             "spread": "0",
-            "color": "{core.grey.a10}",
+            "color": "{core.grey.a8}",
             "type": "dropShadow"
           }
         ],
@@ -3166,7 +3166,7 @@
     "mobile-application": {
       "reviews": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "border": {

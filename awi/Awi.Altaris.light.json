@@ -3235,7 +3235,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "text": {
@@ -3251,7 +3251,7 @@
         },
         "line": {
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "default": {

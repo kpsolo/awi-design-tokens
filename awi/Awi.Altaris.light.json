@@ -3230,13 +3230,23 @@
       },
       "stepper": {
         "bubble": {
+          "default": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          },
           "active": {
             "value": "{core.white.a100}",
             "type": "color"
           },
-          "default": {
-            "value": "{core.grey.500}",
-            "type": "color"
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
+            }
           }
         },
         "line": {

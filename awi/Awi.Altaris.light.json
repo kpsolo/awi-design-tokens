@@ -2028,7 +2028,7 @@
             "y": "0",
             "blur": "4",
             "spread": "0",
-            "color": "{core.grey.a30}",
+            "color": "{core.grey.a10}",
             "type": "dropShadow"
           }
         ],
@@ -3188,11 +3188,11 @@
       },
       "overlay": {
         "upper": {
-          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
+          "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a100} 100%)",
           "type": "color"
         },
         "bottom": {
-          "value": "{core.grey.a80}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },
@@ -3266,7 +3266,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.grey.a5}",
           "type": "color"
         }
       },

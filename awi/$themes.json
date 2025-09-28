@@ -6993,7 +6993,10 @@
       "shadow.shadow.mobile-application.button": "S:40508e243cfa6846bb48b124fa0550de82cf72cf,",
       "contextual.mobile-application.switcher-button.border.general": "S:b20d06a93fc2969d5efcc915670b1079f7dfa2a0,",
       "contextual.mobile-application.card.background.border": "S:eed18e49416b82fc5892b1a22ba7bb6ecc3908a5,",
-      "shadow.mobile-aplication.card": "S:5e7d1d5b20d4d87ff3aa3d685c11e8da19ef3ca3,"
+      "shadow.mobile-aplication.card": "S:5e7d1d5b20d4d87ff3aa3d685c11e8da19ef3ca3,",
+      "contextual.mobile-application.stepper.bubble.text.active": "S:1bfd18e3e41f438a40e52e3eb224bf78b715fa2f,",
+      "contextual.mobile-application.stepper.bubble.text.default": "S:deb76019bdc8e72b527a7a2358641f25dfa5f73f,",
+      "contextual.mobile-application.image-averlay": "S:b3fabcd497afae6dd379f626e2e7ad337e1e13d1,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

@@ -3203,7 +3203,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.grey.100} 0%, {core.grey.300} 100%)",
+            "value": "{semantic.background.brand.primary.default}",
             "type": "color"
           },
           "text": {

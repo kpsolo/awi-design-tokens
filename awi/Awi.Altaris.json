@@ -3291,11 +3291,11 @@
           },
           "text": {
             "active": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color"
             },
             "default": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color"
             }
           }

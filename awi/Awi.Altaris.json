@@ -3356,6 +3356,10 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "image-averlay": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "messages": {

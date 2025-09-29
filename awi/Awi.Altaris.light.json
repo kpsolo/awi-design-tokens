@@ -3372,7 +3372,7 @@
           }
         },
         "icon": {
-          "value": "{semantic.icon.brand.on-brand-secondary}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

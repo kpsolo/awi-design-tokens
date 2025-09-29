@@ -3170,7 +3170,7 @@
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(177deg, {core.grey.200} 3%, {core.grey.a8} 98%)",
+          "value": "linear-gradient(177deg, {core.brand-60.a15} 3%, {core.brand-60.a0} 98%)",
           "type": "color"
         }
       },

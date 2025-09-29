@@ -5744,7 +5744,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.brand-60.500a12}",
+            "value": "{core.brand-60.a20}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5768,7 +5768,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{core.brand-60.a0}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -7320,7 +7320,7 @@
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
       "a10": {
-        "value": "rgba(142, 142, 185, 0.10)",
+        "value": "{core.brand-60.800a10}",
         "type": "color"
       },
       "a15": {

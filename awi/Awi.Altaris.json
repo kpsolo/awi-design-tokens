@@ -8508,6 +8508,12 @@
     "90": {
       "value": "0.9",
       "type": "opacity"
+    },
+    "mobile-application": {
+      "general": {
+        "value": "0.5",
+        "type": "opacity"
+      }
     }
   },
   "blur": {

@@ -5722,7 +5722,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.brand-60.500a12}",
+        "value": "{core.brand-60.a10}",
         "type": "color",
         "description": "Segment Control"
       },

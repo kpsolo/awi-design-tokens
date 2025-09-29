@@ -8511,7 +8511,7 @@
     },
     "mobile-application": {
       "general": {
-        "value": "{opacity.60}",
+        "value": "{opacity.90}",
         "type": "opacity"
       }
     }

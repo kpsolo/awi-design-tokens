@@ -1529,7 +1529,7 @@
     "popover": {
       "value": {
         "x": "0px",
-        "y": "16px",
+        "y": "8px",
         "blur": "16px",
         "spread": "0px",
         "color": "{core.grey.a10}",

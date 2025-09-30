@@ -1527,7 +1527,14 @@
       }
     },
     "popover": {
-      "value": "{shadow.drop.large}",
+      "value": {
+        "x": "0px",
+        "y": "16px",
+        "blur": "16px",
+        "spread": "0px",
+        "color": "{core.grey.a15}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "homepage": {
@@ -3352,7 +3359,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{core.grey.a8}",
         "type": "color"
       },
       "close": {

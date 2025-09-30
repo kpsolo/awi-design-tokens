@@ -1532,7 +1532,7 @@
         "y": "16px",
         "blur": "16px",
         "spread": "0px",
-        "color": "{core.grey.a15}",
+        "color": "{core.grey.a10}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

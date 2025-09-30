@@ -2388,6 +2388,19 @@
           "type": "boxShadow"
         }
       }
+    },
+    "messages": {
+      "notification": {
+        "value": {
+          "x": "0px",
+          "y": "0px",
+          "blur": "{blur.200}",
+          "spread": "0px",
+          "color": "{core.grey.a10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
@@ -3370,6 +3383,10 @@
         },
         "icon": {
           "value": "{core.brand-60.400}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.grey.a0}",
           "type": "color"
         }
       }

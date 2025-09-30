@@ -4867,7 +4867,7 @@
         },
         "border": {
           "fill": {
-            "value": "{core.white.a5}",
+            "value": "{core.grey.a8}",
             "type": "color"
           }
         }

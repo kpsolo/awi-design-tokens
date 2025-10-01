@@ -1157,7 +1157,12 @@
       "contextual.lottery-tournament.tiket.background.fill": "S:4c6953896d31dff0724ef4fea4d31026ae670c84,",
       "contextual.gamehall.thumb-providers.background.fill": "S:50ce16e02f89f975bf2a5169a7a3396529d6fa52,",
       "contextual.gamehall.thumb-providers.background.border": "S:b7dd4e96c3f9f1dfdab31f29eacdd510b13cb586,",
-      "contextual.ingame.slotmachine.border": "S:93ac7facb4d3918f32a10d594efc43e8b7c29a91,"
+      "contextual.ingame.slotmachine.border": "S:93ac7facb4d3918f32a10d594efc43e8b7c29a91,",
+      "contextual.bullet.slate1": "S:34343db32b10d50e6874037990c8859a9f215341,",
+      "contextual.ingame.mob.bonus-talisman.text.accent": "S:4501a0965cde74bc47f8f741d12c5d4191ec659e,",
+      "core.brand-30.a20": "S:b57ab5a4218bbe6d7247bb7a25433b41fb5fb011,",
+      "shadow.timer.lower": "S:235c689ac5fc70499cc70be79227a0c74ac39ccd,",
+      "shadow.welcome-bonus.card": "S:80bbc342376c27e01c1108bec0cb358332af2d33,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"

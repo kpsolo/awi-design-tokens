@@ -4880,7 +4880,7 @@
       },
       "warning": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(229, 137, 0, 0.30) 0%, rgba(229, 137, 0, 0.10) 100%)",
+          "value": "linear-gradient(180deg, rgba(229, 137, 0, 0.20) 0%, rgba(229, 137, 0, 0.10) 100%)",
           "type": "color"
         },
         "icon": {

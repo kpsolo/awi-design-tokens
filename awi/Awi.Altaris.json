@@ -4110,6 +4110,10 @@
           "value": "{core.brand-60.500a12}",
           "type": "color"
         }
+      },
+      "slate1": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     },
     "progressbar": {

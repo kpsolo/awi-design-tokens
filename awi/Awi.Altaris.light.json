@@ -4066,6 +4066,10 @@
           "value": "{semantic.icon.default.primary}",
           "type": "color"
         }
+      },
+      "slate1": {
+        "value": "{core.white.a100}",
+        "type": "color"
       }
     },
     "progressbar": {

@@ -178,15 +178,15 @@
     },
     "button": {
       "sm": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
     },
@@ -834,7 +834,14 @@
     "button": {
       "primary": {
         "default": {
-          "value": "{shadow.drop.small}",
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "0px",
+            "spread": "0px",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
           "type": "boxShadow"
         },
         "hover": {
@@ -7938,15 +7945,15 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.600}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.gradients.5}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "disabled": {

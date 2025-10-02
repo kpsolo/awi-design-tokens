@@ -2463,11 +2463,11 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "active": {
@@ -8007,7 +8007,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {

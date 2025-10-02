@@ -66,15 +66,15 @@
     },
     "button": {
       "sm": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
     },

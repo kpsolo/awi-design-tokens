@@ -44,11 +44,11 @@
         "type": "sizing"
       },
       "md": {
-        "value": "{size.600}",
+        "value": "{size.500}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{size.800}",
+        "value": "{size.600}",
         "type": "sizing"
       }
     },

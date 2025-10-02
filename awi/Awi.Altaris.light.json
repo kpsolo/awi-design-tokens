@@ -2818,6 +2818,28 @@
           }
         }
       },
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        }
+      },
       "frame": {
         "line": {
           "value": "{core.white.a25}",

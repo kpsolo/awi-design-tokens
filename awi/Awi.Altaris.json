@@ -2883,6 +2883,28 @@
           "value": "{core.white.a8}",
           "type": "color"
         }
+      },
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "icon-graphic": {

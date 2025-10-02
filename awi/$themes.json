@@ -7259,5 +7259,14 @@
     },
     "$figmaVariableReferences": {},
     "group": "AWI"
+  },
+  {
+    "id": "0968b5181c1c31a32a169ce5bd30c904114bc2b1",
+    "name": "Brionis.light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brionis.preset.default_light": "enabled",
+      "Awi.Brionis.light": "enabled"
+    }
   }
 ]

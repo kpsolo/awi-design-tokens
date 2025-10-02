@@ -6692,6 +6692,18 @@
           }
         }
       }
+    },
+    "email": {
+      "backgrounf": {
+        "header": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

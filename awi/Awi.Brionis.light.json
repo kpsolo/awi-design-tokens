@@ -4868,11 +4868,11 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a10}",
+            "value": "{core.brand-60.a5}",
             "type": "color"
           }
         },

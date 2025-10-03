@@ -2831,7 +2831,7 @@
         },
         "elements": {
           "primary": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "secondary": {

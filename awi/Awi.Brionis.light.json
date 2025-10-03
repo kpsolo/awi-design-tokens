@@ -4253,7 +4253,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.brand-30.a30}",
             "type": "color",
             "description": "Chips"
           },

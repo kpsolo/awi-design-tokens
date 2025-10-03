@@ -4376,11 +4376,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.brand-30.a25}",
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.brand-30.a25}",
           "type": "color"
         },
         "validation": {

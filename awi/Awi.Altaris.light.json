@@ -2821,36 +2821,36 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "fill-2": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         },
         "elements": {
           "primary": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.white.a80}",
+            "value": "{core.grey.a70}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.white.a30}",
+            "value": "{core.grey.a30}",
             "type": "color"
           },
           "blured-elements": {
-            "value": "{core.white.a10}",
+            "value": "{core.grey.a10}",
             "type": "color",
             "description": "for blured ellements used on background"
           }
         },
         "text": {
           "primary": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.800}",
             "type": "color"
           }
         }

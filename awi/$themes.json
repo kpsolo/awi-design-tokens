@@ -7001,7 +7001,19 @@
       "shadow.mobile-aplication.card": "S:5e7d1d5b20d4d87ff3aa3d685c11e8da19ef3ca3,",
       "contextual.mobile-application.stepper.bubble.text.active": "S:1bfd18e3e41f438a40e52e3eb224bf78b715fa2f,",
       "contextual.mobile-application.stepper.bubble.text.default": "S:deb76019bdc8e72b527a7a2358641f25dfa5f73f,",
-      "contextual.mobile-application.image-averlay": "S:b3fabcd497afae6dd379f626e2e7ad337e1e13d1,"
+      "contextual.mobile-application.image-averlay": "S:b3fabcd497afae6dd379f626e2e7ad337e1e13d1,",
+      "contextual.bullet.slate1": "S:984a2831b540489e7ddad166dddbeba935dc67a6,",
+      "contextual.verification.illustration.background.fill": "S:cc9df3bd204de883f2458853875b178c0b72cb81,",
+      "contextual.verification.illustration.background.fill-2": "S:88bba79aaaffb2bf2944833c87cc9942edd473c8,",
+      "contextual.verification.illustration.elements.primary": "S:b0f61be4f1bb4a1fd9b24ff9e90d7d159dce84d2,",
+      "contextual.verification.illustration.elements.secondary": "S:40a136e3a8f691c21a7677ab849331369411c380,",
+      "contextual.verification.illustration.elements.tertiary": "S:5db1f56bb601de34b6017660a8ffefc3edd75440,",
+      "contextual.verification.illustration.elements.blured-elements": "S:42fcd6a5827be2059c5e49473ca9a239d9a53554,",
+      "contextual.verification.illustration.text.primary": "S:50f82029756c32330515620c4ac74c67b14a2349,",
+      "contextual.messages.bottom.border": "S:c5a00d42b9bcf1167c924ee2f3e08ef9da8fbed5,",
+      "contextual.email.backgrounf.header": "S:e235dc11d982d9d1470f8a5679fb65afc935b1a4,",
+      "contextual.email.backgrounf.fill": "S:ce59dd343325483c35d5095916d5bad8a6415d2e,",
+      "shadow.messages.notification": "S:a4bbdb08c991ca5c4a679d8870cf5beebbf31b38,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",

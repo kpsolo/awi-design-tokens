@@ -2696,6 +2696,12 @@
         "value": "#3A6EFE",
         "type": "color"
       },
+      "for-gradients": {
+        "1": {
+          "value": "#6304D2",
+          "type": "color"
+        }
+      },
       "secondary": {
         "value": "#4FDEFC",
         "type": "color"

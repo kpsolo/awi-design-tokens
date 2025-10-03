@@ -1191,23 +1191,58 @@
     },
     "input": {
       "default": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "filled": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "hover": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "active": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "validation": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "disabled": {
@@ -4337,15 +4372,15 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.grey.a10}",
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.border.static.hover}",
+          "value": "{core.brand-10.a25}",
           "type": "color"
         },
         "active": {
-          "value": "{semantic.border.static.active}",
+          "value": "{core.brand-10.a25}",
           "type": "color"
         },
         "validation": {
@@ -4353,7 +4388,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{semantic.border.static.disabled}",
+          "value": "{core.grey.a10}",
           "type": "color"
         }
       },

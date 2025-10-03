@@ -2849,7 +2849,7 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.a15}",
+        "value": "{core.brand-30.a20}",
         "type": "color",
         "description": "text input 1"
       },

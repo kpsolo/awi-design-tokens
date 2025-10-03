@@ -2821,7 +2821,7 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "fill-2": {

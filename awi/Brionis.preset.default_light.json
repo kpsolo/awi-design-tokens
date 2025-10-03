@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Mariupol",
+    "value": "Inter",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Mariupol",
+    "value": "Onest",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },

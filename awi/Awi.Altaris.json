@@ -2887,22 +2887,31 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         },
         "elements": {
           "primary": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a80}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a30}",
             "type": "color"
+          },
+          "blured-elements": {
+            "value": "{core.white.a10}",
+            "type": "color",
+            "description": "for blured ellements used on background"
           }
         },
         "text": {

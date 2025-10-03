@@ -2823,6 +2823,10 @@
           "fill": {
             "value": "{core.brand-60.600}",
             "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
           }
         },
         "elements": {
@@ -2837,6 +2841,11 @@
           "tertiary": {
             "value": "{core.white.a30}",
             "type": "color"
+          },
+          "blured-elements": {
+            "value": "{core.white.a10}",
+            "type": "color",
+            "description": "for blured ellements used on background"
           }
         },
         "text": {

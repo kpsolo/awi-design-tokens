@@ -4872,13 +4872,13 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a5}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         },
         "icon": {
           "active": {
-            "value": "{semantic.icon.default.primary}",
+            "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           }
         },
@@ -4913,7 +4913,7 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.brand-60.700a50}",
+          "value": "{core.grey.800a40}",
           "type": "color"
         },
         "transparent": {

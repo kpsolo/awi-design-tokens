@@ -2802,7 +2802,7 @@
               "type": "color"
             },
             "animation": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.icon.default.primary}",
               "type": "color"
             }
           },
@@ -2861,7 +2861,7 @@
           "type": "color"
         },
         "fill": {
-          "value": "{core.brand-60.a10}",
+          "value": "{core.brand-60.a5}",
           "type": "color"
         },
         "scroll": {

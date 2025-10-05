@@ -2776,7 +2776,7 @@
           },
           "text": {
             "default": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-30.600}",
               "type": "color"
             }
           }
@@ -2812,7 +2812,7 @@
               "type": "color"
             },
             "AI": {
-              "value": "{core.white.a100}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             }
           }
@@ -2861,7 +2861,7 @@
           "type": "color"
         },
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "scroll": {
@@ -2869,7 +2869,7 @@
           "type": "color"
         },
         "uploading-line": {
-          "value": "{core.white.a60}",
+          "value": "{core.grey.a30}",
           "type": "color"
         },
         "divider": {

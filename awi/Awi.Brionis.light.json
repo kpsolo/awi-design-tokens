@@ -2884,7 +2884,7 @@
       },
       "frame": {
         "line": {
-          "value": "{core.white.a25}",
+          "value": "{core.grey.a15}",
           "type": "color"
         },
         "fill": {

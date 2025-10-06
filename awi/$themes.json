@@ -8585,7 +8585,17 @@
       "shadow.icon-graphic.welcome-bonus.slate-1.active": "S:513abc0d30b61c877592e7efb74a55a1c455c406,",
       "shadow.icon-graphic.welcome-bonus.slate-1.inactive": "S:967d602094725dc91d7acbb37c01175b5d0249c5,",
       "shadow.icon-graphic.welcome-bonus.slate-2.active": "S:ecdac426e971cdb5a4162835828dff21cf12b30c,",
-      "shadow.icon-graphic.welcome-bonus.slate-2.inactive": "S:c8b19c127ddeb4f9e1e7bd2803a6fb17d3f64d3f,"
+      "shadow.icon-graphic.welcome-bonus.slate-2.inactive": "S:c8b19c127ddeb4f9e1e7bd2803a6fb17d3f64d3f,",
+      "core.brand-preset.for-gradients.1": "S:abd5b82d4dd6b21f8b7c36160827bb007417b3ef,",
+      "core.brand-preset.for-gradients.2": "S:a489ddaa338e6cd1d60f8d7aae427627261507fd,",
+      "contextual.thumb-games.label.fill": "S:ccbe63f2745b9ae8999bceaf8d7865a9131f3a0a,",
+      "contextual.thumb-games.label.text": "S:8410ba99956f1101eceee5aef8c65a56d73ee72b,",
+      "contextual.thumb-games.empty.fill": "S:156a92dbf48297e7c7fcb1f2b5354848072a5cdf,",
+      "contextual.thumb-games.empty.content": "S:4666a5b81ac679f645f1f52b534e7858e6d8dd2d,",
+      "contextual.thumb-games.overlay": "S:14653a41d86b38f7288f8d0933a0d26b4b9bb23f,",
+      "contextual.thumb-games.show-more.fill": "S:4a61264c3b68d33f6a778c8ce6e6c2c83f9314ef,",
+      "contextual.thumb-games.show-more.content": "S:85195e09d9bb0234c759342543d9e34003abdde8,",
+      "contextual.thumb-games.text.primary": "S:0269ceab9cc411ca7a81a59ca071e3c5502d0d63,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

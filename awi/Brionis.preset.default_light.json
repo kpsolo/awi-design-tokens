@@ -2700,6 +2700,10 @@
         "1": {
           "value": "#6304D2",
           "type": "color"
+        },
+        "2": {
+          "value": "#01FFEE",
+          "type": "color"
         }
       },
       "secondary": {
@@ -2776,17 +2780,8 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "{core.brand-60.700}",
+        "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.85",
-              "space": "lch"
-            }
-          }
-        },
         "description": "no used"
       },
       "8": {

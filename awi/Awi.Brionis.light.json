@@ -6535,20 +6535,14 @@
         }
       }
     },
-    "thumb-games ": {
+    "thumb-games": {
       "label": {
         "fill": {
-          "value": "{semantic.gradients.4}",
+          "value": "{semantic.gradients.7}",
           "type": "color"
         },
         "text": {
           "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "label-providers": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.brand-60.700a0} 0%, {core.brand-60.700a60} 21%, {core.brand-60.800} 100%)",
           "type": "color"
         }
       },
@@ -6557,62 +6551,28 @@
           "value": "{core.brand-60.50}",
           "type": "color"
         },
-        "fill-light": {
+        "content": {
           "value": "{core.brand-60.50}",
           "type": "color"
-        },
-        "border": {
-          "default": {
-            "value": "{core.brand-60.a20}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{core.brand-60.a20}",
-            "type": "color"
-          }
         }
       },
       "overlay": {
-        "value": "linear-gradient(0deg, {core.brand-60.800} 0%, {core.brand-60.700a60} 79.69%, {core.brand-60.700a40} 100%)",
+        "value": "{core.white.a80}",
         "type": "color"
       },
       "show-more": {
-        "normal": {
-          "fill": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-60.100}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.brand-60.500}",
-            "type": "color"
-          }
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
         },
-        "smaller": {
-          "fill": {
-            "value": "{core.white.a8}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a50}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
+        "content": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
         }
       },
       "text": {
         "primary": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-30.500}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         }
       }

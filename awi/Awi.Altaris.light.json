@@ -2831,7 +2831,7 @@
         },
         "elements": {
           "primary": {
-            "value": "{core.grey.800}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "secondary": {

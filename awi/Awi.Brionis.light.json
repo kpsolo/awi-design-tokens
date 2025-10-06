@@ -4579,17 +4579,41 @@
     "header": {
       "desktop": {
         "menu-item": {
-          "default": {
-            "value": "{core.brand-30.200}",
-            "type": "color"
+          "text": {
+            "default": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
+          "icon": {
+            "default": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
           }
         },
         "background": {

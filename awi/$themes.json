@@ -8595,7 +8595,8 @@
       "contextual.thumb-games.overlay": "S:14653a41d86b38f7288f8d0933a0d26b4b9bb23f,",
       "contextual.thumb-games.show-more.fill": "S:4a61264c3b68d33f6a778c8ce6e6c2c83f9314ef,",
       "contextual.thumb-games.show-more.content": "S:85195e09d9bb0234c759342543d9e34003abdde8,",
-      "contextual.thumb-games.text.primary": "S:0269ceab9cc411ca7a81a59ca071e3c5502d0d63,"
+      "contextual.thumb-games.text.primary": "S:0269ceab9cc411ca7a81a59ca071e3c5502d0d63,",
+      "contextual.thumb-games.icon": "S:921d87b6830281c07d2e77b94e6e5d248abb6e75,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

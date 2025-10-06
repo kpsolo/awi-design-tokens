@@ -6560,6 +6560,10 @@
         "value": "{core.white.a80}",
         "type": "color"
       },
+      "icon": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      },
       "show-more": {
         "fill": {
           "value": "{core.brand-30.600a25}",

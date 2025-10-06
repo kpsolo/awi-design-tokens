@@ -6548,11 +6548,11 @@
       },
       "empty": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-10.50}",
           "type": "color"
         },
         "content": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-10.100}",
           "type": "color"
         }
       },
@@ -6562,11 +6562,11 @@
       },
       "show-more": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-30.600a25}",
           "type": "color"
         },
         "content": {
-          "value": "{core.brand-60.500}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         }
       },

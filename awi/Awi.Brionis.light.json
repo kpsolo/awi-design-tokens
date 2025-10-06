@@ -4581,11 +4581,11 @@
         "menu-item": {
           "text": {
             "default": {
-              "value": "{core.brand-30.200}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "active": {
@@ -4593,17 +4593,17 @@
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-10.500}",
+              "value": "{semantic.text.disabled.primary}",
               "type": "color"
             }
           },
           "icon": {
             "default": {
-              "value": "{core.brand-30.200}",
+              "value": "{semantic.icon.default.tertiary}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "active": {
@@ -4611,7 +4611,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-10.500}",
+              "value": "{semantic.icon.default.disabled}",
               "type": "color"
             }
           }

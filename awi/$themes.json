@@ -8596,7 +8596,15 @@
       "contextual.thumb-games.show-more.fill": "S:4a61264c3b68d33f6a778c8ce6e6c2c83f9314ef,",
       "contextual.thumb-games.show-more.content": "S:85195e09d9bb0234c759342543d9e34003abdde8,",
       "contextual.thumb-games.text.primary": "S:0269ceab9cc411ca7a81a59ca071e3c5502d0d63,",
-      "contextual.thumb-games.icon": "S:921d87b6830281c07d2e77b94e6e5d248abb6e75,"
+      "contextual.thumb-games.icon": "S:921d87b6830281c07d2e77b94e6e5d248abb6e75,",
+      "contextual.header.desktop.menu-item.text.default": "S:0487864218ecc2abf5444e5731de5e2487ab7cba,",
+      "contextual.header.desktop.menu-item.text.hover": "S:67a980b0744149568d179ee89c11f508a0b10c7b,",
+      "contextual.header.desktop.menu-item.text.active": "S:55b6795a0713a2a72738f66a90b70e1b603481a1,",
+      "contextual.header.desktop.menu-item.text.disabled": "S:92bc4b8039b396abf0f811517cbfe48c06036566,",
+      "contextual.header.desktop.menu-item.icon.default": "S:309e0813b3ed429a3d01472d2cacaec1801ca01a,",
+      "contextual.header.desktop.menu-item.icon.hover": "S:ca967982925c6439a53fd5ab6e930024bf4520b9,",
+      "contextual.header.desktop.menu-item.icon.active": "S:33087c4a52a3538bd0a58ff6dc2c311d56e627f1,",
+      "contextual.header.desktop.menu-item.icon.disabled": "S:5dff5da8a3e8b78d1233fb46acf478c10b1e9afe,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

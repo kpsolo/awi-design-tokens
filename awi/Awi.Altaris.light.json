@@ -2825,32 +2825,32 @@
             "type": "color"
           },
           "fill-2": {
-            "value": "{core.grey.100}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           }
         },
         "elements": {
           "primary": {
-            "value": "{core.grey.700}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.grey.a70}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.grey.a30}",
+            "value": "{core.brand-60.a25}",
             "type": "color"
           },
           "blured-elements": {
-            "value": "{core.grey.a10}",
+            "value": "{core.brand-60.a10}",
             "type": "color",
             "description": "for blured ellements used on background"
           }
         },
         "text": {
           "primary": {
-            "value": "{core.grey.800}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         }

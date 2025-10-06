@@ -8451,20 +8451,6 @@
           "type": "color"
         }
       },
-      "modal": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.grey.500}",
-          "type": "color"
-        }
-      },
       "static": {
         "default": {
           "value": "{semantic.text.static.primary}",

@@ -8604,7 +8604,9 @@
       "contextual.header.desktop.menu-item.icon.default": "S:309e0813b3ed429a3d01472d2cacaec1801ca01a,",
       "contextual.header.desktop.menu-item.icon.hover": "S:ca967982925c6439a53fd5ab6e930024bf4520b9,",
       "contextual.header.desktop.menu-item.icon.active": "S:33087c4a52a3538bd0a58ff6dc2c311d56e627f1,",
-      "contextual.header.desktop.menu-item.icon.disabled": "S:5dff5da8a3e8b78d1233fb46acf478c10b1e9afe,"
+      "contextual.header.desktop.menu-item.icon.disabled": "S:5dff5da8a3e8b78d1233fb46acf478c10b1e9afe,",
+      "contextual.header.background.fill": "S:c959602c7592067db6c2e56c5b3d72cde6b2f5ca,",
+      "contextual.header.desktop.special-menu-item.icon": "S:151e3bc5e477527d54643cd4bc0e5a532889880d,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

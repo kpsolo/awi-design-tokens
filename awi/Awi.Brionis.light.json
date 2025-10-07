@@ -287,7 +287,7 @@
       "desktop": {
         "special-menu-item": {
           "close": {
-            "value": "{border-radius.core.full}",
+            "value": "{border-radius.core.400}",
             "type": "borderRadius",
             "description": "contextual.header.desktop.special-menu-item"
           },
@@ -1002,7 +1002,7 @@
             "y": "{depth.025}",
             "blur": "{blur.0}",
             "spread": "{depth.0}",
-            "color": "{core.grey.a20}",
+            "color": "{core.brand-10.a25}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -4669,11 +4669,11 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{semantic.text.static.primary}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(180deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
+              "value": "{core.validation.danger.600}",
               "type": "color"
             }
           }
@@ -6936,7 +6936,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },

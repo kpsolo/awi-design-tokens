@@ -90,7 +90,7 @@
       "desktop": {
         "special-menu-item": {
           "close": {
-            "value": "{border-radius.core.full}",
+            "value": "{border-radius.core.400}",
             "type": "borderRadius",
             "description": "contextual.header.desktop.special-menu-item"
           },

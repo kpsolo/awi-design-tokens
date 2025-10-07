@@ -258,7 +258,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },

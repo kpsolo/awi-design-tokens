@@ -1415,6 +1415,32 @@
           }
         }
       },
+      "700a50": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "100a50": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "900a40": {
         "value": "{core.brand-60.900}",
         "type": "color",

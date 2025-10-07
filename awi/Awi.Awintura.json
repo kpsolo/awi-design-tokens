@@ -6235,6 +6235,10 @@
       "a8": {
         "value": "rgba(7, 7, 3, 0.08)",
         "type": "color"
+      },
+      "a5": {
+        "value": "rgba(7, 7, 3, 0.05)",
+        "type": "color"
       }
     },
     "white": {

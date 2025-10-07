@@ -4651,39 +4651,15 @@
               "type": "color"
             }
           }
-        },
-        "button": {
-          "border-1": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "border-2": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          }
-        },
-        "elements-border": {
-          "border-1": {
-            "value": "{core.brand-60.a50}",
-            "type": "color"
-          },
-          "border-2": {
-            "value": "{core.white.a5}",
-            "type": "color"
-          }
         }
       },
       "background": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },
       "mobile": {
-        "fill": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
         "top-up": {
           "fill": {
             "value": "{core.brand-60.50}",
@@ -4710,12 +4686,8 @@
         }
       },
       "notification": {
-        "fill1": {
+        "fill": {
           "value": "{core.validation.danger.600}",
-          "type": "color"
-        },
-        "fill2": {
-          "value": "{semantic.gradients.5}",
           "type": "color"
         },
         "text": {

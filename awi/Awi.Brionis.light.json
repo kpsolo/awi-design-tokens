@@ -2986,16 +2986,6 @@
           "type": "color"
         }
       },
-      "progress": {
-        "fill": {
-          "value": "{core.brand-30.a15}",
-          "type": "color"
-        },
-        "step": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
-          "type": "color"
-        }
-      },
       "icon": {
         "standard": {
           "value": "{semantic.background.brand.emphasizing.default.primary}",
@@ -3130,22 +3120,6 @@
           },
           "received": {
             "value": "{core.white.a0}",
-            "type": "color"
-          }
-        }
-      },
-      "progress": {
-        "fill": {
-          "value": "{core.brand-60.a15}",
-          "type": "color"
-        },
-        "step": {
-          "value": "{core.brand-60.a40}",
-          "type": "color"
-        },
-        "border": {
-          "fill": {
-            "value": "{core.white.a5}",
             "type": "color"
           }
         }
@@ -3697,18 +3671,6 @@
       }
     },
     "strip": {
-      "progress": {
-        "fill": {
-          "value": "{core.brand-10.a25}",
-          "type": "color",
-          "description": "Lootboxes"
-        },
-        "step": {
-          "value": "{core.brand-10.600}",
-          "type": "color",
-          "description": "Lootboxes"
-        }
-      },
       "girl": {
         "light": {
           "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a50} 0%, {core.brand-10.a5} 100%)",
@@ -4088,36 +4050,6 @@
         }
       }
     },
-    "progress": {
-      "circle": {
-        "border": {
-          "value": "{core.brand-30.a30}",
-          "type": "color"
-        },
-        "progress": {
-          "value": "{core.white.a1}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        }
-      },
-      "progress-thumb": {
-        "border": {
-          "value": "{core.brand-10.a25}",
-          "type": "color"
-        },
-        "progress": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        }
-      }
-    },
     "table": {
       "fill": {
         "value": "{core.brand-60.a10}",
@@ -4145,16 +4077,6 @@
       },
       "slate1": {
         "value": "{core.white.a100}",
-        "type": "color"
-      }
-    },
-    "progressbar": {
-      "border": {
-        "value": "{core.white.a20}",
-        "type": "color"
-      },
-      "indicator": {
-        "value": "{core.white.a20}",
         "type": "color"
       }
     },
@@ -4975,22 +4897,6 @@
       }
     },
     "deals": {
-      "progress": {
-        "fill": {
-          "value": "{core.white.a50}",
-          "type": "color"
-        },
-        "step": {
-          "value": "linear-gradient(90deg, {core.brand-30.400} 0%, {core.brand-30.500} 100%)",
-          "type": "color"
-        },
-        "border": {
-          "fill": {
-            "value": "{core.grey.a8}",
-            "type": "color"
-          }
-        }
-      },
       "more": {
         "text": {
           "value": "{semantic.text.brand.primary}",
@@ -5156,16 +5062,6 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
-      },
-      "progressbar": {
-        "fill": {
-          "value": "{core.brand-60.a30}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.brand-60.a30}",
-          "type": "color"
-        }
       },
       "border": {
         "default": {
@@ -6671,16 +6567,6 @@
     },
     "onboarding": {
       "progress-button": {
-        "progress": {
-          "fill": {
-            "value": "{core.brand-10.a30}",
-            "type": "color"
-          },
-          "step": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          }
-        },
         "fill": {
           "value": "{semantic.gradients.4}",
           "type": "color"
@@ -6708,18 +6594,6 @@
       }
     },
     "welcome-bonus": {
-      "progress": {
-        "fill": {
-          "active": {
-            "value": "{core.brand-10.400}",
-            "type": "color"
-          },
-          "inactive": {
-            "value": "{core.grey.200}",
-            "type": "color"
-          }
-        }
-      },
       "background": {
         "value": "{core.white.a100}",
         "type": "color"

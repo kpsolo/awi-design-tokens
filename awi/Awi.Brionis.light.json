@@ -859,7 +859,14 @@
       },
       "tertiary": {
         "default": {
-          "value": "{shadow.drop.small}",
+          "value": {
+            "x": "0px",
+            "y": "0px",
+            "blur": "0px",
+            "spread": "0px",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
           "type": "boxShadow"
         },
         "hover": {

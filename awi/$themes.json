@@ -8873,7 +8873,8 @@
       "wheel.popup.vip-bet-amount.width": "ff76fe18081a771f651dc9fe3ac87f2a369ca4a1",
       "border-radius.wheel.block": "906a22a850bc2d84814f9f58e18b6d53e0708f00",
       "opacity.mobile-application.general": "768e5b54c47e8d850cb5d369955e0275483fe613",
-      "base": "f0300a0551b28b3b1e5b1a05b3eab6cdf5ee5379"
+      "base": "f0300a0551b28b3b1e5b1a05b3eab6cdf5ee5379",
+      "border-radius.menu-item": "274640e2cfd306e38c2a2a096acd7c75513942e9"
     }
   }
 ]

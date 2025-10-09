@@ -298,6 +298,10 @@
         }
       }
     },
+    "menu-item": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    },
     "wheel": {
       "block": {
         "value": "{border-radius.core.400}",

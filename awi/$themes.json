@@ -8617,7 +8617,19 @@
       "contextual.progress-bar.outline.static.track": "S:1c8e1747f5b41198094d018d112775ad8fdef5f1,",
       "contextual.progress-bar.outline.static.container": "S:6bbfafc83332eb00a12f8baee1db016a7a9b2d16,",
       "contextual.progress-bar.normal.static.track": "S:1c41c0d298e8fd0bc2e24fd11d15ad83cd937da1,",
-      "contextual.progress-bar.normal.static.container": "S:5ea16ca622c1ce695fe56d1da4a649809b7aa132,"
+      "contextual.progress-bar.normal.static.container": "S:5ea16ca622c1ce695fe56d1da4a649809b7aa132,",
+      "contextual.menu-item.text.default": "S:e2954818c3dbb842289994164453ec4ecb618355,",
+      "contextual.menu-item.text.hover": "S:08d3844a7bfb639385efaa14c44854d15242c0b1,",
+      "contextual.menu-item.text.active": "S:b58336c25d5a27cf7a79dc399d63d7e140e22247,",
+      "contextual.menu-item.text.disabled": "S:cf2499fc8cb2b1e8dda7e41b4b4beb79547b6c13,",
+      "contextual.menu-item.icon.default": "S:8701db559e40a30164f238836669f4c9ecbea511,",
+      "contextual.menu-item.icon.hover": "S:61c5d7e36b4524d3e592e48424f10730417a86e0,",
+      "contextual.menu-item.icon.active": "S:b3b6a378ef75219e829d63a5dcea8e3133747093,",
+      "contextual.menu-item.icon.disabled": "S:602e2825297a5e4e423b480a6bdd9c68f978d21f,",
+      "contextual.menu-item.fill.default": "S:a250a3b6fae8129b436d1def7891c778d9987c6e,",
+      "contextual.menu-item.fill.hover": "S:5afdc4afae80f13814e208e6d65d0cc990f2e8ca,",
+      "contextual.menu-item.fill.active": "S:4a7dcaa526433c6394554ab0db73a0c7b9105a76,",
+      "contextual.menu-item.fill.disabled": "S:4a7180e179bbac041c0196b41351b4f884e9f3e8,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

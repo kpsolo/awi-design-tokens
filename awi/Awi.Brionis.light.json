@@ -4561,46 +4561,64 @@
         }
       }
     },
+    "menu-item": {
+      "text": {
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.icon.default.disabled}",
+          "type": "color"
+        }
+      },
+      "fill": {
+        "default": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
     "header": {
       "desktop": {
-        "menu-item": {
-          "text": {
-            "default": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.brand-30.500}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.text.disabled.primary}",
-              "type": "color"
-            }
-          },
-          "icon": {
-            "default": {
-              "value": "{semantic.icon.default.tertiary}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.brand-30.500}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.icon.default.disabled}",
-              "type": "color"
-            }
-          }
-        },
         "special-menu-item": {
           "fill": {
             "value": "{core.brand-60.50}",

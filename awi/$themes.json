@@ -8606,7 +8606,18 @@
       "contextual.header.desktop.menu-item.icon.active": "S:33087c4a52a3538bd0a58ff6dc2c311d56e627f1,",
       "contextual.header.desktop.menu-item.icon.disabled": "S:5dff5da8a3e8b78d1233fb46acf478c10b1e9afe,",
       "contextual.header.background.fill": "S:c959602c7592067db6c2e56c5b3d72cde6b2f5ca,",
-      "contextual.header.desktop.special-menu-item.icon": "S:151e3bc5e477527d54643cd4bc0e5a532889880d,"
+      "contextual.header.desktop.special-menu-item.icon": "S:151e3bc5e477527d54643cd4bc0e5a532889880d,",
+      "contextual.progress-bar.normal.primary.track": "S:9cc84bc6ba3d93f1c6d723027c574dce3c9a6d10,",
+      "contextual.progress-bar.normal.primary.container": "S:d44669765cdde6777cb882cbdf68d019e2df3057,",
+      "contextual.header.notification.fill": "S:f3edd354f9418ba6aa10c73358d601e436b38762,",
+      "contextual.progress-bar.normal.secondary.track": "S:96fb56441b94744cad8a98c5b2bc0b76e0ad8e64,",
+      "contextual.progress-bar.normal.secondary.container": "S:7c36119ef21d045beb3767984d3ba69ca67a7a4a,",
+      "contextual.progress-bar.outline.primary.track": "S:34f19c6299e81c4d2131db57fa70b8a3a63bcb34,",
+      "contextual.progress-bar.outline.primary.container": "S:476fb78a6ca371c8bec1e057da35c35611f7ae4e,",
+      "contextual.progress-bar.outline.static.track": "S:1c8e1747f5b41198094d018d112775ad8fdef5f1,",
+      "contextual.progress-bar.outline.static.container": "S:6bbfafc83332eb00a12f8baee1db016a7a9b2d16,",
+      "contextual.progress-bar.normal.static.track": "S:1c41c0d298e8fd0bc2e24fd11d15ad83cd937da1,",
+      "contextual.progress-bar.normal.static.container": "S:5ea16ca622c1ce695fe56d1da4a649809b7aa132,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

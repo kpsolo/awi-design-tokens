@@ -344,11 +344,7 @@
     "homepage": {
       "nav-menu": {
         "general": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        },
-        "button": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.400}",
           "type": "borderRadius"
         }
       }
@@ -778,26 +774,6 @@
         "style": "solid"
       },
       "type": "border"
-    },
-    "nav-menu": {
-      "item": {
-        "value": {
-          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
-          "width": "3px",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "mobile": {
-        "tab": {
-          "value": {
-            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
-            "width": "2px",
-            "style": "solid"
-          },
-          "type": "border"
-        }
-      }
     },
     "footer": {
       "value": {
@@ -1605,39 +1581,11 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.100}",
-            "blur": "{blur.100}",
-            "spread": "{depth.0}",
-            "color": "{core.brand-60.800a10}",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "mobile": {
-        "nav-menu-category": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.100}",
-              "blur": "{blur.100}",
-              "spread": "{depth.0}",
-              "color": "{core.brand-60.800a10}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        }
-      },
-      "nav-menu-button": {
-        "value": [
-          {
-            "x": "{depth.0}",
             "y": "{depth.0}",
             "blur": "{blur.0}",
             "spread": "{depth.0}",
             "color": "{core.white.a0}",
-            "type": "innerShadow"
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
@@ -5107,46 +5055,8 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{semantic.background.5}",
+          "value": "{core.white.a100}",
           "type": "color"
-        },
-        "item": {
-          "text": {
-            "default": {
-              "value": "{semantic.text.default.tertiary}",
-              "type": "color"
-            },
-            "hover-active": {
-              "value": "{core.brand-10.600}",
-              "type": "color"
-            }
-          },
-          "icon": {
-            "default": {
-              "value": "{semantic.text.default.tertiary}",
-              "type": "color"
-            },
-            "hover-active": {
-              "value": "{core.brand-10.600}",
-              "type": "color"
-            }
-          },
-          "fill": {
-            "default": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "hover-active": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            }
-          },
-          "border": {
-            "border-active-state": {
-              "value": "{core.brand-10.600}",
-              "type": "color"
-            }
-          }
         }
       },
       "thumb-providers": {
@@ -8465,12 +8375,6 @@
       "value": "{blur.100}",
       "type": "dimension"
     },
-    "homepage": {
-      "nav-menu": {
-        "value": "{blur.400}",
-        "type": "dimension"
-      }
-    },
     "news": {
       "welcome-bonus-card": {
         "value": "38px",
@@ -9020,14 +8924,6 @@
             "lineHeight": "16px",
             "textCase": "{text-case.none}"
           },
-          "type": "typography"
-        }
-      }
-    },
-    "nav-menu": {
-      "mobile": {
-        "tab": {
-          "value": "{text.sm-strong}",
           "type": "typography"
         }
       }

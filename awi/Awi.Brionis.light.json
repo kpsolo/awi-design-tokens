@@ -5147,54 +5147,6 @@
               "type": "color"
             }
           }
-        },
-        "button": {
-          "fill": {
-            "default": {
-              "value": "{core.brand-60.50}",
-              "type": "color"
-            },
-            "hover-active": {
-              "value": "{core.brand-30.50}",
-              "type": "color"
-            }
-          },
-          "content": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          }
-        },
-        "star": {
-          "text": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          }
-        },
-        "mobile": {
-          "tab": {
-            "highlight": {
-              "active": {
-                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.600a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a8} 60%, {core.brand-30.a0} 80%)",
-                "type": "color",
-                "description": "radial-gradient(57.87% 57.87% at 50% 50%, {core.brand-30.a25} 0%, {core.brand-30.a20} 20%, {core.brand-30.a15} 40%, {core.brand-30.a10} 53%, {core.brand-30.a10} 60%, {core.brand-30.a0} 80%)"
-              },
-              "default": {
-                "value": "radial-gradient(57.87% 57.87% at 50% 50%, {core.white.a25} 0%, {core.white.a20} 20%, {core.white.a15} 40%, {core.white.a10} 53%, {core.white.a8} 60%, {core.white.a0} 80%)",
-                "type": "color",
-                "description": "radial-gradient(57.87% 57.87% at 50% 50%, {core.white.a25} 0%, {core.white.a20} 20%, {core.white.a15} 40%, {core.white.a10} 53%, {core.white.a10} 60%, {core.white.a0} 80%)"
-              }
-            },
-            "text": {
-              "active": {
-                "value": "{core.brand-10.600}",
-                "type": "color"
-              },
-              "default": {
-                "value": "{semantic.text.default.primary}",
-                "type": "color"
-              }
-            }
-          }
         }
       },
       "thumb-providers": {

@@ -4813,10 +4813,6 @@
             "type": "color"
           }
         },
-        "selected-indicator": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        },
         "text": {
           "primary": {
             "value": "{semantic.text.default.heading}",
@@ -8729,7 +8725,7 @@
         }
       },
       "padding-left": {
-        "value": "{spacing.400}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "padding-right": {

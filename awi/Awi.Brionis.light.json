@@ -4781,7 +4781,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           }
         },
@@ -8778,7 +8778,11 @@
       }
     },
     "padding-vertical": {
-      "value": "{spacing.200}",
+      "value": "{spacing.300}",
+      "type": "spacing"
+    },
+    "padding-horizontal": {
+      "value": "{spacing.300}",
       "type": "spacing"
     },
     "gap": {
@@ -8786,11 +8790,7 @@
       "type": "spacing"
     },
     "search": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
+      "padding-bottom": {
         "value": "{spacing.200}",
         "type": "spacing"
       }

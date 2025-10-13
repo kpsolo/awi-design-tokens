@@ -1374,7 +1374,6 @@
       "dropdown-menu.padding-vertical": "4baefc910046e6d482f29f1623e54b21868b2b7f",
       "dropdown-menu.gap": "9c78b0db5ae8075633b0ada5e7d43c18e23b1e56",
       "dropdown-menu.search.padding-horizontal": "d16f3712ff25c32b30c5703f8b9edbbca7fd6de2",
-      "dropdown-menu.search.padding-vertical": "57acbd3914c0695662b4957e3b5c6aca4bd170f1",
       "datepicker.weeks.gap": "3f6bd0b1eed1704cad24eccaee8eb461ac9909aa",
       "datepicker.weeks.item.gap": "aff8cfea66e8e9d45cb140cdb839e4fd822df9d9",
       "datepicker.padding": "185d00dad55a1a65ee79e264e90d89cd23070b39",
@@ -1400,7 +1399,8 @@
       "tooltip.md.padding-vertical": "3c53925bdc5839301cca522296203f285b9846f9",
       "deals.promo-code-button.padding-left": "350361374cdf1d95ab569cf4dd4d8fafac1ed80f",
       "deals.promo-code-button.padding-right": "f32e8a213340dbd7eb6e787234c877698a6b74c2",
-      "wheel.popup.vip-bet-amount.width": "1931afb61759d7af796bc23a223b09fc5b52e487"
+      "wheel.popup.vip-bet-amount.width": "1931afb61759d7af796bc23a223b09fc5b52e487",
+      "dropdown-menu.search.padding-bottom": "57acbd3914c0695662b4957e3b5c6aca4bd170f1"
     },
     "$figmaCollectionId": "VariableCollectionId:39130:628888",
     "$figmaModeId": "39130:1",
@@ -2728,7 +2728,6 @@
       "dropdown-menu.padding-vertical": "138c55d3642daeb16fafe074fa9f16bcf2283cff",
       "dropdown-menu.gap": "292cce9057a17352563547fba5da21b730013cb9",
       "dropdown-menu.search.padding-horizontal": "c066fdb27a98e7d40b0dcbaf72b16e44b128ecf9",
-      "dropdown-menu.search.padding-vertical": "7324206f2dc509c59a0bee7263e6c64512b1127e",
       "datepicker.weeks.gap": "95dfb99bb33121c132ebf423c31530b2fa220731",
       "datepicker.weeks.item.gap": "44596a1a424a7bd11d085e85df6faa7bee02ef26",
       "datepicker.padding": "a4e93d31a291680459c9877406a9fb0dfd04b1a5",
@@ -2756,7 +2755,8 @@
       "popup.loyalty.map": "9d2b28c5925a5c3f01973be7e5d3ff311f036467",
       "deals.promo-code-button.padding-left": "cff97b51183ba1a59e297d5518474cb018569903",
       "deals.promo-code-button.padding-right": "851c7ed4ec0f7dcebbe5c2530f70bfd011f666dd",
-      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21"
+      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21",
+      "dropdown-menu.search.padding-bottom": "7324206f2dc509c59a0bee7263e6c64512b1127e"
     },
     "$figmaCollectionId": "VariableCollectionId:38548:410292",
     "$figmaModeId": "38548:0",
@@ -4087,7 +4087,6 @@
       "dropdown-menu.padding-vertical": "78ac13cee0447fa967c6f3cc36daf2b5e3b61601",
       "dropdown-menu.gap": "b3d80fea6cd8ab9c778201f38c388211e281d17e",
       "dropdown-menu.search.padding-horizontal": "2b9cc33193ccbfe86231ae264e07623770282134",
-      "dropdown-menu.search.padding-vertical": "4f32242ede9cfce27b8c9f67229f9eff3ff7033c",
       "datepicker.weeks.gap": "2f12c0e76badb69375a094985fbfcf1ded8e2c50",
       "datepicker.weeks.item.gap": "2385e1b2d18478d16306a7d0764f8c3303198f08",
       "datepicker.padding": "0c389413f36bc98c2c9794dac78500021f5e273c",
@@ -4115,7 +4114,8 @@
       "popup.loyalty.map": "81ac4c77a278ba46b9d7441bc33dcb28b9b2a5fb",
       "deals.promo-code-button.padding-left": "4512dea9efecb3e84d73ffb069b8866f720d2e50",
       "deals.promo-code-button.padding-right": "334846b7b43bd125e32174040eb35f1a68c9f656",
-      "wheel.popup.vip-bet-amount.width": "c63baede7864be0d1e92ffb0bfe88bfcd60f2660"
+      "wheel.popup.vip-bet-amount.width": "c63baede7864be0d1e92ffb0bfe88bfcd60f2660",
+      "dropdown-menu.search.padding-bottom": "4f32242ede9cfce27b8c9f67229f9eff3ff7033c"
     },
     "$figmaCollectionId": "VariableCollectionId:40539:1566",
     "$figmaModeId": "40539:0",
@@ -5635,7 +5635,6 @@
       "dropdown-menu.padding-vertical": "a5718e1edb94d40f2e866f5a188dd529e8e9f55c",
       "dropdown-menu.gap": "19d12f1dd40ce8844c3b36f96c179236d4265c6f",
       "dropdown-menu.search.padding-horizontal": "2657a177969e88098ce46b7e8637c61d6d9c4875",
-      "dropdown-menu.search.padding-vertical": "dafcd95165a23b205a0cd745502471222d585819",
       "datepicker.weeks.gap": "d9df2e242d0a92569ca0112c1604ab7175266ed4",
       "datepicker.weeks.item.gap": "9f481861d2cf1a3cd253af4c848fcf4fb8815dfa",
       "datepicker.padding": "06030a2be5e463c9e58ee213a3bc284bbce19d78",
@@ -5665,7 +5664,8 @@
       "deals.promo-code-button.padding-right": "b5845352fe4a7166c38d72e1f5e61e3082708c6d",
       "wheel.popup.vip-bet-amount.width": "931b171274d57eaecd7efe2dd8bde0df1df81b4c",
       "border-radius.wheel.block": "c909be979c64d409906f42b4319f474cc9c0a0e4",
-      "base": "bfd84947b44dc9e4659de09e9d8ed44b962679e9"
+      "base": "bfd84947b44dc9e4659de09e9d8ed44b962679e9",
+      "dropdown-menu.search.padding-bottom": "dafcd95165a23b205a0cd745502471222d585819"
     },
     "$figmaCollectionId": "VariableCollectionId:42677:395025",
     "$figmaModeId": "42677:0",
@@ -7226,7 +7226,6 @@
       "dropdown-menu.padding-vertical": "562d278cc7e8c3d56190eee7cb37db582bdf1c40",
       "dropdown-menu.gap": "b38772d4857053a8b5fb56152a658b04bc3675e1",
       "dropdown-menu.search.padding-horizontal": "1ebb65c70a8f92ccc5cc64bb7bb12a0e685f0c01",
-      "dropdown-menu.search.padding-vertical": "879216d8ae1572816e79306d060632760bd508ec",
       "datepicker.weeks.gap": "6328d6cad051d5c5f65cb25fbb2b293756c99456",
       "datepicker.weeks.item.gap": "4ba5fa2d5d8123799ecc76c9bdd35e44260935ae",
       "datepicker.padding": "8fdb97b1b1251cab9cd382367c6f09a5ce4cc173",
@@ -7257,7 +7256,8 @@
       "wheel.popup.vip-bet-amount.width": "24fd20a435c0448e5cbff4e97994164e0027e35a",
       "border-radius.wheel.block": "2aed90deb9ef0aecc4eda521a60024c42b453e0f",
       "opacity.mobile-application.general": "3db556ac993ad389d28c2777f9e3144deefc0516",
-      "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
+      "base": "a5c532527eaae94ec674c0336a49f003b5175d90",
+      "dropdown-menu.search.padding-bottom": "879216d8ae1572816e79306d060632760bd508ec"
     },
     "group": "AWI"
   },
@@ -8855,8 +8855,6 @@
       "dropdown-menu.item.gap-text": "d545d7d05102e66e68788fb357b8d311d51ab591",
       "dropdown-menu.padding-vertical": "1ed8c1cfda5f60d9010ab16d34fdf6482d2ffe61",
       "dropdown-menu.gap": "049ed06de91088448cdb36c053214cf19157ddfb",
-      "dropdown-menu.search.padding-horizontal": "8be58e99499c5ec98adf1f46eea34d9d87756492",
-      "dropdown-menu.search.padding-vertical": "682934d9fbcd7e67d8e1d25c7365f952d7e9b603",
       "datepicker.weeks.gap": "7489a5baa9ad300de32f5d4176a6826ece5d6acf",
       "datepicker.weeks.item.gap": "cfad73d2a43f3724efb467146fc01fdaeb5b8df7",
       "datepicker.padding": "6df4a1667c2d20864d59a18ec2cb0fd967cf4a89",
@@ -8888,7 +8886,9 @@
       "border-radius.wheel.block": "906a22a850bc2d84814f9f58e18b6d53e0708f00",
       "opacity.mobile-application.general": "768e5b54c47e8d850cb5d369955e0275483fe613",
       "base": "f0300a0551b28b3b1e5b1a05b3eab6cdf5ee5379",
-      "border-radius.menu-item": "274640e2cfd306e38c2a2a096acd7c75513942e9"
+      "border-radius.menu-item": "274640e2cfd306e38c2a2a096acd7c75513942e9",
+      "dropdown-menu.padding-horizontal": "80633e6f175362f9933d4aab7062f38170c51530",
+      "dropdown-menu.search.padding-bottom": "682934d9fbcd7e67d8e1d25c7365f952d7e9b603"
     }
   }
 ]

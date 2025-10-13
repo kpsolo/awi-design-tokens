@@ -4331,7 +4331,7 @@
       },
       "icon": {
         "primary": {
-          "value": "{semantic.icon.default.secondary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         },
         "secodary": {

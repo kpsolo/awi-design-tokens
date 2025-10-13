@@ -7404,6 +7404,108 @@
           "type": "color"
         }
       }
+    },
+    "background": {
+      "brand": {
+        "primary": {
+          "default": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-10.a25}",
+            "type": "color"
+          }
+        },
+        "emphasizing": {
+          "default": {
+            "primary": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{semantic.text.brand.secondary}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          },
+          "static": {
+            "primary": {
+              "value": "{core.brand-30.700}",
+              "type": "color",
+              "description": "emphasizing"
+            },
+            "secondary": {
+              "value": "{core.brand-10.600}",
+              "type": "color",
+              "description": "emphasizing"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{core.brand-30.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-30.a20}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          }
+        },
+        "ghost-popup": {
+          "default": {
+            "value": "{semantic.background.brand.tertiary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.tertiary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.tertiary.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.tertiary.disabled}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "spacing": {

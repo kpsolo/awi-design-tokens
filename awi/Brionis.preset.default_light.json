@@ -249,8 +249,8 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "{scale-5}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
       "type": "typography"

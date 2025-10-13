@@ -286,15 +286,9 @@
       },
       "desktop": {
         "special-menu-item": {
-          "close": {
-            "value": "{border-radius.core.400}",
-            "type": "borderRadius",
-            "description": "contextual.header.desktop.special-menu-item"
-          },
-          "opened": {
-            "value": "20px",
-            "type": "borderRadius"
-          }
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius",
+          "description": "contextual.header.desktop.special-menu-item"
         }
       }
     },

@@ -4331,7 +4331,7 @@
       },
       "icon": {
         "primary": {
-          "value": "{semantic.icon.default.primary}",
+          "value": "{semantic.icon.default.secondary}",
           "type": "color"
         },
         "secodary": {
@@ -4340,28 +4340,6 @@
         },
         "tertiary": {
           "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        },
-        "invert": {
-          "primary": {
-            "value": "{semantic.icon.default.primary}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{semantic.icon.default.secondary}",
-            "type": "color"
-          },
-          "tertiary": {
-            "value": "{semantic.icon.default.tertiary}",
-            "type": "color"
-          }
-        },
-        "disabled-primary": {
-          "value": "{semantic.icon.static.primary}",
-          "type": "color"
-        },
-        "disabled-tertiary": {
-          "value": "{semantic.icon.static.tertiary}",
           "type": "color"
         }
       }

@@ -4781,7 +4781,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         },

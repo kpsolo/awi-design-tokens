@@ -8629,7 +8629,22 @@
       "contextual.menu-item.fill.default": "S:a250a3b6fae8129b436d1def7891c778d9987c6e,",
       "contextual.menu-item.fill.hover": "S:5afdc4afae80f13814e208e6d65d0cc990f2e8ca,",
       "contextual.menu-item.fill.active": "S:4a7dcaa526433c6394554ab0db73a0c7b9105a76,",
-      "contextual.menu-item.fill.disabled": "S:4a7180e179bbac041c0196b41351b4f884e9f3e8,"
+      "contextual.menu-item.fill.disabled": "S:4a7180e179bbac041c0196b41351b4f884e9f3e8,",
+      "contextual.dropdown-menu.item.icon.left.default": "S:7213885c334b77c1a3b85d6555d9bf1a7bcce236,",
+      "contextual.dropdown-menu.item.icon.left.selected": "S:7eb84b0067efa563566dc2601376b7f0ebbad1a6,",
+      "contextual.dropdown-menu.item.icon.left.hover": "S:7e5ba0477c9491ab95605f1a12b80a70c186d0e2,",
+      "contextual.dropdown-menu.item.text.primary.default": "S:8bf02efdd40b0fc442a648407c2791c3a7e118f9,",
+      "contextual.dropdown-menu.item.text.primary.selected": "S:28cd2ca408d04f4c58251a3e582503e3a97905fe,",
+      "contextual.dropdown-menu.item.text.primary.hover": "S:7a5789e37788d6028a1a872a1432c17b7f6714fa,",
+      "contextual.dropdown-menu.item.icon.right.default": "S:dd176721623858261edd5e2d1689ce4dbab3f5ca,",
+      "contextual.dropdown-menu.item.icon.right.selected": "S:c98728fabc431e98bd2df59842aa1c9b689435eb,",
+      "contextual.dropdown-menu.item.icon.right.hover": "S:fe5f140b35e46af4792a41f50e595d04041c105a,",
+      "contextual.dropdown-menu.item.text.secondary.default": "S:287fc07071ae21021fd485adb95a3b20846e88bc,",
+      "contextual.dropdown-menu.item.text.secondary.selected": "S:4c92e7e703c417960071488cac0968a115ab9cb6,",
+      "contextual.dropdown-menu.item.text.secondary.hover": "S:8143a749aa8d7aabc1620e640d453314ffd0beb0,",
+      "contextual.dropdown-menu.item.border.default": "S:59df0228195d870fe4d6b04fbc880786e9b3bc1d,",
+      "contextual.dropdown-menu.item.border.selected": "S:3ce690d06e972d257394e7ff5022726f863d4900,",
+      "contextual.dropdown-menu.item.border.hover": "S:30d1e5e54bd6cea9aba89efccea58608926828e6,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

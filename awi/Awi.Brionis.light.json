@@ -290,6 +290,11 @@
           "type": "borderRadius",
           "description": "contextual.header.desktop.special-menu-item"
         }
+      },
+      "special-menu-item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.header.desktop.special-menu-item"
       }
     },
     "menu-item": {
@@ -5344,24 +5349,6 @@
         "type": "color"
       },
       "item": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "hover-active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
-        },
         "new": {
           "fill": {
             "value": "{semantic.gradients.4}",

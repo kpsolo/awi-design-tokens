@@ -89,7 +89,7 @@
       },
       "desktop": {
         "special-menu-item": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius",
           "description": "contextual.header.desktop.special-menu-item"
         }

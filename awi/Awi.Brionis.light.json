@@ -7277,19 +7277,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.50}",
             "type": "color"
           }
         },

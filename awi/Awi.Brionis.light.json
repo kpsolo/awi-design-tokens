@@ -4875,31 +4875,11 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.grey.800a40}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "transparent": {
-          "value": "{core.brand-60.a50}",
-          "type": "color"
-        }
-      },
-      "scroll-horizontal": {
-        "fill": {
-          "value": "{core.brand-60.100a50}",
-          "type": "color"
-        },
-        "static": {
-          "fill": {
-            "value": "{core.brand-60.100a50}",
-            "type": "color"
-          },
-          "dot": {
-            "value": "{core.brand-60.700a50}",
-            "type": "color"
-          }
-        },
-        "dot": {
-          "value": "{core.brand-60.700a50}",
+          "value": "{core.grey.a10}",
           "type": "color"
         }
       }

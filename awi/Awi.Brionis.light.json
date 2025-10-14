@@ -301,6 +301,14 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
+    "slider": {
+      "carousel": {
+        "dots": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      }
+    },
     "wheel": {
       "block": {
         "value": "{border-radius.core.400}",
@@ -5224,6 +5232,14 @@
             "value": "{core.brand-30.50}",
             "type": "color"
           }
+        }
+      }
+    },
+    "slider": {
+      "carousel": {
+        "dots": {
+          "value": "{core.white.a20}",
+          "type": "color"
         }
       }
     },

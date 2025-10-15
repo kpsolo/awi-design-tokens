@@ -4732,7 +4732,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.a20}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         },
@@ -4747,7 +4747,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{semantic.icon.default.tertiary}",
+              "value": "{core.brand-60.300}",
               "type": "color"
             }
           },

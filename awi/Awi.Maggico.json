@@ -4805,6 +4805,12 @@
             "description": "contextual.profile.loyalty_points.fill"
           }
         }
+      },
+      "icon": {
+        "background": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        }
       }
     },
     "news": {
@@ -8307,6 +8313,26 @@
           "type": "typography"
         }
       }
+    },
+    "balance-card": {
+      "balance": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Bold}",
+          "fontSize": "18px",
+          "lineHeight": "20px"
+        },
+        "type": "typography"
+      }
+    },
+    "balance": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "26px",
+        "lineHeight": "34px"
+      },
+      "type": "typography"
     }
   },
   "error-pages": {

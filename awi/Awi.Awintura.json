@@ -3308,6 +3308,12 @@
             "type": "color"
           }
         }
+      },
+      "icon": {
+        "background": {
+          "value": "{core.brand-30.300}",
+          "type": "color"
+        }
       }
     },
     "loyalty": {
@@ -7666,6 +7672,50 @@
       }
     }
   },
+  "profile": {
+    "balance-card": {
+      "balance": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Bold}",
+          "fontSize": "18px",
+          "lineHeight": "20px"
+        },
+        "type": "typography"
+      }
+    },
+    "balance": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "26px",
+        "lineHeight": "34px"
+      },
+      "type": "typography"
+    },
+    "verification": {
+      "item": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{scale-5}",
+          "lineHeight": "{lg}"
+        },
+        "type": "typography"
+      },
+      "loyalty_points": {
+        "sum": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.stronger}",
+            "fontSize": "20px",
+            "lineHeight": "26px"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "achivments": {
     "offers-block": {
       "title": {
@@ -8097,30 +8147,6 @@
       },
       "type": "typography",
       "description": "Story"
-    }
-  },
-  "profile": {
-    "verification": {
-      "item": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "{lg}"
-        },
-        "type": "typography"
-      },
-      "loyalty_points": {
-        "sum": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "20px",
-            "lineHeight": "26px"
-          },
-          "type": "typography"
-        }
-      }
     }
   },
   "tooltip": {

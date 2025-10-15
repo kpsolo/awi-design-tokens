@@ -4382,18 +4382,6 @@
             "value": "{core.grey.50}",
             "type": "color"
           },
-          "badge": {
-            "fill": {
-              "value": "{semantic.text.danger.default}",
-              "type": "color",
-              "description": "badge"
-            },
-            "text": {
-              "value": "{core.white.a100}",
-              "type": "color",
-              "description": "badge"
-            }
-          },
           "icon": {
             "value": "{core.grey.400}",
             "type": "color"
@@ -5352,16 +5340,6 @@
           },
           "text": {
             "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
-        "notification": {
-          "text": {
-            "value": "{semantic.text.default.secondary}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-10.300}",
             "type": "color"
           }
         },
@@ -6423,16 +6401,6 @@
           "value": "{semantic.text.default.heading}",
           "type": "color"
         }
-      },
-      "badge": {
-        "fill": {
-          "value": "{core.validation.danger.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
       }
     },
     "sticky-notifications": {
@@ -6497,6 +6465,44 @@
       "background": {
         "value": "{core.white.a100}",
         "type": "color"
+      }
+    },
+    "badge": {
+      "warning": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
+      },
+      "primary": {
+        "fill": {
+          "value": "{semantic.gradients.7}",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "badge"
+        }
+      },
+      "outlined": {
+        "border": {
+          "value": "{core.brand-10.300}",
+          "type": "color",
+          "description": "badge"
+        },
+        "text": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color",
+          "description": "badge"
+        }
       }
     }
   },

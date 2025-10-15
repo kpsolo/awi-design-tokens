@@ -6634,6 +6634,15 @@
       },
       "type": "typography"
     },
+    "sm-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-2}",
+        "lineHeight": "{xs}"
+      },
+      "type": "typography"
+    },
     "md": {
       "value": {
         "fontFamily": "{main}",

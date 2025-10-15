@@ -8645,7 +8645,8 @@
       "contextual.dropdown-menu.item.border.default": "S:59df0228195d870fe4d6b04fbc880786e9b3bc1d,",
       "contextual.dropdown-menu.item.border.selected": "S:3ce690d06e972d257394e7ff5022726f863d4900,",
       "contextual.dropdown-menu.item.border.hover": "S:30d1e5e54bd6cea9aba89efccea58608926828e6,",
-      "contextual.slider.carousel.dots": "S:39868757062972039f2ea78cf4c41a96e31ff5d3,"
+      "contextual.slider.carousel.dots": "S:39868757062972039f2ea78cf4c41a96e31ff5d3,",
+      "text.sm-stronger": "S:94cbffcc9c5d4adb8c1b38d7406b03e6c9b77843,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

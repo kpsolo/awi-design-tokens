@@ -237,6 +237,12 @@
         "type": "borderRadius"
       }
     },
+    "balance": {
+      "item": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
+    },
     "popup": {
       "mobile": {
         "top-left": {
@@ -2610,6 +2616,14 @@
         }
       }
     },
+    "balance": {
+      "item": {
+        "fill": {
+          "value": "{core.grey.50a50}",
+          "type": "color"
+        }
+      }
+    },
     "wheel": {
       "sector": {
         "fill": {
@@ -4761,7 +4775,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{semantic.icon.default.tertiary}",
+              "value": "{core.brand-60.300}",
               "type": "color"
             }
           }
@@ -5350,16 +5364,6 @@
             "value": "linear-gradient(90deg, {core.brand-10.50a20} 0%, {core.brand-10.50a50} 100%)",
             "type": "color"
           }
-        }
-      },
-      "balance-number": {
-        "indicator": {
-          "value": "conic-gradient(from 90deg at 50% 50%, {core.brand-30.500} 0deg, {core.brand-30.a0} 0deg, {core.brand-30.500} 360deg)",
-          "type": "color"
-        },
-        "indicator-start": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
         }
       },
       "icon": {

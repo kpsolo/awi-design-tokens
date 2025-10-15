@@ -8677,7 +8677,8 @@
       "contextual.tag.text.disabled": "S:62eb2adfbb5cf6eb87fd4fa7c477a24dae22bb59,",
       "contextual.tag.fill.disabled": "S:9410c5158cdda51d6242ebec69e53b7e9772b143,",
       "contextual.tag.icon.disabled": "S:c9198057efb913f7566fd3d7164610e3f25395d1,",
-      "contextual.tag.border.disabled": "S:6f82baa23e3cb69ec449ff6a92bd93a06082127a,"
+      "contextual.tag.border.disabled": "S:6f82baa23e3cb69ec449ff6a92bd93a06082127a,",
+      "contextual.balance.item.fill": "S:65c6168fd4287f0bffc5f459a00f4129336d6080,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -8916,6 +8917,7 @@
       "border-radius.wheel.block": "906a22a850bc2d84814f9f58e18b6d53e0708f00",
       "opacity.mobile-application.general": "768e5b54c47e8d850cb5d369955e0275483fe613",
       "base": "f0300a0551b28b3b1e5b1a05b3eab6cdf5ee5379",
+      "border-radius.balance.item": "b9ade57d8ebadc99a8aef02875a75528659cdded",
       "border-radius.header.desktop.special-menu-item": "9df13aabe47ff5b906723e4589fb31e784939bf3",
       "border-radius.header.special-menu-item": "12317b508ae9aff6e387845d36169dc52f0b1151",
       "border-radius.menu-item": "274640e2cfd306e38c2a2a096acd7c75513942e9",

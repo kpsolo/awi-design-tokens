@@ -1237,7 +1237,6 @@
       "border-radius.homepage.nav-menu.general": "1002802f9e5bf12d7a4b48e3e1fe7e836ca95d3c",
       "border-radius.homepage.nav-menu.button": "3ce35bb7d881d4fb338255931d8993a97c467b40",
       "border-radius.profile.status": "7c63259b288259491aa388415a266c82d8026020",
-      "border-radius.loyalty.chips": "2816ebb91c586b6dfb6ce8014c6bbcee736db82f",
       "border-radius.lootboxes.coefficient": "eb4d591cd6284a8073f6e61d8b1fb2ca348ba916",
       "border-radius.banner": "16131dc69136e324ad90c66747e20b24bd56e11b",
       "border-radius.wheel.popup.general": "62d05d9f0fb7508a74c128aa37d7b0c9aebc7eee",
@@ -1400,7 +1399,8 @@
       "deals.promo-code-button.padding-left": "350361374cdf1d95ab569cf4dd4d8fafac1ed80f",
       "deals.promo-code-button.padding-right": "f32e8a213340dbd7eb6e787234c877698a6b74c2",
       "wheel.popup.vip-bet-amount.width": "1931afb61759d7af796bc23a223b09fc5b52e487",
-      "dropdown-menu.search.padding-bottom": "57acbd3914c0695662b4957e3b5c6aca4bd170f1"
+      "dropdown-menu.search.padding-bottom": "57acbd3914c0695662b4957e3b5c6aca4bd170f1",
+      "border-radius.chips": "2816ebb91c586b6dfb6ce8014c6bbcee736db82f"
     },
     "$figmaCollectionId": "VariableCollectionId:39130:628888",
     "$figmaModeId": "39130:1",
@@ -2594,7 +2594,6 @@
       "border-radius.homepage.nav-menu.general": "82a16f86556519754bc497fb790a1596cea24b2c",
       "border-radius.homepage.nav-menu.button": "e7f775813426cafd09447273382ed80874266e87",
       "border-radius.profile.status": "dfc04a631cd3ac7be51a74a6e41e8e4a21b24766",
-      "border-radius.loyalty.chips": "2ed2cb560609d76a562979ccfba2c63871fce483",
       "border-radius.lootboxes.coefficient": "61a6b46dd451cda2d20ef9ac67189f5224b8eaba",
       "border-radius.banner": "1d2a114c9437234c86a25a5eee8dbcb5025fa47f",
       "border-radius.wheel.popup.general": "27eccf8ea948fc1e9a4200c8611692850d115fe2",
@@ -2756,7 +2755,8 @@
       "deals.promo-code-button.padding-left": "cff97b51183ba1a59e297d5518474cb018569903",
       "deals.promo-code-button.padding-right": "851c7ed4ec0f7dcebbe5c2530f70bfd011f666dd",
       "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21",
-      "dropdown-menu.search.padding-bottom": "7324206f2dc509c59a0bee7263e6c64512b1127e"
+      "dropdown-menu.search.padding-bottom": "7324206f2dc509c59a0bee7263e6c64512b1127e",
+      "border-radius.chips": "2ed2cb560609d76a562979ccfba2c63871fce483"
     },
     "$figmaCollectionId": "VariableCollectionId:38548:410292",
     "$figmaModeId": "38548:0",
@@ -3952,7 +3952,6 @@
       "border-radius.homepage.nav-menu.general": "ecaf67b8f6e489563e813c3ae16d0eb3eba1ad4b",
       "border-radius.homepage.nav-menu.button": "13898ed306d2ec4b02a9a2cb4b1a50f47125a01a",
       "border-radius.profile.status": "6507220b7b1a27b64f388c13eb2e5ae36c28b353",
-      "border-radius.loyalty.chips": "40931d7ba050a68f20178c6d2d40891321c0443a",
       "border-radius.lootboxes.coefficient": "5707c236cc3985d3577f1f66664e0c9074e94ad0",
       "border-radius.banner": "92708adea61f19e458be499c0eff11a0bed412c6",
       "border-radius.wheel.popup.general": "33cb39346dc7aac05ea94946086e25b38672da4f",
@@ -4115,7 +4114,8 @@
       "deals.promo-code-button.padding-left": "4512dea9efecb3e84d73ffb069b8866f720d2e50",
       "deals.promo-code-button.padding-right": "334846b7b43bd125e32174040eb35f1a68c9f656",
       "wheel.popup.vip-bet-amount.width": "c63baede7864be0d1e92ffb0bfe88bfcd60f2660",
-      "dropdown-menu.search.padding-bottom": "4f32242ede9cfce27b8c9f67229f9eff3ff7033c"
+      "dropdown-menu.search.padding-bottom": "4f32242ede9cfce27b8c9f67229f9eff3ff7033c",
+      "border-radius.chips": "40931d7ba050a68f20178c6d2d40891321c0443a"
     },
     "$figmaCollectionId": "VariableCollectionId:40539:1566",
     "$figmaModeId": "40539:0",
@@ -5500,7 +5500,6 @@
       "border-radius.homepage.nav-menu.general": "4ad951e99fadef57cf9b7ae0a6b0ce9dab2d056f",
       "border-radius.homepage.nav-menu.button": "396d2959381f82b305b8e1992ff3ee66e39608f3",
       "border-radius.profile.status": "b23dc4ae38ec9ae4afc4e773f3519627b6538cb7",
-      "border-radius.loyalty.chips": "17d3efbd8b0e42bda5d4e2eeba9180bea5c5f0dd",
       "border-radius.lootboxes.coefficient": "37cbda8e5d0e6cfbf4c90c01968ff465032776ab",
       "border-radius.banner": "0bd38707f7218a1ca47ad0c3f30ec99e65844c93",
       "border-radius.wheel.popup.general": "c8f4a30d187f453ee6ab317f050bf8befe5f8945",
@@ -5665,7 +5664,8 @@
       "wheel.popup.vip-bet-amount.width": "931b171274d57eaecd7efe2dd8bde0df1df81b4c",
       "border-radius.wheel.block": "c909be979c64d409906f42b4319f474cc9c0a0e4",
       "base": "bfd84947b44dc9e4659de09e9d8ed44b962679e9",
-      "dropdown-menu.search.padding-bottom": "dafcd95165a23b205a0cd745502471222d585819"
+      "dropdown-menu.search.padding-bottom": "dafcd95165a23b205a0cd745502471222d585819",
+      "border-radius.chips": "17d3efbd8b0e42bda5d4e2eeba9180bea5c5f0dd"
     },
     "$figmaCollectionId": "VariableCollectionId:42677:395025",
     "$figmaModeId": "42677:0",
@@ -7091,7 +7091,6 @@
       "border-radius.homepage.nav-menu.general": "467f71d751e21ff22bdca1b87ee8295d28d8bd62",
       "border-radius.homepage.nav-menu.button": "5a5867bb5923fc41cf3d3beff8d582e729d9b550",
       "border-radius.profile.status": "54c09fad197240afb0bd3c51df0e8789712cf82e",
-      "border-radius.loyalty.chips": "8d9f4865593c5942bf4fc34aa0d9b2ace75774bc",
       "border-radius.lootboxes.coefficient": "a49c9ceaedd3e7fca6863b480c0f0a9648df087e",
       "border-radius.banner": "7657ded8931e634129da382fbee7c176b01b9b42",
       "border-radius.wheel.popup.general": "5ce5b6739087b5ded3bfd0ce86e64dc7791a1150",
@@ -7257,7 +7256,8 @@
       "border-radius.wheel.block": "2aed90deb9ef0aecc4eda521a60024c42b453e0f",
       "opacity.mobile-application.general": "3db556ac993ad389d28c2777f9e3144deefc0516",
       "base": "a5c532527eaae94ec674c0336a49f003b5175d90",
-      "dropdown-menu.search.padding-bottom": "879216d8ae1572816e79306d060632760bd508ec"
+      "dropdown-menu.search.padding-bottom": "879216d8ae1572816e79306d060632760bd508ec",
+      "border-radius.chips": "8d9f4865593c5942bf4fc34aa0d9b2ace75774bc"
     },
     "group": "AWI"
   },
@@ -8646,7 +8646,38 @@
       "contextual.dropdown-menu.item.border.selected": "S:3ce690d06e972d257394e7ff5022726f863d4900,",
       "contextual.dropdown-menu.item.border.hover": "S:30d1e5e54bd6cea9aba89efccea58608926828e6,",
       "contextual.slider.carousel.dots": "S:39868757062972039f2ea78cf4c41a96e31ff5d3,",
-      "text.sm-stronger": "S:94cbffcc9c5d4adb8c1b38d7406b03e6c9b77843,"
+      "text.sm-stronger": "S:94cbffcc9c5d4adb8c1b38d7406b03e6c9b77843,",
+      "contextual.badge.warning.fill": "S:fcaef94fcc51583f0d320abace23c4adc51f4ce9,",
+      "contextual.badge.warning.text": "S:1527f58c073b7782465f9b45618309f3754ad828,",
+      "contextual.badge.primary.fill": "S:f12bc010a83b78365ea9e0e3e0124bb5666096bf,",
+      "contextual.badge.primary.text": "S:e7099c20ff6bee93322c5104ed11e7ffee883daa,",
+      "contextual.badge.outlined.border": "S:c1bc456a5e6b0fe42aa1c22a150e1bb3216834a8,",
+      "contextual.badge.outlined.text": "S:dd73dfe29e2d41ae8aa5fd963066d85861b04aaf,",
+      "contextual.chips.fill.active": "S:6856d3985a290752130ce7da3f590d845b4b1095,",
+      "contextual.chips.fill.default": "S:6c651cf87d95016fdf47227c828ba0546dbf6e5a,",
+      "contextual.chips.fill.hover": "S:903217cf9123b17c12bcc82af2b06105c31781b9,",
+      "contextual.chips.text.active": "S:2dcd0a94c9f4a2383f51fd93486530d67e1bd3c5,",
+      "contextual.chips.text.default": "S:c602475129cab8a1ff9a0870fca7b43751d49c4a,",
+      "contextual.chips.text.hover": "S:83f0c09201ac37e3c2cb7213063d37e6423fb6f1,",
+      "contextual.chips.icon.active": "S:8c76b250864aebff037c13c41b8559f112ddd9a4,",
+      "contextual.chips.icon.default": "S:44fd465b1a279d3651a65b12c99671c7c382ef0f,",
+      "contextual.chips.icon.hover": "S:30c7a29f395292ce34fdaf482664e0694e911334,",
+      "contextual.chips.border.active": "S:0fb3fd8f4fbe4aa2515505ad1fb10e43cd2a02ef,",
+      "contextual.chips.border.default": "S:f1f6d55a25e9c5c3ab6af7dc380e92264c06c486,",
+      "contextual.chips.border.hover": "S:70e072168fc18620ff4a044fd7c7438e50a7de79,",
+      "core.grey.50a50": "S:f993c15ba9d26e5fb252c3923d8316e4cac23004,",
+      "contextual.tag.text.default": "S:c75e86cb63d6974d50e0ab0d5d93478d0995eba2,",
+      "contextual.tag.text.hover": "S:af7f0da8c45543c1a7b707e05211170a73d66d80,",
+      "contextual.tag.fill.default": "S:b955abe677ee6cb7172c4911ccd7a8d456f1ec00,",
+      "contextual.tag.fill.hover": "S:059784be74cd6280dfc3c4ef6e3f5507dc4c371c,",
+      "contextual.tag.icon.default": "S:1aeb373935df1a1570c58f6faf0aa3f6a477b7cf,",
+      "contextual.tag.icon.hover": "S:13e319d33abc2206a24ce7e23e2a014d3bf4371c,",
+      "contextual.tag.border.default": "S:b7fe1c4f4f8049720f2bd3f52f1012d67dfa2767,",
+      "contextual.tag.border.hover": "S:43b761f2c3f81bb9934c71975d1c707b82e4658e,",
+      "contextual.tag.text.disabled": "S:62eb2adfbb5cf6eb87fd4fa7c477a24dae22bb59,",
+      "contextual.tag.fill.disabled": "S:9410c5158cdda51d6242ebec69e53b7e9772b143,",
+      "contextual.tag.icon.disabled": "S:c9198057efb913f7566fd3d7164610e3f25395d1,",
+      "contextual.tag.border.disabled": "S:6f82baa23e3cb69ec449ff6a92bd93a06082127a,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -8721,7 +8752,6 @@
       "border-radius.segment-control.item": "a5b318e90bf9e9ac3b4bd31089c874d593d272ec",
       "border-radius.homepage.nav-menu.general": "36631dbe1f664e14a96dee993f9ebf0cc246196b",
       "border-radius.profile.status": "6702c172586d548f092bb5847fa2eaf3bec571cb",
-      "border-radius.loyalty.chips": "3cff41bf8fd5fd0a7ba6a7f7e72724d055fd9578",
       "border-radius.lootboxes.coefficient": "811f4a4ed033d4e20d55293db950f02a7c2959d5",
       "border-radius.banner": "08f907ba43076c21ab5437d6b2149b0c041fb761",
       "border-radius.wheel.popup.general": "6b162f64b4c5d3b2dc1f529a4a76a3025bc88205",
@@ -8890,6 +8920,7 @@
       "border-radius.header.special-menu-item": "12317b508ae9aff6e387845d36169dc52f0b1151",
       "border-radius.menu-item": "274640e2cfd306e38c2a2a096acd7c75513942e9",
       "border-radius.slider.carousel.dots": "65b3a492bd2fac8b15fac23e6db58df0ec0a7fcd",
+      "border-radius.chips": "3cff41bf8fd5fd0a7ba6a7f7e72724d055fd9578",
       "dropdown-menu.padding-horizontal": "80633e6f175362f9933d4aab7062f38170c51530",
       "dropdown-menu.search.padding-bottom": "682934d9fbcd7e67d8e1d25c7365f952d7e9b603"
     }

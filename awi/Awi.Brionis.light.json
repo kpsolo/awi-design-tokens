@@ -207,7 +207,7 @@
       }
     },
     "tag": {
-      "value": "{border-radius.core.100}",
+      "value": "{border-radius.core.200}",
       "type": "borderRadius"
     },
     "radio-button": {
@@ -362,11 +362,9 @@
         "type": "borderRadius"
       }
     },
-    "loyalty": {
-      "chips": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      }
+    "chips": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
     },
     "lootboxes": {
       "coefficient": {
@@ -4103,28 +4101,6 @@
       }
     },
     "filter&sort": {
-      "chips": {
-        "fill": {
-          "active": {
-            "value": "{core.brand-60.600}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.brand-60.a10}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "active": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          }
-        }
-      },
       "hidden": {
         "fill": {
           "default": {
@@ -4174,44 +4150,6 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
-      }
-    },
-    "chips": {
-      "popup": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "active": {
-            "value": "{core.brand-30.600}",
-            "type": "color",
-            "description": "Chips"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{core.brand-30.a30}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "hover": {
-            "value": "{core.brand-30.300}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "active": {
-            "value": "{core.brand-30.600}",
-            "type": "color",
-            "description": "Chips"
-          }
-        }
       }
     },
     "toast-notifications": {
@@ -4567,18 +4505,6 @@
             "value": "{core.grey.a20}",
             "type": "color"
           }
-        },
-        "welcome-bonus": {
-          "timer": {
-            "text": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            },
-            "fill": {
-              "value": "{core.validation.danger.600}",
-              "type": "color"
-            }
-          }
         }
       },
       "background": {
@@ -4612,34 +4538,64 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
-      },
-      "notification": {
-        "fill": {
-          "value": "{core.validation.danger.600}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
       }
     },
     "tag": {
       "text": {
-        "value": "{semantic.text.default.primary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color"
+        }
       },
-      "background": {
-        "value": "{semantic.background.slate-1}",
-        "type": "color"
+      "fill": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-10.a10}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{contextual.tag.fill.default}",
+          "type": "color"
+        }
       },
       "icon": {
-        "value": "{semantic.icon.default.secondary}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.icon.default.disabled}",
+          "type": "color"
+        }
       },
-      "icon-hover": {
-        "value": "{semantic.text.default.primary}",
-        "type": "color"
+      "border": {
+        "default": {
+          "value": "{core.brand-10.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{contextual.tag.border.default}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        }
       }
     },
     "selection-controls": {
@@ -5916,44 +5872,6 @@
             "type": "color"
           }
         },
-        "number": {
-          "text2": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-10.600}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.600}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.grey.200}",
-              "type": "color"
-            }
-          },
-          "fill2": {
-            "value": "{core.brand-60.600}",
-            "type": "color"
-          },
-          "fill": {
-            "default": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-30.a15}",
-              "type": "color"
-            }
-          }
-        },
         "line": {
           "default": {
             "value": "{core.white.a0}",
@@ -6502,6 +6420,64 @@
           "value": "{semantic.text.default.secondary}",
           "type": "color",
           "description": "badge"
+        }
+      }
+    },
+    "chips": {
+      "fill": {
+        "active": {
+          "value": "{core.brand-10.a10}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "active": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "active": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "active": {
+          "value": "{core.brand-10.400}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{contextual.chips.border.active}",
+          "type": "color"
         }
       }
     }
@@ -7060,13 +7036,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.300}",
+          "value": "{core.grey.100}",
           "type": "color"
         }
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         },
         "secondary": {

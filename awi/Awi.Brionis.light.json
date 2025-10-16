@@ -6114,7 +6114,7 @@
     }
   },
   "scale-1": {
-    "value": "{base} * 0.625",
+    "value": "{base} * 0.6875",
     "type": "fontSizes"
   },
   "scale-2": {
@@ -6146,7 +6146,7 @@
     "type": "fontSizes"
   },
   "xs": {
-    "value": "16px",
+    "value": "14px",
     "type": "lineHeights"
   },
   "sm": {

@@ -127,28 +127,6 @@
       }
     }
   },
-  "tab-bar": {
-    "padding-top": {
-      "value": "{spacing.100}",
-      "type": "spacing"
-    },
-    "item": {
-      "gap": {
-        "value": "-2px",
-        "type": "spacing"
-      }
-    },
-    "item-main": {
-      "gap": {
-        "value": "-4px",
-        "type": "spacing"
-      }
-    },
-    "padding-bottom": {
-      "value": "8px",
-      "type": "spacing"
-    }
-  },
   "border-radius": {
     "core": {
       "0": {
@@ -1280,22 +1258,18 @@
       "type": "boxShadow"
     },
     "tab-bar": {
-      "item": {
-        "active": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{blur.0}",
-              "spread": "{depth.0}",
-              "color": "{core.white.a0}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow",
-          "description": "0px 0px 4px 0px #E028FD"
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.50}",
+          "blur": "{blur.100}",
+          "spread": "{depth.0}",
+          "color": "{core.brand-10.a30}",
+          "type": "dropShadow"
         }
-      }
+      ],
+      "type": "boxShadow",
+      "description": "0px 0px 4px 0px #E028FD"
     },
     "datepicker": {
       "value": "{shadow.drop.small}",
@@ -7549,13 +7523,6 @@
     "max-width": {
       "value": "1560px",
       "type": "sizing"
-    },
-    "tab-bar": {
-      "main-icon": {
-        "value": "{size.600}",
-        "type": "sizing",
-        "description": "Tab menu_main"
-      }
     }
   },
   "input": {

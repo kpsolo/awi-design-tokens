@@ -8729,7 +8729,8 @@
       "contextual.tabs.item.banner.icon.hover": "S:d366d2501d354f0017d5d8f52985821f6440278a,",
       "contextual.tabs.item.banner.icon.disabled": "S:c8677f99623f76ba21d412b33922081f41c8095a,",
       "contextual.tabs.line.normal": "S:3aa61543bd64b0163bf333e403d2fa983b18e2b8,",
-      "contextual.tabs.line.banner": "S:f8d26b915824f5f85a096d7396a1ba1da8684be4,"
+      "contextual.tabs.line.banner": "S:f8d26b915824f5f85a096d7396a1ba1da8684be4,",
+      "shadow.tab-bar": "S:229164c0fdb5b2a9e818e7888ecaf197fa5657f9,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",
@@ -8765,10 +8766,6 @@
       "button.icon-only-type.size.sm": "4337640b6dcdcfaa192319969ca1fc977f4e4816",
       "button.icon-only-type.size.md": "e96fd9da13b18413cac5cc7bb3c764cb2d391557",
       "button.icon-only-type.size.lg": "baaea868ab6bebfa3876fe05047d2b1e68f51e7e",
-      "tab-bar.padding-top": "dec6b3be3a05d8382f0733e8a044fe1662ca8b3d",
-      "tab-bar.item.gap": "9454443f407f78542780444cc460d363bfe1fa61",
-      "tab-bar.item-main.gap": "c18ec563e88e029903a919bd9300635eb21120e2",
-      "tab-bar.padding-bottom": "6a440cc2af60f1d5ceff25a079bbffc868a1dd13",
       "border-radius.core.0": "cb4b585d753d8a0af540a20cd1cdfbf90c232b02",
       "border-radius.core.100": "f519ce69a8cb26eecb9e3945ea09b60257d169ce",
       "border-radius.core.200": "5761765f36fc8d7d497493329e08f784a3691962",
@@ -8901,7 +8898,6 @@
       "size.600": "90406739e64a847e717b7e9d9768f2f60cf80bfe",
       "size.800": "5501bdbfb38d4528ce7bed46500ed2b2bb28a54b",
       "content.max-width": "081d26e7887e63d158e0916a79c97b04377077f0",
-      "content.tab-bar.main-icon": "323bdcbba80c06821578d008bf197a15f1c1f097",
       "input.height.sm": "9d427ec677d171b4e98f816759114a9b9a2b5f99",
       "input.height.xs": "80f6433f202b9097d4a2f2995fa94f0e84c78660",
       "input.height.md": "f8a0513e05e1bfe5c708fa76528571a61b0ec53a",

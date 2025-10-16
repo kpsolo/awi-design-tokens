@@ -214,6 +214,10 @@
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
     },
+    "label&timer": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
     "checkbox": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
@@ -7432,19 +7436,6 @@
       "menu-items": {
         "value": "{heading.ml}",
         "type": "typography"
-      }
-    },
-    "mobile": {
-      "welcome-bonus": {
-        "timer": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
-          },
-          "type": "typography"
-        }
       }
     }
   },

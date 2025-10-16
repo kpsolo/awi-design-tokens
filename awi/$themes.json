@@ -8678,7 +8678,8 @@
       "contextual.tag.fill.disabled": "S:9410c5158cdda51d6242ebec69e53b7e9772b143,",
       "contextual.tag.icon.disabled": "S:c9198057efb913f7566fd3d7164610e3f25395d1,",
       "contextual.tag.border.disabled": "S:6f82baa23e3cb69ec449ff6a92bd93a06082127a,",
-      "contextual.balance.item.fill": "S:65c6168fd4287f0bffc5f459a00f4129336d6080,"
+      "contextual.balance.item.fill": "S:65c6168fd4287f0bffc5f459a00f4129336d6080,",
+      "contextual.footer.block.fill": "S:af781a6ad345176534b84423794aeaf24648985f,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

@@ -5591,63 +5591,17 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.white.a100}",
         "type": "color"
+      },
+      "block": {
+        "fill": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        }
       },
       "border": {
         "value": "{core.white.a0}",
-        "type": "color"
-      },
-      "elipse": {
-        "fill": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        }
-      },
-      "social": {
-        "fill": {
-          "value": "{core.brand-60.50}",
-          "type": "color"
-        },
-        "icon": {
-          "hover": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.brand-60.300}",
-            "type": "color"
-          }
-        }
-      },
-      "block-links": {
-        "link": {
-          "default": {
-            "value": "{semantic.link.default.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.link.default.hover}",
-            "type": "color"
-          }
-        }
-      },
-      "heading": {
-        "value": "{semantic.text.default.heading}",
-        "type": "color"
-      },
-      "text": {
-        "secondary": {
-          "value": "{semantic.text.default.tertiary}",
-          "type": "color"
-        },
-        "primary": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        }
-      },
-      "text-overlay": {
-        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
         "type": "color"
       }
     },

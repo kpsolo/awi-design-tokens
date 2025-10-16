@@ -5969,7 +5969,7 @@
           "type": "color"
         },
         "special": {
-          "value": "{semantic.text.default.tertiary}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "background": {
@@ -6023,7 +6023,7 @@
           "type": "color"
         },
         "active": {
-          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
+          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
           "type": "color"
         },
         "special": {

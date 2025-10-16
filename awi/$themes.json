@@ -8680,7 +8680,13 @@
       "contextual.tag.border.disabled": "S:6f82baa23e3cb69ec449ff6a92bd93a06082127a,",
       "contextual.balance.item.fill": "S:65c6168fd4287f0bffc5f459a00f4129336d6080,",
       "contextual.footer.block.fill": "S:af781a6ad345176534b84423794aeaf24648985f,",
-      "contextual.header.desktop.special-menu-item.border": "S:5197a6e8c24f93078cf04a47094dcaace3054d80,"
+      "contextual.header.desktop.special-menu-item.border": "S:5197a6e8c24f93078cf04a47094dcaace3054d80,",
+      "contextual.label.timer.fill": "S:2bac4dc596b6f0507a8821daed52036fcd260622,",
+      "contextual.label.timer.text": "S:1ab20afaeb678f2a95e942a1a44501eda65c9fb7,",
+      "contextual.label.timer.icon": "S:4c09efff647cef4004c60b8916d9d7cbc2610109,",
+      "contextual.label.primary.fill": "S:eafa36739e8dc4e662bbb82b0879cc5299b4a620,",
+      "contextual.label.primary.text": "S:366a4c31e8aa8ec72d21cae5fa3c52ae67773ef0,",
+      "contextual.label.primary.icon": "S:ae01a6498f24a15b485a172765e11f24d7e569dd,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

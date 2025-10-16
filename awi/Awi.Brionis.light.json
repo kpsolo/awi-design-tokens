@@ -316,7 +316,7 @@
     },
     "segment-control": {
       "item": {
-        "value": "{border-radius.core.full}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius",
         "description": "contextual.segment-control.item"
       }
@@ -5243,12 +5243,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.brand-60.a10}",
-        "type": "color",
-        "description": "Segment Control"
-      },
-      "devider": {
-        "value": "{core.white.a0}",
+        "value": "{core.grey.50}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -5260,12 +5255,12 @@
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Segment Control"
           }
@@ -5282,16 +5277,45 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "active": {
+            "value": "{semantic.icon.brand.static}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.grey.a0}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{core.grey.50}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "active": {
+            "value": "{core.grey.100}",
             "type": "color",
             "description": "Segment Control"
           }
         }
-      },
-      "border": {
-        "value": "{core.brand-60.a0}",
-        "type": "color",
-        "description": "Segment Control"
       },
       "tabs": {
         "popup": {

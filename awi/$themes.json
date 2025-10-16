@@ -8730,7 +8730,13 @@
       "contextual.tabs.item.banner.icon.disabled": "S:c8677f99623f76ba21d412b33922081f41c8095a,",
       "contextual.tabs.line.normal": "S:3aa61543bd64b0163bf333e403d2fa983b18e2b8,",
       "contextual.tabs.line.banner": "S:f8d26b915824f5f85a096d7396a1ba1da8684be4,",
-      "shadow.tab-bar": "S:229164c0fdb5b2a9e818e7888ecaf197fa5657f9,"
+      "shadow.tab-bar": "S:fb6088771db21fe2f46da60931e46b6564cbdce5,",
+      "contextual.segment-control.item.icon.default": "S:51a5f85e132540db45ecffa6b9f190e02873c2c8,",
+      "contextual.segment-control.item.icon.hover": "S:7360029e19f4f60d3ada79f9567aaa80c41d035c,",
+      "contextual.segment-control.item.icon.active": "S:f760da8bd9a0d0b4e85b8ab95d3abb73728d1e66,",
+      "contextual.segment-control.item.border.default": "S:f25c8e4f6c8fe82a7f475224c967383c7158aa60,",
+      "contextual.segment-control.item.border.hover": "S:00b3beb46dd6731b597a2ddbacf4dd9c57ce4139,",
+      "contextual.segment-control.item.border.active": "S:69fe87c5e995dac6c98ff831679bd9ea7456d503,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

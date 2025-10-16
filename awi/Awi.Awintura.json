@@ -5326,6 +5326,20 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "line-copy": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "pop-up": {

@@ -6009,7 +6009,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.a30}",
+          "value": "linear-gradient(90deg, {core.brand-10.a10} 0%, {core.brand-10.500} 25%, {core.brand-10.500}  50%,{core.brand-10.500}  75%, {core.brand-10.a10} 100%)",
           "type": "color"
         },
         "special": {

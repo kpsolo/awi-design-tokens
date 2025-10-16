@@ -5947,11 +5947,87 @@
       },
       "text": {
         "default": {
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "special": {
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
           "value": "{semantic.text.default.tertiary}",
           "type": "color"
         },
         "active": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
+        },
+        "special": {
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color"
+        },
+        "background": {
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "special": {
+              "value": "{semantic.gradients.8}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "special": {
+              "value": "{core.white.a10}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "active": {
           "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "special": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "elipse": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "special": {
+          "value": "{core.white.a0}",
           "type": "color"
         }
       }

@@ -2774,12 +2774,12 @@
       "3": {
         "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-preset.white} 51.44%, {core.brand-60.50} 100%)",
         "type": "color",
-        "description": "+gradient popup"
+        "description": "gradient popup"
       },
       "4": {
         "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
         "type": "color",
-        "description": "+gradients.orange 500"
+        "description": "gradients.orange 500"
       },
       "5": {
         "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",
@@ -2797,9 +2797,9 @@
         "description": "no used"
       },
       "8": {
-        "value": "linear-gradient(180deg, {core.white.a100} 0%, {core.brand-60.100} 100%)",
+        "value": "radial-gradient(70% 70% at 38% 32%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
         "type": "color",
-        "description": "gradients.Brown 550"
+        "description": "+ tab bar special button "
       },
       "9": {
         "value": "{core.brand-60.700}",
@@ -2812,18 +2812,17 @@
               "space": "lch"
             }
           }
-        },
-        "description": "+ "
+        }
       },
       "10": {
         "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
         "type": "color",
-        "description": "+gradients.Emerald 600"
+        "description": "gradients.Emerald 600"
       },
       "11": {
         "value": "{core.brand-60.50}",
         "type": "color",
-        "description": "+gradients.Black 600"
+        "description": "gradients.Black 600"
       },
       "12": {
         "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a10} 0%, {core.brand-60.a0} 100%)",

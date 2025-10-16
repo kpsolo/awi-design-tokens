@@ -5961,7 +5961,7 @@
       },
       "icon": {
         "default": {
-          "value": "{semantic.text.default.tertiary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         },
         "active": {

@@ -681,7 +681,7 @@
     "tabs": {
       "line": {
         "value": {
-          "color": "{contextual.tabs.line}",
+          "color": "{contextual.tabs.line.normal}",
           "width": "{depth.025}",
           "style": "solid"
         },

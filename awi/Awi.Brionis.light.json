@@ -650,7 +650,7 @@
     "tabs": {
       "line": {
         "value": {
-          "color": "{contextual.tabs.line}",
+          "color": "{contextual.tabs.line.normal}",
           "width": "{depth.025}",
           "style": "solid"
         },
@@ -5489,8 +5489,14 @@
     },
     "tabs": {
       "line": {
-        "value": "{core.grey.a8}",
-        "type": "color"
+        "normal": {
+          "value": "{core.grey.a10}",
+          "type": "color"
+        },
+        "banner": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
       },
       "item": {
         "normal": {

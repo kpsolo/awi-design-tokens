@@ -8727,7 +8727,9 @@
       "contextual.tabs.item.banner.icon.default": "S:b4daa5cd474f0e5afa7b8884fb41aff36fa2fe63,",
       "contextual.tabs.item.banner.icon.active": "S:a867c720723d81cd10a047a4fc27c958c6b7cf2f,",
       "contextual.tabs.item.banner.icon.hover": "S:d366d2501d354f0017d5d8f52985821f6440278a,",
-      "contextual.tabs.item.banner.icon.disabled": "S:c8677f99623f76ba21d412b33922081f41c8095a,"
+      "contextual.tabs.item.banner.icon.disabled": "S:c8677f99623f76ba21d412b33922081f41c8095a,",
+      "contextual.tabs.line.normal": "S:3aa61543bd64b0163bf333e403d2fa983b18e2b8,",
+      "contextual.tabs.line.banner": "S:f8d26b915824f5f85a096d7396a1ba1da8684be4,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

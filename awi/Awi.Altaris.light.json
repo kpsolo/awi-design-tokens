@@ -1098,6 +1098,21 @@
           }
         }
       },
+      "deals": {
+        "slate-1": {
+          "active": {
+            "value": {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{blur.100}",
+              "spread": "{depth.0}",
+              "color": "{core.brand-30.50}",
+              "type": "innerShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      },
       "slate-2": {
         "default": {
           "value": {
@@ -2930,6 +2945,16 @@
             },
             "inactive": {
               "value": "{core.grey.a15}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "deals": {
+        "slate1": {
+          "fill": {
+            "active": {
+              "value": "{core.white.a30}",
               "type": "color"
             }
           }

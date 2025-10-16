@@ -2990,6 +2990,16 @@
             }
           }
         }
+      },
+      "deals": {
+        "slate1": {
+          "fill": {
+            "active": {
+              "value": "{core.white.a30}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "up-button": {

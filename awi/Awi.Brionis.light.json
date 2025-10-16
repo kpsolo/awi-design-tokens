@@ -6009,7 +6009,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.text.default.heading}",
+          "value": "{core.brand-10.a30}",
           "type": "color"
         },
         "special": {
@@ -6023,7 +6023,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.text.default.heading}",
+          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
           "type": "color"
         },
         "special": {

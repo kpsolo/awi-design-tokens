@@ -4011,46 +4011,60 @@
       }
     },
     "filter&sort": {
-      "hidden": {
+      "item": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.brand-10.a10}",
             "type": "color"
           }
         },
-        "content": {
+        "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
-          }
-        },
-        "icon": {
-          "sorting": {
-            "default": {
-              "value": "{semantic.text.default.heading}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
           }
         },
         "border": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         }

@@ -4926,11 +4926,11 @@
         },
         "static": {
           "fill": {
-            "value": "{core.brand-60.100a50}",
+            "value": "{core.white.a25}",
             "type": "color"
           },
           "dot": {
-            "value": "{core.brand-60.700a50}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

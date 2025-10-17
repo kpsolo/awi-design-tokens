@@ -945,7 +945,7 @@
     "tabs": {
       "line": {
         "value": {
-          "color": "{core.brand-30.a15}",
+          "color": "{contextual.tabs.line}",
           "width": "{depth.025}",
           "style": "solid"
         },

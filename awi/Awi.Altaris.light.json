@@ -7968,7 +7968,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "footer": {
-        "value": "{core.brand-60.50a25}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "page": {

@@ -7013,7 +7013,11 @@
       "contextual.messages.bottom.border": "S:c5a00d42b9bcf1167c924ee2f3e08ef9da8fbed5,",
       "contextual.email.backgrounf.header": "S:e235dc11d982d9d1470f8a5679fb65afc935b1a4,",
       "contextual.email.backgrounf.fill": "S:ce59dd343325483c35d5095916d5bad8a6415d2e,",
-      "shadow.messages.notification": "S:a4bbdb08c991ca5c4a679d8870cf5beebbf31b38,"
+      "shadow.messages.notification": "S:a4bbdb08c991ca5c4a679d8870cf5beebbf31b38,",
+      "contextual.icon-graphic.deals.slate1.fill.active": "S:1f32acda667519ffa8ddd92e076cd3ac56b8c074,",
+      "core.brand-60.100a50": "S:0935a600f2d4a5ab113c2534c27506f68487883c,",
+      "core.brand-60.700a50": "S:18bc5620d4aa250fff12c25347ef1b1c947f1d14,",
+      "shadow.icon-graphic.deals.slate-1.active": "S:53b12c645a72e61ae9e2208e95979a0bab196555,"
     },
     "selectedTokenSets": {
       "Awi.Altaris.light": "enabled",
@@ -7091,6 +7095,7 @@
       "border-radius.homepage.nav-menu.general": "467f71d751e21ff22bdca1b87ee8295d28d8bd62",
       "border-radius.homepage.nav-menu.button": "5a5867bb5923fc41cf3d3beff8d582e729d9b550",
       "border-radius.profile.status": "54c09fad197240afb0bd3c51df0e8789712cf82e",
+      "border-radius.loyalty.chips": "8d9f4865593c5942bf4fc34aa0d9b2ace75774bc",
       "border-radius.lootboxes.coefficient": "a49c9ceaedd3e7fca6863b480c0f0a9648df087e",
       "border-radius.banner": "7657ded8931e634129da382fbee7c176b01b9b42",
       "border-radius.wheel.popup.general": "5ce5b6739087b5ded3bfd0ce86e64dc7791a1150",
@@ -7225,6 +7230,7 @@
       "dropdown-menu.padding-vertical": "562d278cc7e8c3d56190eee7cb37db582bdf1c40",
       "dropdown-menu.gap": "b38772d4857053a8b5fb56152a658b04bc3675e1",
       "dropdown-menu.search.padding-horizontal": "1ebb65c70a8f92ccc5cc64bb7bb12a0e685f0c01",
+      "dropdown-menu.search.padding-vertical": "879216d8ae1572816e79306d060632760bd508ec",
       "datepicker.weeks.gap": "6328d6cad051d5c5f65cb25fbb2b293756c99456",
       "datepicker.weeks.item.gap": "4ba5fa2d5d8123799ecc76c9bdd35e44260935ae",
       "datepicker.padding": "8fdb97b1b1251cab9cd382367c6f09a5ce4cc173",
@@ -7255,9 +7261,7 @@
       "wheel.popup.vip-bet-amount.width": "24fd20a435c0448e5cbff4e97994164e0027e35a",
       "border-radius.wheel.block": "2aed90deb9ef0aecc4eda521a60024c42b453e0f",
       "opacity.mobile-application.general": "3db556ac993ad389d28c2777f9e3144deefc0516",
-      "base": "a5c532527eaae94ec674c0336a49f003b5175d90",
-      "dropdown-menu.search.padding-bottom": "879216d8ae1572816e79306d060632760bd508ec",
-      "border-radius.chips": "8d9f4865593c5942bf4fc34aa0d9b2ace75774bc"
+      "base": "a5c532527eaae94ec674c0336a49f003b5175d90"
     },
     "group": "AWI"
   },

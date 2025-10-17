@@ -154,6 +154,16 @@
         "type": "borderRadius"
       }
     },
+    "switcher": {
+      "general": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      },
+      "item": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
+      }
+    },
     "button": {
       "sm": {
         "value": "{border-radius.core.300}",
@@ -3196,35 +3206,53 @@
       }
     },
     "switcher": {
-      "fill": {
-        "default": {
-          "value": "{core.white.a90}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.background.brand.primary.default}",
-          "type": "color"
-        },
-        "text": {
+      "item": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a80}",
+            "type": "color"
+          },
           "active": {
             "value": "{core.white.a100}",
             "type": "color"
+          }
+        },
+        "text": {
+          "active": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
           },
-          " inactive": {
-            "value": "{core.grey.800}",
+          "hover": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.default.secondary}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.grey.a8}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.grey.100}",
             "type": "color"
           }
         }
       },
-      "border": {
-        "default": {
-          "value": "linear-gradient(89deg, #D29D61 0%, #FFEFDD 330%, #FAEDDF 70%, #B36D1E 100%)",
-          "type": "color"
-        },
-        "general": {
-          "value": "{core.grey.a8}",
-          "type": "color"
-        }
+      "fill": {
+        "value": "{core.grey.50}",
+        "type": "color"
       }
     },
     "messages": {

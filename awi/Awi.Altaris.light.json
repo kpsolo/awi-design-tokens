@@ -1432,9 +1432,9 @@
             "value": {
               "x": "{depth.0}",
               "y": "{depth.50}",
-              "blur": "{blur.100}",
+              "blur": "{blur.0}",
               "spread": "",
-              "color": "{core.grey.a50}",
+              "color": "{core.white.a0}",
               "type": "dropShadow"
             },
             "type": "boxShadow"

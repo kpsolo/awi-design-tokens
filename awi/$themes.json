@@ -8794,7 +8794,13 @@
       "contextual.selection-controls.controls.toggle.bullet.unselected.disabled": "S:b47cdc830231e403a9a7e779cfe7cf545cc42e5c,",
       "contextual.selection-controls.controls.toggle.fill.unselected.default": "S:1787e94357f83f5c235bed984c80706f42768b8e,",
       "contextual.selection-controls.controls.toggle.fill.unselected.hover": "S:6f02342e7d5aee4c484aeb57cd3d2d350cff2163,",
-      "contextual.selection-controls.controls.toggle.fill.unselected.disabled": "S:b3ded2d1fbe97fd4d8caf035f44fd359963e22c9,"
+      "contextual.selection-controls.controls.toggle.fill.unselected.disabled": "S:b3ded2d1fbe97fd4d8caf035f44fd359963e22c9,",
+      "contextual.switcher.fill.default": "S:35d52449e7e4bb8f7ac8067506a8a906f6d8fda0,",
+      "contextual.switcher.fill.active": "S:8eebea5d9fe0a20c70fbdf79e24dbaa145230bbf,",
+      "contextual.switcher.fill.text.active": "S:cd64e7be323b7c9cf9417e830d2d1b102aeb5bd7,",
+      "contextual.switcher.fill.text. inactive": "S:f204ebcd472183b38eba6b49ae64f4de75880fbc,",
+      "contextual.switcher.border.default": "S:a579762de00a07cc34e3b293e4d97a927476ac9c,",
+      "contextual.switcher.border.general": "S:a8ca9f27bd0a1039f5432fbccb3c931f93616b5f,"
     },
     "selectedTokenSets": {
       "Brionis.preset.default_light": "enabled",

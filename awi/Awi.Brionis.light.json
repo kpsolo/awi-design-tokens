@@ -4467,7 +4467,7 @@
     "selection-controls": {
       "label": {
         "default": {
-          "value": "{core.grey.800}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "disabled": {

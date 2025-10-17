@@ -626,22 +626,6 @@
       }
     },
     "tabs": {
-      "line": {
-        "value": {
-          "color": "{contextual.tabs.line.normal}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "line-banners": {
-        "value": {
-          "color": "{core.white.a10}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
       "item": {
         "default": {
           "value": {

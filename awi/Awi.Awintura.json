@@ -2677,7 +2677,7 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.brand-60.a30}",
             "type": "color"
           },
           "text": {

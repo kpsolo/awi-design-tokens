@@ -5541,7 +5541,7 @@
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "{semantic.background.slate-5}",
+            "value": "{core.brand-60.600}",
             "type": "color"
           },
           "active": {

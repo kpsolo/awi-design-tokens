@@ -944,12 +944,22 @@
     },
     "tabs": {
       "line": {
-        "value": {
-          "color": "{contextual.tabs.line}",
-          "width": "{depth.025}",
-          "style": "solid"
+        "default": {
+          "value": {
+            "color": "{contextual.tabs.line}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
         },
-        "type": "border"
+        "pop-up": {
+          "value": {
+            "color": "{contextual.tabs.line}",
+            "width": "{depth.025}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       },
       "item": {
         "active": {
@@ -3751,6 +3761,10 @@
               "type": "color"
             }
           }
+        },
+        "line": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
         }
       },
       "item": {

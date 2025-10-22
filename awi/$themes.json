@@ -2527,7 +2527,20 @@
       "contextual.homepage.thumb-providers.background.fill": "S:90dd2298d662189838f738ab555100eda4c9913a,",
       "contextual.homepage.thumb-providers.background.border": "S:0b45658d629e2c60f270f2283759c724285b508f,",
       "contextual.lottery-tournament.tiket.background.fill": "S:03683c6e0fd1a3580ea16e4b3832bc03bfef9750,",
-      "contextual.payment-method.fill": "S:51207fa061b13db296cab6327ef37c9ff2834f01,"
+      "contextual.payment-method.fill": "S:51207fa061b13db296cab6327ef37c9ff2834f01,",
+      "contextual.mobile-application.card.background.fill": "S:c1125472fec2af0054f1aa1a0d97ac41a4ca6373,",
+      "contextual.profile.icon.background": "S:6a24a2448e09988e847bd1ba8bea8b9088af3a3d,",
+      "contextual.loyalty.route.line.direction.fill1": "S:eaca6e0b6fb7b852ab5374f705d93855f886c1b4,",
+      "contextual.loyalty.route.line.direction.fill2": "S:306ee13f3695423f76a9a4592f0ec2bb4c08ec3f,",
+      "contextual.loyalty.pop-up.background": "S:b617d26ea16d3d4add81d5c664d8e8fde38f66c4,",
+      "contextual.bullet.slate1": "S:99d69cbacd012e235d95958c9193a01520ab7123,",
+      "contextual.ingame.slotmachine.border": "S:4d71c28326d5ea3a2d24bbaef20d1aa5ff1ef7c4,",
+      "contextual.gamehall.thumb-providers.background.fill": "S:7aa4511a2f5c04bd13ec4d0b1fac5f8f64f1d050,",
+      "contextual.gamehall.thumb-providers.background.border": "S:6c42629f6b54fe7f96b6ad9fc01ec4a6fe8c7818,",
+      "core.brand-30.a20": "S:f13b4612fe64463ac64469e5de246858250e2dcb,",
+      "profile.balance-card.balance": "S:c5b40c41f507c0b7fc7724769abd757b6a89ba8a,",
+      "profile.balance": "S:5ef314203b591eed468f4eaa458de0202cacfeb7,",
+      "shadow.timer.lower": "S:269816b45fdb847fe881620cd04818d017c8cd4d,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"
@@ -2602,6 +2615,7 @@
       "border-radius.homepage.nav-menu.general": "82a16f86556519754bc497fb790a1596cea24b2c",
       "border-radius.homepage.nav-menu.button": "e7f775813426cafd09447273382ed80874266e87",
       "border-radius.profile.status": "dfc04a631cd3ac7be51a74a6e41e8e4a21b24766",
+      "border-radius.loyalty.chips": "2ed2cb560609d76a562979ccfba2c63871fce483",
       "border-radius.lootboxes.coefficient": "61a6b46dd451cda2d20ef9ac67189f5224b8eaba",
       "border-radius.banner": "1d2a114c9437234c86a25a5eee8dbcb5025fa47f",
       "border-radius.wheel.popup.general": "27eccf8ea948fc1e9a4200c8611692850d115fe2",
@@ -2735,6 +2749,7 @@
       "dropdown-menu.padding-vertical": "138c55d3642daeb16fafe074fa9f16bcf2283cff",
       "dropdown-menu.gap": "292cce9057a17352563547fba5da21b730013cb9",
       "dropdown-menu.search.padding-horizontal": "c066fdb27a98e7d40b0dcbaf72b16e44b128ecf9",
+      "dropdown-menu.search.padding-vertical": "7324206f2dc509c59a0bee7263e6c64512b1127e",
       "datepicker.weeks.gap": "95dfb99bb33121c132ebf423c31530b2fa220731",
       "datepicker.weeks.item.gap": "44596a1a424a7bd11d085e85df6faa7bee02ef26",
       "datepicker.padding": "a4e93d31a291680459c9877406a9fb0dfd04b1a5",
@@ -2762,9 +2777,7 @@
       "popup.loyalty.map": "9d2b28c5925a5c3f01973be7e5d3ff311f036467",
       "deals.promo-code-button.padding-left": "cff97b51183ba1a59e297d5518474cb018569903",
       "deals.promo-code-button.padding-right": "851c7ed4ec0f7dcebbe5c2530f70bfd011f666dd",
-      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21",
-      "dropdown-menu.search.padding-bottom": "7324206f2dc509c59a0bee7263e6c64512b1127e",
-      "border-radius.chips": "2ed2cb560609d76a562979ccfba2c63871fce483"
+      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21"
     },
     "$figmaCollectionId": "VariableCollectionId:38548:410292",
     "$figmaModeId": "38548:0",

@@ -954,7 +954,7 @@
         },
         "pop-up": {
           "value": {
-            "color": "{contextual.tabs.line}",
+            "color": "{contextual.tabs.pop-up.line}",
             "width": "{depth.025}",
             "style": "solid"
           },
@@ -3763,7 +3763,7 @@
           }
         },
         "line": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.brand-30.a15}",
           "type": "color"
         }
       },

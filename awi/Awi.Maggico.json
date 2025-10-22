@@ -7578,27 +7578,27 @@
       "type": "dimension"
     },
     "m025": {
-      "value": "-1px",
+      "value": "-1.1px",
       "type": "dimension"
     },
     "m100": {
-      "value": "-4px",
+      "value": "-4.1px",
       "type": "dimension"
     },
     "m200": {
-      "value": "-8px",
+      "value": "-8.1px",
       "type": "dimension"
     },
     "m400": {
-      "value": "-16px",
+      "value": "-16.1px",
       "type": "dimension"
     },
     "m800": {
-      "value": "-32px",
+      "value": "-32.1px",
       "type": "dimension"
     },
     "m1200": {
-      "value": "-48px",
+      "value": "-48.1px",
       "type": "dimension"
     }
   },

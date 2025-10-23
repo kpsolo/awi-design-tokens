@@ -6027,7 +6027,7 @@
         "type": "color"
       },
       "dark": {
-        "value": "{core.grey.a30}",
+        "value": "{core.grey.900}",
         "type": "color"
       }
     }

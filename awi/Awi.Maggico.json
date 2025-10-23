@@ -6016,6 +6016,20 @@
           }
         }
       }
+    },
+    "skeleton": {
+      "value": "#FFFFFF0D",
+      "type": "color"
+    },
+    "loader": {
+      "light": {
+        "value": "{core.brand-10.400}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{core.grey.a30}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

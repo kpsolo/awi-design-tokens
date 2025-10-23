@@ -5767,6 +5767,20 @@
           }
         }
       }
+    },
+    "loader": {
+      "light": {
+        "value": "{core.brand-10.400}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{core.grey.a30}",
+        "type": "color"
+      }
+    },
+    "skeleton": {
+      "value": "#FFFFFF0D",
+      "type": "color"
     }
   },
   "scale-1": {

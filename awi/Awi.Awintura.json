@@ -5778,8 +5778,12 @@
         "type": "color"
       }
     },
-    "skeleton": {
-      "value": "#FFFFFF0D",
+    "skeleton1": {
+      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
+      "type": "color"
+    },
+    "skeleton2": {
+      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%);",
       "type": "color"
     }
   },

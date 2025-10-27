@@ -6017,10 +6017,6 @@
         }
       }
     },
-    "skeleton": {
-      "value": "#FFFFFF0D",
-      "type": "color"
-    },
     "loader": {
       "light": {
         "value": "{core.brand-10.400}",
@@ -6030,6 +6026,14 @@
         "value": "{core.grey.900}",
         "type": "color"
       }
+    },
+    "skeleton1": {
+      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
+      "type": "color"
+    },
+    "skeleton2": {
+      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%);",
+      "type": "color"
     }
   },
   "scale-1": {

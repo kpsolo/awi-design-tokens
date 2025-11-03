@@ -3101,6 +3101,26 @@
             "type": "color"
           }
         }
+      },
+      "girl": {
+        "bottom": {
+          "elipse-1": {
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.brand-10.a5} 100%)",
+            "type": "color"
+          },
+          "elipse-2": {
+            "value": "{core.brand-10.a50}",
+            "type": "color"
+          },
+          "elipse-3": {
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a50} 0%, {core.brand-10.a5} 100%)",
+            "type": "color"
+          }
+        },
+        "light": {
+          "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.brand-10.a5} 100%)",
+          "type": "color"
+        }
       }
     },
     "popover": {

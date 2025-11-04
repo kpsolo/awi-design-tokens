@@ -1993,6 +1993,17 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
+    },
+    "popup-bottom-container": {
+      "value": {
+        "x": "0",
+        "y": "-24",
+        "blur": "0",
+        "spread": "0",
+        "color": "{contextual.popup.fill}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "contextual": {

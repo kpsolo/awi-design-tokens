@@ -5799,11 +5799,6 @@
         }
       }
     },
-    "skeleton1": {
-      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
-      "type": "color",
-      "description": "DELETE"
-    },
     "skeleton": {
       "gr-1": {
         "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a5} 50%, {core.white.a0} 100%)",
@@ -5815,11 +5810,6 @@
         "type": "color",
         "description": "Skeleteon gradient stop 2"
       }
-    },
-    "skeleton2": {
-      "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a20} 50%, {core.white.a0} 100%);",
-      "type": "color",
-      "description": "DELETE"
     },
     "loader": {
       "default": {

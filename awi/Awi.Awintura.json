@@ -1218,38 +1218,39 @@
       },
       "type": "boxShadow"
     },
+    "promo-lending": {
+      "title": {
+        "value": [
+          {
+            "x": "-2",
+            "y": "{blur.0}",
+            "blur": "{blur.150}",
+            "spread": "{depth.0}",
+            "color": "rgba(1, 20, 30, 0.20)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{blur.100}",
+            "y": "{depth.0}",
+            "blur": "{blur.150}",
+            "spread": "{depth.0}",
+            "color": "rgba(1, 20, 30, 0.20)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{depth.0}",
+            "y": "{blur.100}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "shadow promo lending title "
+      }
+    },
     "menu": {
-      "banner": {
-        "text-accent": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{depth.200}",
-              "spread": "{depth.0}",
-              "color": "rgba(0, 153, 153, 0.80)",
-              "type": "dropShadow"
-            },
-            {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{depth.200}",
-              "spread": "{depth.0}",
-              "color": "rgba(0, 153, 153, 0.80)",
-              "type": "dropShadow"
-            },
-            {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "5px",
-              "spread": "{depth.0}",
-              "color": "#026969",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        }
-      },
       "item": {
         "text": {
           "prime": {

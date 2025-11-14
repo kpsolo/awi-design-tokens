@@ -8489,5 +8489,19 @@
         "type": "typography"
       }
     }
+  },
+  "promo": {
+    "title": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "lineHeight": "42",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}",
+        "fontSize": "40"
+      },
+      "type": "typography",
+      "description": "title promo landing"
+    }
   }
 }

@@ -8479,5 +8479,19 @@
         }
       }
     }
+  },
+  "promo": {
+    "title": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Expanded}",
+        "fontSize": "48px",
+        "lineHeight": "48px",
+        "letterSpacing": "{letter-spacing.2}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title Promo Landing"
+    }
   }
 }

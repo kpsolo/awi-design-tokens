@@ -7030,6 +7030,11 @@
         "value": "{core.grey.900}",
         "type": "color"
       },
+      "7": {
+        "value": "#EEEBE7",
+        "type": "color",
+        "description": "profile"
+      },
       "slate-1": {
         "value": "{core.white.a100}",
         "type": "color",

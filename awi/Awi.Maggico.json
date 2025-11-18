@@ -4894,11 +4894,11 @@
       "empty-state": {
         "illustration": {
           "border": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "fill": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.a15}",
             "type": "color"
           }
         }

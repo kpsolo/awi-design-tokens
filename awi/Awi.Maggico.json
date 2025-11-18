@@ -6151,13 +6151,13 @@
       "active": {
         "icon": {
           "primary": {
-            "value": "{semantic.icon.default.primary}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         },
         "text": {
           "primary": {
-            "value": "{semantic.icon.default.primary}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         }

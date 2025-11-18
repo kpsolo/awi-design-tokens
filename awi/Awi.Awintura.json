@@ -2262,6 +2262,24 @@
             "type": "color"
           }
         }
+      },
+      "hover": {
+        "icon": {
+          "primary": {
+            "value": "{semantic.icon.static.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.icon.static.secondary}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          }
+        }
       }
     },
     "wheel": {

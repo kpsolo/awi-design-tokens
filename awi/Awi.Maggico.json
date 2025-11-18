@@ -6143,7 +6143,7 @@
         },
         "text": {
           "primary": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           }
         }
@@ -6152,6 +6152,24 @@
         "icon": {
           "primary": {
             "value": "{semantic.icon.default.primary}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.icon.default.primary}",
+            "type": "color"
+          }
+        }
+      },
+      "hover": {
+        "icon": {
+          "primary": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           }
         },

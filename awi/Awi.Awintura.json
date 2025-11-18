@@ -2234,6 +2234,36 @@
         }
       }
     },
+    "list-item": {
+      "default": {
+        "icon": {
+          "primary": {
+            "value": "{semantic.icon.static.primary}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          }
+        }
+      },
+      "active": {
+        "icon": {
+          "primary": {
+            "value": "{semantic.icon.static.accent}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.static.accent}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "wheel": {
       "sector": {
         "fill": {

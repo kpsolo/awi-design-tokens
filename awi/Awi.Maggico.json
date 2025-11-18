@@ -4868,6 +4868,28 @@
           "value": "{semantic.gradients.1}",
           "type": "color"
         }
+      },
+      "balance-card": {
+        "icon": {
+          "fill": {
+            "value": "{semantic.icon.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "background": {
+            "value": "{semantic.background.slate-2}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          }
+        }
       }
     },
     "news": {

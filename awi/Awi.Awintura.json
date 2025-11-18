@@ -3254,6 +3254,18 @@
           "type": "color"
         }
       },
+      "empty-state": {
+        "illustration": {
+          "border": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-10.a10}",
+            "type": "color"
+          }
+        }
+      },
       "mob": {
         "bg": {
           "value": "linear-gradient(171deg, #392602 12%, #A86E00 60%)",

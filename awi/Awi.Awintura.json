@@ -3431,13 +3431,13 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "{semantic.gradients.1}",
+            "value": "{contextual.popup.fill}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
         },
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{semantic.background.7}",
           "type": "color"
         }
       }

@@ -5197,6 +5197,39 @@
             "type": "color",
             "description": "Segment Control"
           }
+        },
+        "profile": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.gradients.7}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.default.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "#060423",
+            "type": "color",
+            "description": "Segment Control"
+          }
         }
       }
     },

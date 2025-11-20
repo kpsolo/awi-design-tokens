@@ -5200,6 +5200,39 @@
             "type": "color",
             "description": "Segment Control"
           }
+        },
+        "profile": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{core.brand-60.400}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.default.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "{core.brand-60.600}",
+            "type": "color",
+            "description": "Segment Control"
+          }
         }
       }
     },

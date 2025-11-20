@@ -4858,6 +4858,19 @@
           }
         }
       },
+      "background": {
+        "menu": {
+          "fill": {
+            "value": "#1C1548",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          }
+        },
+        "fill": {
+          "value": "#19133B",
+          "type": "color"
+        }
+      },
       "icon": {
         "background": {
           "value": "{semantic.gradients.1}",

@@ -3427,6 +3427,19 @@
           "value": "{core.brand-30.300}",
           "type": "color"
         }
+      },
+      "background": {
+        "menu": {
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color",
+            "description": "contextual.profile.loyalty_points.fill"
+          }
+        },
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        }
       }
     },
     "loyalty": {

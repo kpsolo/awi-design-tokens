@@ -4861,13 +4861,17 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "#1C1548",
+            "value": "linear-gradient(0deg, #1A143D 0%, #261C67 100%)",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
         },
         "fill": {
-          "value": "#19133B",
+          "value": "linear-gradient(0deg, #1A143D 0%, #261C67 100%)",
+          "type": "color"
+        },
+        "content-slate": {
+          "value": "{semantic.background.7}",
           "type": "color"
         }
       },

@@ -3445,6 +3445,10 @@
         "fill": {
           "value": "{semantic.background.7}",
           "type": "color"
+        },
+        "content-slate": {
+          "value": "{semantic.background.7}",
+          "type": "color"
         }
       }
     },

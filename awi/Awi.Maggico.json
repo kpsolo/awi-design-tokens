@@ -4861,17 +4861,21 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "linear-gradient(0deg, #1A143D 0%, #261C67 100%)",
+            "value": "#1C1548",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
         },
         "fill": {
-          "value": "linear-gradient(0deg, #1A143D 0%, #261C67 100%)",
+          "value": "#19133B",
+          "type": "color"
+        },
+        "fill-2": {
+          "value": "#0D0A23",
           "type": "color"
         },
         "content-slate": {
-          "value": "{semantic.background.7}",
+          "value": "{semantic.gradients.7}",
           "type": "color"
         }
       },
@@ -4891,6 +4895,10 @@
             "value": "{semantic.background.slate-2}",
             "type": "color"
           }
+        },
+        "fill": {
+          "value": "{semantic.gradients.7}",
+          "type": "color"
         },
         "text": {
           "primary": {

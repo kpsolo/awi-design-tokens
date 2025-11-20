@@ -3311,6 +3311,10 @@
             "value": "{semantic.text.static.secondary}",
             "type": "color"
           }
+        },
+        "fill-copy": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
         }
       },
       "loyalty_points": {
@@ -3448,6 +3452,10 @@
         },
         "content-slate": {
           "value": "{semantic.background.7}",
+          "type": "color"
+        },
+        "fill-2": {
+          "value": "{core.grey.900}",
           "type": "color"
         }
       }

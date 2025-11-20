@@ -4861,13 +4861,13 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "#151037",
+            "value": "#1C1548",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
         },
         "fill": {
-          "value": "#19133B",
+          "value": "#130D31",
           "type": "color"
         },
         "fill-2": {

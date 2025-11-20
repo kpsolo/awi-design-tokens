@@ -2270,17 +2270,6 @@
         "type": "boxShadow"
       }
     },
-    "popup-bottom-container-copy": {
-      "value": {
-        "x": "0",
-        "y": "-24",
-        "blur": "0",
-        "spread": "0",
-        "color": "{contextual.popup.fill}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
     "promo-lending": {
       "title": {
         "value": [
@@ -4059,6 +4048,12 @@
             "type": "color",
             "description": "Tiket"
           }
+        }
+      },
+      "provider-label": {
+        "default": {
+          "value": "{core.grey.a30}",
+          "type": "color"
         }
       }
     },

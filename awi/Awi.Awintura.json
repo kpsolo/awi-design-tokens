@@ -1994,17 +1994,6 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
-    },
-    "popup-bottom-container": {
-      "value": {
-        "x": "0",
-        "y": "-24",
-        "blur": "0",
-        "spread": "0",
-        "color": "{contextual.popup.fill}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -5705,6 +5694,12 @@
           "value": "{semantic.gradients.9}",
           "type": "color",
           "description": "status-inactive"
+        }
+      },
+      "provider-label": {
+        "default": {
+          "value": "{core.grey.a30}",
+          "type": "color"
         }
       }
     },

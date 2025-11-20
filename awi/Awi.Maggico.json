@@ -6220,6 +6220,12 @@
             "type": "color"
           }
         }
+      },
+      "elipse": {
+        "hover": {
+          "value": "linear-gradient(90deg, rgba(151, 17, 215, 0.56) 34.83%, rgba(151, 17, 215, 0.00) 81.2%)",
+          "type": "color"
+        }
       }
     }
   },

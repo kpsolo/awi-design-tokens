@@ -2269,6 +2269,12 @@
             "type": "color"
           }
         }
+      },
+      "elipse": {
+        "hover": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
       }
     },
     "wheel": {

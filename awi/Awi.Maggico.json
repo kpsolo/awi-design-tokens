@@ -4861,7 +4861,7 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "#1C1548",
+            "value": "#151037",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }

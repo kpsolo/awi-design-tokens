@@ -3525,6 +3525,12 @@
           "value": "{semantic.background.slate-on-card}",
           "type": "color"
         }
+      },
+      "profile": {
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color"
+        }
       }
     },
     "progress": {

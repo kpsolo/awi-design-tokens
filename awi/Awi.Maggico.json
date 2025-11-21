@@ -4962,6 +4962,12 @@
           "value": "{semantic.background.slate-4}",
           "type": "color"
         }
+      },
+      "profile": {
+        "fill": {
+          "value": "{core.brand-60.a60}",
+          "type": "color"
+        }
       }
     },
     "achivments": {

@@ -3618,7 +3618,7 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-10.700}",
             "type": "color"
           },
           "error": {

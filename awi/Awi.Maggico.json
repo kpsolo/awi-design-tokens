@@ -3575,7 +3575,7 @@
           }
         },
         "close": {
-          "value": "{semantic.text.static.tertiary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color",
           "description": "\n\n"
         }

@@ -3573,6 +3573,11 @@
             "value": "{semantic.gradients.7}",
             "type": "color"
           }
+        },
+        "close": {
+          "value": "{semantic.text.static.tertiary}",
+          "type": "color",
+          "description": "\n\n"
         }
       },
       "balance-number": {

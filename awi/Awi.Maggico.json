@@ -3179,6 +3179,24 @@
       "fill": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "text": {
+        "primary": {
+          "value": "{semantic.text.static.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.static.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{semantic.text.static.tertiary}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "divider": {

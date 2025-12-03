@@ -7985,7 +7985,7 @@
   },
   "letter-spacing": {
     "2": {
-      "value": "2%",
+      "value": "0,5px",
       "type": "letterSpacing"
     }
   },

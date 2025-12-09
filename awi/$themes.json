@@ -1207,7 +1207,11 @@
       "contextual.menu.quick-pay.close": "S:71a060cacaa3e79070f09876988213d13fe31de8,",
       "contextual.profile.balance-card.fill-copy": "S:7a0a7dbdea2d53f18074f09cb2f932dc17d88c8a,",
       "promo.title": "S:f34a8d337e8e7fc3f9f2d4cbb23a1b33816f0f52,",
-      "shadow.promo-lending.title": "S:0dae6239cfc063bb8302e7a1e037f4b870be55b3,"
+      "shadow.promo-lending.title": "S:0dae6239cfc063bb8302e7a1e037f4b870be55b3,",
+      "contextual.tooltip.text.primary": "S:e08d63677a79d4a125d442c57e345280b76310b0,",
+      "contextual.tooltip.text.secondary": "S:b23d911a97d7767112890ca602bb24f612e556ce,",
+      "contextual.tooltip.text.tertiary": "S:cc01e0920b3d44a67e1eec0c1813d2b1b7f14386,",
+      "contextual.tooltip.text.accent": "S:f983d26e0a4d1f169a35537bef51f4eaaaa34aa9,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"
@@ -1371,6 +1375,7 @@
       "icon.size.xxl": "7ce42a0a58deca22a81f7677a928625bf827076b",
       "icon.bonus.padding-bottom": "d8a370940053322bfa2e347fe9dc15bfa7b6984c",
       "icon.general.padding-top": "9eb8903f22d0be8d5fc36baee790128bc4310230",
+      "letter-spacing.2": "6c1ec392f60bb305a51e52c9d788c54804be4dfe",
       "Expanded": "75bcdc7d2311d65ab61f866d15596701d2e63f1d",
       "size.100": "12b81cfa97f9de3a3ad7a8c26c5c6b213725acc6",
       "size.150": "80bd342235b1235f9d90cb4f4fcf78ab8a7879a7",

@@ -4690,7 +4690,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "rgba(156, 110, 247, 0.01)",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "text": {

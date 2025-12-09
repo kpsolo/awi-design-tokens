@@ -2619,7 +2619,11 @@
       "semantic.background.7": "S:34a543203c827ebb9576b2f445cd36c2fbcdb2c4,",
       "contextual.profile.balance-card.fill": "S:aaba108cd56e9540c10a14a7726060751267ff43,",
       "promo.title": "S:ee39a93c135c1207db9444069875909362deb41f,",
-      "shadow.promo-lending.title": "S:0f373ff8ed7f4bd3c129e3a90f19c7c71dee7074,"
+      "shadow.promo-lending.title": "S:0f373ff8ed7f4bd3c129e3a90f19c7c71dee7074,",
+      "contextual.tooltip.text.primary": "S:0a41b29e44c6a8622a4f2d4e73a2f179b63d0562,",
+      "contextual.tooltip.text.secondary": "S:854a85d2928d9aee2d9e9cce2b9ab06aa5980db3,",
+      "contextual.tooltip.text.tertiary": "S:2b41a914359f1e924779258e4e7688ed795cc6c9,",
+      "contextual.tooltip.text.accent": "S:99a15b779b2b20195f2030fb0f0d52414ef1c0ab,"
     },
     "selectedTokenSets": {
       "Awi.Maggico": "enabled"

@@ -5688,6 +5688,16 @@
           "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.500} 0%, {core.brand-30.a8} 100%)",
           "type": "color"
         }
+      },
+      "model-overview": {
+        "background": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
       }
     },
     "cashbox": {

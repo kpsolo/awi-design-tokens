@@ -3176,6 +3176,16 @@
           "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.brand-10.a5} 100%)",
           "type": "color"
         }
+      },
+      "model-overview": {
+        "background": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        }
       }
     },
     "popover": {

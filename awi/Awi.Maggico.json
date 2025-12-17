@@ -8712,10 +8712,10 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "lineHeight": "42",
-        "letterSpacing": "0%",
+        "lineHeight": "42px",
+        "letterSpacing": "0px",
         "textCase": "{text-case.none}",
-        "fontSize": "40"
+        "fontSize": "40px"
       },
       "type": "typography",
       "description": "title promo landing"

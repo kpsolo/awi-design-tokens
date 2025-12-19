@@ -7425,6 +7425,10 @@
         "accent": {
           "value": "{core.brand-30.600}",
           "type": "color"
+        },
+        "accent-secondary": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
         }
       },
       "danger": {

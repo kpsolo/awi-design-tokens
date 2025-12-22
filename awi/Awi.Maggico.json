@@ -6278,6 +6278,12 @@
           "type": "color"
         }
       }
+    },
+    "smart-banner": {
+      "fill": {
+        "value": "{contextual.popup.fill}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {

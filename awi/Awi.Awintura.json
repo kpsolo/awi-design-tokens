@@ -2468,6 +2468,12 @@
         }
       }
     },
+    "smart-banner": {
+      "fill": {
+        "value": "{contextual.popup.fill}",
+        "type": "color"
+      }
+    },
     "up-button": {
       "fill": {
         "standard": {

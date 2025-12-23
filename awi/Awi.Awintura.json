@@ -196,6 +196,12 @@
         "type": "borderRadius"
       }
     },
+    "PWA-banner": {
+      "banner-IOS": {
+        "value": "{blur.slate-on-card}",
+        "type": "borderRadius"
+      }
+    },
     "input": {
       "sm": {
         "value": "{border-radius.core.300}",

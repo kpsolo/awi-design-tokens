@@ -585,6 +585,12 @@
           "description": "shadow.wheel.popup.general"
         }
       }
+    },
+    "PWA-banner": {
+      "banner-IOS": {
+        "value": "{blur.slate-on-card}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {

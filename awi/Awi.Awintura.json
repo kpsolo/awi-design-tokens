@@ -369,6 +369,12 @@
       }
     }
   },
+  "PWA": {
+    "general": {
+      "value": "{blur.200}",
+      "type": "borderRadius"
+    }
+  },
   "border": {
     "button": {
       "primary": {

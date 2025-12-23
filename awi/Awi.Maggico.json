@@ -3728,20 +3728,6 @@
             "value": "{core.white.a100}",
             "type": "color"
           }
-        },
-        "smaller": {
-          "fill": {
-            "value": "{semantic.gradients.7}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-30.500}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
         }
       },
       "text": {

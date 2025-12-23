@@ -5885,20 +5885,6 @@
             "value": "{core.brand-10.500}",
             "type": "color"
           }
-        },
-        "smaller": {
-          "fill": {
-            "value": "rgba(27, 24, 19, 0.40)",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          }
         }
       },
       "text": {

@@ -1211,7 +1211,11 @@
       "contextual.tooltip.text.primary": "S:e08d63677a79d4a125d442c57e345280b76310b0,",
       "contextual.tooltip.text.secondary": "S:b23d911a97d7767112890ca602bb24f612e556ce,",
       "contextual.tooltip.text.tertiary": "S:cc01e0920b3d44a67e1eec0c1813d2b1b7f14386,",
-      "contextual.tooltip.text.accent": "S:f983d26e0a4d1f169a35537bef51f4eaaaa34aa9,"
+      "contextual.tooltip.text.accent": "S:f983d26e0a4d1f169a35537bef51f4eaaaa34aa9,",
+      "contextual.strip.model-overview.background": "S:99aeb5393dd593af2bed59074b98bd375ac1cb32,",
+      "contextual.strip.model-overview.border": "S:03b916bad76b2b774d10c1ebd881e3b16a94b39d,",
+      "contextual.smart-banner.fill": "S:4629a250747fb150cf296408091bc39dd569fcba,",
+      "semantic.text.static.accent-secondary": "S:59255087ffdec884f5457bb6ab1328a6334a1c8a,"
     },
     "selectedTokenSets": {
       "Awi.Awintura": "enabled"
@@ -1450,6 +1454,7 @@
       "Thumb-providers.sm.padding-bottom": "4052c2d6da3bcc7b85118c85eff17f9ee5732130",
       "Thumb-providers.sm.gap": "e39f014bf8aeacb2ba7387777848986983dc27ff",
       "Thumb-providers.sm.gap-text": "a9b3cb0293834aaa2b477e92df33fc1eba3e8dae",
+      "PWA.general": "e704bbf51abc5d8ebc9dd917114ebf933250501e",
       "content.tab-bar.main-icon": "c00bdb77323cf44c4c0f9e28f4892adb04b41eb9"
     },
     "$figmaCollectionId": "VariableCollectionId:39130:628888",

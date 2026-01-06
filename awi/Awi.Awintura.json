@@ -5494,6 +5494,12 @@
         "value": "{core.brand-30.a15}",
         "type": "color"
       },
+      "deals": {
+        "background": {
+          "value": "#1F1A17",
+          "type": "color"
+        }
+      },
       "item": {
         "text": {
           "default": {

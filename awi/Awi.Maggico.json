@@ -3881,6 +3881,12 @@
             }
           }
         }
+      },
+      "deals": {
+        "background": {
+          "value": "{semantic.gradients.9}",
+          "type": "color"
+        }
       }
     },
     "lottery-tournament": {

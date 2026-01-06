@@ -4353,10 +4353,6 @@
           }
         },
         "tabs": {
-          "background": {
-            "value": "{semantic.gradients.9}",
-            "type": "color"
-          },
           "border": {
             "active": {
               "value": "{core.brand-10.500}",

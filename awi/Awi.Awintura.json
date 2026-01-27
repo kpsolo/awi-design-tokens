@@ -7980,6 +7980,15 @@
           "lineHeight": "20px"
         },
         "type": "typography"
+      },
+      "10th": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Semibold}",
+          "fontSize": "14px",
+          "lineHeight": "16px"
+        },
+        "type": "typography"
       }
     },
     "balance": {

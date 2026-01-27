@@ -1734,6 +1734,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "balance": {
+          "value": {
+            "x": "{blur.0}",
+            "y": "{blur.100}",
+            "blur": "6px",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "news": {
@@ -8616,7 +8629,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "26px",
-        "lineHeight": "34px"
+        "lineHeight": "28px"
       },
       "type": "typography"
     }
@@ -8729,6 +8742,12 @@
   "PWA": {
     "general": {
       "value": "{blur.200}",
+      "type": "borderRadius"
+    }
+  },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.300}",
       "type": "borderRadius"
     }
   }

@@ -375,6 +375,12 @@
       }
     }
   },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    }
+  },
   "PWA": {
     "general": {
       "value": "{blur.200}",
@@ -1033,6 +1039,59 @@
         "type": "boxShadow"
       }
     },
+    "profile": {
+      "card": {
+        "balance": {
+          "value": {
+            "x": "{blur.0}",
+            "y": "{blur.100}",
+            "blur": "6px",
+            "spread": "{depth.0}",
+            "color": "{core.brand-60.a10}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "header": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{depth.0}",
+            "spread": "{depth.0}",
+            "color": "rgba(254, 182, 0, 0.75)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "notification": {
+        "value": "{shadow.drop.small}",
+        "type": "boxShadow"
+      },
+      "image": {
+        "value": [
+          {
+            "x": "0",
+            "y": "1px",
+            "blur": "1px",
+            "spread": "0",
+            "color": "rgba(255, 255, 255, 0.40)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "8px",
+            "blur": "8px",
+            "spread": "0",
+            "color": "rgba(8, 19, 31, 0.05)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "input": {
       "default": {
         "value": "{shadow.drop.small}",
@@ -1277,46 +1336,6 @@
             "type": "boxShadow"
           }
         }
-      }
-    },
-    "profile": {
-      "header": {
-        "value": [
-          {
-            "x": "{depth.0}",
-            "y": "{depth.025}",
-            "blur": "{depth.0}",
-            "spread": "{depth.0}",
-            "color": "rgba(254, 182, 0, 0.75)",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "notification": {
-        "value": "{shadow.drop.small}",
-        "type": "boxShadow"
-      },
-      "image": {
-        "value": [
-          {
-            "x": "0",
-            "y": "1px",
-            "blur": "1px",
-            "spread": "0",
-            "color": "rgba(255, 255, 255, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "8px",
-            "blur": "8px",
-            "spread": "0",
-            "color": "rgba(8, 19, 31, 0.05)",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow"
       }
     },
     "segment-control": {
@@ -7968,7 +7987,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "26px",
-        "lineHeight": "34px"
+        "lineHeight": "28px"
       },
       "type": "typography"
     },

@@ -2702,7 +2702,7 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.800a15}",
               "type": "color"
             },
             "received": {
@@ -2720,7 +2720,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.brand-30.a20}",
+              "value": "{core.brand-30.300a30}",
               "type": "color"
             },
             "received": {
@@ -6732,6 +6732,20 @@
       "900": {
         "value": "{core.white.a0}",
         "type": "color"
+      },
+      "300a30": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "basic.sand 300"
       },
       "a15": {
         "value": "rgba(250, 236, 209, 0.15)",

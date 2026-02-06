@@ -6665,6 +6665,19 @@
         "value": "rgba(89, 59, 3, 0.40)",
         "type": "color"
       },
+      "a55": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.55",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a50": {
         "value": "rgba(230, 220, 200, 0.50)",
         "type": "color"

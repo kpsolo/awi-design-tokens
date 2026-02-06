@@ -2706,11 +2706,11 @@
               "type": "color"
             },
             "received": {
-              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
+              "value": "{core.brand-60.800a15}",
               "type": "color"
             },
             "progress": {
-              "value": "linear-gradient(132deg, rgba(120, 85, 18, 0.09) 9%, rgba(255, 177, 51, 0.00) 43%, rgba(110, 75, 10, 0.18) 83%)",
+              "value": "{core.brand-60.800a15}",
               "type": "color"
             },
             "get": {

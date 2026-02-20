@@ -5764,7 +5764,7 @@
               "type": "color"
             },
             " inactive": {
-              "value": "{semantic.text.default.tertiary}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color"
             }
           }

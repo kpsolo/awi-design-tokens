@@ -2569,15 +2569,15 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{contextual.button.primary.text.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.tertiary.text.default}",
+            "value": "{contextual.button.primary.text.default}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.tertiary.text.hover}",
+            "value": "{contextual.button.primary.text.default}",
             "type": "color"
           },
           "disabled": {

@@ -2589,19 +2589,19 @@
       "outlined-accent": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.ghost-popup.default}",
+            "value": "{semantic.background.brand.outlined-accent.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.ghost-popup.hover}",
+            "value": "{semantic.background.brand.outlined-accent.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.ghost-popup.active}",
+            "value": "{semantic.background.brand.outlined-accent.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.ghost-popup.disabled}",
+            "value": "{semantic.background.brand.outlined-accent.disabled}",
             "type": "color"
           }
         },

@@ -2607,7 +2607,7 @@
         },
         "text": {
           "default": {
-            "value": "{contextual.button.primary.text.default}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "hover": {
@@ -2615,11 +2615,11 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.primary.text.default}",
+            "value": "{contextual.button.primary.text.hover}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.disabled.primary}",
+            "value": "{semantic.text.disabled.on-brand}",
             "type": "color"
           }
         },

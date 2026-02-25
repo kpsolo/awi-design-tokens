@@ -503,6 +503,42 @@
               "type": "border"
             }
           }
+        },
+        "sticky-notification": {
+          "outlined-accent": {
+            "default": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.default}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "disabled": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.disabled}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "hover": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.hover}",
+                "width": "{border-width.050}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "active": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.active}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
         }
       }
     },
@@ -2231,6 +2267,62 @@
           },
           "disabled": {
             "value": "{semantic.text.disabled.on-brand-secondary}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "default": {
+            "value": "{semantic.border.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.border.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.border.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "outlined-accent": {
+        "fill": {
+          "default": {
+            "value": "{semantic.background.brand.ghost-popup.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.background.brand.ghost-popup.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.ghost-popup.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.background.brand.ghost-popup.disabled}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.button.tertiary.text.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{contextual.button.tertiary.text.hover}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.text.disabled.primary}",
             "type": "color"
           }
         },

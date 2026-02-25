@@ -3384,7 +3384,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-10.50}",
           "type": "color"
         },
         "border": {
@@ -7055,7 +7055,7 @@
     },
     "brand-10": {
       "50": {
-        "value": "{core.white.a0}",
+        "value": "#FFF9EC",
         "type": "color",
         "description": "Primary.Amber 800"
       },

@@ -7674,6 +7674,24 @@
             "value": "{core.brand-60.a30}",
             "type": "color"
           }
+        },
+        "outlined-accent": {
+          "default": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.a30}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-60.a30}",
+            "type": "color"
+          }
         }
       },
       "active": {

@@ -2328,19 +2328,19 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.ghost-popup.default}",
+            "value": "{semantic.border.brand.outlined-accent.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.ghost-popup.hover}",
+            "value": "{semantic.border.brand.outlined-accent.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.ghost-popup.active}",
+            "value": "{semantic.border.brand.outlined-accent.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "value": "{semantic.border.brand.outlined-accent.disabled}",
             "type": "color"
           }
         }

@@ -2292,37 +2292,37 @@
       "outlined-accent": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.ghost-popup.default}",
+            "value": "{semantic.background.brand.outlined-accent.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.ghost-popup.hover}",
+            "value": "{semantic.background.brand.outlined-accent.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.ghost-popup.active}",
+            "value": "{semantic.background.brand.outlined-accent.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.ghost-popup.disabled}",
+            "value": "{semantic.background.brand.outlined-accent.disabled}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.tertiary.text.default}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.tertiary.text.hover}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.disabled.primary}",
+            "value": "{semantic.text.disabled.on-brand-secondary}",
             "type": "color"
           }
         },
@@ -7392,6 +7392,24 @@
           }
         },
         "ghost-popup": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "outlined-accent": {
           "default": {
             "value": "{core.white.a0}",
             "type": "color"

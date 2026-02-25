@@ -508,7 +508,7 @@
           "outlined-accent": {
             "default": {
               "value": {
-                "color": "{contextual.button.secondary.border-color.default}",
+                "color": "{contextual.button.outlined-accent.border-color.default}",
                 "width": "{border-width.025}",
                 "style": "solid"
               },
@@ -516,7 +516,7 @@
             },
             "disabled": {
               "value": {
-                "color": "{contextual.button.secondary.border-color.disabled}",
+                "color": "{contextual.button.outlined-accent.border-color.disabled}",
                 "width": "{border-width.025}",
                 "style": "solid"
               },
@@ -524,7 +524,7 @@
             },
             "hover": {
               "value": {
-                "color": "{contextual.button.secondary.border-color.hover}",
+                "color": "{contextual.button.outlined-accent.border-color.hover}",
                 "width": "{border-width.050}",
                 "style": "solid"
               },
@@ -532,7 +532,7 @@
             },
             "active": {
               "value": {
-                "color": "{contextual.button.secondary.border-color.active}",
+                "color": "{contextual.button.outlined-accent.border-color.active}",
                 "width": "{border-width.025}",
                 "style": "solid"
               },

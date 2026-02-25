@@ -696,6 +696,44 @@
           },
           "type": "border"
         }
+      },
+      "contextual": {
+        "sticky-notification": {
+          "outlined-accent": {
+            "default": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.default}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "hover": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.hover}",
+                "width": "{border-width.050}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "active": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.active}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            },
+            "disabled": {
+              "value": {
+                "color": "{contextual.button.secondary.border-color.disabled}",
+                "width": "{border-width.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
+        }
       }
     },
     "input": {
@@ -2587,19 +2625,19 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.ghost-popup.default}",
+            "value": "{semantic.border.brand.outlined-accent.active}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.ghost-popup.hover}",
+            "value": "{semantic.border.brand.outlined-accent.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.ghost-popup.active}",
+            "value": "{semantic.border.brand.outlined-accent.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "value": "{semantic.border.brand.outlined-accent.disabled}",
             "type": "color"
           }
         }
@@ -7652,6 +7690,24 @@
           },
           "disabled": {
             "value": "{core.grey.400}",
+            "type": "color"
+          }
+        },
+        "outlined-accent": {
+          "default": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-60.a30}",
             "type": "color"
           }
         }

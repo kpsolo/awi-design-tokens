@@ -7386,6 +7386,24 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "outlined-accent": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       }
     },

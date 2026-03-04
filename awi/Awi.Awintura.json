@@ -3451,7 +3451,7 @@
             "type": "color"
           }
         },
-        "fill-copy": {
+        "fill": {
           "value": "{semantic.gradients.1}",
           "type": "color"
         }

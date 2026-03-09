@@ -3669,7 +3669,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "on-review": {

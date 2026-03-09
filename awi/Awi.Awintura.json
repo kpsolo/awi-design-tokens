@@ -2544,6 +2544,136 @@
           "type": "color",
           "description": "vip bet amount"
         }
+      },
+      "progress": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "step": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "border": {
+          "fill": {
+            "value": "linear-gradient(180deg, rgba(148, 91, 1, 0.40) 0%, rgba(148, 91, 1, 0.40) 29.5%, rgba(58, 39, 3, 0.40) 100%)",
+            "type": "color"
+          }
+        }
+      },
+      "more": {
+        "text": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      },
+      "promo-code-button": {
+        "fill": {
+          "default": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(0deg, #705830 0%, #CAAD8A 100%)",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          }
+        }
+      },
+      "welcome-bonus-card": {
+        "border": {
+          "active": {
+            "value": "linear-gradient(128deg, #FEB600 14.07%, #EB7F44 51.52%, #C7BFB5 86.86%)",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.a5}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "inactive": {
+            "value": "{semantic.gradients.8}",
+            "type": "color"
+          },
+          "active": {
+            "value": "linear-gradient(180deg, #433A33 0%, #1E140E 100%)",
+            "type": "color"
+          }
+        },
+        "widget": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-10.600}",
+              "type": "color"
+            }
+          }
+        },
+        "tabs": {
+          "border": {
+            "active": {
+              "value": "#FFD284",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.white.a80}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "bonus": {
+            "value": "#FFD284",
+            "type": "color"
+          }
+        }
+      },
+      "timer": {
+        "number-cell": {
+          "fill": {
+            "value": "{semantic.gradients.9}",
+            "type": "color"
+          },
+          "fill-light": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "active-light": {
+              "value": "{core.brand-60.800}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "date": {
+            "value": "{semantic.text.brand.on-brand-secondary}",
+            "type": "color"
+          },
+          "date-light": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          }
+        }
       }
     },
     "verification": {

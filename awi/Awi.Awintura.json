@@ -1690,6 +1690,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "badge": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "12px",
+            "spread": "0",
+            "color": "{core.brand-10.500}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "progress": {
@@ -2522,7 +2535,7 @@
           "description": "vip bet amount"
         },
         "glow": {
-          "value": "{semantic.border.brand.primary.default}",
+          "value": "linear-gradient(138deg, rgba(89, 59, 3, 0.00) 43%, rgba(253, 220, 89, 0.15) 54%, rgba(89, 59, 3, 0.00) 65%)",
           "type": "color",
           "description": "vip bet amount"
         },

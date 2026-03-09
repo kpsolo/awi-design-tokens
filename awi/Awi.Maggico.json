@@ -2325,6 +2325,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "badge": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "12px",
+            "spread": "0",
+            "color": "{core.brand-30.400}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "promo-lending": {
@@ -6308,22 +6321,22 @@
       },
       "badge": {
         "fill": {
-          "value": "{semantic.border.brand.primary.default}",
+          "value": "{core.brand-60.500}",
           "type": "color",
           "description": "vip bet amount"
         },
         "border": {
-          "value": "{semantic.border.brand.primary.default}",
+          "value": "{core.brand-30.400}",
           "type": "color",
           "description": "vip bet amount"
         },
         "glow": {
-          "value": "{semantic.border.brand.primary.default}",
+          "value": "linear-gradient(138deg, rgba(47, 40, 89, 0.00) 43%, rgba(215, 197, 252, 0.15) 54%, rgba(37, 35, 57, 0.00) 65%)",
           "type": "color",
           "description": "vip bet amount"
         },
         "light": {
-          "value": "{semantic.border.brand.primary.default}",
+          "value": "{core.brand-30.400}",
           "type": "color",
           "description": "vip bet amount"
         }

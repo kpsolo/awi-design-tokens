@@ -2556,7 +2556,7 @@
         },
         "border": {
           "fill": {
-            "value": "linear-gradient(180deg, rgba(148, 91, 1, 0.40) 0%, rgba(148, 91, 1, 0.40) 29.5%, rgba(58, 39, 3, 0.40) 100%)",
+            "value": "{core.brand-60.800}",
             "type": "color"
           }
         }

@@ -2509,6 +2509,28 @@
             }
           }
         }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.brand-60.800}",
+          "type": "color",
+          "description": "vip bet amount"
+        },
+        "border": {
+          "value": "{core.brand-10.100}",
+          "type": "color",
+          "description": "vip bet amount"
+        },
+        "glow": {
+          "value": "{semantic.border.brand.primary.default}",
+          "type": "color",
+          "description": "vip bet amount"
+        },
+        "light": {
+          "value": "{core.brand-10.100}",
+          "type": "color",
+          "description": "vip bet amount"
+        }
       }
     },
     "verification": {

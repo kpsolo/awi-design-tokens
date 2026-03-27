@@ -4554,6 +4554,16 @@
             "type": "color"
           }
         },
+        "deposit-bonus": {
+          "fill": {
+            "value": "linear-gradient(315deg, #393D7A 0%, #7047C3 50%, #D22EDC 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
+        },
         "widget": {
           "text": {
             "accent": {

@@ -4770,6 +4770,28 @@
             "type": "color"
           }
         },
+        "badge": {
+          "background": {
+            "primary": {
+              "value": "{semantic.gradients.4}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{semantic.gradients.3}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{semantic.gradients.2}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "fill": {
+              "value": "{semantic.icon.brand.on-brand-secondary}",
+              "type": "color"
+            }
+          }
+        },
         "deposit-bonus": {
           "fill": {
             "value": "linear-gradient(135deg, #FEB600 0%, #CC6F2D 50%, #6E521E 100%)",

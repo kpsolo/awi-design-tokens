@@ -4769,6 +4769,16 @@
             "value": "#FFD284",
             "type": "color"
           }
+        },
+        "deposit-bonus": {
+          "fill": {
+            "value": "linear-gradient(135deg, #FEB600 0%, #CC6F2D 50%, #6E521E 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
         }
       },
       "timer": {

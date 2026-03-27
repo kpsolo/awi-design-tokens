@@ -4522,7 +4522,7 @@
         },
         "background": {
           "inactive": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "active": {

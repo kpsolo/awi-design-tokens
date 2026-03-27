@@ -368,6 +368,49 @@
       }
     }
   },
+  "lottery-tournament": {
+    "tabs": {
+      "item": {
+        "desk": {
+          "min-width": {
+            "value": "93px",
+            "type": "sizing",
+            "description": "contextual.wheel.popup.vip-bet-amount"
+          }
+        },
+        "mob": {
+          "min-width": {
+            "value": "54px",
+            "type": "sizing"
+          }
+        }
+      }
+    },
+    "tiket": {
+      "old-price": {
+        "md": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "{scale-2}",
+            "lineHeight": "{sm}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        },
+        "sm": {
+          "value": {
+            "fontFamily": "{main}",
+            "fontWeight": "{text.strong}",
+            "fontSize": "10px",
+            "lineHeight": "{sm}",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  },
   "border-radius": {
     "core": {
       "0": {
@@ -8767,32 +8810,6 @@
             "fontSize": "12px",
             "lineHeight": "16px",
             "textCase": "{text-case.none}"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "lottery-tournament": {
-    "tiket": {
-      "old-price": {
-        "md": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "{scale-2}",
-            "lineHeight": "{sm}",
-            "textDecoration": "{text-decoration.line-through}"
-          },
-          "type": "typography"
-        },
-        "sm": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "10px",
-            "lineHeight": "{sm}",
-            "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"
         }

@@ -8891,6 +8891,23 @@
           "type": "typography"
         }
       }
+    },
+    "tabs": {
+      "item": {
+        "desk": {
+          "min-width": {
+            "value": "93px",
+            "type": "sizing",
+            "description": "contextual.wheel.popup.vip-bet-amount"
+          }
+        },
+        "mob": {
+          "min-width": {
+            "value": "54px",
+            "type": "sizing"
+          }
+        }
+      }
     }
   },
   "tabs": {

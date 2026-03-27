@@ -371,18 +371,19 @@
   "lottery-tournament": {
     "tabs": {
       "item": {
-        "desk": {
-          "min-width": {
+        "min-width": {
+          "desk": {
             "value": "93px",
-            "type": "sizing",
-            "description": "contextual.wheel.popup.vip-bet-amount"
-          }
-        },
-        "mob": {
-          "min-width": {
+            "type": "sizing"
+          },
+          "mob": {
             "value": "54px",
             "type": "sizing"
           }
+        },
+        "max-width": {
+          "value": "124px",
+          "type": "sizing"
         }
       }
     },

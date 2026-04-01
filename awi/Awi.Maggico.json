@@ -373,16 +373,16 @@
       "item": {
         "min-width": {
           "desk": {
-            "value": "93px",
+            "value": "110px",
             "type": "sizing"
           },
           "mob": {
-            "value": "54px",
+            "value": "71px",
             "type": "sizing"
           }
         },
         "max-width": {
-          "value": "124px",
+          "value": "141px",
           "type": "sizing"
         }
       }

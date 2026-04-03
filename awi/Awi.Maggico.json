@@ -384,6 +384,16 @@
         "max-width": {
           "value": "141px",
           "type": "sizing"
+        },
+        "gap": {
+          "value": "-7px",
+          "type": "spacing"
+        }
+      },
+      "top": {
+        "padding-right": {
+          "value": "288px",
+          "type": "spacing"
         }
       }
     },

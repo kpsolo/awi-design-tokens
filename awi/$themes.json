@@ -2940,7 +2940,9 @@
       "lottery-tournament.tabs.item.max-width": "b0781a4d291caa07452837d2c556f95e2173aea8",
       "deals.promo-code-button.padding-left": "cff97b51183ba1a59e297d5518474cb018569903",
       "deals.promo-code-button.padding-right": "851c7ed4ec0f7dcebbe5c2530f70bfd011f666dd",
-      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21"
+      "wheel.popup.vip-bet-amount.width": "859c0d3ea4cef2754ea4a57c7fcc768da0d8bc21",
+      "lottery-tournament.tabs.item.gap": "06bac37b6cfee321dbf409620dbc7f6c354b4d09",
+      "lottery-tournament.tabs.top.padding-right": "e45f8991302cc381964e107013a2547306d6a3df"
     },
     "$figmaCollectionId": "VariableCollectionId:38548:410292",
     "$figmaModeId": "38548:0",

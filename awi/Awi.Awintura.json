@@ -6258,6 +6258,10 @@
       "fill": {
         "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
         "type": "color"
+      },
+      "bubble": {
+        "value": "{core.red.500}",
+        "type": "color"
       }
     },
     "error-pages": {

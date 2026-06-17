@@ -4738,6 +4738,10 @@
       "fill": {
         "value": "{core.brand-30.100}",
         "type": "color"
+      },
+      "bubble": {
+        "value": "{core.red.500}",
+        "type": "color"
       }
     },
     "bullet": {

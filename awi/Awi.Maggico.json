@@ -4742,6 +4742,10 @@
       "bubble": {
         "value": "{core.red.500}",
         "type": "color"
+      },
+      "bubble-border": {
+        "value": "{core.brand-10.50}",
+        "type": "color"
       }
     },
     "bullet": {

@@ -4907,7 +4907,7 @@
           },
           "icon": {
             "default": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.brand-30.200}",
               "type": "color"
             },
             "hover-active": {

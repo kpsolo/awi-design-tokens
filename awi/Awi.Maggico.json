@@ -622,6 +622,10 @@
       "status": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
+      },
+      "verification-info": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
       }
     },
     "segment-control": {
@@ -4973,6 +4977,12 @@
         },
         "illustration": {
           "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "verification-info": {
+        "fill": {
+          "value": "{core.white.a8}",
           "type": "color"
         }
       },

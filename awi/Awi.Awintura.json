@@ -345,6 +345,10 @@
       "status": {
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
+      },
+      "verification-info": {
+        "value": "{border-radius.core.full}",
+        "type": "borderRadius"
       }
     },
     "loyalty": {

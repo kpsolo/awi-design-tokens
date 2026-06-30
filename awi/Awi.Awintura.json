@@ -3762,6 +3762,16 @@
           "value": "{core.grey.900}",
           "type": "color"
         }
+      },
+      "verification-info": {
+        "fill": {
+          "value": "{core.brand-60.a10}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{semantic.icon.brand.on-brand-secondary}",
+          "type": "color"
+        }
       }
     },
     "loyalty": {

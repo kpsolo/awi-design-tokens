@@ -4984,6 +4984,10 @@
         "fill": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "icon": {
+          "value": "{semantic.icon.default.primary}",
+          "type": "color"
         }
       },
       "nav-item": {

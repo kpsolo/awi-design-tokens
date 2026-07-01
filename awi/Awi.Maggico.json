@@ -8243,11 +8243,11 @@
   },
   "tab-bar": {
     "padding-top": {
-      "value": "{spacing.300}",
+      "value": "{spacing.150}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "14px",
+      "value": "10px",
       "type": "spacing"
     },
     "item": {

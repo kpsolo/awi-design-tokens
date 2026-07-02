@@ -5028,7 +5028,7 @@
       },
       "mob": {
         "bg": {
-          "value": "linear-gradient(171deg, #252339 7%, #0F0C33 61%)",
+          "value": "linear-gradient(94deg, #2D073C 3.03%, #5C0568 97.32%)",
           "type": "color"
         }
       },

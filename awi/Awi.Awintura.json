@@ -140,7 +140,7 @@
     },
     "item-main": {
       "gap": {
-        "value": "-4px",
+        "value": "0px",
         "type": "spacing"
       }
     },

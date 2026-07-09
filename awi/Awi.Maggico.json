@@ -3575,11 +3575,11 @@
       "banner": {
         "text-accent": {
           "fill": {
-            "value": "rgba(8, 1, 82, 0.20)",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "border": {
-            "value": "#F2FF44",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         },

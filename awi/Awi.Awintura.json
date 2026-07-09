@@ -1376,6 +1376,37 @@
             "type": "boxShadow"
           }
         }
+      },
+      "banner": {
+        "text-accent": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "5px",
+              "spread": "{depth.0}",
+              "color": "rgba(92, 237,209, 0.40)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "rgba(92, 237,209, 0.30)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "rgba(92, 237,209, 0.30)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "segment-control": {
@@ -5126,11 +5157,15 @@
       "banner": {
         "text-accent": {
           "fill": {
-            "value": "rgba(1, 82, 60, 0.40)",
+            "value": "#5CEDD1",
             "type": "color"
           },
           "border": {
             "value": "#5CEDD1",
+            "type": "color"
+          },
+          "back-blur": {
+            "value": "{core.grey.900}",
             "type": "color"
           }
         },

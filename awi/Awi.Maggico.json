@@ -3579,7 +3579,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "back-blur": {

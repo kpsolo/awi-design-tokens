@@ -5161,7 +5161,7 @@
             "type": "color"
           },
           "border": {
-            "value": "#5CEDD1",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "back-blur": {

@@ -3655,6 +3655,10 @@
           "border": {
             "value": "{semantic.gradients.6}",
             "type": "color"
+          },
+          "fill": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
           }
         },
         "new": {

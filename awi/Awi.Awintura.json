@@ -5257,6 +5257,10 @@
           "border": {
             "value": "{semantic.gradients.4}",
             "type": "color"
+          },
+          "fill": {
+            "value": "{semantic.gradients.4}",
+            "type": "color"
           }
         },
         "icon-left": {

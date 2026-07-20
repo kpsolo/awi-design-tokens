@@ -5254,6 +5254,10 @@
             "value": "{core.brand-30.200}",
             "type": "color"
           },
+          "text-2": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color"
+          },
           "border": {
             "value": "{semantic.gradients.4}",
             "type": "color"

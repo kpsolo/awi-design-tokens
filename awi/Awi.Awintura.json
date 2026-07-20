@@ -5274,7 +5274,7 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, #19140C 0%, #5E5547 100%)",
+              "value": "linear-gradient(180deg, rgba(25, 20, 12, 1) 0%, rgba(94, 85, 71, 1) 100%)",
               "type": "color"
             },
             "active": {

@@ -5761,29 +5761,29 @@
         "card": {
           "fill": {
             "normal": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.brand-30.500}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-30.a20}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-30.a50}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -5805,41 +5805,41 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "linear-gradient(180deg, rgba(255, 255, 0, 0.00) 73%, rgba(255, 255, 0, 0.10) 81%, rgba(255, 255, 0, 0.20) 89%, rgba(255, 255, 0, 0.50) 100%)",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border-2": {
             "normal": {
-              "value": "{core.white.a25}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -5848,29 +5848,29 @@
         "popup": {
           "fill": {
             "normal": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.gradients.7}",
+              "value": "{core.brand-30.500}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-30.a20}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-30.a50}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -5892,41 +5892,41 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "linear-gradient(180deg, rgba(255, 255, 0, 0.00) 73%, rgba(255, 255, 0, 0.10) 81%, rgba(255, 255, 0, 0.20) 89%, rgba(255, 255, 0, 0.50) 100%)",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border-2": {
             "normal": {
-              "value": "{core.white.a25}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.white.a0}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -5937,7 +5937,7 @@
         "prize": {
           "item": {
             "text": {
-              "value": "{core.brand-30.200}",
+              "value": "{contextual.popup.text.heading}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -5946,19 +5946,19 @@
       },
       "label": {
         "text": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-30.200}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.brand-10.a10}",
+          "value": "{core.brand-30.a8}",
           "type": "color",
           "description": "Lootboxes"
         }
       },
       "block": {
         "line": {
-          "value": "linear-gradient(92deg, #FCFF71 2%, rgba(252, 255, 113, 0) 98%)",
+          "value": "linear-gradient(92deg, #E9EDF1 5.5%, rgba(101, 104, 108, 0.00) 95.47%)",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -9119,17 +9119,17 @@
   "lootboxes": {
     "coefficient": {
       "normal": {
-        "value": "{text.md-strong}",
+        "value": "{text.md}",
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
       },
       "hover": {
-        "value": "{text.md-strong}",
+        "value": "{text.md-stronger}",
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
       },
       "active": {
-        "value": "{text.md-strong}",
+        "value": "{text.md-stronger}",
         "type": "typography",
         "description": "contextual.lootboxes.coefficient"
       }

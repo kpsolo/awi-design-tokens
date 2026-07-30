@@ -3698,6 +3698,10 @@
             "default": {
               "value": "linear-gradient(180deg, rgba(22, 15, 48, 1) 0%, rgba(100, 54, 147, 1) 100%)",
               "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, rgba(22, 15, 48, 1) 0%, rgba(100, 54, 147, 1) 100%)",
+              "type": "color"
             }
           },
           "divider": {
@@ -3707,6 +3711,20 @@
           "elipse": {
             "value": "linear-gradient(90deg, rgba(156, 110, 247, 0.28) 35%, rgba(156, 110, 247, 0) 74%)",
             "type": "color"
+          },
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a5}",
+              "type": "color"
+            }
           }
         }
       },

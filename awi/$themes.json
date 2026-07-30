@@ -4170,7 +4170,10 @@
       "contextual.homepage.nav-menu.button.fill.border": "S:f7b1e0cc6245929e65fb6522b419ac3e3a423f22,",
       "contextual.calendar.games.card.background.border": "S:3afd73fa5a9d42250d6a8fe9977245584dd530dc,",
       "contextual.calendar.games.card.background.fill": "S:a8ce6653c7639790ea1c14daa4c9d59a6815f247,",
-      "contextual.menu.item.notification.fill": "S:8e3faced0115a660221ba1d449c45db44f45993e,"
+      "contextual.menu.item.notification.fill": "S:8e3faced0115a660221ba1d449c45db44f45993e,",
+      "contextual.menu.item.prime.fill.default": "S:449f15d7b378227372adad43710438515ad2a92b,",
+      "contextual.menu.item.prime.fill.hover": "S:40227304aa26f51eebc344c6b18f778db743ba93,",
+      "contextual.menu.item.prime.fill.active": "S:19abaafabb56e1176479947b124b2f4902905144,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

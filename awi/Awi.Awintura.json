@@ -5277,6 +5277,10 @@
               "value": "linear-gradient(180deg, rgba(25, 20, 12, 1) 0%, rgba(94, 85, 71, 1) 100%)",
               "type": "color"
             },
+            "hover": {
+              "value": "linear-gradient(180deg, rgba(25, 20, 12, 1) 0%, rgba(94, 85, 71, 1) 100%)",
+              "type": "color"
+            },
             "active": {
               "value": "{semantic.gradients.4}",
               "type": "color"
@@ -5289,6 +5293,20 @@
           "elipse": {
             "value": "linear-gradient(90deg, rgba(85, 76, 62, 0.60) 35%, rgba(85, 76, 62, 0.00) 81%)",
             "type": "color"
+          },
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a5}",
+              "type": "color"
+            }
           }
         },
         "elipse": {

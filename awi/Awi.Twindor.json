@@ -3712,6 +3712,10 @@
               "value": "{core.white.a8}",
               "type": "color"
             },
+            "hover": {
+              "value": "{core.white.a15}",
+              "type": "color"
+            },
             "active": {
               "value": "{core.brand-10.500}",
               "type": "color"
@@ -3724,6 +3728,20 @@
           "elipse": {
             "value": "{core.white.a0}",
             "type": "color"
+          },
+          "fill": {
+            "default": {
+              "value": "{core.grey.500}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.grey.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.grey.500}",
+              "type": "color"
+            }
           }
         }
       },

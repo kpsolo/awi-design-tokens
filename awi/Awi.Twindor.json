@@ -3651,16 +3651,16 @@
           }
         },
         "fill": {
-          "active": {
-            "value": "{core.white.a5}",
+          "default": {
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a5}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
-          "default": {
-            "value": "{core.white.a0}",
+          "active": {
+            "value": "{core.grey.500}",
             "type": "color"
           }
         },

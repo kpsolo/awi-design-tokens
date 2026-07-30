@@ -4233,7 +4233,7 @@
             "description": "Top Inner Page"
           },
           "secondary": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{core.white.a80}",
             "type": "color",
             "description": "Top Inner Page"
           }
@@ -5700,12 +5700,12 @@
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.grey.600}",
+            "value": "{core.white.a25}",
             "type": "color"
           },
           "direction": {
             "fill1": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "fill2": {
@@ -5718,14 +5718,14 @@
       "level": {
         "text": {
           "accent": {
-            "value": "{core.red.500}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         }
       },
       "pop-up": {
         "background": {
-          "value": "{core.brand-60.400}",
+          "value": "{core.brand-10.900}",
           "type": "color"
         }
       }

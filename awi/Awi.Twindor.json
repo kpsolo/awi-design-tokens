@@ -6072,31 +6072,40 @@
     "mobile-application": {
       "reviews": {
         "fill": {
-          "value": "{semantic.gradients.9}",
-          "type": "color"
+          "value": "{core.grey.900}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.15",
+                "space": "lch"
+              }
+            }
+          }
         },
         "border": {
-          "value": "linear-gradient(180deg, rgba(156, 110, 247, 0.48) 0%, rgba(156, 110, 247, 0.00) 100%)",
+          "value": "linear-gradient(177deg, {core.white.a40} 3%, {core.white.a0} 98%)",
           "type": "color"
         }
       },
       "switcher-button": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.400}",
+            "value": "{core.white.a15}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "text": {
             "active": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{core.grey.800}",
               "type": "color"
             },
             " inactive": {
-              "value": "{semantic.text.default.secondary}",
+              "value": "{core.white.a50}",
               "type": "color"
             }
           }
@@ -6105,21 +6114,21 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         }
@@ -6130,28 +6139,37 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a25}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       },
       "overlay": {
         "upper": {
-          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
+          "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
           "type": "color"
         },
         "bottom": {
-          "value": "rgba(0, 0, 0, 0.80)",
-          "type": "color"
+          "value": "{core.grey.900}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "lch"
+              }
+            }
+          }
         }
       },
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.grey.600}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         }
@@ -6165,7 +6183,7 @@
         },
         "active": {
           "fill": {
-            "value": "{core.grey.900}",
+            "value": "{core.brand-30.900}",
             "type": "color"
           }
         }
@@ -6173,7 +6191,7 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           }
         }

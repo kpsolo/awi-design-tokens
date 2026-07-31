@@ -1831,7 +1831,7 @@
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "#EDA0FF",
+              "color": "{core.white.a0}",
               "type": "innerShadow"
             },
             {
@@ -1839,7 +1839,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "rgba(211, 14, 255, 0.45)",
+              "color": "{core.white.a0}",
               "type": "innerShadow"
             },
             {
@@ -1847,7 +1847,7 @@
               "y": "0",
               "blur": "16",
               "spread": "0",
-              "color": "rgba(244, 34, 255, 0.6)",
+              "color": "{core.white.a0}",
               "type": "dropShadow"
             }
           ],

@@ -5284,11 +5284,11 @@
     },
     "pregame": {
       "overlay": {
-        "value": "linear-gradient(180deg, #171042 0%, rgba(23, 16, 66, 0.60) 79.69%, rgba(23, 16, 66, 0.35) 100%)",
+        "value": "{core.grey.a30}",
         "type": "color"
       },
       "background": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.900}",
         "type": "color"
       }
     },

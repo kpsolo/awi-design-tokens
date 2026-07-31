@@ -646,7 +646,7 @@
     },
     "PWA-banner": {
       "banner-IOS": {
-        "value": "{blur.slate-on-card}",
+        "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
     },
@@ -6790,7 +6790,7 @@
     },
     "smart-banner": {
       "fill": {
-        "value": "{contextual.popup.fill}",
+        "value": "{semantic.background.5}",
         "type": "color"
       }
     },

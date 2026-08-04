@@ -5243,7 +5243,7 @@
           "type": "color"
         },
         "fill-2": {
-          "value": "#0D0A23",
+          "value": "{contextual.profile.background.fill}",
           "type": "color"
         },
         "content-slate": {

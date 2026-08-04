@@ -1794,7 +1794,7 @@
             "y": "1px",
             "blur": "1px",
             "spread": "0",
-            "color": "rgba(255, 255, 255, 0.40)",
+            "color": "{core.white.a40}",
             "type": "dropShadow"
           },
           {
@@ -1815,7 +1815,7 @@
             "y": "{blur.100}",
             "blur": "6px",
             "spread": "{depth.0}",
-            "color": "{core.white.a0}",
+            "color": "{core.brand-60.a10}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -5026,7 +5026,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{semantic.gradients.7}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "text": {
@@ -5035,12 +5035,12 @@
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.background.brand.emphasizing.default.secondary}",
+            "value": "{semantic.text.static.accent}",
             "type": "color"
           }
         },
         "border": {
-          "value": "{semantic.gradients.5}",
+          "value": "{core.white.a0}",
           "type": "color"
         },
         "illustration": {
@@ -5096,7 +5096,7 @@
       },
       "mob": {
         "bg": {
-          "value": "linear-gradient(94deg, #2D073C 3.03%, #5C0568 97.32%)",
+          "value": "linear-gradient(171deg, {core.brand-60.700} 12%, {core.brand-60.500} 60%)",
           "type": "color"
         }
       },
@@ -5110,6 +5110,10 @@
             "value": "{core.validation.danger.500}",
             "type": "color"
           },
+          "error-2": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
+          },
           "pending": {
             "value": "{core.validation.warning.600}",
             "type": "color"
@@ -5119,11 +5123,7 @@
             "type": "color"
           },
           "declined": {
-            "value": "{core.grey.300}",
-            "type": "color"
-          },
-          "error-2": {
-            "value": "{core.red.600}",
+            "value": "{core.additionals.silver}",
             "type": "color"
           }
         },
@@ -5139,47 +5139,92 @@
         },
         "border": {
           "success": {
-            "value": "rgba(2, 218, 141, 0.32)",
-            "type": "color"
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "error": {
-            "value": "rgba(253, 51, 124, 0.32)",
-            "type": "color"
+            "value": "{core.validation.danger.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "pending": {
-            "value": "rgba(194, 204, 54, 0.32)",
-            "type": "color"
+            "value": "{core.validation.warning.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "on-review": {
-            "value": "rgba(255, 255, 0, 0.32)",
-            "type": "color"
+            "value": "{core.validation.warning.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "declined": {
-            "value": "rgba(187, 194, 213, 0.32)",
-            "type": "color"
+            "value": "{core.additionals.silver}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "md": {
           "padding-left": {
-            "value": "{spacing.300}",
+            "value": "{spacing.200}",
             "type": "spacing"
           }
         }
       },
       "loyalty_points": {
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{core.grey.500}",
           "type": "color",
           "description": "contextual.profile.loyalty_points.fill"
         },
         "points": {
           "slate-1": {
-            "value": "{contextual.popup.fill}",
+            "value": "{core.grey.900}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           },
           "slate-2": {
-            "value": "{contextual.popup.slate.2}",
+            "value": "{core.grey.700}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
@@ -5188,13 +5233,13 @@
       "background": {
         "menu": {
           "fill": {
-            "value": "#1C1548",
+            "value": "{core.grey.800}",
             "type": "color",
             "description": "contextual.profile.loyalty_points.fill"
           }
         },
         "fill": {
-          "value": "#150F36",
+          "value": "{core.grey.800}",
           "type": "color"
         },
         "fill-2": {
@@ -5215,16 +5260,16 @@
       "balance-card": {
         "icon": {
           "fill": {
-            "value": "{semantic.icon.default.secondary}",
+            "value": "{semantic.icon.default.primary}",
             "type": "color"
           },
           "background": {
-            "value": "{semantic.background.slate-2}",
+            "value": "{core.brand-60.a60}",
             "type": "color"
           }
         },
         "fill": {
-          "value": "{semantic.gradients.7}",
+          "value": "{semantic.gradients.1}",
           "type": "color"
         },
         "text": {
@@ -5233,7 +5278,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{semantic.text.default.tertiary}",
+            "value": "{semantic.text.static.secondary}",
             "type": "color"
           }
         }

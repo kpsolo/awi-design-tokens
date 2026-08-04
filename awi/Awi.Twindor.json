@@ -5010,11 +5010,11 @@
     "referal": {
       "step": {
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.a20}",
+          "value": "{core.white.a15}",
           "type": "color"
         },
         "text": {
@@ -5035,7 +5035,7 @@
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.static.accent}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         },
@@ -5278,8 +5278,17 @@
           }
         },
         "fill": {
-          "value": "{semantic.gradients.1}",
-          "type": "color"
+          "value": "{core.brand-60.300}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
         },
         "text": {
           "primary": {
@@ -5302,6 +5311,12 @@
             "value": "{core.brand-30.a15}",
             "type": "color"
           }
+        }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
         }
       }
     },

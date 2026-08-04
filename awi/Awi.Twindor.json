@@ -1815,7 +1815,7 @@
             "y": "{blur.100}",
             "blur": "6px",
             "spread": "{depth.0}",
-            "color": "{core.brand-60.a10}",
+            "color": "{core.white.a5}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -6798,7 +6798,7 @@
         },
         "text": {
           "primary": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           }
         }
@@ -6837,7 +6837,7 @@
       },
       "elipse": {
         "hover": {
-          "value": "linear-gradient(90deg, rgba(151, 17, 215, 0.56) 34.83%, rgba(151, 17, 215, 0.00) 81.2%)",
+          "value": "{core.white.a0}",
           "type": "color"
         }
       }

@@ -5222,7 +5222,11 @@
       },
       "badge": {
         "fill": {
-          "value": "{core.brand-10.500}",
+          "value": "{contextual.tabs.item.number.fill.default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{contextual.tabs.item.number.text.default}",
           "type": "color"
         }
       }

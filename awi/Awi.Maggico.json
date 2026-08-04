@@ -5219,6 +5219,12 @@
             "type": "color"
           }
         }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "news": {
@@ -6724,6 +6730,18 @@
               "type": "color"
             }
           }
+        }
+      }
+    },
+    "icon-graphic": {
+      "icon&text": {
+        "default": {
+          "value": "{semantic.icon.static.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.icon.static.primary}",
+          "type": "color"
         }
       }
     }
@@ -8930,6 +8948,18 @@
             "lineHeight": "16px",
             "textCase": "{text-case.none}"
           },
+          "type": "typography"
+        }
+      }
+    },
+    "banner": {
+      "title": {
+        "web": {
+          "value": "{heading.xxl-stronger}",
+          "type": "typography"
+        },
+        "mob": {
+          "value": "{heading.lg-stronger}",
           "type": "typography"
         }
       }

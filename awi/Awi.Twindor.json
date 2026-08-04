@@ -5564,12 +5564,12 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "Segment Control"
       },
       "border": {
-        "value": "{core.grey.800}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -5586,7 +5586,7 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.grey.600}",
+            "value": "{semantic.gradients.7}",
             "type": "color",
             "description": "Segment Control"
           }

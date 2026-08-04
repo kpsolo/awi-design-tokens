@@ -3810,11 +3810,11 @@
       },
       "badge": {
         "fill": {
-          "value": "{contextual.tabs.item.number.fill.default}",
+          "value": "{contextual.tabs.item.number.fill2}",
           "type": "color"
         },
         "text": {
-          "value": "{contextual.tabs.item.number.text.default}",
+          "value": "{contextual.tabs.item.number.text2}",
           "type": "color"
         }
       }

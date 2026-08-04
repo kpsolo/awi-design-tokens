@@ -5317,6 +5317,10 @@
         "fill": {
           "value": "{core.brand-10.500}",
           "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand}",
+          "type": "color"
         }
       }
     },

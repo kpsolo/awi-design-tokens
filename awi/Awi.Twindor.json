@@ -2693,11 +2693,11 @@
     },
     "error-pages": {
       "background-gradient-top": {
-        "value": "rgba(255, 255, 255, 0.00)",
+        "value": "linear-gradient(180deg, rgba(179, 185, 191, 0.25) 0%, rgba(10, 13, 14, 0.20) 46%)",
         "type": "color"
       },
       "background-gradient-bottom": {
-        "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
+        "value": "{core.white.a0}",
         "type": "color"
       }
     },

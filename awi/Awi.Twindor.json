@@ -9527,8 +9527,8 @@
     "accent": {
       "s": {
         "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Bold}",
+          "fontFamily": "{main}",
+          "fontWeight": "{Expanded}",
           "fontSize": "56px",
           "lineHeight": "56px",
           "letterSpacing": "{letter-spacing.2}",
@@ -9538,8 +9538,8 @@
       },
       "l": {
         "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Bold}",
+          "fontFamily": "{main}",
+          "fontWeight": "{Expanded}",
           "fontSize": "130px",
           "lineHeight": "130px",
           "letterSpacing": "{letter-spacing.2}",

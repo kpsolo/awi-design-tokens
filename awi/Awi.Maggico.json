@@ -5933,6 +5933,11 @@
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
           "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color",
+          "description": "Lootboxes"
         }
       },
       "steps": {

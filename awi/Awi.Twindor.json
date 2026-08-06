@@ -6084,6 +6084,11 @@
           "value": "{core.brand-30.a15}",
           "type": "color",
           "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Lootboxes"
         }
       },
       "steps": {

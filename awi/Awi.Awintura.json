@@ -3466,6 +3466,11 @@
           "value": "{core.brand-10.a10}",
           "type": "color",
           "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color",
+          "description": "Lootboxes"
         }
       },
       "steps": {

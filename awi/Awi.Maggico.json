@@ -5579,7 +5579,7 @@
         },
         "border": {
           "default": {
-            "value": "{contextual.popup.devider-2}",
+            "value": "{core.white.a15}",
             "type": "color",
             "description": "Chips"
           },

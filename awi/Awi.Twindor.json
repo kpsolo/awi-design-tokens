@@ -6560,7 +6560,7 @@
       },
       "popup": {
         "fill": {
-          "value": "{core.brand-60.500}",
+          "value": "{semantic.gradients.8}",
           "type": "color"
         },
         "vip-bet-amount": {
@@ -6570,7 +6570,7 @@
             "description": "vip bet amount"
           },
           "text": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.icon.brand.on-brand}",
             "type": "color",
             "description": "vip bet amount"
           },
@@ -6589,13 +6589,13 @@
               "type": "color"
             },
             "active": {
-              "value": "{semantic.background.brand.emphasizing.default.primary}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
           "border": {
             "normal": {
-              "value": "{core.brand-10.500}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "active": {
@@ -6605,11 +6605,11 @@
           },
           "text": {
             "normal": {
-              "value": "{core.grey.50}",
+              "value": "{core.white.a80}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-60.900}",
               "type": "color",
               "description": "{core.grey.50}"
             }
@@ -6620,13 +6620,13 @@
               "type": "color"
             },
             "active": {
-              "value": "rgba(14, 10, 35, 0.70)",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           }
         },
         "divider": {
-          "value": "{core.grey.a30}",
+          "value": "{core.grey.a20}",
           "type": "color"
         }
       },

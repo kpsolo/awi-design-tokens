@@ -6490,7 +6490,7 @@
               "type": "color"
             },
             "AI": {
-              "value": "{core.validation.success.500}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           }

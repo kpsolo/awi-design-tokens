@@ -6558,7 +6558,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.validation.danger.600}",
+            "value": "{core.validation.warning.400}",
             "type": "color"
           }
         },

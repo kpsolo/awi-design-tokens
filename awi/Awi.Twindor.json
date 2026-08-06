@@ -6588,7 +6588,7 @@
         },
         "vip-bet-amount": {
           "fill": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.brand-10.600}",
             "type": "color",
             "description": "vip bet amount"
           },

@@ -2084,7 +2084,7 @@
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "color": "{core.brand-30.a20}",
               "type": "innerShadow"
             },
             {
@@ -2092,7 +2092,7 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "color": "{core.brand-30.a8}",
               "type": "innerShadow"
             },
             {
@@ -2100,7 +2100,7 @@
               "y": "0",
               "blur": "16px",
               "spread": "0",
-              "color": "rgba(253, 51, 124, 0.60)",
+              "color": "{core.brand-30.a20}",
               "type": "dropShadow"
             }
           ],
@@ -6040,25 +6040,25 @@
     "strip": {
       "progress": {
         "fill": {
-          "value": "rgba(253, 51, 124, 0.40)",
+          "value": "{core.brand-10.a25}",
           "type": "color",
           "description": "Lootboxes"
         },
         "step": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.brand-10.600}",
           "type": "color",
           "description": "Lootboxes"
         }
       },
       "header": {
         "overlay": {
-          "value": "linear-gradient(91deg, {core.brand-60.800} 0%, {core.brand-60.a10} 98%)",
+          "value": "linear-gradient(91deg, #1F272C 0.84%, rgba(138, 162, 176, 0.00) 97.19%)",
           "type": "color"
         }
       },
       "card": {
         "border": {
-          "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
+          "value": "{core.brand-30.a15}",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -6076,8 +6076,17 @@
             "description": "Lootboxes"
           },
           "static": {
-            "value": "{core.grey.700}",
-            "type": "color"
+            "value": "{core.brand-60.300}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
           }
         }
       },

@@ -5714,7 +5714,7 @@
       "popup": {
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Chips"
           },
@@ -5731,12 +5731,12 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a8}",
+            "value": "{core.white.a15}",
             "type": "color",
             "description": "Chips"
           },
           "hover": {
-            "value": "{semantic.border.static.hover}",
+            "value": "{core.white.a60}",
             "type": "color",
             "description": "Chips"
           },

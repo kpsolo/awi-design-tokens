@@ -6522,6 +6522,10 @@
         "text": {
           "value": "{semantic.text.brand.primary}",
           "type": "color"
+        },
+        "additional-text": {
+          "value": "{core.brand-30.400}",
+          "type": "color"
         }
       },
       "promo-code-button": {

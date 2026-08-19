@@ -6675,6 +6675,27 @@
               "type": "color"
             }
           }
+        },
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.12",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "border": {
+          "value": "linear-gradient(131deg, rgba(210, 46, 220, 0.60) 3.04%, rgba(119, 105, 239, 0.26) 48.98%, rgba(3, 25, 44, 0.60) 92.73%)",
+          "type": "color"
+        },
+        "additional-border": {
+          "value": "{core.brand-30.a20}",
+          "type": "color"
         }
       }
     },

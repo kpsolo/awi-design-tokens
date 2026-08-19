@@ -6637,6 +6637,26 @@
           "value": "linear-gradient(90deg, rgba(132, 21, 174, 0.30) 0%, #FE5EF6 25.38%, #FF0 50%, rgba(254, 94, 246, 0.55) 75.38%, rgba(132, 21, 174, 0.30) 100%)",
           "type": "color"
         }
+      },
+      "level-ladder": {
+        "item": {
+          "default": {
+            "border": {
+              "value": "linear-gradient(90deg, rgba(176, 69, 228, 0.00) 14.92%, rgba(176, 69, 228, 0.50) 48.55%, rgba(176, 69, 228, 0.00) 82.17%)",
+              "type": "color"
+            }
+          },
+          "opened": {
+            "border": {
+              "value": "linear-gradient(90deg, rgba(176, 69, 228, 0.00) 14.92%, rgba(176, 69, 228, 0.50) 48.55%, rgba(176, 69, 228, 0.00) 82.17%)",
+              "type": "color"
+            },
+            "fill": {
+              "value": "linear-gradient(90deg, rgba(151, 17, 215, 0.13) 34.83%, rgba(151, 17, 215, 0.00) 81.2%)",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "gamehall": {

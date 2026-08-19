@@ -6504,11 +6504,20 @@
       },
       "progress": {
         "fill": {
-          "value": "#423774",
-          "type": "color"
+          "value": "{core.brand-30.50}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.24",
+                "space": "lch"
+              }
+            }
+          }
         },
         "step": {
-          "value": "#FE5EF6",
+          "value": "linear-gradient(270deg, #FE5EF6 -12.13%, #B18AFF 100%)",
           "type": "color"
         },
         "border": {

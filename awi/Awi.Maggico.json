@@ -6373,11 +6373,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(180deg, #E7E6E9 0%, #E2CAEC 100%)",
+            "value": "#2C012D",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(164deg, #7B1DC4 22.33%, #3B0E5E 87.86%)",
+            "value": "#3B0E5E",
             "type": "color"
           },
           "active": {
@@ -6389,9 +6389,13 @@
             "type": "color"
           }
         },
+        "divider": {
+          "value": "#DFA2F9",
+          "type": "color"
+        },
         "text": {
           "light": {
-            "value": "{core.brand-60.500}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "dark": {

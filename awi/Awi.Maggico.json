@@ -2329,6 +2329,34 @@
         ],
         "type": "boxShadow"
       },
+      "sector": {
+        "dark": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "12px",
+              "spread": "0px",
+              "color": "rgba(252, 65, 254, 0.5)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "24px",
+              "spread": "0px",
+              "color": "rgba(252, 65, 254, 0.8)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
       "popup": {
         "multiplier": {
           "normal": {

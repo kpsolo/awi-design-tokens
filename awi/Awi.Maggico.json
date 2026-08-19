@@ -6646,6 +6646,12 @@
               "type": "color"
             }
           },
+          "badge": {
+            "fill": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            }
+          },
           "opened": {
             "border": {
               "value": "linear-gradient(90deg, rgba(176, 69, 228, 0.00) 14.92%, rgba(176, 69, 228, 0.50) 48.55%, rgba(176, 69, 228, 0.00) 82.17%)",

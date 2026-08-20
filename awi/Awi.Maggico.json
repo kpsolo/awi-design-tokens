@@ -6681,6 +6681,10 @@
         "additional": {
           "value": "linear-gradient(90deg, rgba(132, 21, 174, 0.30) 0%, #FE5EF6 25.38%, #FF0 50%, rgba(254, 94, 246, 0.55) 75.38%, rgba(132, 21, 174, 0.30) 100%)",
           "type": "color"
+        },
+        "popup": {
+          "value": "linear-gradient(270deg, rgba(176, 69, 228, 0.00) 4.79%, #B045E4 48.55%, rgba(176, 69, 228, 0.00) 95.69%)",
+          "type": "color"
         }
       },
       "level-ladder": {

@@ -2600,6 +2600,10 @@
         "text": {
           "value": "{semantic.text.brand.primary}",
           "type": "color"
+        },
+        "additional-text": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
         }
       },
       "timer": {
@@ -2631,6 +2635,21 @@
           "date-light": {
             "value": "{core.brand-30.300}",
             "type": "color"
+          }
+        }
+      },
+      "level-ladder": {
+        "fill": {
+          "value": "{contextual.popup.fill}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
           }
         }
       }

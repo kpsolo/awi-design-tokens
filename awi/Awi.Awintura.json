@@ -2487,7 +2487,7 @@
           }
         },
         "divider": {
-          "value": "#898051",
+          "value": "{core.brand-30.700}",
           "type": "color"
         }
       },

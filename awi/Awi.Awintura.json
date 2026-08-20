@@ -2470,11 +2470,11 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, #FFF 2%, #BCBCBC 100%)",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
@@ -2482,9 +2482,13 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
+        },
+        "divider": {
+          "value": "#898051",
+          "type": "color"
         }
       },
       "popup": {

@@ -2343,6 +2343,19 @@
           ],
           "type": "boxShadow"
         },
+        "winning": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "40px",
+              "spread": "0px",
+              "color": "rgba(252, 65, 254, 1)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "light": {
           "value": [
             {
@@ -6435,7 +6448,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         }

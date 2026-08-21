@@ -2689,6 +2689,24 @@
         "additional-border": {
           "value": "{core.brand-30.500}",
           "type": "color"
+        },
+        "item": {
+          "opened": {
+            "fill": {
+              "value": "linear-gradient(90deg, rgba(150, 126, 81, 0.13) 34.83%, rgba(150, 126, 81, 0.00) 81.2%)",
+              "type": "color"
+            },
+            "border": {
+              "value": "linear-gradient(90deg, rgba(93, 166, 26, 0.00) 14.92%, rgba(93, 166, 26, 0.38) 48.55%, rgba(93, 166, 26, 0.00) 82.17%)",
+              "type": "color"
+            }
+          },
+          "default": {
+            "border": {
+              "value": "linear-gradient(90deg, rgba(93, 166, 26, 0.00) 14.92%, rgba(93, 166, 26, 0.38) 48.55%, rgba(93, 166, 26, 0.00) 82.17%)",
+              "type": "color"
+            }
+          }
         }
       },
       "divider": {

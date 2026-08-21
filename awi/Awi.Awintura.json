@@ -1738,6 +1738,41 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "sector": {
+        "winning": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "40px",
+            "spread": "0",
+            "color": "{core.brand-10.500}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "light": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "24px",
+            "spread": "0",
+            "color": "rgba(136, 111, 47, 0.8)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "dark": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "12px",
+            "spread": "0",
+            "color": "rgba(190, 136, 0, 0.49)",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "progress": {
@@ -2653,6 +2688,12 @@
         },
         "additional-border": {
           "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "divider": {
+        "additional": {
+          "value": "linear-gradient(90deg, rgba(126, 212, 183, 0.30) 0%, #71DC00 25.38%, #FFD000 50%, #71DC00 75.38%, rgba(126, 212, 183, 0.30) 100%)",
           "type": "color"
         }
       }

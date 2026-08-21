@@ -2650,6 +2650,10 @@
         "border": {
           "value": "linear-gradient(130deg, #FFD15A 5.15%, #FFA600 26.44%, #B8D93A 46.53%, rgba(53, 201, 186, 0.60) 69.65%)",
           "type": "color"
+        },
+        "additional-border": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
         }
       }
     },

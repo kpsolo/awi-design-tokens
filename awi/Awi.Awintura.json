@@ -2595,7 +2595,7 @@
         },
         "border": {
           "fill": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.a40}",
             "type": "color"
           }
         }

@@ -2706,6 +2706,12 @@
               "value": "linear-gradient(90deg, rgba(93, 166, 26, 0.00) 14.92%, rgba(93, 166, 26, 0.38) 48.55%, rgba(93, 166, 26, 0.00) 82.17%)",
               "type": "color"
             }
+          },
+          "badge": {
+            "fill": {
+              "value": "{semantic.gradients.4}",
+              "type": "color"
+            }
           }
         }
       },

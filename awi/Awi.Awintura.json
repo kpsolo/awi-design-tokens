@@ -2713,6 +2713,10 @@
         "additional": {
           "value": "linear-gradient(90deg, rgba(126, 212, 183, 0.30) 0%, #71DC00 25.38%, #FFD000 50%, #71DC00 75.38%, rgba(126, 212, 183, 0.30) 100%)",
           "type": "color"
+        },
+        "popup": {
+          "value": "linear-gradient(270deg, rgba(93, 166, 26, 0.00) 4.79%, #5DA61A 48.55%, rgba(93, 166, 26, 0.00) 95.69%)",
+          "type": "color"
         }
       }
     },

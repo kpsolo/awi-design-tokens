@@ -8814,7 +8814,14 @@
       "banner": {
         "subtitle": {
           "mob": {
-            "value": "{heading.ml}",
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Bold}",
+              "fontSize": "{scale-4}",
+              "lineHeight": "{md}",
+              "letterSpacing": "0%",
+              "textDecoration": "{text-decoration.none}"
+            },
             "type": "typography"
           },
           "desk": {
@@ -8824,7 +8831,7 @@
         },
         "title": {
           "mob": {
-            "value": "{heading.xxl-stronger}",
+            "value": "{heading.xl-stronger}",
             "type": "typography"
           },
           "desk": {

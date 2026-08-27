@@ -9085,7 +9085,7 @@
             "value": {
               "fontFamily": "{accent}",
               "fontWeight": "{Bold}",
-              "fontSize": "{scale-5}",
+              "fontSize": "{scale-4}",
               "lineHeight": "{md}",
               "letterSpacing": "0%",
               "textDecoration": "{text-decoration.none}"
@@ -9109,8 +9109,8 @@
             "value": {
               "fontFamily": "{accent}",
               "fontWeight": "{Bold}",
-              "fontSize": "{scale-8}",
-              "lineHeight": "{xxl}",
+              "fontSize": "{scale-7}",
+              "lineHeight": "{xl}",
               "letterSpacing": "0%",
               "textCase": "{text-case.none}"
             },

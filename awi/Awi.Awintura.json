@@ -9022,7 +9022,14 @@
       "banner": {
         "subtitle": {
           "mob": {
-            "value": "{heading.ml}",
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{Regular}",
+              "fontSize": "{scale-4}",
+              "lineHeight": "{md}",
+              "letterSpacing": "{letter-spacing.2}",
+              "textCase": "{text-case.uppercase}"
+            },
             "type": "typography"
           },
           "desk": {
@@ -9032,7 +9039,7 @@
         },
         "title": {
           "mob": {
-            "value": "{heading.xxl-stronger}",
+            "value": "{heading.xl-stronger}",
             "type": "typography"
           },
           "desk": {

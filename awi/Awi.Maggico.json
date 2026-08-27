@@ -6422,7 +6422,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.400}",
+            "value": "#3B0E5E",
             "type": "color"
           },
           "active-vip": {

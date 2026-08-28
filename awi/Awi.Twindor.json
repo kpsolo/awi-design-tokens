@@ -9085,7 +9085,7 @@
             "value": {
               "fontFamily": "{accent}",
               "fontWeight": "{Bold}",
-              "fontSize": "{scale-4}",
+              "fontSize": "{scale-3}",
               "lineHeight": "{md}",
               "letterSpacing": "0%",
               "textDecoration": "{text-decoration.none}"

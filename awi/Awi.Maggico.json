@@ -6908,13 +6908,14 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.none}",
+        "fontWeight": "600"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "Font weight 500 doesn't work well for this card title"
     },
     "xl": {
       "value": {

@@ -8504,6 +8504,10 @@
     "2": {
       "value": "2%",
       "type": "letterSpacing"
+    },
+    "-2": {
+      "value": "-2%",
+      "type": "letterSpacing"
     }
   },
   "Expanded": {

@@ -3885,7 +3885,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.8}",
+        "value": "{semantic.background.2}",
         "type": "color"
       },
       "toast": {
@@ -3936,7 +3936,7 @@
       },
       "popover-action": {
         "fill": {
-          "value": "{semantic.gradients.3}",
+          "value": "{semantic.background.1}",
           "type": "color"
         }
       }

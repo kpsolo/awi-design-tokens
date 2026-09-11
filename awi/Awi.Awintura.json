@@ -8544,11 +8544,11 @@
   },
   "letter-spacing": {
     "2": {
-      "value": "0.5px",
+      "value": "0.2px",
       "type": "letterSpacing"
     },
     "-2": {
-      "value": "-0.5px",
+      "value": "-0.2px",
       "type": "letterSpacing"
     }
   },

@@ -1728,7 +1728,7 @@
             }
           ],
           "type": "boxShadow",
-          "description": "0px 0px 4px 0px #E028FD"
+          "description": "(0px 0px 4px 0px #E028FD) Token doesn't work for text"
         }
       }
     },

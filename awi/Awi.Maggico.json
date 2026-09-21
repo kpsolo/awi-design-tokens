@@ -1698,7 +1698,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{blur.100}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "#E028FD",
               "type": "dropShadow"
             },
@@ -1706,7 +1706,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{blur.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "#E028FD",
               "type": "dropShadow"
             },
@@ -1714,7 +1714,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "12px",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "#E028FD",
               "type": "dropShadow"
             },
@@ -1722,7 +1722,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "12px",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "#B3A9F6",
               "type": "dropShadow"
             }

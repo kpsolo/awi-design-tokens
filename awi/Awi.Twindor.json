@@ -1700,7 +1700,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{blur.0}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "{core.white.a0}",
               "type": "dropShadow"
             }

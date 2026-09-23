@@ -6742,6 +6742,16 @@
             "type": "color"
           }
         }
+      },
+      "level-ladder": {
+        "item": {
+          "badge": {
+            "fill": {
+              "value": "{semantic.gradients.10}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "gamehall": {

@@ -6670,7 +6670,7 @@
           "description": "vip bet amount"
         },
         "glow": {
-          "value": "linear-gradient(138deg, rgba(47, 40, 89, 0.00) 43%, rgba(215, 197, 252, 0.15) 54%, rgba(37, 35, 57, 0.00) 65%)",
+          "value": "linear-gradient(138deg, rgba(31, 39, 44, 0.00) 43.33%, rgba(163, 181, 193, 0.15) 53.81%, rgba(31, 39, 44, 0.00) 64.29%)",
           "type": "color",
           "description": "vip bet amount"
         },

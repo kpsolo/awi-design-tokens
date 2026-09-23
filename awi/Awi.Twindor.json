@@ -6709,6 +6709,10 @@
         "text": {
           "value": "{semantic.text.brand.primary}",
           "type": "color"
+        },
+        "additional-text": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
         }
       },
       "timer": {

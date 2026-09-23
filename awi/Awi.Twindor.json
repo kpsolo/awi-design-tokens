@@ -6764,6 +6764,14 @@
               }
             }
           }
+        },
+        "border": {
+          "value": "linear-gradient(131deg, rgba(238, 241, 243, 0.6) 5.89%, rgba(114, 143, 160, 0.26) 49.04%, rgba(31, 39, 44, 0.60) 90.13%)",
+          "type": "color"
+        },
+        "additional-border": {
+          "value": "{core.white.a15}",
+          "type": "color"
         }
       }
     },

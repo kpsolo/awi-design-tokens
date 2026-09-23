@@ -4298,7 +4298,9 @@
       "contextual.profile.badge.text": "S:b10fc295346248781b2f16b710c9b6219e96eb2e,",
       "contextual.strip.card.fill": "S:5399e31238e0b251c482205db8282e1e87ea4333,",
       "contextual.wheel.level-ladder.fill": "S:743bc76fd97fafb567d6698c63de0a5276000c6e,",
-      "contextual.wheel.level-ladder.item.badge.fill": "S:ff71b1672670fb32a56b710432033024c457209a,"
+      "contextual.wheel.level-ladder.item.badge.fill": "S:ff71b1672670fb32a56b710432033024c457209a,",
+      "contextual.wheel.level-ladder.border": "S:f00c89033827c96ed7863ac07be688725399564e,",
+      "contextual.wheel.level-ladder.additional-border": "S:0b7bc3ba52e2f3656ee99f257211bb8d9d186002,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

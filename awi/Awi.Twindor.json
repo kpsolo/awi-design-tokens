@@ -2850,7 +2850,7 @@
           "type": "color"
         },
         "accent-2": {
-          "value": "{core.brand-30.600}",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       },
@@ -6764,6 +6764,10 @@
           "opened": {
             "border": {
               "value": "linear-gradient(90deg, rgba(163, 181, 193, 0.00) 14.92%, rgba(163, 181, 193, 0.80) 48.55%, rgba(163, 181, 193, 0.00) 82.17%)",
+              "type": "color"
+            },
+            "fill": {
+              "value": "linear-gradient(90deg, rgba(10, 13, 14, 0.16) 34.83%, rgba(10, 13, 14, 0.00) 81.2%)",
               "type": "color"
             }
           }

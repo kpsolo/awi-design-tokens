@@ -4305,7 +4305,8 @@
       "contextual.wheel.divider.additional": "S:54db770fb40e50702f3c2f39782200d53949dff1,",
       "contextual.wheel.level-ladder.item.default.border": "S:8b276923523ba01c241a5c8a1462222a6b1d06bb,",
       "contextual.wheel.level-ladder.item.opened.border": "S:0e71734e67bac89af3a0b86cab9cf695a0e467ae,",
-      "contextual.wheel.divider.popup": "S:4e93fac8e53aa9649c96a3392b26dfb26d0d834d,"
+      "contextual.wheel.divider.popup": "S:4e93fac8e53aa9649c96a3392b26dfb26d0d834d,",
+      "contextual.wheel.level-ladder.item.opened.fill": "S:e6acacd7644c3c7d523dbb2f3408f4798c2c1f68,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

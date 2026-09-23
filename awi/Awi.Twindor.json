@@ -6754,6 +6754,12 @@
               "value": "{semantic.gradients.10}",
               "type": "color"
             }
+          },
+          "default": {
+            "border": {
+              "value": "linear-gradient(90deg, rgba(163, 181, 193, 0.00) 14.92%, rgba(163, 181, 193, 0.80) 48.55%, rgba(163, 181, 193, 0.00) 82.17%)",
+              "type": "color"
+            }
           }
         },
         "fill": {
@@ -6770,7 +6776,7 @@
           }
         },
         "border": {
-          "value": "linear-gradient(131deg, rgba(238, 241, 243, 0.6) 5.89%, rgba(114, 143, 160, 0.26) 49.04%, rgba(31, 39, 44, 0.60) 90.13%)",
+          "value": "linear-gradient(131deg, rgba(238, 241, 243, 0.60) 8.57%, rgba(246, 254, 115, 0.60) 49.1%, rgba(90, 124, 144, 0.26) 87.69%)",
           "type": "color"
         },
         "additional-border": {

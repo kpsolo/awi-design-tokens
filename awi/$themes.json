@@ -4301,7 +4301,8 @@
       "contextual.wheel.level-ladder.item.badge.fill": "S:ff71b1672670fb32a56b710432033024c457209a,",
       "contextual.wheel.level-ladder.border": "S:f00c89033827c96ed7863ac07be688725399564e,",
       "contextual.wheel.level-ladder.additional-border": "S:0b7bc3ba52e2f3656ee99f257211bb8d9d186002,",
-      "contextual.wheel.more.additional-text": "S:76f2bc9ced6b880678bb938ad3ad955e454a46f6,"
+      "contextual.wheel.more.additional-text": "S:76f2bc9ced6b880678bb938ad3ad955e454a46f6,",
+      "contextual.wheel.divider.additional": "S:54db770fb40e50702f3c2f39782200d53949dff1,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

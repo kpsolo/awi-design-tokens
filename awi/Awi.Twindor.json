@@ -6751,6 +6751,10 @@
               "type": "color"
             }
           }
+        },
+        "fill": {
+          "value": "{semantic.background.slate-on-card}",
+          "type": "color"
         }
       }
     },

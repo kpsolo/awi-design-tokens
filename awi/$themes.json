@@ -4296,7 +4296,9 @@
       "contextual.menu.item.prime.border.hover": "S:26a9be992cd615685de6d52028e91dfb018ba484,",
       "contextual.profile.badge.fill": "S:a7987bb56e399a6e91cccb7d6ab466848867d1a7,",
       "contextual.profile.badge.text": "S:b10fc295346248781b2f16b710c9b6219e96eb2e,",
-      "contextual.strip.card.fill": "S:5399e31238e0b251c482205db8282e1e87ea4333,"
+      "contextual.strip.card.fill": "S:5399e31238e0b251c482205db8282e1e87ea4333,",
+      "contextual.wheel.level-ladder.fill": "S:743bc76fd97fafb567d6698c63de0a5276000c6e,",
+      "contextual.wheel.level-ladder.item.badge.fill": "S:ff71b1672670fb32a56b710432033024c457209a,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

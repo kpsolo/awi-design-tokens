@@ -2405,7 +2405,7 @@
               "y": "0px",
               "blur": "12px",
               "spread": "0px",
-              "color": "rgba(239, 242, 173, 0.4)",
+              "color": "rgba(226, 244, 52, 1)",
               "type": "innerShadow"
             }
           ],
@@ -2418,7 +2418,7 @@
               "y": "0px",
               "blur": "24px",
               "spread": "0px",
-              "color": "rgba(111, 0, 254, 0.4)",
+              "color": "rgba(98, 22, 195, 0.8)",
               "type": "innerShadow"
             }
           ],
@@ -6592,7 +6592,7 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.brand-60.800}",
             "type": "color"
           },
           "dark": {

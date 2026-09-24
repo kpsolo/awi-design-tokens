@@ -2403,9 +2403,9 @@
             {
               "x": "0px",
               "y": "0px",
-              "blur": "12px",
+              "blur": "16px",
               "spread": "0px",
-              "color": "rgba(226, 244, 52, 1)",
+              "color": "rgba(226, 244, 52, 0.6)",
               "type": "innerShadow"
             }
           ],

@@ -6569,11 +6569,11 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "active": {

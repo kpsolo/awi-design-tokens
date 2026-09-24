@@ -4311,7 +4311,8 @@
       "shadow.wheel.sector.light": "S:33a106aba20d44caa852027d985fdf3cc56792f6,",
       "shadow.wheel.sector.dark-copy": "S:e528ca98e94db5e5483c03c3ede01dadd7ac2a8c,",
       "shadow.wheel.sector.dark": "S:95a4fa6de57fcb022d47236c3d84d5f6634593c4,",
-      "shadow.wheel.sector.winning": "S:0810380f142bb59c065a7a925a4780b406baeb06,"
+      "shadow.wheel.sector.winning": "S:0810380f142bb59c065a7a925a4780b406baeb06,",
+      "contextual.wheel.level-ladder.item.opened.active-ellipse": "S:9e50e84d50b7c145cd239bb60d02db9de34e916c,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

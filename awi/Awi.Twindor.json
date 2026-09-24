@@ -2423,6 +2423,19 @@
             }
           ],
           "type": "boxShadow"
+        },
+        "winning": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "40px",
+              "spread": "0px",
+              "color": "rgba(236, 253, 1, 1)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       }
     },

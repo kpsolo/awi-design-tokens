@@ -6569,11 +6569,11 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.default.primary}",
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "{semantic.text.default.primary}",
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
             "type": "color"
           },
           "active": {
@@ -6950,6 +6950,10 @@
     "value": "28px",
     "type": "fontSizes"
   },
+  "scale-9": {
+    "value": "22px",
+    "type": "fontSizes"
+  },
   "xs": {
     "value": "16px",
     "type": "lineHeights"
@@ -7066,7 +7070,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-7}",
+        "fontSize": "{scale-9}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"

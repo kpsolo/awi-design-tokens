@@ -2396,6 +2396,34 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "sector": {
+        "light": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "12px",
+              "spread": "0px",
+              "color": "rgba(239, 242, 173, 0.4)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "dark": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "24px",
+              "spread": "0px",
+              "color": "rgba(111, 0, 254, 0.4)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "promo-lending": {
@@ -6551,11 +6579,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(166deg, {core.brand-60.700} 48%, {core.brand-60.800} 93%)",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(164deg, {core.grey.800} 5%, {core.brand-60.800} 100%)",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "active": {
@@ -6586,7 +6614,7 @@
           }
         },
         "divider": {
-          "value": "{core.brand-10.100}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         }
       },

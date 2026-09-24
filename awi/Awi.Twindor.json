@@ -6773,17 +6773,8 @@
           }
         },
         "fill": {
-          "value": "{semantic.background.slate-on-card}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{contextual.popup.fill}",
+          "type": "color"
         },
         "border": {
           "value": "linear-gradient(131deg, rgba(238, 241, 243, 0.60) 8.57%, rgba(246, 254, 115, 0.60) 49.1%, rgba(90, 124, 144, 0.26) 87.69%)",

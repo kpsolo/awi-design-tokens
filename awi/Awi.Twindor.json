@@ -6569,11 +6569,11 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "active": {
@@ -6581,9 +6581,13 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
+        },
+        "divider": {
+          "value": "{core.brand-10.100}",
+          "type": "color"
         }
       },
       "popup": {
@@ -6950,10 +6954,6 @@
     "value": "28px",
     "type": "fontSizes"
   },
-  "scale-9": {
-    "value": "22px",
-    "type": "fontSizes"
-  },
   "xs": {
     "value": "16px",
     "type": "lineHeights"
@@ -7070,7 +7070,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-9}",
+        "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"

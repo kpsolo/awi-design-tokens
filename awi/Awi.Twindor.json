@@ -6805,7 +6805,7 @@
         "item": {
           "badge": {
             "fill": {
-              "value": "{semantic.gradients.10}",
+              "value": "{contextual.deals.welcome-bonus-card.badge.background.primary}",
               "type": "color"
             }
           },

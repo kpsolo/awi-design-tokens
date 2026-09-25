@@ -6814,11 +6814,6 @@
             "fill": {
               "value": "linear-gradient(90deg, rgba(90, 124, 144, 0.1) 34.83%, rgba(90, 124, 144, 0) 81.2%)",
               "type": "color"
-            },
-            "active-ellipse": {
-              "value": "linear-gradient(90deg, rgba(197, 211, 21, 0.40) 34.83%, rgba(197, 211, 21, 0.00) 81.2%)",
-              "type": "color",
-              "description": "Use for active state of item on desktop"
             }
           }
         },

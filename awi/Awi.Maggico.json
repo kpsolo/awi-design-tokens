@@ -6646,10 +6646,6 @@
             "fill": {
               "value": "linear-gradient(90deg, rgba(151, 17, 215, 0.13) 34.83%, rgba(151, 17, 215, 0.00) 81.2%)",
               "type": "color"
-            },
-            "active-ellipse": {
-              "value": "{contextual.menu.item.elipse.active}",
-              "type": "color"
             }
           }
         },

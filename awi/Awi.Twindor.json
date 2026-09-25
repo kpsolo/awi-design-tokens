@@ -2405,7 +2405,7 @@
               "y": "0px",
               "blur": "16px",
               "spread": "0px",
-              "color": "rgba(226, 244, 52, 0.6)",
+              "color": "rgba(255, 255, 236, 0.6)",
               "type": "innerShadow"
             }
           ],
@@ -2431,7 +2431,7 @@
               "y": "0px",
               "blur": "40px",
               "spread": "0px",
-              "color": "rgba(236, 253, 1, 1)",
+              "color": "rgba(233, 213, 255, 1)",
               "type": "innerShadow"
             }
           ],
@@ -6592,11 +6592,11 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-10.600}",
             "type": "color"
           },
           "dark": {
-            "value": "{core.grey.800}",
+            "value": "#6918C9",
             "type": "color"
           },
           "active": {
@@ -6610,11 +6610,11 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "dark": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "active": {
@@ -6622,13 +6622,22 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           }
         },
         "divider": {
-          "value": "{core.brand-10.300}",
-          "type": "color"
+          "value": "{core.brand-10.50}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          }
         }
       },
       "popup": {
@@ -6988,7 +6997,7 @@
     "type": "fontSizes"
   },
   "scale-7": {
-    "value": "22px",
+    "value": "24px",
     "type": "fontSizes"
   },
   "scale-8": {

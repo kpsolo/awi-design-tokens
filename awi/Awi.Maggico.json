@@ -6819,15 +6819,11 @@
     "type": "fontSizes"
   },
   "scale-7": {
-    "value": "24px",
+    "value": "22px",
     "type": "fontSizes"
   },
   "scale-8": {
     "value": "30px",
-    "type": "fontSizes"
-  },
-  "scale-9": {
-    "value": "22px",
     "type": "fontSizes"
   },
   "xs": {
@@ -6947,7 +6943,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-9}",
+        "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"

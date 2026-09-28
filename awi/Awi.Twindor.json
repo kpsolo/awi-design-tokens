@@ -2405,7 +2405,7 @@
               "y": "0px",
               "blur": "16px",
               "spread": "0px",
-              "color": "rgba(255, 255, 236, 0.6)",
+              "color": "rgba(255, 255, 236, 0.4)",
               "type": "innerShadow"
             }
           ],
@@ -2416,9 +2416,9 @@
             {
               "x": "0px",
               "y": "0px",
-              "blur": "24px",
+              "blur": "16px",
               "spread": "0px",
-              "color": "rgba(98, 22, 195, 0.8)",
+              "color": "rgba(255, 255, 255, 0.2)",
               "type": "innerShadow"
             }
           ],
@@ -6596,7 +6596,7 @@
             "type": "color"
           },
           "dark": {
-            "value": "#6918C9",
+            "value": "#4D3792",
             "type": "color"
           },
           "active": {
@@ -6627,17 +6627,8 @@
           }
         },
         "divider": {
-          "value": "{core.brand-10.50}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "#3A3A38",
+          "type": "color"
         }
       },
       "popup": {
@@ -6765,7 +6756,7 @@
           "type": "color"
         },
         "additional-text": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         }
       },

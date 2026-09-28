@@ -6591,7 +6591,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.wheel.sector.fill.dark}",
+            "value": "#1C1D1F",
             "type": "color"
           },
           "active-vip": {

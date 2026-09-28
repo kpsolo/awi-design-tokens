@@ -2425,16 +2425,7 @@
           "type": "boxShadow"
         },
         "winning": {
-          "value": [
-            {
-              "x": "0px",
-              "y": "0px",
-              "blur": "40px",
-              "spread": "0px",
-              "color": "rgba(233, 213, 255, 1)",
-              "type": "innerShadow"
-            }
-          ],
+          "value": "{shadow.wheel.sector.dark}",
           "type": "boxShadow"
         }
       }

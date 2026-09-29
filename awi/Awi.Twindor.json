@@ -2425,7 +2425,16 @@
           "type": "boxShadow"
         },
         "winning": {
-          "value": "{shadow.wheel.sector.dark}",
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "24px",
+              "spread": "0px",
+              "color": "rgba(255, 255, 255, 0.8)",
+              "type": "innerShadow"
+            }
+          ],
           "type": "boxShadow"
         }
       }
@@ -6591,7 +6600,7 @@
             "type": "color"
           },
           "active": {
-            "value": "#1C1D1F",
+            "value": "{contextual.wheel.sector.fill.dark}",
             "type": "color"
           },
           "active-vip": {

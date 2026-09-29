@@ -2487,15 +2487,15 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "linear-gradient(166deg, #48484A 16.17%, #2A282B 92.51%)",
+            "value": "linear-gradient(166deg, #CF0D06 21.24%, #C5230A 86.14%)",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(164deg, #232220 12.12%, #221C1E 92.05%)",
+            "value": "linear-gradient(166deg, #FFF2C1 21.24%, #EBDEAD 86.14%)",
             "type": "color"
           },
           "active": {
-            "value": "#CB3D1E",
+            "value": "#F3B940",
             "type": "color"
           },
           "active-vip": {
@@ -2505,19 +2505,19 @@
         },
         "text": {
           "light": {
-            "value": "linear-gradient(257deg, #FFF 8.92%, #BCBCBC 92.79%)",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(257deg, #FFF 8.92%, #BCBCBC 92.79%)",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           }
         },

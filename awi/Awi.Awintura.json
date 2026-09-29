@@ -2495,7 +2495,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.500}",
+            "value": "#CB3D1E",
             "type": "color"
           },
           "active-vip": {
@@ -2517,7 +2517,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

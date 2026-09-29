@@ -2505,11 +2505,11 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "linear-gradient(257deg, #FFF 8.92%, #BCBCBC 92.79%)",
             "type": "color"
           },
           "dark": {
-            "value": "{semantic.text.default.heading}",
+            "value": "linear-gradient(257deg, #FFF 8.92%, #BCBCBC 92.79%)",
             "type": "color"
           },
           "active": {

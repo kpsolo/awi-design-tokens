@@ -6414,15 +6414,15 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "#2C012D",
+            "value": "linear-gradient(180deg, #E7E6E9 0%, #E2CAEC 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "#3B0E5E",
+            "value": "linear-gradient(164deg, #7B1DC4 26.73%, #3B0E5E 81.84%)",
             "type": "color"
           },
           "active": {
-            "value": "#3B0E5E",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "active-vip": {
@@ -6436,7 +6436,7 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "dark": {
@@ -6448,7 +6448,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }

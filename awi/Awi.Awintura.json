@@ -1495,7 +1495,44 @@
     },
     "strip": {
       "card": {
-        "active": {
+        "default": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "16px",
+              "spread": "0px",
+              "color": "rgba(229, 137, 0, 0.60)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "0",
+              "color": "{core.brand-10.a40}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "9px",
+              "spread": "0",
+              "color": "#FFDB99",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "2px",
+              "blur": "6px",
+              "spread": "0",
+              "color": "{core.brand-60.a10}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "hover": {
           "value": [
             {
               "x": "0px",
@@ -3506,12 +3543,8 @@
           }
         },
         "card": {
-          "number": {
-            "value": "{semantic.gradients.6}",
-            "type": "color"
-          },
           "fill": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-60.a40}",
             "type": "color"
           },
           "border": {
@@ -3548,6 +3581,35 @@
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.3}",
+          "type": "color"
+        }
+      },
+      "status": {
+        "border": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "fill": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          }
         }
       }
     },

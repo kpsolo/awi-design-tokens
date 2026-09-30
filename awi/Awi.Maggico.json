@@ -2150,19 +2150,6 @@
           ],
           "type": "boxShadow"
         }
-      },
-      "step": {
-        "number": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "6px",
-            "spread": "0",
-            "color": "rgba(171, 129, 255, 0.6)",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        }
       }
     },
     "mobile-aplication": {
@@ -6040,10 +6027,6 @@
           "border": {
             "value": "{core.brand-30.a20}",
             "type": "color"
-          },
-          "number": {
-            "value": "{semantic.gradients.6}",
-            "type": "color"
           }
         }
       },
@@ -6075,6 +6058,35 @@
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "linear-gradient(319deg, #8651F0 7.74%, #D22EDC 96.96%)",
+          "type": "color"
+        }
+      },
+      "status": {
+        "fill": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
         }
       }
     },

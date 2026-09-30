@@ -2431,7 +2431,7 @@
               "y": "0px",
               "blur": "24px",
               "spread": "0px",
-              "color": "rgba(255, 255, 255, 0.8)",
+              "color": "rgba(255, 255, 255, 0.2)",
               "type": "innerShadow"
             }
           ],
@@ -6600,7 +6600,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.wheel.sector.fill.dark}",
+            "value": "#5C40BB",
             "type": "color"
           },
           "active-vip": {

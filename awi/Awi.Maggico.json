@@ -2100,14 +2100,14 @@
     },
     "strip": {
       "card": {
-        "active": {
+        "default": {
           "value": [
             {
               "x": "0px",
               "y": "0px",
               "blur": "9px",
               "spread": "0px",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "color": "rgba(156, 110, 247, 0.4)",
               "type": "innerShadow"
             },
             {
@@ -2115,7 +2115,28 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "color": "rgba(156, 110, 247, 0.4)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "9px",
+              "spread": "0px",
+              "color": "rgba(156, 110, 247, 0.4)",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "0",
+              "color": "rgba(156, 110, 247, 0.4)",
               "type": "innerShadow"
             },
             {
@@ -2123,10 +2144,23 @@
               "y": "0",
               "blur": "16px",
               "spread": "0",
-              "color": "rgba(253, 51, 124, 0.60)",
+              "color": "rgba(156, 110, 247, 0.6)",
               "type": "dropShadow"
             }
           ],
+          "type": "boxShadow"
+        }
+      },
+      "step": {
+        "number": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "6px",
+            "spread": "0",
+            "color": "rgba(171, 129, 255, 0.6)",
+            "type": "dropShadow"
+          },
           "type": "boxShadow"
         }
       }
@@ -5997,6 +6031,20 @@
             "value": "{core.grey.700}",
             "type": "color"
           }
+        },
+        "card": {
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.a20}",
+            "type": "color"
+          },
+          "number": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          }
         }
       },
       "girl": {
@@ -6021,7 +6069,7 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.white.a5}",
+          "value": "{core.brand-60.a60}",
           "type": "color"
         },
         "border": {

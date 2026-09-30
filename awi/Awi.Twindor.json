@@ -6157,6 +6157,20 @@
               }
             }
           }
+        },
+        "card": {
+          "number": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.a20}",
+            "type": "color"
+          }
         }
       },
       "girl": {

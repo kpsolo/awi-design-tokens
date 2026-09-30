@@ -3567,7 +3567,7 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.grey.800}",
+              "value": "{semantic.text.brand.secondary}",
               "type": "color"
             },
             "fill": {

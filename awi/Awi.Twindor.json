@@ -2135,6 +2135,50 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "scenes": {
+        "card": {
+          "active": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "#000000",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "hover": {
+            "value": [
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "4px",
+                "spread": "0",
+                "color": "rgba(156, 110, 247, 0.6)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "6px",
+                "spread": "0",
+                "color": "rgba(156, 110, 247, 0.4)",
+                "type": "innerShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "12px",
+                "spread": "0",
+                "color": "rgba(156, 110, 247, 0.4)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        }
       }
     },
     "mobile-aplication": {
@@ -6254,6 +6298,46 @@
           "in progress": {
             "value": "{core.validation.success.600}",
             "type": "color"
+          }
+        }
+      },
+      "scenes": {
+        "background": {
+          "value": "{core.brand-60.a60}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
+          "border": {
+            "default": {
+              "value": "{core.white.a8}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "level": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          }
+        },
+        "progress bar": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-30.400}",
+              "type": "color"
+            }
           }
         }
       }

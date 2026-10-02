@@ -21,6 +21,14 @@ This repository acts as the central source of truth for **design tokens** across
 
 ---
 
+## 📋 Change Log & Token History
+
+* **2026-10-02**: Quick fix applied for CSS `text-shadow` syntax violation in `shadow.menu.banner.text-accent` across Awintura, Maggico, and Twindor. Set `spread: ""` to prevent Style Dictionary outputting an invalid 4th length parameter. Added token descriptions pointing to [`docs/text-shadow-fix.html`](file:///c:/Work/AWI/docs/text-shadow-fix.html).
+  * Comprehensive root cause analysis and recommended permanent frontend Style Dictionary transform documented in [`docs/text-shadow-fix.html`](file:///c:/Work/AWI/docs/text-shadow-fix.html).
+  * Also documented existing text-shadow tokens previously adjusted: `shadow.menu.item.text.prime` and `shadow.tab-bar.item.active`.
+
+---
+
 ## ⚙️ Frontend Transformation Pipeline (`style-dictionary` & `sd-transforms`)
 
 The frontend team consumes tokens and compiles them into CSS custom properties using:

@@ -1,6 +1,6 @@
 # Project Rules & Guidelines: AWI Design Tokens
 
-Refer to [cloude.md](file:///c:/Work/AWI/cloude.md) for full project context, brand tokens, and verification tools.
+Refer to [claude.md](file:///c:/Work/AWI/claude.md) for full project context, brand tokens, verification tools, and build pipeline.
 
 ## 🎨 Color & Gradient Format Rules
 * **Always use `rgba(...)` format**: For any transparent color or opacity values, always use standard comma-separated `rgba(r, g, b, a)` format (e.g. `rgba(89, 59, 3, 0.15)`).
@@ -11,4 +11,4 @@ Refer to [cloude.md](file:///c:/Work/AWI/cloude.md) for full project context, br
 * **Pure Config Repo**: Do not attempt to run or compile web applications.
 * **Token Studio `-copy` Artifacts**: Strip or deduplicate `-copy` tokens.
 * **Multi-Brand Parity**: Every token must exist in all three brands (`Awi.Awintura`, `Awi.Maggico`, `Awi.Twindor`).
-* **Verification**: Run `npm run verify:parity` or `node scripts/verify-sync.js --parity` to ensure parity.
+* **Verification & Test**: Run `npm run verify:parity` and `npm test` before and after modifications.

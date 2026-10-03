@@ -1498,19 +1498,11 @@
         "default": {
           "value": [
             {
-              "x": "0px",
-              "y": "0px",
-              "blur": "16px",
-              "spread": "0px",
-              "color": "rgba(229, 137, 0, 0.60)",
-              "type": "dropShadow"
-            },
-            {
               "x": "0",
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
             {
@@ -1518,16 +1510,8 @@
               "y": "0",
               "blur": "9px",
               "spread": "0",
-              "color": "#FFDB99",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "2px",
-              "blur": "6px",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
@@ -1539,7 +1523,7 @@
               "y": "0px",
               "blur": "16px",
               "spread": "0px",
-              "color": "rgba(229, 137, 0, 0.60)",
+              "color": "rgba(138, 99, 26, 0.6)",
               "type": "dropShadow"
             },
             {
@@ -1547,7 +1531,7 @@
               "y": "0",
               "blur": "45px",
               "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
             {
@@ -1555,16 +1539,8 @@
               "y": "0",
               "blur": "9px",
               "spread": "0",
-              "color": "#FFDB99",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "2px",
-              "blur": "6px",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
@@ -1576,9 +1552,9 @@
             "value": {
               "x": "0",
               "y": "0",
-              "blur": "0",
+              "blur": "12px",
               "spread": "0",
-              "color": "#000000",
+              "color": "rgba(138, 99, 26, 0.6)",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -1590,7 +1566,7 @@
                 "y": "0",
                 "blur": "4px",
                 "spread": "0",
-                "color": "rgba(156, 110, 247, 0.6)",
+                "color": "rgba(138, 99, 26, 0.6)",
                 "type": "dropShadow"
               },
               {
@@ -1598,7 +1574,7 @@
                 "y": "0",
                 "blur": "6px",
                 "spread": "0",
-                "color": "rgba(156, 110, 247, 0.4)",
+                "color": "rgba(138, 99, 26, 0.4)",
                 "type": "innerShadow"
               },
               {
@@ -1606,7 +1582,7 @@
                 "y": "0",
                 "blur": "12px",
                 "spread": "0",
-                "color": "rgba(156, 110, 247, 0.4)",
+                "color": "rgba(138, 99, 26, 0.4)",
                 "type": "innerShadow"
               }
             ],
@@ -3619,7 +3595,7 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.white.a5}",
+          "value": "{core.brand-60.800a15}",
           "type": "color"
         },
         "border": {
@@ -3658,7 +3634,7 @@
       },
       "scenes": {
         "background": {
-          "value": "{core.brand-60.a60}",
+          "value": "{core.brand-60.800a15}",
           "type": "color"
         },
         "border": {
@@ -3676,7 +3652,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{semantic.gradients.6}",
+              "value": "{semantic.gradients.5}",
               "type": "color"
             }
           },
@@ -3690,7 +3666,7 @@
         "progress bar": {
           "text": {
             "accent": {
-              "value": "{core.brand-30.400}",
+              "value": "{core.brand-10.600}",
               "type": "color"
             }
           }

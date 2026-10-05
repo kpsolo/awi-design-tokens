@@ -6602,7 +6602,7 @@
             "type": "color"
           },
           "active": {
-            "value": "#5C40BB",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "active-vip": {
@@ -6620,7 +6620,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "active-vip": {

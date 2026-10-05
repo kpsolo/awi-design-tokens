@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AWI Design Tokens — Solution: Text Shadow Spread Issue</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --surface: #1e293b;
+      --surface-border: #334155;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-hover: #0ea5e9;
+      --success: #4ade80;
+      --warning: #fbbf24;
+      --danger: #f87171;
+      --code-bg: #0b1120;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    header {
+      border-bottom: 1px solid var(--surface-border);
+      padding-bottom: 24px;
+      margin-bottom: 36px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-radius: 9999px;
+      background: rgba(56, 189, 248, 0.15);
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 15px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--surface-border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+
+    .card h2 {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    p {
+      margin-bottom: 14px;
+      color: #cbd5e1;
+    }
+
+    ul, ol {
+      margin-left: 20px;
+      margin-bottom: 14px;
+      color: #cbd5e1;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    strong {
+      color: #fff;
+    }
+
+    .alert {
+      padding: 16px;
+      border-radius: 8px;
+      margin: 16px 0;
+      border-left: 4px solid;
+    }
+
+    .alert-warning {
+      background: rgba(251, 191, 36, 0.1);
+      border-color: var(--warning);
+      color: #fef3c7;
+    }
+
+    .alert-success {
+      background: rgba(74, 222, 128, 0.1);
+      border-color: var(--success);
+      color: #dcfce7;
+    }
+
+    .code-wrapper {
+      position: relative;
+      background: var(--code-bg);
+      border: 1px solid var(--surface-border);
+      border-radius: 8px;
+      margin: 16px 0;
+      overflow: hidden;
+    }
+
+    .code-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 14px;
+      background: rgba(255, 255, 255, 0.03);
+      border-bottom: 1px solid var(--surface-border);
+      font-size: 12px;
+      color: var(--text-muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+
+    .copy-btn {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #fff;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .copy-btn:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    pre {
+      padding: 16px;
+      overflow-x: auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #e2e8f0;
+    }
+
+    .comparison {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin: 16px 0;
+    }
+
+    @media (max-width: 768px) {
+      .comparison {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .comp-box {
+      border-radius: 8px;
+      padding: 16px;
+      border: 1px solid;
+    }
+
+    .comp-invalid {
+      background: rgba(248, 113, 113, 0.08);
+      border-color: rgba(248, 113, 113, 0.3);
+    }
+
+    .comp-valid {
+      background: rgba(74, 222, 128, 0.08);
+      border-color: rgba(74, 222, 128, 0.3);
+    }
+
+    .comp-title {
+      font-weight: 700;
+      font-size: 14px;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .comp-invalid .comp-title { color: var(--danger); }
+    .comp-valid .comp-title { color: var(--success); }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 14px;
+    }
+
+    th, td {
+      border: 1px solid var(--surface-border);
+      padding: 10px 14px;
+      text-align: left;
+    }
+
+    th {
+      background: rgba(255, 255, 255, 0.04);
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <span class="badge">Architecture Guide</span>
+      <h1>AWI Design Tokens — Solution for Text Shadow Spread Bug</h1>
+      <p class="subtitle">Comprehensive analysis, quick workaround, and permanent Style Dictionary transform for frontend teams.</p>
+    </header>
+
+    <!-- SECTION 1 -->
+    <div class="card">
+      <h2>🔍 1. Root Cause Analysis (Why the Browser Drops the Shadow)</h2>
+      <p>
+        When applying <code>--shadow-menu-banner-text-accent</code> to CSS <code>text-shadow</code> in web applications, browsers mark the declaration as <strong>Invalid property value</strong> (with a warning icon in DevTools) and fail to render the shadow.
+      </p>
+
+      <div class="comparison">
+        <div class="comp-box comp-invalid">
+          <div class="comp-title">❌ What is Output (Invalid CSS)</div>
+          <pre><code>text-shadow: 0px 0px 5px 0px rgba(92, 237, 209, 0.40);
+/* 4 length values: [X] [Y] [Blur] [Spread] */
+/* Browser drops entire rule: spread is forbidden! */</code></pre>
+        </div>
+        <div class="comp-box comp-valid">
+          <div class="comp-title">✔ Valid CSS text-shadow Syntax</div>
+          <pre><code>text-shadow: 0px 0px 5px rgba(92, 237, 209, 0.40);
+/* 3 length values: [X] [Y] [Blur] + [Color] */
+/* W3C CSS Text Decoration Spec: valid! */</code></pre>
+        </div>
+      </div>
+
+      <div class="alert alert-warning">
+        <strong>The Fundamental Conflict Between Figma & CSS:</strong>
+        <ul>
+          <li><strong>CSS Specification:</strong> <code>box-shadow</code> accepts 4 lengths (offset-x, offset-y, blur, <em>spread</em>). But <code>text-shadow</code> <strong>strictly accepts only 2 or 3 lengths</strong> (offset-x, offset-y, <em>blur</em>). Providing a 4th length is a syntax violation.</li>
+          <li><strong>Figma & Tokens Studio:</strong> Figma only possesses a generic <code>DROP_SHADOW</code> effect type, which <strong>always requires a numeric spread</strong> (even <code>0</code>). When designers delete <code>spread</code> or pass an empty string <code>""</code>, Tokens Studio / Figma fails to render the effect visually on canvas layers.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- SECTION 2 -->
+    <div class="card">
+      <h2>⚡ 2. Immediate Quick Fix Applied to Repository</h2>
+      <p>
+        To unblock the frontend build immediately without waiting for frontend pipeline changes, the following text-shadow tokens have had their <code>spread</code> set to <code>""</code> across all 3 brand sets (<code>Awintura</code>, <code>Maggico</code>, <code>Twindor</code>):
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Token Name</th>
+            <th>Type</th>
+            <th>Updated Value</th>
+            <th>Description Added</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>shadow.menu.banner.text-accent</code></td>
+            <td><code>boxShadow</code></td>
+            <td><code>spread: ""</code> across all 3 layers</td>
+            <td>Text shadow. Spread omitted for CSS text-shadow compatibility.</td>
+          </tr>
+          <tr>
+            <td><code>shadow.menu.item.text.prime</code></td>
+            <td><code>boxShadow</code></td>
+            <td><code>spread: ""</code></td>
+            <td>Text shadow. Spread omitted for CSS text-shadow compatibility.</td>
+          </tr>
+          <tr>
+            <td><code>shadow.tab-bar.item.active</code></td>
+            <td><code>boxShadow</code></td>
+            <td><code>spread: ""</code></td>
+            <td>Text shadow. Spread omitted for CSS text-shadow compatibility.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>
+        <strong>Output verified:</strong> Style Dictionary compiles <code>--shadow-menu-banner-text-accent</code> as valid 3-length CSS:
+      </p>
+      <div class="code-wrapper">
+        <div class="code-header"><span>Compiled CSS Output</span></div>
+        <pre><code>--shadow-menu-banner-text-accent: 0px 0px 5px rgba(92, 237, 209, 0.40), 0px 0px 8px rgba(92, 237, 209, 0.30), 0px 0px 8px rgba(92, 237, 209, 0.30);</code></pre>
+      </div>
+
+      <div class="alert alert-warning">
+        <strong>Trade-off of this quick fix:</strong> In Figma, designers will not see the drop shadow rendered visually on canvas layers while <code>spread</code> is empty.
+      </div>
+    </div>
+
+    <!-- SECTION 3 -->
+    <div class="card">
+      <h2>🚀 3. Permanent & Recommended Solution for Frontend Team</h2>
+      <p>
+        The architectural design token standard is to <strong>keep <code>spread: "{depth.0}"</code> (or 0) in Figma/Token Studio</strong> so designers have full visual fidelity, and let the <strong>Style Dictionary build transform</strong> handle CSS syntax requirements automatically.
+      </p>
+      <p>
+        The Frontend team should add a custom transform to their <code>style-dictionary</code> build script that detects text-shadow tokens and strips the 4th length parameter.
+      </p>
+
+      <div class="code-wrapper">
+        <div class="code-header">
+          <span>style-dictionary.config.js (or build script)</span>
+          <button class="copy-btn" onclick="copyCode('code-transform')">Copy Code</button>
+        </div>
+        <pre><code id="code-transform">import StyleDictionary from 'style-dictionary';
+import { register } from '@tokens-studio/sd-transforms';
+
+// 1. Register official Tokens Studio transforms
+await register(StyleDictionary);
+
+// 2. Register custom text-shadow cleaner
+StyleDictionary.registerTransform({
+  name: 'ts/shadow/text-shadow-clean',
+  type: 'value',
+  transitive: true,
+  filter: (token) => {
+    const isShadow = token.type === 'shadow' || token.type === 'boxShadow';
+    // Match any shadow token intended for text (by token path or name)
+    const isText = token.name.includes('text') || 
+                   (token.path && token.path.some(p => p.toLowerCase().includes('text')));
+    return isShadow && isText;
+  },
+  transform: (token) => {
+    if (typeof token.value !== 'string') return token.value;
+
+    // Split multiple shadow layers (comma separated, ignoring commas inside rgba/hsla)
+    const layers = token.value.split(/,(?![^(]*\))/).map(s => s.trim());
+
+    return layers.map(layer => {
+      // Extract color from end of string: (lengths...) (color...)
+      const colorMatch = layer.match(/^(.*?)\s+(#(?:[0-9a-fA-F]{3,8})|rgba?\([^)]+\)|hsla?\([^)]+\)|[a-zA-Z]+|var\([^)]+\))$/);
+      if (!colorMatch) return layer;
+
+      const lengthsStr = colorMatch[1].replace(/^inset\s+/i, '').trim();
+      const colorStr = colorMatch[2].trim();
+      const lengths = lengthsStr.split(/\s+/);
+
+      // If 4 lengths exist (x y blur spread) -> omit spread!
+      if (lengths.length === 4) {
+        return `${lengths[0]} ${lengths[1]} ${lengths[2]} ${colorStr}`;
+      }
+
+      return `${lengthsStr} ${colorStr}`;
+    }).join(', ');
+  }
+});
+
+// 3. Add to platforms.css.transforms
+const sd = new StyleDictionary({
+  source: ['awi/Awi.Awintura.json'],
+  preprocessors: ['tokens-studio'],
+  platforms: {
+    css: {
+      transformGroup: 'tokens-studio',
+      transforms: [
+        'name/kebab',
+        'ts/shadow/text-shadow-clean' // &lt;-- Add this transform
+      ],
+      buildPath: 'build/css/',
+      files: [
+        {
+          destination: 'variables.css',
+          format: 'css/variables',
+        },
+      ],
+    },
+  },
+});
+
+await sd.buildAllPlatforms();</code></pre>
+      </div>
+
+      <div class="alert alert-success">
+        <strong>Why this solves the problem for everyone:</strong>
+        <ol>
+          <li><strong>Designers</strong> can safely restore <code>spread: "{depth.0}"</code> in Figma and see visual effects rendered on canvas.</li>
+          <li><strong>Frontend</strong> receives valid, error-free CSS <code>text-shadow</code> values in all generated stylesheets.</li>
+          <li><strong>Standard <code>box-shadow</code> tokens</strong> (buttons, cards, modals) retain their <code>spread</code> intact with zero impact.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function copyCode(id) {
+      const code = document.getElementById(id).innerText;
+      navigator.clipboard.writeText(code).then(() => {
+        const btn = event.target;
+        const originalText = btn.innerText;
+        btn.innerText = 'Copied!';
+        setTimeout(() => btn.innerText = originalText, 2000);
+      });
+    }
+  </script>
+</body>
+</html>

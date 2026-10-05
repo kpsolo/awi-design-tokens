@@ -1,0 +1,35 @@
+{
+  "name": "awi-design-tokens",
+  "version": "1.0.0",
+  "description": "Multibrand Design Tokens for Awintura, Maggico, and Twindor",
+  "private": true,
+  "scripts": {
+    "verify": "node scripts/verify-sync.js",
+    "verify:summary": "node scripts/verify-sync.js -s",
+    "verify:parity": "node scripts/verify-sync.js --parity",
+    "verify:parity:summary": "node scripts/verify-sync.js --parity -s",
+    "verify:matrix": "node scripts/verify-sync.js --matrix",
+    "verify:json": "node scripts/verify-sync.js --json",
+    "test:transform": "node scripts/test-transform.js",
+    "test:transform:clean": "node scripts/test-transform.js --clean",
+    "build:css": "node scripts/test-transform.js --out-dir dist/css",
+    "test": "node scripts/test-transform.js"
+  },
+  "keywords": [
+    "design-tokens",
+    "tokens-studio",
+    "figma",
+    "multibrand",
+    "awintura",
+    "maggico",
+    "twindor",
+    "style-dictionary",
+    "sd-transforms"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.1",
+    "style-dictionary": "^5.0.1"
+  }
+}

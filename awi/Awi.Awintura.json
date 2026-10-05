@@ -1373,7 +1373,8 @@
               "color": "rgba(7, 7, 3, 0.50)",
               "type": "dropShadow"
             },
-            "type": "boxShadow"
+            "type": "boxShadow",
+            "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
           }
         }
       },
@@ -1384,7 +1385,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "5px",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(92, 237,209, 0.40)",
               "type": "dropShadow"
             },
@@ -1392,7 +1393,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(92, 237,209, 0.30)",
               "type": "dropShadow"
             },
@@ -1400,12 +1401,13 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(92, 237,209, 0.30)",
               "type": "dropShadow"
             }
           ],
-          "type": "boxShadow"
+          "type": "boxShadow",
+          "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
         }
       }
     },
@@ -3604,7 +3606,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-10.50}",
+          "value": "{core.brand-10.100}",
           "type": "color"
         },
         "border": {

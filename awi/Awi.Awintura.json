@@ -3595,7 +3595,7 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.brand-60.800a15}",
+          "value": "{core.brand-60.a55}",
           "type": "color"
         },
         "border": {
@@ -3634,7 +3634,7 @@
       },
       "scenes": {
         "background": {
-          "value": "{core.brand-60.800a15}",
+          "value": "{core.brand-60.a55}",
           "type": "color"
         },
         "border": {

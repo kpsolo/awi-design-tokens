@@ -6892,7 +6892,8 @@
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "letterSpacing": "0%",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },

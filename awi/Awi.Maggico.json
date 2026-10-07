@@ -7197,6 +7197,19 @@
       "a10": {
         "value": "rgba(89, 59, 3, 0.10)",
         "type": "color"
+      },
+      "800a15": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-30": {
@@ -7272,6 +7285,19 @@
       "a50": {
         "value": "rgba(215, 197, 252, 0.5)",
         "type": "color"
+      },
+      "a40": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "validation": {

@@ -5012,6 +5012,13 @@
           "divider": {
             "value": "{core.brand-30.a20}",
             "type": "color"
+          },
+          "text": {
+            "accent": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Bonus/Talisman"
+            }
           }
         },
         "bg": {

@@ -6913,7 +6913,8 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
         "lineHeight": "16px",
-        "fontSize": "14px"
+        "fontSize": "14px",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     }

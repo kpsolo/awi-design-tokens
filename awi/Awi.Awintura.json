@@ -1775,6 +1775,35 @@
           },
           "type": "boxShadow"
         }
+      },
+      "general": {
+        "value": [
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "19px",
+            "spread": "0px",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "30px",
+            "spread": "0px",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0px",
+            "y": "0px",
+            "blur": "76px",
+            "spread": "0px",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "progress": {

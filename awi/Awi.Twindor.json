@@ -6166,19 +6166,20 @@
       "header": {
         "overlay": {
           "value": "linear-gradient(91deg, #1F272C 0.84%, rgba(138, 162, 176, 0.00) 97.19%)",
-          "type": "color"
+          "type": "color",
+          "description": "not used"
         }
       },
       "card": {
         "border": {
           "value": "{core.brand-30.a15}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         },
         "fill": {
           "value": "{core.white.a5}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         }
       },
       "steps": {
@@ -6186,12 +6187,12 @@
           "active": {
             "value": "{core.brand-30.500}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "default": {
             "value": "{core.brand-30.a15}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "static": {
             "value": "{core.brand-60.300}",
@@ -6204,7 +6205,8 @@
                   "space": "lch"
                 }
               }
-            }
+            },
+            "description": "not used"
           }
         },
         "card": {

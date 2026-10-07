@@ -6031,19 +6031,19 @@
         "overlay": {
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, (Lootboxes)"
         }
       },
       "card": {
         "border": {
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, (Lootboxes)"
         },
         "fill": {
           "value": "{semantic.background.slate-on-card}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used (Lootboxes)"
         }
       },
       "steps": {
@@ -6051,16 +6051,17 @@
           "active": {
             "value": "{core.brand-30.500}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "default": {
             "value": "{core.brand-30.a15}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "static": {
             "value": "{core.grey.700}",
-            "type": "color"
+            "type": "color",
+            "description": "not used"
           }
         },
         "card": {

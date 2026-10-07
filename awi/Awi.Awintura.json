@@ -863,6 +863,16 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "selection-controls": {
+      "disabled": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.disabled}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {

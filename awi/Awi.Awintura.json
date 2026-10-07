@@ -872,6 +872,14 @@
           "style": "solid"
         },
         "type": "border"
+      },
+      "default": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.default}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
       }
     }
   },

@@ -880,6 +880,22 @@
           "style": "solid"
         },
         "type": "border"
+      },
+      "hover": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.hover}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "validation": {
+        "value": {
+          "color": "{contextual.selection-controls.controls.border.validation}",
+          "width": "{border-width.025}",
+          "style": "solid"
+        },
+        "type": "border"
       }
     }
   },

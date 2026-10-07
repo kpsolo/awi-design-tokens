@@ -795,6 +795,18 @@
               "type": "border"
             }
           }
+        },
+        "header": {
+          "desktop": {
+            "special-menu-item": {
+              "value": {
+                "color": "{contextual.header.desktop.special-menu-item.border.default}",
+                "width": "{depth.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
         }
       }
     },
@@ -984,6 +996,14 @@
           "hover": {
             "value": {
               "color": "{contextual.header.desktop.special-menu-item.border.hover}",
+              "width": "{depth.025}",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{contextual.header.desktop.special-menu-item.border.default}",
               "width": "{depth.025}",
               "style": "solid"
             },

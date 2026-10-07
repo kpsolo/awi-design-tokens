@@ -897,6 +897,28 @@
         },
         "type": "border"
       }
+    },
+    "homepage": {
+      "nav-menu": {
+        "item": {
+          "value": {
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "3px",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "mobile": {
+          "tab": {
+            "value": {
+              "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+              "width": "1px",
+              "style": "solid"
+            },
+            "type": "border"
+          }
+        }
+      }
     }
   },
   "shadow": {

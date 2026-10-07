@@ -8945,7 +8945,8 @@
           "fontWeight": "{text.stronger}",
           "fontSize": "36px",
           "lineHeight": "38px",
-          "textCase": "{text-case.uppercase}"
+          "textCase": "{text-case.uppercase}",
+          "letterSpacing": "0%"
         },
         "type": "typography"
       },
@@ -8977,7 +8978,8 @@
           "fontWeight": "{text.strong}",
           "fontSize": "20px",
           "lineHeight": "20px",
-          "textCase": "{text-case.uppercase}"
+          "textCase": "{text-case.uppercase}",
+          "letterSpacing": "0%"
         },
         "type": "typography"
       }

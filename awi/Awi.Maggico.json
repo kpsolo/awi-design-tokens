@@ -1139,6 +1139,26 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "nav-menu": {
+      "mobile": {
+        "tab": {
+          "value": {
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "2px",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "item": {
+        "value": {
+          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+          "width": "3px",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -8926,6 +8946,12 @@
     "max-width": {
       "value": "1560px",
       "type": "sizing"
+    },
+    "tab-bar": {
+      "main-icon": {
+        "value": "{size.600}",
+        "type": "sizing"
+      }
     }
   },
   "header": {

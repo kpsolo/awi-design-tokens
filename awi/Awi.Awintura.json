@@ -3606,7 +3606,11 @@
       },
       "label": {
         "fill": {
-          "value": "{semantic.gradients.3}",
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand}",
           "type": "color"
         }
       },

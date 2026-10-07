@@ -6254,6 +6254,10 @@
         "fill": {
           "value": "linear-gradient(319deg, #4C369D 12.72%, #6750B7 91.43%)",
           "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand-secondary}",
+          "type": "color"
         }
       },
       "status": {

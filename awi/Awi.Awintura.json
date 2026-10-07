@@ -6462,6 +6462,10 @@
       "bubble": {
         "value": "{core.red.500}",
         "type": "color"
+      },
+      "bubble-border": {
+        "value": "{core.white.a0}",
+        "type": "color"
       }
     },
     "error-pages": {

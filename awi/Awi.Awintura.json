@@ -1501,7 +1501,7 @@
               "x": "0",
               "y": "0",
               "blur": "45px",
-              "spread": "0",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
@@ -1509,7 +1509,7 @@
               "x": "0",
               "y": "0",
               "blur": "9px",
-              "spread": "0",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             }
@@ -1522,7 +1522,7 @@
               "x": "0px",
               "y": "0px",
               "blur": "16px",
-              "spread": "0px",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.6)",
               "type": "dropShadow"
             },
@@ -1530,7 +1530,7 @@
               "x": "0",
               "y": "0",
               "blur": "45px",
-              "spread": "0",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
@@ -1538,7 +1538,7 @@
               "x": "0",
               "y": "0",
               "blur": "9px",
-              "spread": "0",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             }
@@ -1553,7 +1553,7 @@
               "x": "0",
               "y": "0",
               "blur": "12px",
-              "spread": "0",
+              "spread": "",
               "color": "rgba(138, 99, 26, 0.6)",
               "type": "dropShadow"
             },
@@ -1565,7 +1565,7 @@
                 "x": "0",
                 "y": "0",
                 "blur": "4px",
-                "spread": "0",
+                "spread": "",
                 "color": "rgba(138, 99, 26, 0.6)",
                 "type": "dropShadow"
               },
@@ -1573,7 +1573,7 @@
                 "x": "0",
                 "y": "0",
                 "blur": "6px",
-                "spread": "0",
+                "spread": "",
                 "color": "rgba(138, 99, 26, 0.4)",
                 "type": "innerShadow"
               },
@@ -1581,7 +1581,7 @@
                 "x": "0",
                 "y": "0",
                 "blur": "12px",
-                "spread": "0",
+                "spread": "",
                 "color": "rgba(138, 99, 26, 0.4)",
                 "type": "innerShadow"
               }

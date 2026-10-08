@@ -8947,7 +8947,7 @@
               "lineHeight": "{md}",
               "letterSpacing": "0%",
               "textDecoration": "{text-decoration.none}",
-              "textCase": "{text-case.none}"
+              "textCase": "{text-case.uppercase}"
             },
             "type": "typography"
           },

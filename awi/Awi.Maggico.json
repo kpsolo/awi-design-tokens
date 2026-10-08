@@ -8990,7 +8990,8 @@
           "fontSize": "{scale-5}",
           "lineHeight": "{lg}",
           "textCase": "{text-case.none}",
-          "letterSpacing": "0%"
+          "letterSpacing": "0%",
+          "textDecoration": "{text-decoration.none}"
         },
         "type": "typography"
       }

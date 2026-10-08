@@ -3694,7 +3694,7 @@
               "type": "color"
             },
             "content": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.button.primary.text.default}",
               "type": "color"
             }
           }

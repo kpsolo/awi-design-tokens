@@ -3801,6 +3801,10 @@
           "fill": {
             "value": "{core.white.a0}",
             "type": "color"
+          },
+          "text-2": {
+            "value": "{core.white.a100}",
+            "type": "color"
           }
         },
         "new": {

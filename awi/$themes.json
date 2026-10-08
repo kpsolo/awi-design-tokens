@@ -4319,7 +4319,8 @@
       "core.brand-60.a55": "S:0f408d4177b1c11702e8cbb4b762544c5fca2b16,",
       "core.brand-30.300a30": "S:3593bf8745d4745b716e90c6e7eab6b45e761910,",
       "contextual.header.desktop.welcome-bonus.timer.mob-text": "S:3e385bdf5c1be9793f68166e5690402ca5b06163,",
-      "shadow.welcome-bonus.card": "S:e74b219454c5dbd4a5aed56e5d56212d03923a07,"
+      "shadow.welcome-bonus.card": "S:e74b219454c5dbd4a5aed56e5d56212d03923a07,",
+      "contextual.menu.item.notification.text-2": "S:66726427d1928cb59c92e6d1b77d3c8b9e702534,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

@@ -4537,6 +4537,10 @@
             "fill": {
               "value": "linear-gradient(0deg, #6A0808 0%, #FF0202 100%)",
               "type": "color"
+            },
+            "mob-text": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           }
         },

@@ -3623,6 +3623,10 @@
               "value": "{semantic.text.brand.secondary}",
               "type": "color"
             },
+            "mob-text": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
+            },
             "fill": {
               "value": "{core.brand-10.600}",
               "type": "color"

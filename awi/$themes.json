@@ -4312,7 +4312,14 @@
       "shadow.wheel.sector.dark-copy": "S:e528ca98e94db5e5483c03c3ede01dadd7ac2a8c,",
       "shadow.wheel.sector.dark": "S:95a4fa6de57fcb022d47236c3d84d5f6634593c4,",
       "shadow.wheel.sector.winning": "S:0810380f142bb59c065a7a925a4780b406baeb06,",
-      "contextual.wheel.level-ladder.item.opened.active-ellipse": "S:9e50e84d50b7c145cd239bb60d02db9de34e916c,"
+      "contextual.wheel.level-ladder.item.opened.active-ellipse": "S:9e50e84d50b7c145cd239bb60d02db9de34e916c,",
+      "contextual.mobile-application.switcher-button.border.default": "S:3970b4675414338d8cc06afd0fb6a3668c6e0398,",
+      "contextual.ingame.mob.bonus-talisman.text.accent": "S:b9ee597a720cfe8b834c62637b78ba59f12332f8,",
+      "core.brand-60.800a15": "S:541157b63be580525b809eedc08a915b3914086b,",
+      "core.brand-60.a55": "S:0f408d4177b1c11702e8cbb4b762544c5fca2b16,",
+      "core.brand-30.300a30": "S:3593bf8745d4745b716e90c6e7eab6b45e761910,",
+      "contextual.header.desktop.welcome-bonus.timer.mob-text": "S:3e385bdf5c1be9793f68166e5690402ca5b06163,",
+      "shadow.welcome-bonus.card": "S:e74b219454c5dbd4a5aed56e5d56212d03923a07,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

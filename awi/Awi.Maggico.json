@@ -6242,7 +6242,11 @@
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "linear-gradient(318deg, rgba(3, 25, 44, 0.28) 2.36%, rgba(50, 53, 106, 0.28) 40.47%, rgba(72, 66, 136, 0.28) 64.29%, rgba(210, 46, 220, 0.28) 97.64%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
             "type": "color"
           }
         }

@@ -6424,6 +6424,34 @@
             "type": "color"
           }
         }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            " inactive": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        }
       }
     },
     "popover": {

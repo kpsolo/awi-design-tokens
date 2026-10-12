@@ -6226,6 +6226,10 @@
           "value": "{semantic.gradients.3}",
           "type": "color"
         },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
+          "type": "color"
+        },
         "border": {
           "value": "{core.white.a25}",
           "type": "color"

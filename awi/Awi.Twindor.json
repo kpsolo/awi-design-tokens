@@ -6366,6 +6366,10 @@
         "border": {
           "value": "{core.white.a15}",
           "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
+          "type": "color"
         }
       },
       "overlay": {

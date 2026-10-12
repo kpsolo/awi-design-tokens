@@ -3228,6 +3228,10 @@
         "border": {
           "value": "rgba(255, 255, 255, 0.00)",
           "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
+          "type": "color"
         }
       },
       "route": {

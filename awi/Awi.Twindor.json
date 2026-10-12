@@ -795,6 +795,18 @@
               "type": "border"
             }
           }
+        },
+        "header": {
+          "desktop": {
+            "special-menu-item": {
+              "value": {
+                "color": "{contextual.header.desktop.special-menu-item.border.default}",
+                "width": "{depth.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
         }
       }
     },
@@ -988,6 +1000,14 @@
               "style": "solid"
             },
             "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{contextual.header.desktop.special-menu-item.border.default}",
+              "width": "{depth.025}",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       }
@@ -1143,6 +1163,26 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "nav-menu": {
+      "mobile": {
+        "tab": {
+          "value": {
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "2px",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "item": {
+        "value": {
+          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+          "width": "3px",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -1514,6 +1554,17 @@
             "type": "dropShadow"
           }
         ],
+        "type": "boxShadow"
+      },
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       }
     },
@@ -3572,6 +3623,10 @@
               "value": "{semantic.text.brand.secondary}",
               "type": "color"
             },
+            "mob-text": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
+            },
             "fill": {
               "value": "{core.brand-10.600}",
               "type": "color"
@@ -3639,7 +3694,7 @@
               "type": "color"
             },
             "content": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.button.primary.text.default}",
               "type": "color"
             }
           }
@@ -3745,6 +3800,10 @@
           },
           "fill": {
             "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "text-2": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -5005,6 +5064,13 @@
           "divider": {
             "value": "{core.white.a20}",
             "type": "color"
+          },
+          "text": {
+            "accent": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Bonus/Talisman"
+            }
           }
         },
         "bg": {
@@ -6262,6 +6328,12 @@
               "type": "color"
             }
           }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "stepper": {
@@ -7061,7 +7133,8 @@
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "letterSpacing": "0%",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -7474,6 +7547,32 @@
             }
           }
         }
+      },
+      "800a15": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a55": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.55",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-30": {
@@ -7616,6 +7715,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "300a30": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
               "space": "lch"
             }
           }
@@ -9202,7 +9314,8 @@
               "fontSize": "{scale-3}",
               "lineHeight": "{md}",
               "letterSpacing": "0%",
-              "textDecoration": "{text-decoration.none}"
+              "textDecoration": "{text-decoration.none}",
+              "textCase": "{text-case.none}"
             },
             "type": "typography"
           },

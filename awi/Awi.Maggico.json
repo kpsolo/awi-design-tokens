@@ -6282,6 +6282,18 @@
             "type": "color"
           }
         }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
       }
     },
     "popover": {

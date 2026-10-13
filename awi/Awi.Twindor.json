@@ -5498,7 +5498,12 @@
       "profile": {
         "fill": {
           "value": "{semantic.background.5}",
-          "type": "color"
+          "type": "color",
+          "description": "changed to the contextual.popup.slate.2 token",
+          "$deprecated": {
+            "severity": "warning",
+            "message": ""
+          }
         }
       }
     },

@@ -6163,27 +6163,47 @@
         "fill": {
           "default": {
             "value": "{core.brand-60.400}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "active": {
             "value": "{semantic.gradients.6}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "text": {
             "active": {
               "value": "{semantic.text.default.heading}",
-              "type": "color"
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
             },
             " inactive": {
               "value": "{semantic.text.default.secondary}",
-              "type": "color"
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
             }
           }
         },
         "border": {
           "default": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
@@ -6254,22 +6274,38 @@
       "overlay": {
         "upper": {
           "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         },
         "bottom": {
           "value": "rgba(0, 0, 0, 0.80)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         }
       },
       "route": {
         "line": {
           "filled": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "not-filled": {
             "value": "{core.grey.600}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
@@ -6277,13 +6313,21 @@
         "default": {
           "border": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         },
         "active": {
           "fill": {
             "value": "{core.grey.900}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },

@@ -5685,6 +5685,22 @@
         "fill": {
           "value": "{semantic.gradients.2}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.a55}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{core.brand-30.a8}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {

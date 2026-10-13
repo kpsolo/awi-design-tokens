@@ -5529,6 +5529,22 @@
         "fill": {
           "value": "{semantic.gradients.6}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{semantic.background.slate-on-card}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {

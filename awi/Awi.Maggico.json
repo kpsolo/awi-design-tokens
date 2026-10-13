@@ -7065,7 +7065,7 @@
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",

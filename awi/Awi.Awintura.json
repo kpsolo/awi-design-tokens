@@ -3292,7 +3292,7 @@
         "item": {
           "fill": {
             "active": {
-              "value": "{semantic.gradients.6}",
+              "value": "{semantic.gradients.4}",
               "type": "color"
             },
             "default": {
@@ -3320,10 +3320,19 @@
         "fill": {
           "value": "{semantic.background.slate-4}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Use in card Scan QR Code in hero section"
         },
         "border": {
-          "value": "{core.white.a5}",
+          "value": "{core.white.a8}",
           "type": "color",
           "description": "Use in card Scan QR Code in hero section"
         }

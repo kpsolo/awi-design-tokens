@@ -2895,17 +2895,8 @@
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.5",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{semantic.background.5}",
+          "type": "color"
         }
       },
       "bottom": {

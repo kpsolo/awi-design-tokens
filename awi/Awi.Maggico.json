@@ -5402,7 +5402,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5420,7 +5420,7 @@
         },
         "border": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {

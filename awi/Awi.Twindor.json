@@ -5531,7 +5531,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5549,7 +5549,7 @@
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {

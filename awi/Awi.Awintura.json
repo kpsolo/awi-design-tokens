@@ -2993,7 +2993,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.5}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -3011,7 +3011,7 @@
         },
         "text": {
           "progress": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "done": {
@@ -3029,7 +3029,7 @@
         },
         "border": {
           "progress": {
-            "value": "rgba(235, 184, 73, 0.15)",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {

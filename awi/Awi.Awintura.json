@@ -3217,21 +3217,21 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }

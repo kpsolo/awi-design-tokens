@@ -795,6 +795,18 @@
               "type": "border"
             }
           }
+        },
+        "header": {
+          "desktop": {
+            "special-menu-item": {
+              "value": {
+                "color": "{contextual.header.desktop.special-menu-item.border.default}",
+                "width": "{depth.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
         }
       }
     },
@@ -988,6 +1000,14 @@
               "style": "solid"
             },
             "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{contextual.header.desktop.special-menu-item.border.default}",
+              "width": "{depth.025}",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       }
@@ -1143,6 +1163,26 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "nav-menu": {
+      "mobile": {
+        "tab": {
+          "value": {
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "2px",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "item": {
+        "value": {
+          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+          "width": "3px",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -1515,6 +1555,17 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "menu": {
@@ -1525,7 +1576,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "5px",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.40)",
               "type": "dropShadow"
             },
@@ -1533,7 +1584,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.30)",
               "type": "dropShadow"
             },
@@ -1541,12 +1592,13 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.30)",
               "type": "dropShadow"
             }
           ],
-          "type": "boxShadow"
+          "type": "boxShadow",
+          "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
         }
       },
       "item": {
@@ -1560,7 +1612,8 @@
               "color": "rgba(7, 7, 3, 0.50)",
               "type": "dropShadow"
             },
-            "type": "boxShadow"
+            "type": "boxShadow",
+            "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
           }
         }
       }
@@ -2480,7 +2533,7 @@
               "y": "0px",
               "blur": "24px",
               "spread": "0px",
-              "color": "rgba(255, 255, 255, 0.8)",
+              "color": "rgba(255, 255, 255, 0.2)",
               "type": "innerShadow"
             }
           ],
@@ -2891,17 +2944,8 @@
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.5",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{semantic.background.5}",
+          "type": "color"
         }
       },
       "bottom": {
@@ -3616,7 +3660,11 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.grey.800}",
+              "value": "{semantic.text.brand.secondary}",
+              "type": "color"
+            },
+            "mob-text": {
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color"
             },
             "fill": {
@@ -3686,7 +3734,7 @@
               "type": "color"
             },
             "content": {
-              "value": "{core.white.a100}",
+              "value": "{contextual.button.primary.text.default}",
               "type": "color"
             }
           }
@@ -3792,6 +3840,10 @@
           },
           "fill": {
             "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "text-2": {
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -5052,6 +5104,13 @@
           "divider": {
             "value": "{core.white.a20}",
             "type": "color"
+          },
+          "text": {
+            "accent": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Bonus/Talisman"
+            }
           }
         },
         "bg": {
@@ -5488,7 +5547,12 @@
       "profile": {
         "fill": {
           "value": "{semantic.background.5}",
-          "type": "color"
+          "type": "color",
+          "description": "changed to the contextual.popup.slate.2 token",
+          "$deprecated": {
+            "severity": "warning",
+            "message": ""
+          }
         }
       }
     },
@@ -5512,7 +5576,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5530,7 +5594,7 @@
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {
@@ -5666,6 +5730,22 @@
         "fill": {
           "value": "{semantic.gradients.2}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.a55}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{core.brand-30.a8}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {
@@ -6394,6 +6474,12 @@
               "type": "color"
             }
           }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       },
       "stepper": {
@@ -6425,6 +6511,10 @@
         },
         "border": {
           "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
           "type": "color"
         }
       },
@@ -6478,7 +6568,58 @@
           "fill": {
             "value": "{core.brand-60.700}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
           }
+        }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
+      },
+      "qr-panel": {
+        "fill": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "type": "color",
+          "description": "Use in panel Scan QR Code"
         }
       }
     },
@@ -6734,7 +6875,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.wheel.sector.fill.dark}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           },
           "active-vip": {
@@ -6752,7 +6893,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.800}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "active-vip": {
@@ -7193,7 +7334,8 @@
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "letterSpacing": "0%",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -7606,6 +7748,32 @@
             }
           }
         }
+      },
+      "800a15": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a55": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.55",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-30": {
@@ -7748,6 +7916,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "300a30": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
               "space": "lch"
             }
           }
@@ -9334,7 +9515,8 @@
               "fontSize": "{scale-3}",
               "lineHeight": "{md}",
               "letterSpacing": "0%",
-              "textDecoration": "{text-decoration.none}"
+              "textDecoration": "{text-decoration.none}",
+              "textCase": "{text-case.none}"
             },
             "type": "typography"
           },

@@ -791,6 +791,18 @@
               "type": "border"
             }
           }
+        },
+        "header": {
+          "desktop": {
+            "special-menu-item": {
+              "value": {
+                "color": "{contextual.header.desktop.special-menu-item.border.default}",
+                "width": "{depth.025}",
+                "style": "solid"
+              },
+              "type": "border"
+            }
+          }
         }
       }
     },
@@ -984,6 +996,14 @@
               "style": "solid"
             },
             "type": "border"
+          },
+          "default": {
+            "value": {
+              "color": "{contextual.header.desktop.special-menu-item.border.default}",
+              "width": "{depth.025}",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       }
@@ -1139,6 +1159,26 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "nav-menu": {
+      "mobile": {
+        "tab": {
+          "value": {
+            "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+            "width": "2px",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "item": {
+        "value": {
+          "color": "{contextual.homepage.nav-menu.item.border.border-active-state}",
+          "width": "3px",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -1508,6 +1548,17 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "card": {
+        "value": {
+          "x": "{blur.0}",
+          "y": "{blur.100}",
+          "blur": "{blur.400}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "menu": {
@@ -1518,7 +1569,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "5px",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.40)",
               "type": "dropShadow"
             },
@@ -1526,7 +1577,7 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.30)",
               "type": "dropShadow"
             },
@@ -1534,12 +1585,13 @@
               "x": "{depth.0}",
               "y": "{depth.0}",
               "blur": "{depth.200}",
-              "spread": "{depth.0}",
+              "spread": "",
               "color": "rgba(242, 255, 68, 0.30)",
               "type": "dropShadow"
             }
           ],
-          "type": "boxShadow"
+          "type": "boxShadow",
+          "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
         }
       },
       "item": {
@@ -1553,7 +1605,8 @@
               "color": "rgba(7, 7, 3, 0.50)",
               "type": "dropShadow"
             },
-            "type": "boxShadow"
+            "type": "boxShadow",
+            "description": "Text shadow. Spread omitted for CSS text-shadow compatibility (see docs/text-shadow-fix.html for Style Dictionary pipeline recommendation)."
           }
         }
       }
@@ -3602,6 +3655,10 @@
             "fill": {
               "value": "linear-gradient(0deg, #9C6EF7 0%, #E449E7 100%)",
               "type": "color"
+            },
+            "mob-text": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           }
         },
@@ -5024,6 +5081,13 @@
           "divider": {
             "value": "{core.brand-30.a20}",
             "type": "color"
+          },
+          "text": {
+            "accent": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Bonus/Talisman"
+            }
           }
         },
         "bg": {
@@ -5403,7 +5467,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5421,7 +5485,7 @@
         },
         "border": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {
@@ -5530,6 +5594,22 @@
         "fill": {
           "value": "{semantic.gradients.6}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{semantic.background.slate-on-card}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {
@@ -5605,39 +5685,6 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{core.brand-60.400}",
-                "type": "color",
-                "description": "Segment Control"
-              }
-            },
-            "text": {
-              "default": {
-                "value": "{semantic.text.default.secondary}",
-                "type": "color",
-                "description": "Segment Control"
-              },
-              "active": {
-                "value": "{semantic.text.default.heading}",
-                "type": "color",
-                "description": "Segment Control"
-              }
-            }
-          },
-          "fill": {
-            "value": "{core.brand-60.600}",
-            "type": "color",
-            "description": "Segment Control"
-          }
-        },
-        "profile": {
-          "item": {
-            "fill": {
-              "default": {
-                "value": "{core.white.a0}",
-                "type": "color",
-                "description": "Segment Control"
-              },
-              "active": {
                 "value": "{semantic.gradients.7}",
                 "type": "color",
                 "description": "Segment Control"
@@ -5657,9 +5704,50 @@
             }
           },
           "fill": {
-            "value": "#060423",
+            "value": "{core.brand-60.700}",
             "type": "color",
             "description": "Segment Control"
+          }
+        },
+        "profile": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.gradients.7}",
+                "type": "color",
+                "description": "Segment Control",
+                "$deprecated": {
+                  "severity": "warning",
+                  "message": "chosed popup tabs"
+                }
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.default.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "#060423",
+            "type": "color",
+            "description": "Segment Control",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "chosed popup tabs instead, aplyed style from this tabs"
+            }
           }
         }
       }
@@ -6224,42 +6312,96 @@
         "fill": {
           "default": {
             "value": "{core.brand-60.400}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "active": {
             "value": "{semantic.gradients.6}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
+            },
+            " inactive": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
+            }
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
+          }
+        }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
           },
           "text": {
             "active": {
               "value": "{semantic.text.default.heading}",
               "type": "color"
             },
-            " inactive": {
+            "inactive": {
               "value": "{semantic.text.default.secondary}",
               "type": "color"
             }
           }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
         }
       },
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         }
@@ -6267,6 +6409,10 @@
       "banner": {
         "fill": {
           "value": "{semantic.gradients.3}",
+          "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
           "type": "color"
         },
         "border": {
@@ -6277,22 +6423,38 @@
       "overlay": {
         "upper": {
           "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         },
         "bottom": {
           "value": "rgba(0, 0, 0, 0.80)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         }
       },
       "route": {
         "line": {
           "filled": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "not-filled": {
             "value": "{core.grey.600}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
@@ -6300,22 +6462,53 @@
         "default": {
           "border": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         },
         "active": {
           "fill": {
             "value": "{core.grey.900}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "linear-gradient(318deg, rgba(3, 25, 44, 0.28) 2.36%, rgba(50, 53, 106, 0.28) 40.47%, rgba(72, 66, 136, 0.28) 64.29%, rgba(210, 46, 220, 0.28) 97.64%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
             "type": "color"
           }
+        }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
+      },
+      "qr-panel": {
+        "fill": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "type": "color",
+          "description": "Use in panel Scan QR Code"
         }
       }
     },
@@ -6563,15 +6756,15 @@
       "sector": {
         "fill": {
           "light": {
-            "value": "#2C012D",
+            "value": "linear-gradient(180deg, #E7E6E9 0%, #E2CAEC 100%)",
             "type": "color"
           },
           "dark": {
-            "value": "#3B0E5E",
+            "value": "linear-gradient(164deg, #7B1DC4 26.73%, #3B0E5E 81.84%)",
             "type": "color"
           },
           "active": {
-            "value": "#3B0E5E",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "active-vip": {
@@ -6585,7 +6778,7 @@
         },
         "text": {
           "light": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "dark": {
@@ -6597,7 +6790,7 @@
             "type": "color"
           },
           "active-vip": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }
@@ -7039,7 +7232,8 @@
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "letterSpacing": "0%",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -7080,7 +7274,7 @@
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
@@ -7343,6 +7537,32 @@
       "a10": {
         "value": "rgba(89, 59, 3, 0.10)",
         "type": "color"
+      },
+      "800a15": {
+        "value": "{core.brand-60.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "a55": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.55",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "brand-30": {
@@ -7418,6 +7638,32 @@
       "a50": {
         "value": "rgba(215, 197, 252, 0.5)",
         "type": "color"
+      },
+      "a40": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "300a30": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "validation": {
@@ -8976,7 +9222,8 @@
               "fontSize": "{scale-4}",
               "lineHeight": "{md}",
               "letterSpacing": "0%",
-              "textDecoration": "{text-decoration.none}"
+              "textDecoration": "{text-decoration.none}",
+              "textCase": "{text-case.uppercase}"
             },
             "type": "typography"
           },
@@ -9002,6 +9249,12 @@
     "max-width": {
       "value": "1560px",
       "type": "sizing"
+    },
+    "tab-bar": {
+      "main-icon": {
+        "value": "{size.600}",
+        "type": "sizing"
+      }
     }
   },
   "header": {
@@ -9013,7 +9266,8 @@
           "fontSize": "{scale-5}",
           "lineHeight": "{lg}",
           "textCase": "{text-case.none}",
-          "letterSpacing": "0%"
+          "letterSpacing": "0%",
+          "textDecoration": "{text-decoration.none}"
         },
         "type": "typography"
       }

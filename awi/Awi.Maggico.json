@@ -6980,7 +6980,7 @@
           "type": "color"
         },
         "popup": {
-          "value": "linear-gradient(270deg, rgba(176, 69, 228, 0.00) 4.79%, #B045E4 48.55%, rgba(176, 69, 228, 0.00) 95.69%)",
+          "value": "linear-gradient(180deg, rgba(176, 69, 228, 0.00) 4.79%, #B045E4 48.55%, rgba(176, 69, 228, 0.00) 95.69%)",
           "type": "color"
         }
       },

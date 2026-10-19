@@ -2163,6 +2163,20 @@
             }
           ],
           "type": "boxShadow"
+        },
+        "active": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "",
+              "color": "{core.white.a0}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "not used"
         }
       },
       "scenes": {

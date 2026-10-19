@@ -2130,21 +2130,26 @@
     },
     "strip": {
       "card": {
-        "active": {
+        "default": {
           "value": [
-            {
-              "x": "0px",
-              "y": "0px",
-              "blur": "9px",
-              "spread": "0px",
-              "color": "{core.brand-30.a20}",
-              "type": "innerShadow"
-            },
             {
               "x": "0",
               "y": "0",
               "blur": "45px",
-              "spread": "0",
+              "spread": "",
+              "color": "{core.brand-30.a8}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "",
               "color": "{core.brand-30.a8}",
               "type": "innerShadow"
             },
@@ -2152,12 +2157,56 @@
               "x": "0",
               "y": "0",
               "blur": "16px",
-              "spread": "0",
+              "spread": "",
               "color": "{core.brand-30.a20}",
               "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
+        }
+      },
+      "scenes": {
+        "card": {
+          "active": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "12px",
+              "spread": "",
+              "color": "{core.brand-30.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "hover": {
+            "value": [
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "12px",
+                "spread": "",
+                "color": "{core.brand-30.a20}",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "6px",
+                "spread": "",
+                "color": "{core.brand-30.a8}",
+                "type": "innerShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "12px",
+                "spread": "",
+                "color": "{core.brand-30.a20}",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
         }
       }
     },
@@ -2895,17 +2944,8 @@
           "type": "color"
         },
         "2": {
-          "value": "{core.grey.900}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.5",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{semantic.background.5}",
+          "type": "color"
         }
       },
       "bottom": {
@@ -5507,7 +5547,12 @@
       "profile": {
         "fill": {
           "value": "{semantic.background.5}",
-          "type": "color"
+          "type": "color",
+          "description": "changed to the contextual.popup.slate.2 token",
+          "$deprecated": {
+            "severity": "warning",
+            "message": ""
+          }
         }
       }
     },
@@ -5531,7 +5576,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5549,7 +5594,7 @@
         },
         "border": {
           "progress": {
-            "value": "{core.brand-30.a15}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {
@@ -5685,6 +5730,22 @@
         "fill": {
           "value": "{semantic.gradients.2}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.a55}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{core.brand-30.a8}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {
@@ -6185,19 +6246,20 @@
       "header": {
         "overlay": {
           "value": "linear-gradient(91deg, #1F272C 0.84%, rgba(138, 162, 176, 0.00) 97.19%)",
-          "type": "color"
+          "type": "color",
+          "description": "not used"
         }
       },
       "card": {
         "border": {
           "value": "{core.brand-30.a15}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         },
         "fill": {
           "value": "{core.white.a5}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         }
       },
       "steps": {
@@ -6205,12 +6267,12 @@
           "active": {
             "value": "{core.brand-30.500}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "default": {
             "value": "{core.brand-30.a15}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "static": {
             "value": "{core.brand-60.300}",
@@ -6223,14 +6285,25 @@
                   "space": "lch"
                 }
               }
-            }
+            },
+            "description": "not used"
+          }
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a15}",
+            "type": "color"
           }
         }
       },
       "girl": {
         "bottom": {
           "elipse-1": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-30.500} 0%, {core.brand-30.a8} 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, #D7DEE599 0%, #E3E8ED14 100%)",
             "type": "color"
           },
           "elipse-2": {
@@ -6249,12 +6322,85 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.white.a5}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "linear-gradient(319deg, #4C369D 12.72%, #6750B7 91.43%)",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand-secondary}",
+          "type": "color"
+        }
+      },
+      "status": {
+        "border": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "fill": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          }
+        }
+      },
+      "scenes": {
+        "background": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
+          "border": {
+            "default": {
+              "value": "{core.white.a8}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "level": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          }
+        },
+        "progress bar": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
         }
       }
     },
@@ -6366,6 +6512,10 @@
         "border": {
           "value": "{core.white.a15}",
           "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
+          "type": "color"
         }
       },
       "overlay": {
@@ -6418,7 +6568,58 @@
           "fill": {
             "value": "{core.brand-60.700}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
           }
+        }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
+      },
+      "qr-panel": {
+        "fill": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "type": "color",
+          "description": "Use in panel Scan QR Code"
         }
       }
     },

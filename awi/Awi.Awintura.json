@@ -1553,42 +1553,99 @@
     },
     "strip": {
       "card": {
-        "active": {
+        "default": {
           "value": [
-            {
-              "x": "0px",
-              "y": "0px",
-              "blur": "16px",
-              "spread": "0px",
-              "color": "rgba(229, 137, 0, 0.60)",
-              "type": "dropShadow"
-            },
             {
               "x": "0",
               "y": "0",
               "blur": "45px",
-              "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
             {
               "x": "0",
               "y": "0",
               "blur": "9px",
-              "spread": "0",
-              "color": "#FFDB99",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.4)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "16px",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.6)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.4)",
               "type": "innerShadow"
             },
             {
               "x": "0",
-              "y": "2px",
-              "blur": "6px",
-              "spread": "0",
-              "color": "{core.brand-60.a10}",
-              "type": "dropShadow"
+              "y": "0",
+              "blur": "9px",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.4)",
+              "type": "innerShadow"
             }
           ],
           "type": "boxShadow"
+        }
+      },
+      "scenes": {
+        "card": {
+          "active": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "12px",
+              "spread": "",
+              "color": "rgba(138, 99, 26, 0.6)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "hover": {
+            "value": [
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "4px",
+                "spread": "",
+                "color": "rgba(138, 99, 26, 0.6)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "6px",
+                "spread": "",
+                "color": "rgba(138, 99, 26, 0.4)",
+                "type": "innerShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "12px",
+                "spread": "",
+                "color": "rgba(138, 99, 26, 0.4)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
         }
       }
     },
@@ -2993,7 +3050,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.5}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -3011,7 +3068,7 @@
         },
         "text": {
           "progress": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "done": {
@@ -3029,7 +3086,7 @@
         },
         "border": {
           "progress": {
-            "value": "rgba(235, 184, 73, 0.15)",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {
@@ -3136,6 +3193,22 @@
         "fill": {
           "value": "{semantic.gradients.4}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.a55}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.5}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{core.brand-30.a15}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {
@@ -3201,21 +3274,21 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.4}",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }
@@ -3227,6 +3300,10 @@
         },
         "border": {
           "value": "rgba(255, 255, 255, 0.00)",
+          "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
           "type": "color"
         }
       },
@@ -3261,7 +3338,67 @@
           "fill": {
             "value": "{core.white.a0}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
           }
+        }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.4}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.brand.on-brand}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{semantic.text.brand.on-brand-secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a8}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
+      },
+      "qr-panel": {
+        "fill": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "type": "color",
+          "description": "Use in panel Scan QR Code"
         }
       }
     },
@@ -3560,19 +3697,19 @@
         "overlay": {
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         }
       },
       "card": {
         "border": {
           "value": "{core.brand-10.a10}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         },
         "fill": {
           "value": "{semantic.background.slate-on-card}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, Lootboxes"
         }
       },
       "steps": {
@@ -3580,15 +3717,26 @@
           "active": {
             "value": "{core.brand-10.500}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "default": {
             "value": "{core.brand-30.a15}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "static": {
             "value": "{core.brand-60.a20}",
+            "type": "color",
+            "description": "not used"
+          }
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-60.a40}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         }
@@ -3615,12 +3763,85 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.white.a5}",
+          "value": "{core.brand-60.a55}",
           "type": "color"
         },
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand}",
+          "type": "color"
+        }
+      },
+      "status": {
+        "border": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "fill": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          }
+        }
+      },
+      "scenes": {
+        "background": {
+          "value": "{core.brand-60.a55}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
+          "border": {
+            "default": {
+              "value": "{core.white.a8}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.gradients.5}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "level": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          }
+        },
+        "progress bar": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-10.600}",
+              "type": "color"
+            }
+          }
         }
       }
     },
@@ -6259,7 +6480,7 @@
       },
       "zero-block": {
         "fill": {
-          "value": "{core.brand-60.a55}",
+          "value": "{core.brand-60.800}",
           "type": "color",
           "description": "zero block"
         }

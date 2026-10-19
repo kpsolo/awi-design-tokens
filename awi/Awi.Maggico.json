@@ -2153,34 +2153,99 @@
     },
     "strip": {
       "card": {
-        "active": {
+        "default": {
           "value": [
             {
               "x": "0px",
               "y": "0px",
               "blur": "9px",
-              "spread": "0px",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.4)",
               "type": "innerShadow"
             },
             {
               "x": "0",
               "y": "0",
               "blur": "45px",
-              "spread": "0",
-              "color": "rgba(253, 51, 124, 0.40)",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.4)",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "hover": {
+          "value": [
+            {
+              "x": "0px",
+              "y": "0px",
+              "blur": "9px",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.4)",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.4)",
               "type": "innerShadow"
             },
             {
               "x": "0",
               "y": "0",
               "blur": "16px",
-              "spread": "0",
-              "color": "rgba(253, 51, 124, 0.60)",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.6)",
               "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
+        }
+      },
+      "scenes": {
+        "card": {
+          "active": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "12px",
+              "spread": "",
+              "color": "rgba(156, 110, 247, 0.6)",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "hover": {
+            "value": [
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "4px",
+                "spread": "",
+                "color": "rgba(156, 110, 247, 0.6)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "6px",
+                "spread": "",
+                "color": "rgba(156, 110, 247, 0.4)",
+                "type": "innerShadow"
+              },
+              {
+                "x": "0",
+                "y": "0",
+                "blur": "12px",
+                "spread": "",
+                "color": "rgba(156, 110, 247, 0.4)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
         }
       }
     },
@@ -5402,7 +5467,7 @@
       "status": {
         "fill": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.600}",
             "type": "color"
           },
           "done": {
@@ -5420,7 +5485,7 @@
         },
         "border": {
           "progress": {
-            "value": "{semantic.gradients.6}",
+            "value": "{core.validation.success.a20}",
             "type": "color"
           },
           "done": {
@@ -5529,6 +5594,22 @@
         "fill": {
           "value": "{semantic.gradients.6}",
           "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{semantic.background.slate-on-card}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.gradients.6}",
+            "type": "color"
+          },
+          "label": {
+            "fill": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            }
+          }
         }
       },
       "offers-block": {
@@ -5604,39 +5685,6 @@
                 "description": "Segment Control"
               },
               "active": {
-                "value": "{core.brand-60.400}",
-                "type": "color",
-                "description": "Segment Control"
-              }
-            },
-            "text": {
-              "default": {
-                "value": "{semantic.text.default.secondary}",
-                "type": "color",
-                "description": "Segment Control"
-              },
-              "active": {
-                "value": "{semantic.text.default.heading}",
-                "type": "color",
-                "description": "Segment Control"
-              }
-            }
-          },
-          "fill": {
-            "value": "{core.brand-60.600}",
-            "type": "color",
-            "description": "Segment Control"
-          }
-        },
-        "profile": {
-          "item": {
-            "fill": {
-              "default": {
-                "value": "{core.white.a0}",
-                "type": "color",
-                "description": "Segment Control"
-              },
-              "active": {
                 "value": "{semantic.gradients.7}",
                 "type": "color",
                 "description": "Segment Control"
@@ -5656,9 +5704,50 @@
             }
           },
           "fill": {
-            "value": "#060423",
+            "value": "{core.brand-60.700}",
             "type": "color",
             "description": "Segment Control"
+          }
+        },
+        "profile": {
+          "item": {
+            "fill": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.gradients.7}",
+                "type": "color",
+                "description": "Segment Control",
+                "$deprecated": {
+                  "severity": "warning",
+                  "message": "chosed popup tabs"
+                }
+              }
+            },
+            "text": {
+              "default": {
+                "value": "{semantic.text.default.secondary}",
+                "type": "color",
+                "description": "Segment Control"
+              },
+              "active": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color",
+                "description": "Segment Control"
+              }
+            }
+          },
+          "fill": {
+            "value": "#060423",
+            "type": "color",
+            "description": "Segment Control",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "chosed popup tabs instead, aplyed style from this tabs"
+            }
           }
         }
       }
@@ -6030,19 +6119,19 @@
         "overlay": {
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, (Lootboxes)"
         }
       },
       "card": {
         "border": {
           "value": "linear-gradient(91deg, #181E3E -0.75%, rgba(0, 18, 109, 0.00) 97.78%)",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used, (Lootboxes)"
         },
         "fill": {
           "value": "{semantic.background.slate-on-card}",
           "type": "color",
-          "description": "Lootboxes"
+          "description": "not used (Lootboxes)"
         }
       },
       "steps": {
@@ -6050,15 +6139,26 @@
           "active": {
             "value": "{core.brand-30.500}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "default": {
             "value": "{core.brand-30.a15}",
             "type": "color",
-            "description": "Lootboxes"
+            "description": "not used, Lootboxes"
           },
           "static": {
             "value": "{core.grey.700}",
+            "type": "color",
+            "description": "not used"
+          }
+        },
+        "card": {
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.a20}",
             "type": "color"
           }
         }
@@ -6085,12 +6185,85 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.white.a5}",
+          "value": "{core.brand-60.a60}",
           "type": "color"
         },
         "border": {
           "value": "{core.white.a8}",
           "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "linear-gradient(319deg, #8651F0 7.74%, #D22EDC 96.96%)",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.brand.on-brand-secondary}",
+          "type": "color"
+        }
+      },
+      "status": {
+        "fill": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "in progress": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        }
+      },
+      "scenes": {
+        "background": {
+          "value": "{core.brand-60.a60}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "card": {
+          "fill": {
+            "value": "{core.brand-30.a15}",
+            "type": "color"
+          },
+          "border": {
+            "default": {
+              "value": "{core.white.a8}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "level": {
+              "value": "{core.brand-30.200}",
+              "type": "color"
+            }
+          }
+        },
+        "progress bar": {
+          "text": {
+            "accent": {
+              "value": "{core.brand-30.400}",
+              "type": "color"
+            }
+          }
         }
       }
     },
@@ -6139,48 +6312,96 @@
         "fill": {
           "default": {
             "value": "{core.brand-60.400}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "active": {
             "value": "{semantic.gradients.6}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "text": {
             "active": {
               "value": "{semantic.text.default.heading}",
-              "type": "color"
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
             },
             " inactive": {
               "value": "{semantic.text.default.secondary}",
-              "type": "color"
+              "type": "color",
+              "$deprecated": {
+                "severity": "warning",
+                "message": "Not used in redesign Mob App Page October 2026"
+              }
             }
           }
         },
         "border": {
           "default": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
+        }
+      },
+      "switcher": {
+        "item": {
+          "fill": {
+            "active": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "inactive": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
         }
       },
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         },
         "line": {
           "active": {
-            "value": "{semantic.gradients.3}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.grey.700}",
             "type": "color"
           }
         }
@@ -6188,6 +6409,10 @@
       "banner": {
         "fill": {
           "value": "{semantic.gradients.3}",
+          "type": "color"
+        },
+        "accent-text": {
+          "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
           "type": "color"
         },
         "border": {
@@ -6198,22 +6423,38 @@
       "overlay": {
         "upper": {
           "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, #000 100%)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         },
         "bottom": {
           "value": "rgba(0, 0, 0, 0.80)",
-          "type": "color"
+          "type": "color",
+          "$deprecated": {
+            "severity": "warning",
+            "message": "Not used in redesign Mob App Page October 2026"
+          }
         }
       },
       "route": {
         "line": {
           "filled": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           },
           "not-filled": {
             "value": "{core.grey.600}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
@@ -6221,22 +6462,53 @@
         "default": {
           "border": {
             "value": "{core.brand-30.500}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         },
         "active": {
           "fill": {
             "value": "{core.grey.900}",
-            "type": "color"
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Not used in redesign Mob App Page October 2026"
+            }
           }
         }
       },
       "card": {
         "background": {
           "fill": {
-            "value": "{semantic.gradients.3}",
+            "value": "linear-gradient(318deg, rgba(3, 25, 44, 0.28) 2.36%, rgba(50, 53, 106, 0.28) 40.47%, rgba(72, 66, 136, 0.28) 64.29%, rgba(210, 46, 220, 0.28) 97.64%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
             "type": "color"
           }
+        }
+      },
+      "qr-card": {
+        "fill": {
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        },
+        "border": {
+          "value": "{core.white.a5}",
+          "type": "color",
+          "description": "Use in card Scan QR Code in hero section"
+        }
+      },
+      "qr-panel": {
+        "fill": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "type": "color",
+          "description": "Use in panel Scan QR Code"
         }
       }
     },
@@ -7002,7 +7274,7 @@
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",

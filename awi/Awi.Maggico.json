@@ -6432,6 +6432,10 @@
         "border": {
           "value": "{core.white.a25}",
           "type": "color"
+        },
+        "background": {
+          "value": "{semantic.gradients.11}",
+          "type": "color"
         }
       },
       "overlay": {

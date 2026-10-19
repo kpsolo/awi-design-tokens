@@ -3312,6 +3312,10 @@
           "value": "{core.brand-30.50}",
           "type": "color"
         },
+        "background": {
+          "value": "#100C03",
+          "type": "color"
+        },
         "border": {
           "value": "rgba(255, 255, 255, 0.00)",
           "type": "color"

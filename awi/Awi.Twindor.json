@@ -6530,6 +6530,10 @@
         "accent-text": {
           "value": "{contextual.deals.welcome-bonus-card.badge.background.secondary}",
           "type": "color"
+        },
+        "background": {
+          "value": "{semantic.gradients.11}",
+          "type": "color"
         }
       },
       "overlay": {

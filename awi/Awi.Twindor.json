@@ -6588,7 +6588,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{core.white.a8}",
+            "value": "{semantic.gradients.2}",
             "type": "color"
           }
         }

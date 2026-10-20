@@ -6597,7 +6597,7 @@
         "item": {
           "fill": {
             "active": {
-              "value": "{semantic.gradients.6}",
+              "value": "{core.grey.50}",
               "type": "color"
             },
             "default": {
@@ -6607,7 +6607,7 @@
           },
           "text": {
             "active": {
-              "value": "{semantic.text.default.heading}",
+              "value": "{semantic.text.brand.on-brand}",
               "type": "color"
             },
             "inactive": {
@@ -6617,7 +6617,7 @@
           }
         },
         "fill": {
-          "value": "{core.brand-60.400}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       },

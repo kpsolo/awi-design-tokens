@@ -6635,7 +6635,7 @@
       },
       "qr-panel": {
         "fill": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(156, 110, 247, 0.20) 0%, rgba(156, 110, 247, 0.08) 100%)",
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(163, 181, 193, 0.20) 0%, rgba(163, 181, 193, 0.08) 100%)",
           "type": "color",
           "description": "Use in panel Scan QR Code"
         }

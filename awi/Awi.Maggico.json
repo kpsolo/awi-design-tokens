@@ -6454,6 +6454,10 @@
             "severity": "warning",
             "message": "Not used in redesign Mob App Page October 2026"
           }
+        },
+        "default": {
+          "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
+          "type": "color"
         }
       },
       "route": {

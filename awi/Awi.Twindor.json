@@ -6541,6 +6541,10 @@
           "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
           "type": "color"
         },
+        "default": {
+          "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
+          "type": "color"
+        },
         "bottom": {
           "value": "{core.grey.900}",
           "type": "color",

@@ -6592,7 +6592,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.gradients.2}",
+            "value": "linear-gradient(130deg, #CAD3DB 6.78%, #8C949D 49.47%, #41535D 90.02%), #2F3E46",
             "type": "color"
           }
         }

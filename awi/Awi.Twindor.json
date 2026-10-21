@@ -6499,7 +6499,7 @@
       "stepper": {
         "bubble": {
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "default": {
@@ -6509,7 +6509,7 @@
         },
         "line": {
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "default": {

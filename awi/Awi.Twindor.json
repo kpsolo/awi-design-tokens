@@ -6542,7 +6542,7 @@
           "type": "color"
         },
         "default": {
-          "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
+          "value": "linear-gradient(180deg, rgba(14, 17, 19, 0.00) 0%, #0E1113 100%)",
           "type": "color"
         },
         "bottom": {

@@ -6456,7 +6456,7 @@
           }
         },
         "default": {
-          "value": "linear-gradient(180deg, rgba(10, 13, 14, 0.00) 0%, #0A0D0E 100%)",
+          "value": "linear-gradient(180deg, rgba(6, 4, 35, 0.00) 0%, #060423 100%)",
           "type": "color"
         }
       },

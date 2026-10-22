@@ -6806,6 +6806,62 @@
         "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
         "type": "color"
       }
+    },
+    "temporary-wheel": {
+      "sector": {
+        "fill": {
+          "dark": {
+            "value": "linear-gradient(164deg, #232220 12.12%, #221C1E 92.05%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "light": {
+            "value": "linear-gradient(166deg, #48484A 16.17%, #2A282B 92.51%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "active": {
+            "value": "#CB3D1E",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          }
+        },
+        "text": {
+          "light": {
+            "value": "linear-gradient(257deg, #FFFFFF 8.92%, #BCBCBC 92.79%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "dark": {
+            "value": "linear-gradient(257deg, #FFFFFF 8.92%, #BCBCBC 92.79%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "active": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          }
+        }
+      }
     }
   },
   "scale-1": {

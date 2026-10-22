@@ -7138,6 +7138,62 @@
         }
       }
     },
+    "temporary-wheel": {
+      "sector": {
+        "fill": {
+          "dark": {
+            "value": "linear-gradient(164deg, {core.grey.800} 5%, {core.brand-60.800} 100%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "light": {
+            "value": "linear-gradient(166deg, {core.brand-60.700} 48%, {core.brand-60.800} 93%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          }
+        },
+        "text": {
+          "light": {
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "dark": {
+            "value": "linear-gradient(257deg, {core.white.a100} 2%, {core.grey.200} 100%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "active": {
+            "value": "{semantic.text.brand.on-brand}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          }
+        }
+      }
+    },
     "gamehall": {
       "thumb-providers": {
         "background": {

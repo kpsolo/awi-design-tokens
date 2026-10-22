@@ -7166,6 +7166,62 @@
         "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
         "type": "color"
       }
+    },
+    "temporary-wheel": {
+      "sector": {
+        "fill": {
+          "dark": {
+            "value": "linear-gradient(164deg, #7B1DC4 26.73%, #3B0E5E 81.84%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "light": {
+            "value": "linear-gradient(180deg, #E7E6E9 0%, #E2CAEC 100%)",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": "Temporary tokens for current wheel (will be used in 1-2 months - then deleted)"
+            }
+          }
+        },
+        "text": {
+          "light": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "dark": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          },
+          "active": {
+            "value": "{core.brand-60.500}",
+            "type": "color",
+            "$deprecated": {
+              "severity": "warning",
+              "message": ""
+            }
+          }
+        }
+      }
     }
   },
   "scale-1": {

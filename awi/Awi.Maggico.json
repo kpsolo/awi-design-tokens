@@ -7158,8 +7158,8 @@
       }
     },
     "landing": {
-      "background-gradient-top": {
-        "value": "rgba(255, 255, 255, 0.00)",
+      "background-gradient2": {
+        "value": "radial-gradient(55% 85% at 50% 0%, rgba(132, 34, 235, 0.38) 0%, rgba(101, 26, 180, 0.16) 48%, rgba(101, 26, 180, 0.00) 85%, rgba(101, 26, 180, 0.00) 100%), #1D102E;",
         "type": "color"
       },
       "background-gradient": {

@@ -87,7 +87,8 @@
       },
       "md": {
         "value": "{spacing.200}",
-        "type": "spacing"
+        "type": "spacing",
+        "description": "."
       },
       "lg": {
         "value": "{spacing.200}",

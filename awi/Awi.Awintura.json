@@ -1578,12 +1578,12 @@
         "hover": {
           "value": [
             {
-              "x": "0px",
-              "y": "0px",
-              "blur": "16px",
+              "x": "0",
+              "y": "0",
+              "blur": "9px",
               "spread": "",
-              "color": "rgba(138, 99, 26, 0.6)",
-              "type": "dropShadow"
+              "color": "rgba(138, 99, 26, 0.4)",
+              "type": "innerShadow"
             },
             {
               "x": "0",
@@ -1594,12 +1594,12 @@
               "type": "innerShadow"
             },
             {
-              "x": "0",
-              "y": "0",
-              "blur": "9px",
+              "x": "0px",
+              "y": "0px",
+              "blur": "16px",
               "spread": "",
-              "color": "rgba(138, 99, 26, 0.4)",
-              "type": "innerShadow"
+              "color": "rgba(138, 99, 26, 0.6)",
+              "type": "dropShadow"
             }
           ],
           "type": "boxShadow"

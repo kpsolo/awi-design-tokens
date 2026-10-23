@@ -6805,6 +6805,32 @@
       "background-gradient-bottom": {
         "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
         "type": "color"
+      },
+      "gradient": {
+        "3": {
+          "value": "linear-gradient(257deg, #8333B7 0%, #6E269D 20%, #43238F 50%, #2A1763 100%);",
+          "type": "color"
+        }
+      },
+      "background": {
+        "card2": {
+          "value": "{core.brand-30.a15}",
+          "type": "color"
+        },
+        "card": {
+          "value": "{core.brand-60.a70}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        }
       }
     },
     "temporary-wheel": {

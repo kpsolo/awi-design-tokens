@@ -1578,12 +1578,12 @@
         "hover": {
           "value": [
             {
-              "x": "0",
-              "y": "0",
-              "blur": "9px",
+              "x": "0px",
+              "y": "0px",
+              "blur": "16px",
               "spread": "",
-              "color": "rgba(138, 99, 26, 0.4)",
-              "type": "innerShadow"
+              "color": "rgba(138, 99, 26, 0.6)",
+              "type": "dropShadow"
             },
             {
               "x": "0",
@@ -1594,12 +1594,12 @@
               "type": "innerShadow"
             },
             {
-              "x": "0px",
-              "y": "0px",
-              "blur": "16px",
+              "x": "0",
+              "y": "0",
+              "blur": "9px",
               "spread": "",
-              "color": "rgba(138, 99, 26, 0.6)",
-              "type": "dropShadow"
+              "color": "rgba(138, 99, 26, 0.4)",
+              "type": "innerShadow"
             }
           ],
           "type": "boxShadow"
@@ -6809,26 +6809,6 @@
       "gradient": {
         "3": {
           "value": "linear-gradient(257deg, #8333B7 0%, #6E269D 20%, #43238F 50%, #2A1763 100%);",
-          "type": "color"
-        }
-      },
-      "background": {
-        "card2": {
-          "value": "{core.brand-30.a15}",
-          "type": "color"
-        },
-        "card": {
-          "value": "{core.brand-60.a70}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "accent": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.white.a20}",
           "type": "color"
         }
       }

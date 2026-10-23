@@ -7171,26 +7171,6 @@
           "value": "linear-gradient(257deg, #8333B7 0%, #6E269D 20%, #43238F 50%, #2A1763 100%);",
           "type": "color"
         }
-      },
-      "background": {
-        "card": {
-          "value": "{core.brand-60.a70}",
-          "type": "color"
-        },
-        "card2": {
-          "value": "{core.brand-30.a15}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a20}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
-        }
       }
     },
     "temporary-wheel": {

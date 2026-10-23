@@ -461,6 +461,10 @@
       "lg": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
+      },
+      "sm-sub +2px": {
+        "value": "10px",
+        "type": "borderRadius"
       }
     },
     "input": {

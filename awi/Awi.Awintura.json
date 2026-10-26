@@ -1327,6 +1327,17 @@
           "type": "innerShadow"
         },
         "type": "boxShadow"
+      },
+      "large": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.025}",
+          "blur": "{depth.025}",
+          "spread": "{depth.0}",
+          "color": "rgba(48, 35, 27, 0.30)",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "dropdown menu": {

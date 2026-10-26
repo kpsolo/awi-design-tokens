@@ -5153,23 +5153,19 @@
           "type": "color"
         }
       },
-      "background-gradient": {
-        "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
-        "type": "color"
-      },
-      "background-gradient2": {
-        "value": "radial-gradient(55% 85% at 50% 0%, rgba(132, 34, 235, 0.38) 0%, rgba(101, 26, 180, 0.16) 48%, rgba(101, 26, 180, 0.00) 85%, rgba(101, 26, 180, 0.00) 100%), #1D102E;",
-        "type": "color"
-      },
       "gradient": {
+        "1": {
+          "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",
+          "type": "color"
+        },
+        "2": {
+          "value": "radial-gradient(55% 85% at 50% 0%, rgba(132, 34, 235, 0.38) 0%, rgba(101, 26, 180, 0.16) 48%, rgba(101, 26, 180, 0.00) 85%, rgba(101, 26, 180, 0.00) 100%), #1D102E;",
+          "type": "color"
+        },
         "3": {
           "value": "linear-gradient(257deg, #8333B7 0%, #6E269D 20%, #43238F 50%, #2A1763 100%);",
           "type": "color"
         }
-      },
-      "background-radial-gradient": {
-        "value": "radial-gradient(55% 85% at 50% 0%, rgba(210, 152, 70, 0.38) 0%, rgba(210, 152, 70, 0.16) 48%, rgba(210, 152, 70, 0.00) 85%, rgba(210, 152, 70, 0.00) 100%)",
-        "type": "color"
       }
     },
     "progress": {

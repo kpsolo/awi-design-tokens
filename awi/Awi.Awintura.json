@@ -6818,7 +6818,7 @@
       },
       "today-card": {
         "border": {
-          "value": "{core.brand-30.400}",
+          "value": "{core.brand-60.500}",
           "type": "color"
         }
       }

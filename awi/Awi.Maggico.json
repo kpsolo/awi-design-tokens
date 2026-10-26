@@ -5166,6 +5166,10 @@
           "value": "linear-gradient(257deg, #8333B7 0%, #6E269D 20%, #43238F 50%, #2A1763 100%);",
           "type": "color"
         }
+      },
+      "background-radial-gradient": {
+        "value": "radial-gradient(55% 85% at 50% 0%, rgba(210, 152, 70, 0.38) 0%, rgba(210, 152, 70, 0.16) 48%, rgba(210, 152, 70, 0.00) 85%, rgba(210, 152, 70, 0.00) 100%)",
+        "type": "color"
       }
     },
     "progress": {

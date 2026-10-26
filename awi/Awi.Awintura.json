@@ -6815,6 +6815,12 @@
           "value": "linear-gradient(180deg, #514129 0%, #211B10 100%);",
           "type": "color"
         }
+      },
+      "today-card": {
+        "border": {
+          "value": "{core.brand-30.400}",
+          "type": "color"
+        }
       }
     },
     "temporary-wheel": {

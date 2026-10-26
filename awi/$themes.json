@@ -4642,7 +4642,8 @@
       "deals.promo-code-button.padding-left": "4efe4f6098b1616410ec9979dca1c2e37de4c7b6",
       "deals.promo-code-button.padding-right": "2ecef78b3479c9fcb786a92797209d4692cde383",
       "wheel.popup.vip-bet-amount.width": "11a0875e1185514d652b0f61767a1082280b1414",
-      "border-radius.notification": "f402c6d8133c47fa12bbac2291de3af90a3dca52"
+      "border-radius.notification": "f402c6d8133c47fa12bbac2291de3af90a3dca52",
+      "border-radius.button.sm-sub +2px": "99993fe97fc3eb2128ee54b7673950d043988cd5"
     },
     "$figmaCollectionId": "VariableCollectionId:38548:410292",
     "$figmaModeId": "45587:0"

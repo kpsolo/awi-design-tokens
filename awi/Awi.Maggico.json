@@ -5147,12 +5147,6 @@
       }
     },
     "landing": {
-      "today-card": {
-        "border": {
-          "value": "{core.brand-30.600}",
-          "type": "color"
-        }
-      },
       "gradient": {
         "1": {
           "value": "linear-gradient(0deg, #330F4E 0%, rgba(70, 9, 89, 0.95) 26.74%, rgba(51, 10, 71, 0.85) 61.83%, rgba(29, 12, 50, 0.10) 100%)",

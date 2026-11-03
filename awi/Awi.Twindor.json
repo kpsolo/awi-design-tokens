@@ -5755,7 +5755,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.gradients.6}",
+            "value": "conic-gradient(#D7DEE5 0%, #B3B9BF 50%, #D7DEE5 100%)",
             "type": "color"
           },
           "label": {

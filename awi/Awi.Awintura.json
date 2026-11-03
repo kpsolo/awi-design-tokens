@@ -3230,7 +3230,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.gradients.5}",
+            "value": "conic-gradient(#EBB849 0%, #CE611B 50%, #EBB849 100%)",
             "type": "color"
           },
           "label": {

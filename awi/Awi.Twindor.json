@@ -8958,7 +8958,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(315deg, #0E1113 0%, rgba(255,255,255,0.4) 50%, #D7DEE5 93%)",
+          "value": "{core.brand-10.200}",
           "type": "color"
         }
       }

@@ -9812,5 +9812,13 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     }
+  },
+  "menu": {
+    "banner": {
+      "title": {
+        "value": "{heading.xl-stronger}",
+        "type": "typography"
+      }
+    }
   }
 }

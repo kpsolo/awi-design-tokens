@@ -9699,5 +9699,13 @@
       "type": "typography",
       "description": "Title Promo Landing"
     }
+  },
+  "menu": {
+    "banner": {
+      "title": {
+        "value": "{heading.xl-stronger}",
+        "type": "typography"
+      }
+    }
   }
 }

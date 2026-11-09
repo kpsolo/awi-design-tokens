@@ -9837,6 +9837,21 @@
       }
     }
   },
+  "menu": {
+    "banner": {
+      "title": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-7}",
+          "lineHeight": "{xl}",
+          "letterSpacing": "0%",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      }
+    }
+  },
   "link": {
     "plain": {
       "hover": {

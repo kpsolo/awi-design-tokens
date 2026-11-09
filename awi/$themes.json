@@ -4395,7 +4395,8 @@
       "shadow.strip.card.default": "S:52d657c503db620da5bd4dc30d1b55cf324ab742,",
       "shadow.strip.card.hover": "S:88c6d0fbddf2d05f4a8e9a99551d5aaf2ea250e4,",
       "shadow.strip.scenes.card.active": "S:d2742115414841e02db0777609e0ba4679eecb38,",
-      "shadow.strip.scenes.card.hover": "S:2e18a8c847decc3259be4140905d3d011f471265,"
+      "shadow.strip.scenes.card.hover": "S:2e18a8c847decc3259be4140905d3d011f471265,",
+      "menu.banner.title": "S:7fe9fccebae70a526333e9788038049119d40508,"
     },
     "$figmaVariableReferences": {
       "main": "080781dd023b246d267a1e31e1fa2acfbb6021e1",

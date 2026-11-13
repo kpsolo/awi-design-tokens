@@ -3342,6 +3342,68 @@
             "value": "rgba(134, 132, 145, 0.50)",
             "type": "color"
           }
+        },
+        "toggle": {
+          "fill": {
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.500}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.a60}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-10.a40}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{core.brand-30.a50}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-30.a80}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-30.300a30}",
+                "type": "color"
+              }
+            }
+          },
+          "bullet": {
+            "selected": {
+              "default": {
+                "value": "{core.brand-60.600}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-60.600}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.600}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{core.brand-60.a30}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-60.a30}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.brand-60.a20}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "selection-block": {

@@ -3324,6 +3324,68 @@
             "value": "{core.grey.600}",
             "type": "color"
           }
+        },
+        "toggle": {
+          "fill": {
+            "selected": {
+              "default": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              }
+            }
+          },
+          "bullet": {
+            "selected": {
+              "default": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{semantic.background.slate-1}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "selection-block": {

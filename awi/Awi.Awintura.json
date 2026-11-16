@@ -2028,7 +2028,7 @@
               "y": "{depth.0}",
               "blur": "{depth.200}",
               "spread": "{depth.0}",
-              "color": "rgba(210, 58, 244, 0.7)",
+              "color": "rgba(254, 182, 0, 0.7)",
               "type": "innerShadow"
             },
             {
@@ -2036,7 +2036,7 @@
               "y": "{depth.0}",
               "blur": "{depth.400}",
               "spread": "{depth.50}",
-              "color": "rgba(210, 58, 244, 0.55)",
+              "color": "rgba(254, 182, 0, 0.55)",
               "type": "dropShadow"
             },
             {
@@ -2044,7 +2044,7 @@
               "y": "{depth.0}",
               "blur": "{depth.100}",
               "spread": "{depth.0}",
-              "color": "rgba(210, 58, 244, 0.9)",
+              "color": "rgba(254, 182, 0, 0.9)",
               "type": "dropShadow"
             }
           ],

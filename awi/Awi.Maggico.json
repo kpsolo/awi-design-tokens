@@ -2123,6 +2123,37 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "urgent": {
+        "glow": {
+          "value": [
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.200}",
+              "spread": "{depth.0}",
+              "color": "rgba(210, 58, 244, 0.7)",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.400}",
+              "spread": "{depth.50}",
+              "color": "rgba(210, 58, 244, 0.55)",
+              "type": "dropShadow"
+            },
+            {
+              "x": "{depth.0}",
+              "y": "{depth.0}",
+              "blur": "{depth.100}",
+              "spread": "{depth.0}",
+              "color": "rgba(210, 58, 244, 0.9)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "segment-control": {

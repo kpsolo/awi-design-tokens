@@ -3250,6 +3250,12 @@
           "value": "linear-gradient(180deg, rgba(250, 236, 209, 0.25) 0%, rgba(250, 236, 209, 0.03) 100%)",
           "type": "color"
         }
+      },
+      "urgent": {
+        "border": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "mobile-application": {

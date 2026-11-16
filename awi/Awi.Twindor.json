@@ -5837,6 +5837,12 @@
           "value": "linear-gradient(180deg, rgba(138, 162, 176, 0.20) 0%, rgba(138, 162, 176, 0.10) 100%)",
           "type": "color"
         }
+      },
+      "urgent": {
+        "border": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
       }
     },
     "segment-control": {
